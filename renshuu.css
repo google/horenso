@@ -1,0 +1,40 @@
+.keyboard {
+    background-color: #fed;
+    border-radius: 1px;
+    border-color: #000;
+    border-width: 1;
+    display: inline-block;
+    padding: 1.5em;
+}
+
+.keyRow0 {
+    padding-left: 0em;
+}
+
+.keyRow1 {
+    padding-left: 1em;
+}
+
+.keyRow2 {
+    padding-left: 2em;
+}
+
+.indexFingerGuide {
+    position: absolute;
+    left: 0em;
+    bottom: 0em;
+    width: 100%;
+    background-color: #f88;
+}
+
+.key {
+    position: relative;
+    width: 4vw;
+    height: 4vw;
+    border: 4px solid #000;
+    margin: 0.5em;
+    padding: 1em;
+    font-size: 25%;
+    display: inline-block;
+    background-color: #fff;
+}
