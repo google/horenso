@@ -159,3 +159,4 @@ lzp	步
 i,m	摇
 opd	叠
 klm	栈
+pk,	矿
