@@ -149,3 +149,4 @@ opd	叠
 klm	栈
 pk,	矿
 hjg	惠
+bza	佛
