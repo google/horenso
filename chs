@@ -148,3 +148,4 @@ i,m	摇
 opd	叠
 klm	栈
 pk,	矿
+hjg	惠
