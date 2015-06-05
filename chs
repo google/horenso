@@ -1,15 +1,3 @@
-bcj	价
-hni	从
-cma	儿
-tvw	听
-edw	坏
-fp;	娘
-gke	广
-use	庄
-hvv	征
-ihe	据
-;wv	斗
-m/d	泪
 cfx	劝
 /ma	齿
 ,sa	驮
@@ -159,3 +147,7 @@ lzp	步
 i,m	摇
 opd	叠
 klm	栈
+pk,	矿
+hjg	惠
+bza	佛
+nba	为
