@@ -734,9 +734,9 @@ ecS	鹽
 ;qo	靱
 ;qp	靖
 ;qr	静
+;qR	靜
 ;qt	震
 ;qv	隧
-;qw	靜
 ;qy	雛
 ;q;	韲
 ;q.	霽
@@ -1740,10 +1740,10 @@ ela	在
 elc	困
 elf	坐
 eli	国
+elI	國
 elk	坤
 eln	圀
 elq	埖
-elt	國
 elv	壼
 ely	塹
 el,	墾
@@ -4439,6 +4439,7 @@ qpx	穡
 qpz	禳
 qp,	穰
 qqa	神
+qqA	神
 qqe	穽
 qqi	秦
 qqm	祟
@@ -5105,7 +5106,7 @@ tzu	膚
 tzx	舞
 tzz	翩
 bz>	舖
-u,a	茂
+u,a	萬
 u,b	苜
 u,d	茉
 u,f	茗
@@ -5113,9 +5114,9 @@ u,h	莠
 u,i	萢
 u,k	葉
 u,m	萸
-u,o	萬
 u,p	葯
 u,r	蒙
+u,s	茂
 u,t	蓉
 u,v	蔓
 u,w	蕕
