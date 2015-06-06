@@ -599,7 +599,6 @@ ecS	鹽
 ;,a	阨
 ;,c	門
 ;,f	面
-;,h	問
 ;,k	悶
 ;,m	雄
 ;,p	陽
@@ -802,7 +801,6 @@ ecS	鹽
 ;zi	閉
 ;zk	閇
 ;zn	雰
-;zq	聞
 ;zt	鞭
 ;zv	闢
 ;zy	霹
@@ -1116,6 +1114,7 @@ bzu	併
 bzU	倂
 bzv	俯
 bzw	偏
+bzx	儛
 bzy	傅
 bz;	僻
 c,a	勿
@@ -1372,6 +1371,7 @@ d,j	名
 d,m	味
 d,p	命
 d,s	唯
+d,t	問
 d,y	鳴
 d,,	嘛
 d.a	吏
@@ -3372,11 +3372,11 @@ lbr	殞
 lbv	毓
 lbz	殪
 lca	欧
+lcA	歐
 lcf	殴
+lcF	毆
 lck	殃
 lcp	歌
-lcu	歐
-lcz	毆
 lda	歹
 ldk	殻
 ldu	殼
@@ -4652,6 +4652,7 @@ rzc	粉
 rzf	符
 rzi	粨
 rzk	箆
+rzl	𥹢
 rzn	箙
 rzq	篇
 rzt	篦
@@ -5093,11 +5094,12 @@ tzc	胼
 tzf	脯
 tzh	腑
 tzk	腹
+tzl	聞
 tzm	聘
 tzp	艀
 tzr	腐
 tzu	膚
-tzw	舞
+tzx	舞
 tzz	翩
 bz>	舖
 u,a	茂
