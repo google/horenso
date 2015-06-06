@@ -15,7 +15,7 @@ binmode STDOUT, ':utf8';
 my @codes_files = @ARGV;
 
 if (!@codes_files) {
-    push @codes_files, catfile dirname($0), 'codes';
+    push @codes_files, catfile dirname($0), 'jpn';
 }
 
 my %all_codes;
