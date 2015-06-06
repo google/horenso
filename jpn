@@ -1000,8 +1000,8 @@ dnx	厨
 dnz	啾
 dn,	嚼
 dpa	召
+dpb	叙	敘->jpb 敍->jpB 叙->dpb 共通のbは左部の余の部首
 dpc	咲
-dpf	叙
 dph	哨
 dpk	商
 dpm	唱
@@ -2441,12 +2441,12 @@ jnp	斫
 jnu	斜
 jnz	晰
 jpa	昇
+jpb	敘	敘->jpb 敍->jpB 叙->dpb 共通のbは左部の余の部首
+jpB	敍	敘->jpb 敍->jpB 叙->dpb 共通のbは左部の余の部首
 jpc	昌
 jpf	昃
 jpi	昭
 jpk	書
-jpn	敍
-jpq	敘
 jpt	暑
 jpv	晶
 jpy	敞
