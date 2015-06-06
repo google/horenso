@@ -288,7 +288,7 @@ afh	丱
 afp	串
 afw	乾
 aga	九
-agh	久
+agh	久	ひさ->[H]isa
 agp	及
 agw	丘
 aha	享
@@ -2662,10 +2662,12 @@ kk;	槓
 kk.	槹
 kla	札
 klb	材
+klc	椙	jpc->昌
 kld	柑
 kle	査
 klg	柵
 klh	柤
+klH	杦	agh->久
 kli	柞
 klj	根
 klk	栽
