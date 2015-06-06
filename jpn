@@ -353,7 +353,7 @@ azs	丙
 a;a	亡
 a;k	乏
 a;u	烹
-a,a	万
+a,a	万	u,a->萬
 a,g	也
 a,m	与
 a,s	予
@@ -552,7 +552,7 @@ bzt	俾
 bzu	併
 bzv	俯
 bzw	偏
-bzx	儛
+bzx	儛	tzx->舞
 bzy	傅
 bzA	佛
 bzU	倂
@@ -2043,7 +2043,7 @@ hyp	弼
 hyr	微
 hyu	愍
 hyw	慓
-hyx	彬
+hyx	彬	klx->杉 mqx->涁 hyx->彬
 hyz	憫
 hy,	憑
 hza	怖
@@ -2678,7 +2678,7 @@ kls	棍
 klt	棔
 klv	榊
 klw	榾
-klx	杉
+klx	杉	klx->杉 mqx->涁 hyx->彬
 kly	槎
 klz	槊
 klM	棧
@@ -3139,7 +3139,7 @@ mqn	清
 mqq	淒
 mqt	滲
 mqv	潯
-mqx	涁
+mqx	涁	klx->杉 mqx->涁 hyx->彬 (mqt->滲の異字体なのでシフト化しても構いません)
 mqy	瀞
 mqT	渗
 mq,	瀋
@@ -4651,7 +4651,7 @@ tzm	聘
 tzp	艀
 tzr	腐
 tzu	膚
-tzx	舞
+tzx	舞	bzx->儛
 tzz	翩
 t;a	肪
 t;d	胞
@@ -4934,7 +4934,7 @@ u;u	葆
 u;w	蓬
 u;z	蒡
 u;,	蔀
-u,a	萬
+u,a	萬	a,a->万の異字体なので、シフト化しても構いません
 u,b	苜
 u,d	茉
 u,f	茗
