@@ -1669,7 +1669,7 @@ gm,	廝
 gna	尺
 gng	巡
 gnm	峻
-gnp	州
+gnr	州	nr->駲 ynr->酬 mnr->洲 gnr->州
 gns	順
 gny	廚
 gpa	庄
@@ -3100,7 +3100,6 @@ mmx	漬
 mm;	濕
 mna	汁
 mnb	泅
-mnc	洲
 mnd	洙
 mnf	洵
 mng	洳
@@ -3112,6 +3111,7 @@ mnn	淑
 mno	淳
 mnp	凖
 mnq	湫
+mnr	洲	,nr->駲 ynr->酬 mnr->洲 gnr->州
 mns	準
 mnt	溲
 mnu	潤
@@ -5711,7 +5711,7 @@ yni	釈
 ynk	週
 ynm	逡
 yno	逎
-ynq	酬
+ynr	酬	,nr->駲 ynr->酬 mnr->洲 gnr->州
 yns	遒
 ynu	遮
 ynw	遵
@@ -6307,6 +6307,7 @@ z/,	鑪
 ,nf	馴
 ,nk	駲
 ,np	駿
+,nr	駲	,nr->駲 ynr->酬 mnr->洲 gnr->州
 ,nu	鬚
 ,nz	驟
 ,pa	食
