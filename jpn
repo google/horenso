@@ -324,7 +324,7 @@ apu	乗
 apU	乘
 aqa	井
 aqk	世
-aqu	丗
+aqK	丗
 asa	爽
 ata	丶
 atg	丑
@@ -688,7 +688,7 @@ ck;	凅
 ck.	凰
 cla	兀
 clc	冊
-clf	册
+clC	册
 cli	克
 clk	刪
 cln	刻
@@ -701,6 +701,7 @@ cma	児
 cmk	刺
 cmA	兒
 cna	十
+cnc	凖	mnc->準 cnc->凖 後者は異体字なのでシフトコードに移動しても構いません
 cnd	勺
 cng	廿
 cnj	写
@@ -1669,7 +1670,7 @@ gm,	廝
 gna	尺
 gng	巡
 gnm	峻
-gnr	州	nr->駲 ynr->酬 mnr->洲 gnr->州
+gnr	州	,nr->駲 ynr->酬 mnr->洲 gnr->州
 gns	順
 gny	廚
 gpa	庄
@@ -3100,6 +3101,7 @@ mmx	漬
 mm;	濕
 mna	汁
 mnb	泅
+mnc	準	mnc->準 cnc->凖 後者は異体字なのでシフトコードに移動しても構いません
 mnd	洙
 mnf	洵
 mng	洳
@@ -3112,7 +3114,6 @@ mno	淳
 mnp	凖
 mnq	湫
 mnr	洲	,nr->駲 ynr->酬 mnr->洲 gnr->州
-mns	準
 mnt	溲
 mnu	潤
 mnw	澁
@@ -3372,9 +3373,9 @@ njk	狷
 njn	烱
 njq	猊
 njt	献
+njT	獻
 njv	煢
 njy	獗
-nj,	獻
 nka	爻
 nkc	狐
 nkf	炬
@@ -4728,7 +4729,7 @@ ucv	萪
 ucw	蓊
 ucy	薗
 uc;	艶
-uc.	艷
+uc:	艷
 uda	艾
 udc	芥
 udf	苅
@@ -5242,8 +5243,8 @@ wdv	諤
 wdx	豁
 wdz	覈
 wdE	覺
-wfa	諌
-wfg	諫
+wfa	諫
+wfA	諌
 wfm	観
 wfy	讙
 wfM	觀
@@ -5699,10 +5700,11 @@ ylp	酷
 ylu	酸
 ylz	醋
 yma	迩
+ymb	辤	ymb->辤 ymm->辞 ymM->辭 [辤]は異体字なのでコードをシフトに移動しても構いません
 ymg	悉
-ymm	辞
+ymm	辞	ymb->辤 ymm->辞 ymM->辭
+ymM	辭	ymb->辤 ymm->辞 ymM->辭
 yms	邇
-ymy	辭
 yna	述
 ync	重
 yne	酌
@@ -6595,6 +6597,7 @@ z/,	鑪
 /jp	黥
 /jw	齧
 /ka	黄
+/kA	黃
 /kg	鼓
 /km	皷
 /ks	齬
