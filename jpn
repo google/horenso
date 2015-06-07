@@ -855,6 +855,7 @@ dbp	唖
 dbr	員
 dbu	嗚
 dbw	噎
+dbx	営
 dbz	叡
 db,	噫
 dca	可
@@ -1025,12 +1026,14 @@ drm	啜
 drr	善
 drv	喘
 drz	囎
+dr/	鼡	dr/->鼡 /r/->鼠
 dsa	双
 dsc	即
 dsf	咤
 dsh	叟
 dsk	唾
 dsm	喪
+dsn	巣
 dsp	噌
 dsr	嗾
 dsu	嗽
@@ -1344,7 +1347,6 @@ fbn	尉
 fbq	寅
 fbs	婀
 fbu	婬
-fbx	営
 fbz	嫗
 fbX	營
 fb,	嬰
@@ -2749,7 +2751,6 @@ kse	村
 ksg	杣
 ksi	柁
 ksk	桑
-ksm	巣
 kso	梛
 ksq	棗
 kss	楕
@@ -6618,10 +6619,9 @@ z/,	鑪
 /qm	齔
 /qs	齎
 /qy	齏
-/ra	鼡
-/rh	鼠
 /rp	麁
 /rw	齟
+/r/	鼠	dr/->鼡 /r/->鼠
 /ta	黹
 /tk	黛
 /tu	黐
