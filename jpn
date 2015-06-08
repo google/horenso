@@ -1029,11 +1029,11 @@ drz	囎
 dr/	鼡	dr/->鼡 /r/->鼠
 dsa	双
 dsc	即
+dse	唾	垂の部首は土（ｅ）
 dsf	咤
 dsh	叟
-dsk	唾
+dsk	巣	dsk->巣 hsk->巢 果の部首は木（ｋ）
 dsm	喪
-dsn	巣
 dsp	噌
 dsr	嗾
 dsu	嗽
@@ -1981,6 +1981,7 @@ hsc	怱
 hse	息
 hsg	惣
 hsj	惰
+hsk	巢	dsk->巣 hsk->巢 巢は異体字なのでコードをシフトに変更して構いません
 hsl	愡
 hsn	惻
 hsq	想
