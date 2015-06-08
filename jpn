@@ -102,6 +102,8 @@ be	べ
 bi	び
 bo	ぼ
 bu	ぶ
+ca	ゕ
+ce	ゖ
 da	だ
 de	で
 di	ぢ
@@ -162,6 +164,7 @@ to	と
 tu	つ
 ua	ゎ
 uu	ぅ
+vu	ゔ
 wa	わ
 we	ゑ
 wi	ゐ
@@ -188,6 +191,10 @@ DI	ヂ
 DO	ド
 DU	ヅ
 EE	ェ
+Eh	㍻
+Em	㍾
+Es	㍼
+Et	㍽
 FU	フ
 GA	ガ
 GE	ゲ
@@ -242,6 +249,7 @@ TO	ト
 TU	ツ
 UA	ヮ
 UU	ゥ
+VU	ヴ
 WA	ワ
 WE	ヱ
 WI	ヰ
@@ -277,6 +285,7 @@ abv	亜
 abV	亞
 aca	乙
 ach	下
+acH	㊦
 acp	个
 acw	亦
 ada	乂
@@ -317,6 +326,7 @@ amp	亊
 amw	事
 ana	主
 apa	上
+apA	㊤
 apf	丈
 apk	且
 app	丞
@@ -330,6 +340,7 @@ ata	丶
 atg	丑
 atm	丹
 ats	中
+atS	㊥
 aty	亶
 ava	丁
 avp	亭
@@ -504,9 +515,11 @@ bsv	偬
 bsy	僧
 bs,	像
 bta	代
+btA	㈹
 bte	仲
 bti	体
 btm	但
+bto	侽	oto->男 bto->侽 侽は異体字なのでコードをシフトに移動しても構いません
 btr	値
 btv	倬
 btz	儔
@@ -846,6 +859,7 @@ c/y	匳
 c/N	勞
 c/,	勵
 dba	右
+dbA	㊨
 dbc	印
 dbf	咏
 dbh	哀
@@ -1062,6 +1076,7 @@ dwa	叨
 dwd	吋
 dwh	吐
 dwl	同
+dwL	々
 dwp	呶
 dws	唐
 dww	唸
@@ -1154,13 +1169,13 @@ ecS	鹽
 ec;	夥
 ec.	墺
 eda	夬
-edc	外
 edf	回
 edh	垓
 edk	垳
 edm	埆
 edp	堺
 edr	塊
+eds	外	そと->（ｓ）ｏｔｏ
 edu	塙
 edw	壊
 edz	壑
@@ -1440,6 +1455,7 @@ fny	寫
 fn;	嬬
 fn.	孺
 fpa	女
+fpA	♀
 fpc	小
 fpe	少
 fpg	如
@@ -1647,6 +1663,7 @@ gkE	廣
 gk;	幌
 gla	山
 gld	左
+glD	㊧
 glg	差
 glj	座
 glm	崑
@@ -2532,6 +2549,7 @@ j;u	旄
 j;x	望
 j;;	暴
 j,a	有
+j,A	㈲
 j,c	攸
 j,f	明
 j,h	昧
@@ -2706,6 +2724,7 @@ kng	柔
 kni	柘
 knk	柊
 knm	株
+knM	㈱
 kno	棕
 knq	楯
 kns	楢
@@ -3627,12 +3646,13 @@ or,	癬
 osa	痩
 osk	瘡
 osu	甑
-ota	男
 otc	玳
 otf	畜
 oth	疸
 otk	痔
 otm	琢
+oto	男	oto->男 bto->侽 侽は異体字なのでコードをシフトに移動しても構いません
+otO	♂
 otp	蛋
 otr	畴
 otu	痴
@@ -5121,6 +5141,7 @@ vsh	装
 vsp	蛸
 vsw	裝
 vta	虫
+vtA	䖝
 vtc	衷
 vte	袒
 vtg	袋
