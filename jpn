@@ -853,9 +853,9 @@ dbk	咽
 dbm	哇
 dbp	唖
 dbr	員
+dbs	営	dbs->営 nbs->營
 dbu	嗚
 dbw	噎
-dbx	営
 dbz	叡
 db,	噫
 dca	可
@@ -3331,6 +3331,7 @@ nba	為
 nbe	烏
 nbi	猗
 nbr	熨
+nbs	營	dbs->営 nbs->營 營はシフトに移動しても構いません
 nbz	燠
 nbA	爲
 nca	火
