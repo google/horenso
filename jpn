@@ -915,10 +915,10 @@ dgm	卻
 dgo	唏
 dgq	厩
 dgs	喜
+dgS	囍
 dgu	喫
 dgw	喟
 dgy	嗅
-dgS	囍
 dg;	器
 dg.	噐
 dha	叶
@@ -3478,9 +3478,9 @@ nvh	牴
 nvp	猪
 nvw	牒
 nwa	灯
-nwh	点
 nwp	燈
 nww	獰
+nw;	点	/w;->點 nwh->点 [;]（セミコロン）に点が入っているから
 nxa	狛
 nxc	爬
 nxe	独
@@ -6652,9 +6652,9 @@ z/,	鑪
 /va	鼎
 /vk	黜
 /vu	齠
-/wa	點
 /wk	鼕
 /wu	黨
+/w;	點	/w;->點 nwh->点 [;]（セミコロン）に点が入っているから
 /xa	麦
 /xg	麥
 /xm	黏
