@@ -7,9 +7,16 @@ use strict;
 use utf8;
 use warnings;
 
+use File::Basename;
+use File::Spec::Functions;
+
 binmode STDOUT, ':utf8';
 
 my @codes_files = @ARGV;
+
+if (!@codes_files) {
+    push @codes_files, catfile dirname($0), 'jpn';
+}
 
 my %all_codes;
 my %all_chars;
