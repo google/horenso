@@ -396,7 +396,7 @@ bcu	偃
 bcx	假
 bcJ	價
 bda	介
-bdg	会
+bdg	会	bdg->会 jdg->會
 bdm	价
 bds	偕
 bdy	傀
@@ -2397,9 +2397,9 @@ jcm	於
 jcs	旺
 jcy	暇
 jda	斈
+jdg	會	bdg->会 jdg->會
 jdh	曷
 jdp	晦
-jdw	會
 jfa	旱
 jfp	敢
 jga	旧
@@ -2476,12 +2476,13 @@ jqa	是
 jqc	政
 jqe	星
 jqg	晋
-jqi	晉
+jqG	晉
 jqk	晟
 jqm	旌
 jqo	晨
 jqq	晢
 jqs	晴
+jqt	㬜	jqg->晋 jqG->晉 jqt->㬜 上部の[至］と云う部首は（ｔ）に当たる [㬜]は異体字なのでシフトでも可
 jqu	新
 jqw	数
 jqy	斟
@@ -2557,7 +2558,7 @@ j,k	昜
 j,m	曼
 j,p	暘
 j,r	暝
-j,u	曄
+j,u	曄	右部の華の部首は艸（ｕ）
 j,w	曚
 j,z	朦
 j,,	曜
@@ -5169,6 +5170,7 @@ vwv	蠧
 vwz	蠹
 vxa	袙
 vxh	裴
+vxH	裵
 vxp	蟇
 vxw	蟆
 vya	表
@@ -6245,6 +6247,7 @@ z/,	鑪
 ;/,	靂
 ,ba	飲
 ,bd	飴
+,be	駰	右部にある因の部首は囗（ｅ）
 ,bh	飮
 ,bl	頤
 ,bp	頴
