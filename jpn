@@ -4146,9 +4146,9 @@ rlf	策
 rlh	筰
 rlk	粲
 rlm	算
-rlp	簑
+rlp	簑	rlp->簑 rlP->簔 ulp->蓑
+rlP	簔
 rlr	簒
-rlu	簔
 rlw	簀
 rlz	簓
 rl,	纂
@@ -4811,7 +4811,7 @@ uld	莎
 ulg	菜
 ulj	菎
 ulm	蒜
-ulp	蓑
+ulp	蓑	rlp->簑 rlP->簔 ulp->蓑
 uls	蒟
 ulv	蓙
 uly	蔡
