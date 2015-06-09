@@ -333,6 +333,7 @@ app	丞
 apu	乗
 apU	乘
 aqa	井
+aqj	亝	aqj->亝 jqj->斊 /qj->斉 /qJ->齊 [亝斊]は異体字なのでシフト可
 aqk	世
 aqK	丗
 asa	爽
@@ -644,7 +645,9 @@ cgJ	歸
 cg,	冀
 cha	冂
 chb	凶
+chc	兢	部首の［十］を除けば、［兄］な残り、その部首は［儿］->ｃ
 chd	区
+chD	區
 che	匝
 chg	兇
 chh	共
@@ -655,12 +658,11 @@ cho	劬
 chp	協
 chr	具
 chs	勗
-chu	區
 chw	勤
-chx	兢
+chx	勛	[勲勳]の異体字なので、シフト可
 chz	勲
+chZ	勳
 ch;	凝
-ch.	勳
 cja	匸
 cjb	元
 cjc	兮
@@ -2478,6 +2480,7 @@ jqc	政
 jqe	星
 jqg	晋
 jqG	晉
+jqj	斊	aqj->亝 jqj->斊 /qj->斉 /qJ->齊 [亝斊]は異体字なのでシフト可
 jqk	晟
 jqm	旌
 jqo	晨
@@ -4498,7 +4501,6 @@ tbd	聿
 tbg	育
 tbk	胃
 tbn	胤
-tbq	胡
 tbu	耘
 tbx	肄
 tb;	翳
@@ -4544,6 +4546,7 @@ tkk	肴
 tkm	胛
 tko	耕
 tkp	航
+tkq	胡
 tkr	耿
 tkt	胯
 tkv	胱
@@ -5427,9 +5430,9 @@ wzw	覆
 wz;	譜
 w;a	訪
 w;g	豊
+w;G	豐
 w;m	謀
 w;s	謗
-w;y	豐
 w,a	要
 w,c	訳
 w,e	誉
@@ -5673,6 +5676,7 @@ yba	迂
 ybc	郁
 ybf	郢
 ybi	逸
+ybI	逸
 ybk	運
 ybn	逶
 ybq	遏
@@ -6643,8 +6647,8 @@ z/,	鑪
 /np	麝
 /nw	襲
 /pa	黍
-/qa	斉
-/qg	齊
+/qj	斉	aqj->亝 jqj->斊 /qj->斉 /qJ->齊 [亝斊]は異体字なのでシフト可
+/qJ	齊	aqj->亝 jqj->斊 /qj->斉 /qJ->齊 [亝斊]は異体字なのでシフト可
 /qm	齔
 /qs	齎
 /qy	齏
