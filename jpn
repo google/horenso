@@ -759,8 +759,9 @@ csg	兌
 csj	卒
 csl	則
 csn	剏
-csq	曽
+csq	𠦝	正式な発音は無いけど、部首は十で、部首を取り除くと早が残り、その読み方はソウ->（ｓ）珍しい字なので、打ち難いコードに当てることにした
 css	曾
+csS	曽
 csu	創
 csx	巽
 csz	剿
@@ -769,7 +770,7 @@ cta	冲
 ctk	卓
 ctu	冑
 cva	兆
-cve	勅
+cvk	勅	jvk->敕 cvk->勅 部首を取り除くと、左部の束が残り、その部首は木->ｋ [敕]は異体字なのでシフト可
 cvi	剃
 cvm	兪
 cvr	凋
@@ -1268,13 +1269,13 @@ era	夕
 erp	塑
 esa	多
 esd	夛
+esf	増
+esF	增
 esg	壯
 esk	奏
 esn	埣
 esq	堕
 esu	塞
-esx	増
-esX	增
 es;	墮
 eta	大
 etc	夂
@@ -1389,7 +1390,7 @@ fds	學
 fdy	嬶
 ffa	奸
 ffd	完
-ffg	官
+ffh	官
 ffj	姦
 ffm	宦
 ffp	寒
@@ -2512,7 +2513,7 @@ jt;	斷
 jva	昶
 jve	朕
 jvi	晁
-jvm	敕
+jvk	敕	jvk->敕 cvk->勅 部首を取り除くと、左部の束が残り、その部首は木->ｋ [敕]は異体字なのでシフト可
 jvr	朝
 jvv	暢
 jvz	敵
@@ -2772,7 +2773,7 @@ krr	梳
 krv	椄
 krz	槭
 ksa	朶
-ksc	束
+ksd	束	部首の木を取り除けば口が残り、その部首のキーはｄ
 kse	村
 ksg	杣
 ksi	柁
@@ -3011,11 +3012,11 @@ l;a	歿
 l;p	氓
 l,a	毛
 l,e	民
-l,i	毎
 l,m	殀
 l,r	毟
 l,v	欲
 l,z	歟
+l,;	毎
 l/a	歴
 l/p	歛
 mba	永
@@ -3254,16 +3255,16 @@ mw;	澱
 mw.	濤
 mxa	汢
 mxc	沌
-mxe	波
 mxg	泊
 mxi	沛
+mxj	波
 mxk	派
 mxm	涜
 mxp	涅
 mxr	溌
 mxt	湃
 mxv	漠
-mxx	濃
+mxy	濃	部首のシを取り除けば農が残り、その部首は辰->ｙ
 mxz	濘
 mx,	瀑
 mya	氾
