@@ -2951,7 +2951,7 @@ lcA	歐
 lcF	毆
 lda	歹
 ldk	殻
-ldu	殼
+ldK	殼
 lfa	款
 lfk	歓
 lfK	歡
@@ -3999,6 +3999,7 @@ qku	稾
 qla	窄
 qlh	祭
 qlp	穀
+qlP	穀
 qlw	竄
 qma	示
 qme	私
@@ -4008,6 +4009,7 @@ qmr	祠
 qmv	祗
 qmz	竢
 qna	社
+qnA	社
 qnd	秀
 qnh	秋
 qnl	祝
@@ -5338,6 +5340,7 @@ wlu	讒
 wlz	讚
 wma	豕
 wmd	視
+wmD	視
 wmg	詞
 wmj	覗
 wmm	詩
@@ -5574,6 +5577,7 @@ xsm	踪
 xsp	輳
 xsr	蹌
 xst	贈
+xsT	贈
 xsv	轌
 xsx	蹲
 xsz	躁
@@ -5634,6 +5638,7 @@ xyj	豼
 xym	費
 xyp	輓
 xys	賓
+xyS	賓
 xyv	貔
 xyy	蹕
 xy,	贔
@@ -5788,9 +5793,12 @@ ysp	速
 ysu	遜
 ysz	遭
 yta	退
+ytb	辶	辵辶辶
+ytB	辶	辵辶辶
 ytc	逐
 ytf	酎
 yti	逮
+ytg	辵	辵辶辶
 ytk	酖
 ytn	達
 ytq	遅
@@ -6091,6 +6099,7 @@ z/,	鑪
 ;hh	隅
 ;hp	鞏
 ;hw	響
+;hW	響
 ;ja	阮
 ;jc	限
 ;jf	険
@@ -6202,6 +6211,7 @@ z/,	鑪
 ;xq	鞆
 ;xu	霈
 ;xx	難
+;xX	難
 ;x;	霾
 ;ya	阪
 ;yd	非
@@ -6410,6 +6420,7 @@ z/,	鑪
 ,yg	馮
 ,yi	頒
 ,yk	頻
+,yK	頻
 ,ym	髀
 ,yo	飄
 ,yq	飃
@@ -9655,8 +9666,6 @@ _8F54	轔
 _8F58	轘
 _8FA6	辦
 _8FB4	辴
-_8FB5	辵
-_8FB6	辶
 _8FC1	迁
 _8FC6	迆
 _8FCA	迊
@@ -10313,14 +10322,12 @@ _FA48	煮
 _FA49	爫
 _FA4A	琢
 _FA4B	碑
-_FA4C	社
 _FA4D	祉
 _FA4E	祈
 _FA4F	祐
 _FA51	祝
 _FA52	禍
 _FA53	禎
-_FA54	穀
 _FA55	突
 _FA56	節
 _FA57	練
@@ -10333,12 +10340,5 @@ _FA5D	艹
 _FA5E	艹
 _FA5F	著
 _FA60	褐
-_FA61	視
 _FA62	謁
 _FA63	謹
-_FA64	賓
-_FA65	贈
-_FA66	辶
-_FA68	難
-_FA69	響
-_FA6A	頻
