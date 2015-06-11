@@ -534,6 +534,7 @@ bwa	仂
 bwd	伝
 bwg	佃
 bwk	倒
+bwl	仝	bwl->仝 dwl->同 dwL->々
 bwn	働
 bwu	僮
 bwx	儂
@@ -1075,7 +1076,7 @@ dv,	嚏
 dwa	叨
 dwd	吋
 dwh	吐
-dwl	同
+dwl	同	bwl->仝 dwl->同 dwL->々
 dwL	々
 dwp	呶
 dws	唐
@@ -2254,6 +2255,7 @@ irk	措
 irm	揃
 irp	摂
 irr	戦
+irs	戚
 irt	截
 irx	擅
 irz	擶
@@ -2269,7 +2271,6 @@ isj	捜
 isl	挿
 ism	捉
 iso	拿
-isp	戚
 isr	掃
 iss	掻
 isu	掫
@@ -3436,8 +3437,8 @@ nnz	爍
 nnU	獸
 npa	爿
 npc	状
+npC	牀
 npe	犹
-npg	牀
 npi	烝
 npk	猖
 npm	焼
