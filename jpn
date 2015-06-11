@@ -507,10 +507,10 @@ bpk	仗
 bpp	倡
 bpu	傷
 bpz	償
-bqa	人
 bqc	仁
 bqf	仞
 bqh	仭
+bqj	人
 bqk	伸
 bqm	侭
 bqp	信
@@ -808,12 +808,12 @@ cwv	兜
 cwy	動
 cw,	剳
 cxa	入
+cxc	匂
 cxd	八
 cxg	内
-cxj	匂
+cxj	南	東西南北
 cxm	凸
 cxp	凪
-cxs	南
 cxv	匿
 cxy	剥
 cx,	博
@@ -847,8 +847,8 @@ c;a	卜
 c;c	勹
 c;f	匚
 c;i	凡
+c;j	北	東西南北
 c;k	包
-c;n	北
 c;q	冐
 c;t	勃
 c;v	剖
@@ -2833,11 +2833,11 @@ kv;	橲
 kv.	欟
 kwa	朷
 kwb	杜
-kwc	東
 kwe	桐
 kwf	桃
 kwh	档
 kwi	梼
+kwj	東	東西南北
 kwk	棟
 kwl	棹
 kwm	棠
@@ -5394,10 +5394,10 @@ wpW	證
 wpy	譲
 wpY	讓
 wp;	觸
-wqa	西
 wqc	訊
 wqf	診
 wqi	誠
+wqj	西	東西南北
 wqk	誓
 wqn	請
 wqq	誰
