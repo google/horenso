@@ -28,9 +28,9 @@ for my $codes_file (@codes_files) {
 
     while (my $code_line = <$codes>) {
         chomp $code_line;
-        $code_line =~ m/^([^\t]+)\t(.*)$/
+        my ($code, $character) = split q{\t}, $code_line, 3;
+        defined $character
             or die 'Cannot process line';
-        my ($code, $character) = ($1, $2);
 
         my $codes_ref = $all_codes{$character} //= [];
         push @$codes_ref, $code;
