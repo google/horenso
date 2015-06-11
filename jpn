@@ -944,6 +944,7 @@ dgu	喫
 dgw	喟
 dgy	嗅
 dg;	器
+dg:	器
 dg.	噐
 dha	叶
 dhc	去
@@ -2084,6 +2085,7 @@ hya	必
 hyc	彼
 hyf	弭
 hyh	悗
+hyi	忞
 hyk	彪
 hym	悲
 hyp	弼
@@ -2995,10 +2997,10 @@ llh	残
 llp	殘
 llw	歳
 lma	止
+lmc	次
 lmg	氏
 lmm	此
 lms	死
-lmy	次
 lna	殳
 lnk	殊
 lnu	殉
@@ -3505,7 +3507,7 @@ nvh	牴
 nvp	猪
 nvw	牒
 nwa	灯
-nwp	燈
+nwA	燈
 nww	獰
 nw;	点	/w;->點 nwh->点 [;]（セミコロン）に点が入っているから
 nxa	狛
@@ -4063,10 +4065,10 @@ qrd	祖
 qrD	祖
 qrg	穿
 qrj	租
+qrh	積
 qrm	祚
 qrp	禅
 qrs	竰
-qrv	積
 qry	禪
 qr,	竊
 qsa	窓
@@ -4088,10 +4090,10 @@ qvp	窕
 qvu	程
 qvz	禎
 qwa	祷
+qwe	稲
+qwE	稻
 qwf	竣
 qwk	童
-qwp	稲
-qwu	稻
 qwz	竇
 qxa	禿
 qxe	突
@@ -4366,9 +4368,9 @@ sko	絖
 skq	絎
 sks	絳
 sku	綱
-skw	羮
 sky	縞
 sk;	羹
+sk:	羮
 sk.	纐
 sla	索
 slc	紗
@@ -5376,7 +5378,6 @@ wnr	謝
 wnv	讐
 wnz	讎
 wpa	訟
-wpb	証
 wpd	詔
 wpf	象
 wph	詳
@@ -5387,7 +5388,8 @@ wpp	諸
 wpq	諚
 wps	謖
 wpu	觴
-wpw	證
+wpw	証
+wpW	證
 wpy	譲
 wpY	讓
 wp;	觸
@@ -5450,10 +5452,10 @@ wyy	譬
 wza	訃
 wzd	覓
 wzh	誣
+wzj	覆
 wzl	諷
 wzp	諞
 wzs	謨
-wzw	覆
 wz;	譜
 w;a	訪
 w;g	豊
@@ -5572,19 +5574,19 @@ xqp	趨
 xqs	贅
 xqw	贐
 xq;	躋
-xra	赤
-xrc	責
 xre	跖
-xrg	跡
-xri	賎
+xrf	蹐
+xrh	蹠
+xri	賤
+xrI	賎
+xrj	赤
 xrk	践
+xrK	踐
+xrl	責
 xrm	跣
+xro	跡
 xrp	踈
-xrr	賤
-xrt	踐
-xrv	蹐
-xrx	蹟
-xrz	蹠
+xr;	蹟
 xr,	贍
 xsa	走
 xsc	足
@@ -5632,8 +5634,8 @@ xv.	躑
 xwa	転
 xwd	貼
 xwg	跿
+xwj	踏
 xwk	賭
-xwn	踏
 xwq	蹈
 xwu	輾
 xwA	轉
@@ -7818,7 +7820,6 @@ _5FCB	忋
 _5FD2	忒
 _5FD3	忓
 _5FD4	忔
-_5FDE	忞
 _5FE1	忡
 _5FE2	忢
 _5FE9	忩
@@ -10322,7 +10323,6 @@ _FA34	勤
 _FA35	卑
 _FA36	喝
 _FA37	嘆
-_FA38	器
 _FA39	塀
 _FA3B	層
 _FA3C	屮
