@@ -439,7 +439,8 @@ bhc	供
 bhe	侠
 bhg	佼
 bhi	俥
-bhk	倶
+bhk	俱
+bhK	倶
 bhm	倨
 bho	倔
 bhq	偶
@@ -511,7 +512,8 @@ bpk	仗
 bpp	倡
 bpu	傷
 bpz	償
-bqc	仁
+bqd	仁
+bqe	僭
 bqf	仞
 bqh	仭
 bqj	人
@@ -521,15 +523,14 @@ bqp	信
 bqr	侵
 bqu	僣
 bqw	儘
-bqz	僭
 bq,	儕
 bra	仙
 bre	仟
 bri	全
+brj	僉
 brm	俎
-brr	倩
-brv	僉
-brz	僊
+brs	僊
+br;	倩
 bsa	仄
 bsc	他
 bsf	佗
@@ -549,6 +550,7 @@ btm	但
 btr	値
 btv	倬
 btz	儔
+btZ	俦
 bva	低
 bve	佇
 bvi	佻
@@ -564,7 +566,7 @@ bwk	倒
 bwl	仝	bwl->仝 dwl->同 dwL->々
 bwn	働
 bwu	僮
-bwx	儂
+bwy	儂
 bw;	儻
 bxa	任
 bxe	伐
@@ -691,6 +693,8 @@ ch;	凝
 cja	匸
 cjb	元
 cjc	兮
+cjd	劒
+cjD	劔
 cje	兄
 cjf	刑
 cjh	决
@@ -704,11 +708,10 @@ cjr	兼
 cjs	剣
 cju	勍
 cjv	頃
-cjw	剱
+cjw	𠝏
+cjW	剱
 cjy	劇
 cjS	劍
-cj,	劔
-cj.	劒
 cka	午
 ckb	公
 ckd	勾
@@ -762,8 +765,8 @@ cpu	剰
 cpx	勝
 cpU	剩
 cqa	儿
-cqf	刃
-cqk	刄
+cqk	刃
+cqK	刄
 cqp	制
 cqu	凄
 cqz	勢
@@ -813,13 +816,13 @@ cwy	動
 cw,	剳
 cxa	入
 cxc	匂
-cxd	八
 cxg	内
 cxj	南	東西南北
 cxm	凸
 cxp	凪
 cxv	匿
 cxy	剥
+cxz	八
 cx,	博
 cya	冫
 cyc	匕
@@ -832,18 +835,18 @@ cyt	凭
 cyv	卑
 cyy	匪
 cy,	剽
-cza	冖
 czc	分
-cze	卞
+czd	卞
+czf	副
 czg	刎
 czi	兵
 czk	別
+czl	冨	冨富
 czm	匍
 czo	勉
-czq	冨
-czs	副
 czu	冕
-czw	匏
+czv	冖
+czx	匏
 czy	募
 cz;	冪
 cz.	劈
@@ -1570,10 +1573,10 @@ fzc	孚
 fzf	姆
 fzh	姥
 fzk	封
+fzl	富	冨富
 fzm	娉
 fzp	婦
 fzr	娩
-fzu	富
 fzw	媽
 fzz	孵
 fz,	嬖
@@ -6753,7 +6756,6 @@ _2044A	𠑊
 _20509	𠔉
 _205D6	𠗖
 _20628	𠘨
-_2074F	𠝏
 _20807	𠠇
 _2083A	𠠺
 _208B9	𠢹
@@ -7266,8 +7268,6 @@ _4FCB	俋
 _4FCF	俏
 _4FD2	俒
 _4FE0	俠
-_4FE6	俦
-_4FF1	俱
 _4FF2	俲
 _5000	倀
 _5001	倁
