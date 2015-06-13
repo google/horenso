@@ -1048,8 +1048,8 @@ dn,	叔
 dn.	周
 dn/	呪
 dpa	召
-dpb	叙	敘->jpb 敍->jpB 叙->dpb 共通のbは左部の余の部首
 dpd	咲
+dpe	叙	敘敍叙
 dpf	商
 dpi	喞
 dpj	哨
@@ -1274,19 +1274,19 @@ enm	塾
 ens	壽
 eny	墫
 epa	処
-epc	城
+epd	嗇
 epe	奘
-epg	埴
+epf	城
+epi	奨
+epI	獎
 epj	場
-epl	奨
-epL	獎
-epn	嗇
-epq	塲
+epo	壌
+epO	壤
+epr	埴
 eps	墅
+ept	墻
 epu	奬
-epx	壌
-epz	墻
-ep,	壤
+epw	塲
 eqa	夊
 eqe	図
 eqE	圖
@@ -1298,26 +1298,26 @@ era	夕
 erp	塑
 esa	多
 esd	夛
+ese	壯
 esf	増
 esF	增
-esg	壯
-esk	奏
-esn	埣
-esq	堕
-esu	塞
+esi	堕
+esj	奏
+esk	埣
+esl	塞
 es;	墮
 eta	大
-etc	夂
-etf	太
-eth	団
-etH	團
+ete	坦
+eti	垈
+etj	太
 etk	地
-etm	坦
-etp	垈
-etr	垰
+etl	団
+etL	團
+etq	夂
+ets	垰
 etu	堆
 etw	奪
-et,	壇
+et;	壇
 eva	垤
 evf	塚
 evk	堤
@@ -2499,9 +2499,9 @@ jnp	斫
 jnu	斜
 jnz	晰
 jpa	昇
-jpb	敘	敘->jpb 敍->jpB 叙->dpb 共通のbは左部の余の部首
-jpB	敍	敘->jpb 敍->jpB 叙->dpb 共通のbは左部の余の部首
 jpc	昌
+jpe	敘	敘敍叙
+jpE	敍	敘敍叙
 jpf	昃
 jpi	昭
 jpk	書
@@ -5769,12 +5769,12 @@ ylk	酢
 ylp	酷
 ylu	酸
 ylz	醋
-yma	迩
-ymb	辤	ymb->辤 ymm->辞 ymM->辭 [辤]は異体字なのでコードをシフトに移動しても構いません
+ymd	辤	辤辞辭 [辤]は異体字なのでコードをシフトに移動しても構いません
+ymf	辞	辤辞辭
+ymF	辭	辤辞辭
 ymg	悉
-ymm	辞	ymb->辤 ymm->辞 ymM->辭
-ymM	辭	ymb->辤 ymm->辞 ymM->辭
 yms	邇
+ymS	迩
 yna	述
 ync	重
 yne	酌
