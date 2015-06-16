@@ -1900,7 +1900,7 @@ hdl	恠
 hdo	慨
 hdp	懐
 hdP	懷
-hdr	愾	hdr->愾 lgr->氣 mgr->滊 ,gr->餼
+hdq	愾	愾氣滊餼
 hds	怪
 hd;	恪
 hfa	慣
@@ -2998,7 +2998,7 @@ lgd	気
 lgj	欷
 lgm	毬
 lgp	欺
-lgr	氣	hdr->愾 lgr->氣 mgr->滊 ,gr->餼
+lgq	氣	愾氣滊餼
 lgs	毀
 lgv	毅
 lgy	歙
@@ -3111,7 +3111,7 @@ mga	汽
 mgf	求
 mgk	汲
 mgp	沂
-mgr	滊	hdr->愾 lgr->氣 mgr->滊 ,gr->餼
+mgq	滊	愾氣滊餼
 mgu	泣
 mgz	淇
 mha	況
@@ -6345,9 +6345,9 @@ z/.	鈴
 ,gg	騎
 ,gk	騏
 ,gn	餽
-,gq	饋
-,gr	餼	hdr->愾 lgr->氣 mgr->滊 ,gr->餼
+,gq	餼	愾氣滊餼
 ,gu	饑
+,gw	饋
 ,gx	驥
 ,g;	鬮
 ,ha	驚
