@@ -4249,14 +4249,16 @@ rr;	籍
 rse	糯
 rsi	箒
 rsj	箱
-rsk	筝
-rsK	箏
-rsl	筱
-rsL	篠
+rsk	箏
+rsK	筝
+rsl	篠
+rsL	筱
 rso	簇
 rsp	籔
+rsP	䉤
 rsr	粽
 rs;	笊
+rs.	筿
 rta	竹
 rtd	第
 rtg	笞
@@ -6865,7 +6867,6 @@ _41BF	䆿
 _41E6	䇦
 _41EE	䇮
 _41F3	䇳
-_4264	䉤
 _4207	䈇
 _420E	䈎
 _42C6	䋆
@@ -8699,7 +8700,6 @@ _7B6F	筯
 _7B72	筲
 _7B73	筳
 _7B79	筹
-_7B7F	筿
 _7B91	箑
 _7B90	箐
 _7B9B	箛
