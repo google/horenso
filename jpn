@@ -1643,14 +1643,16 @@ gds	岳
 gdu	廨
 gd;	嶽
 gfa	干
-gfd	巖
-gfi	巌
+gfd	巌
+gfD	巖
+gfe	巗	巌の異体字
 gfj	幹
 gfk	巻
 gfl	岩
 gfo	嵒
 gfs	嵌
 gf;	岸
+gf:	㟁
 gga	屹
 ggd	廐
 gge	希
@@ -6806,7 +6808,6 @@ _376B	㝫
 _376C	㝬
 _3775	㝵
 _378D	㞍
-_37C1	㟁
 _37E2	㟢
 _37E8	㟨
 _37F4	㟴
@@ -7479,7 +7480,6 @@ _5DB8	嶸
 _5DB0	嶰
 _5DCB	巋
 _5DD1	巑
-_5DD7	巗
 _5DD8	巘
 _5DE4	巤
 _5DE9	巩
