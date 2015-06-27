@@ -3517,6 +3517,7 @@ nsd	壮
 nse	燭
 nsf	争
 nsF	爭
+nsj	牕	窓牕
 nsk	熄
 nsl	炒
 nsn	爪
@@ -4103,9 +4104,10 @@ qrq	窃
 qrw	竰
 qr;	禅
 qr:	禪
-qsj	窓
+qsj	窓	窓牕
 qsk	稍
-qsl	窗
+qsm	窗
+qsM	窻
 qs;	竃
 qs:	竈
 qti	稠
@@ -8234,7 +8236,6 @@ _7238	爸
 _7239	爹
 _7242	牂
 _7253	牓
-_7255	牕
 _7256	牖
 _7257	牗
 _7263	牣
@@ -8669,7 +8670,6 @@ _7AA0	窠
 _7AAC	窬
 _7AB3	窳
 _7AB9	窹
-_7ABB	窻
 _7ABC	窼
 _7ABE	窾
 _7ACC	竌
