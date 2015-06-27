@@ -100,8 +100,6 @@ $'	￥
 '}	｝
 '~	～
 -'	ー
-aa	ぁ
-AA	ァ
 ba	ば
 be	べ
 bi	び
@@ -126,8 +124,6 @@ DE	デ
 DI	ヂ
 DO	ド
 DU	ヅ
-ee	ぇ
-EE	ェ
 Eh	㍻
 Em	㍾
 Es	㍼
@@ -153,11 +149,9 @@ HE	ヘ
 HI	ヒ
 HO	ホ
 ia	ゃ
-ii	ぃ
 io	ょ
 iu	ゅ
 IA	ャ
-II	ィ
 IO	ョ
 IU	ュ
 ka	か
@@ -192,8 +186,6 @@ NE	ネ
 NI	ニ
 NO	ノ
 NU	ヌ
-oo	ぉ
-OO	ォ
 pa	ぱ
 pe	ぺ
 pi	ぴ
@@ -261,9 +253,7 @@ TI	チ
 TO	ト
 TU	ツ
 ua	ゎ
-uu	ぅ
 UA	ヮ
-UU	ゥ
 vu	ゔ
 VE	ヹ
 VI	ヸ
@@ -277,6 +267,16 @@ WA	ワ
 WE	ヱ
 WI	ヰ
 WO	ヲ
+xa	ぁ
+xe	ぇ
+xi	ぃ
+xo	ぉ
+xu	ぅ
+XA	ァ
+XE	ェ
+XI	ィ
+XO	ォ
+XU	ゥ
 ya	や
 yo	よ
 yu	ゆ
