@@ -579,8 +579,8 @@ bzc	偏
 bzf	傅
 bzg	伏
 bzh	僻
-bzi	舗
-bzI	舖
+bzi	舗	漢字源による部首：人
+bzI	舖	漢字源による部首：人
 bzj	付
 bzk	併
 bzK	倂
@@ -602,9 +602,8 @@ b;l	倣
 b;z	儚
 b,b	們
 b,c	侑
-b,g	俑
 b,m	優
-b,n	愈
+b,n	俑
 b,v	傭
 b,x	佯
 b,z	俣
@@ -2130,12 +2129,13 @@ h;o	彭
 h;r	懋
 h;s	彷
 h,a	愉
-h,c	慾
+h,c	愈	兪の部首は入《ｃ》
 h,d	弥
 h,e	悒
 h,f	役
 h,g	彌
 h,j	弋
+h,l	慾	欲の部首は欠《ｌ》
 h,q	慂
 h,r	恙
 h,s	悠
