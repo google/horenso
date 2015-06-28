@@ -656,8 +656,7 @@ cf:	勸
 cga	冀
 cgc	几
 cgi	卉
-cgj	帰
-cgJ	歸
+cgj	帰	帰歸皈
 cgk	匱
 cgl	匯
 cgo	剞
@@ -2999,13 +2998,14 @@ lfk	歓
 lfK	歡
 lga	气
 lgi	欷
-lgj	気
+lgj	歸	帰歸皈
 lgk	毀
 lgl	欺
 lgo	毬
+lgp	毅
 lgq	氣	愾氣滊餼
 lgu	歙
-lg;	毅
+lg;	気
 lhd	欽
 lhf	欣
 lhs	歔
@@ -3852,10 +3852,10 @@ pfs	瞰
 pfu	監
 pga	瞶
 pgi	癸
-pgj	磯
+pgj	皈	帰歸皈
 pgo	皀
 pgp	碕
-pgu	皈
+pgu	磯
 pgz	礒
 pha	皎
 phd	矜
