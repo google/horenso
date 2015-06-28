@@ -393,8 +393,7 @@ a,s	予	予豫
 a.a	了
 a.d	乱
 a.D	亂
-a.f	両
-a.F	兩
+a.f	両	両兩
 a.s	亮
 bbi	佚
 bbj	以	㠯以
@@ -870,6 +869,7 @@ c,z	勇
 c,.	勿
 c,/	匁
 c.c	凉
+c.f	兩	両兩
 c.j	剌
 c.m	利
 c.v	劉
