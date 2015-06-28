@@ -627,13 +627,11 @@ b/.	例
 cbj	医
 cbk	允
 cbl	凧
-cb;	斡
 ccj	加
 cck	冤
 ccv	凹
 ccx	卦
 ccz	円
-ccZ	圓
 cc;	化
 cdf	囘
 cdi	凱
@@ -1184,6 +1182,7 @@ ebu	壹
 eby	塋
 eb;	圧
 eb:	壓
+ecc	園	園薗
 ech	奕
 eci	囮
 ecj	夏
@@ -1198,7 +1197,7 @@ ecv	塩
 ecV	鹽
 ecx	央
 ecy	奄
-ecz	園
+ecz	圓
 ec;	夥
 eda	夬
 edf	回
@@ -2430,6 +2429,7 @@ jba	暎
 jbj	曖
 jbk	暗
 jbl	映
+jbo	斡
 jbp	暈
 jbz	晏
 jb;	曳
@@ -4815,7 +4815,7 @@ ubz	茴
 ub;	菴
 uca	茆
 ucb	莪
-ucc	薗
+ucc	薗	園薗
 ucg	莚
 uch	蓊
 uci	芽
