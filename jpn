@@ -738,7 +738,6 @@ cnb	廿
 cnc	凖	mnc->準 cnc->凖 後者は異体字なのでシフトコードに移動しても構いません
 cnk	写	寫写冩
 cnK	冩	寫写冩
-cnl	夙
 cnv	酋
 cnx	出
 cnz	充
@@ -1267,6 +1266,7 @@ em.	址
 ena	壽
 ene	奢
 enf	塾
+enq	夙
 enr	墫
 enw	囚
 epd	嗇
