@@ -721,7 +721,8 @@ ckz	光	光炗
 ck;	剛
 ck.	凅
 ck/	冦
-cla	刪
+cla	冣	最冣㝡
+clb	刪
 clc	克
 clj	刷
 clk	刻
@@ -735,6 +736,7 @@ cl;	再
 cmc	刺
 cmv	児
 cmV	兒
+cm/	匙
 cna	十
 cnc	凖	mnc->準 cnc->凖 後者は異体字なのでシフトコードに移動しても構いません
 cnk	写	寫写冩
@@ -1436,6 +1438,7 @@ fkp	寤
 fkr	媾
 fks	娯
 fk;	嫦
+fla	㝡	最冣㝡
 fld	妻
 flf	宰
 flj	察
@@ -2456,7 +2459,7 @@ jkx	昊
 jkz	敖
 jk;	敲
 jk/	昂
-jla	最
+jla	最	最冣㝡	漢字源による部首：曰《ｊ》
 jld	昨
 jle	斛
 jlf	昆
@@ -2469,7 +2472,6 @@ jma	施
 jmd	旨
 jme	斯
 jmf	時
-jmr	匙
 jms	支
 jmw	昵
 jna	收
@@ -2539,7 +2541,6 @@ jxi	曩
 jxj	日
 jxk	旆
 jxl	敦
-jxo	霸
 jxv	曇
 jxz	曝
 jx;	暾
@@ -5478,8 +5479,8 @@ wxi	訥
 wxj	認
 wxk	読
 wxK	讀
-wxl	覇
-wx;	豚
+wxl	豚
+wx;	覇	霸覇
 wye	誹
 wyp	譬
 wyq	謬
@@ -6276,9 +6277,10 @@ z/.	鈴
 ;xk	閥
 ;xl	陪
 ;xm	霈
+;xp	陌	百の部首は白《ｐ》
 ;xv	鞄
 ;xz	鞆
-;x;	陌
+;x;	霸	霸覇
 ;ya	鞁
 ;yd	阪
 ;ye	鞴
@@ -6815,7 +6817,6 @@ _3696	㚖
 _3699	㚙
 _3605	㘅
 _36CF	㛏
-_3761	㝡
 _3762	㝢
 _376B	㝫
 _376C	㝬
@@ -7025,7 +7026,6 @@ _5103	儃
 _5106	儆
 _5108	儈
 _510B	儋
-_51A3	冣
 _51AD	冭
 _51BC	冼
 _51C3	凃
