@@ -3020,7 +3020,6 @@ lxj	毒
 lya	殯
 lyd	殍
 lyf	比
-lys	琵
 lzc	武
 lzj	毋
 lzk	氛
@@ -3152,19 +3151,19 @@ mm,	漬
 mm.	沚
 mm/	泗
 mna	潤
-mnb	灑
 mnc	準	mnc->準 cnc->凖 後者は異体字なのでシフトコードに移動しても構いません
-mnd	酒
+mnd	瀉
+mnD	泻
 mne	洲	駲酬洲州
 mnf	汁
 mng	溲
 mnk	澁
-mnl	渋
+mnl	渋	右上に止《ｌ》がある
 mnL	澀
 mnq	湫
 mnr	浚
 mns	淑
-mnt	瀉
+mnt	灑
 mnv	洙
 mnw	淳
 mnx	濡
@@ -3734,6 +3733,7 @@ oxu	玻
 oxv	畠
 oxy	癈
 oya	病
+oyc	琵	匕《ｃ》がある
 oyd	番
 oye	畔
 oyf	班
@@ -5811,12 +5811,13 @@ ymF	辭	辤辞辭
 yms	邇
 ymS	迩
 yna	述
+ynb	酋
 ync	醜
 ynd	重
 yne	酬	駲酬洲州
 ynf	週
 yng	這
-ynq	酋
+ynq	酒
 ynr	酌
 yns	釈
 ynS	釋
@@ -8058,7 +8059,6 @@ _6CEB	泫
 _6CEC	泬
 _6CED	泭
 _6CEE	泮
-_6CFB	泻
 _6D26	洦
 _6D27	洧
 _6D2E	洮
