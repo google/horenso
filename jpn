@@ -1041,7 +1041,8 @@ dpj	哨
 dpk	囑
 dpo	唱
 dpr	厰
-dps	囁
+dps	嗇
+dpt	囁	右部に耳《ｔ》が三つある
 dpu	嘱
 dpw	嘯
 dqd	吹
@@ -1257,18 +1258,16 @@ enf	塾
 enq	夙
 enr	墫
 enw	囚
-epd	嗇
 epe	奘
 epf	城
-epi	奨
-epI	獎
+epi	奨	奨奬獎
+epI	奬	奨奬獎
 epj	場
 epo	壌
 epO	壤
 epr	埴
 eps	墅
 ept	墻	墻牆
-epu	奬
 epw	塲
 eqa	夊
 eqe	図
@@ -3483,6 +3482,7 @@ npd	照
 npe	犹
 npf	状
 npF	牀
+npi	獎	奨奬獎
 npo	爿
 npr	猩
 nps	焼
