@@ -1846,13 +1846,13 @@ hb/	彝
 hb?	彜
 hca	懊
 hcg	懌
-hch	徃
+hco	徃	右部に生《ｏ》がある
 hci	悦
 hcj	彁
 hck	怏
 hcl	悁
-hco	恩
-hcp	鳶
+hcp	恩
+.ch	鳶	上部に弋《ｈ》がある
 hcv	応
 hcV	應
 hcx	往
@@ -6545,7 +6545,7 @@ z/.	鈴
 .ca	鴎
 .cA	鷗
 .cg	鴨
-.ch	鰛
+.c;	鰛
 .cj	鴬
 .ck	鵝
 .cl	鹽	塩鹽
