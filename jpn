@@ -1598,8 +1598,7 @@ gcl	峨
 gcL	峩
 gcx	崋
 gc;	廈
-gda	乢
-gdf	改
+gda	乢	漢字源による部首：山《ｇ》
 gdg	届
 gdG	屆
 gdi	幗
@@ -2420,10 +2419,11 @@ jck	旺
 jcl	暇
 jcv	易
 jc;	曰
+jdf	斈	下部に子《ｆ》がある
 jdj	會	会會
 jdk	曷
-jdl	斈
-jd;	晦
+jdl	晦	毎の部首は毋《ｌ》
+jd;	改
 jfa	旱
 jfj	敢
 jga	曁
@@ -3037,6 +3037,7 @@ lz;	殕
 l;d	氓
 l;f	歿
 l,a	毎
+l,A	每
 l,d	民
 l,e	歟
 l,f	毛
@@ -8008,7 +8009,6 @@ _6BBE	殾
 _6BC7	毇
 _6BC8	毈
 _6BC9	毉
-_6BCF	每
 _6BD6	毖
 _6BD7	毗
 _6BDA	毚
