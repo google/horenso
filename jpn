@@ -563,6 +563,8 @@ bwp	儻
 bwu	佃
 bwv	仂
 bw;	働
+bxf	佞	右下に女《ｆ》がある
+bxF	侫	妄の部首は女《ｆ》
 bxi	倍
 bxj	伐
 bxk	伯
@@ -1035,13 +1037,15 @@ dn/	呪
 dpa	召
 dpd	咲
 dpe	叙	敘敍叙
-dpf	商
+dpf	嘗	天辺に小《ｆ》らしいものがある	漢字源による部首：口
+dpF	甞	天辺に小《ｆ》らしいものがある	漢字源による部首：口
+dph	嗇
 dpi	喞
 dpj	哨
 dpk	囑
 dpo	唱
 dpr	厰
-dps	嗇
+dps	商
 dpt	囁	右部に耳《ｔ》が三つある
 dpu	嘱
 dpw	嘯
@@ -1483,7 +1487,6 @@ fpS	將
 fpu	嬢
 fpU	孃
 fpw	寔
-fpy	嘗
 fqe	姓
 fqf	娠
 fqj	寝
@@ -1531,16 +1534,14 @@ fwk	奴
 fwl	宕
 fwu	嫐
 fw;	嬲
-fxf	佞
-fxg	婆
+fxf	婆
 fxi	嫩
 fxj	妊
 fxJ	姙
 fxk	媒
 fxl	寧
-fxo	侫
-fxp	寞
-fxu	孛
+fxp	孛
+fxu	寞	莫の部首は艸《ｕ》
 fxz	宍
 fx;	娚
 fya	寐
@@ -3672,7 +3673,6 @@ opD	疂
 ope	疊
 opE	疉
 opf	璋
-opo	甞
 ops	瘴
 oqe	生
 oqf	瘁
