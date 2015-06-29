@@ -1280,6 +1280,7 @@ eqe	図
 eqE	圖
 eqi	声
 eqm	垂
+eqo	壬
 eqr	埀
 eqv	壻
 erj	夕
@@ -3023,6 +3024,8 @@ lxj	毒
 lya	殯
 lyd	殍
 lyf	比
+lys	毘
+lyS	毗
 lzc	武
 lzj	毋
 lzk	氛
@@ -3721,25 +3724,23 @@ owr	癜
 owu	痘
 oxb	瑙
 oxc	瓲
-oxi	琲
 oxh	璞
-eqo	壬
+oxi	琲
 oxj	珮
 oxk	琶
 oxo	畑
 oxp	珀
 oxu	玻
-oxv	畠
+oxv	畠	漢字源による部首：田《ｏ》
 oxy	癈
 oya	病
 oyc	琵	匕《ｃ》がある
 oyd	番
 oye	畔
 oyf	班
-oyg	瘢
-oyq	毘
 oyr	瓶
 oys	疲
+oyt	瘢	般の部首は舟《ｔ》
 oyv	畢
 oyw	痺
 oyx	瓢
@@ -8013,7 +8014,6 @@ _6BC7	毇
 _6BC8	毈
 _6BC9	毉
 _6BD6	毖
-_6BD7	毗
 _6BDA	毚
 _6BE6	毦
 _6BE7	毧
