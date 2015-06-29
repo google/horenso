@@ -1846,13 +1846,12 @@ hb/	彝
 hb?	彜
 hca	懊
 hcg	懌
-hco	徃	右部に生《ｏ》がある
 hci	悦
 hcj	彁
 hck	怏
 hcl	悁
+hco	徃	右部に生《ｏ》がある
 hcp	恩
-.ch	鳶	上部に弋《ｈ》がある
 hcv	応
 hcV	應
 hcx	往
@@ -1991,15 +1990,14 @@ hqd	忱
 hqe	性
 hqf	您	你伱尓尒您
 hqh	慎
+hqH	愼
 hqi	悽
-hqj	愼
 hqk	怎
 hql	惴
 hqo	忰
 hqp	悴
 hqr	征
 hqs	惺
-hqt	須
 hqw	心
 hq;	彗
 hre	惜
@@ -4653,6 +4651,7 @@ tpu	職
 tpw	聳
 tqe	翆
 tqg	脣
+tqh	須	左部に彡《ｈ》がある
 tqi	臍
 tqj	腎
 tqk	聖
@@ -6545,7 +6544,7 @@ z/.	鈴
 .ca	鴎
 .cA	鷗
 .cg	鴨
-.c;	鰛
+.ch	鳶	上部に弋《ｈ》がある
 .cj	鴬
 .ck	鵝
 .cl	鹽	塩鹽
@@ -6554,6 +6553,7 @@ z/.	鈴
 .cv	鰮
 .cx	鶯
 .cz	魘
+.c;	鰛
 .c,	鴛
 .c.	鯣
 .c/	鴦
