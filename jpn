@@ -100,8 +100,6 @@ $'	￥
 '}	｝
 '~	～
 -'	ー
-aa	ぁ
-AA	ァ
 ba	ば
 be	べ
 bi	び
@@ -126,8 +124,6 @@ DE	デ
 DI	ヂ
 DO	ド
 DU	ヅ
-ee	ぇ
-EE	ェ
 Eh	㍻
 Em	㍾
 Es	㍼
@@ -153,11 +149,9 @@ HE	ヘ
 HI	ヒ
 HO	ホ
 ia	ゃ
-ii	ぃ
 io	ょ
 iu	ゅ
 IA	ャ
-II	ィ
 IO	ョ
 IU	ュ
 ka	か
@@ -192,8 +186,6 @@ NE	ネ
 NI	ニ
 NO	ノ
 NU	ヌ
-oo	ぉ
-OO	ォ
 pa	ぱ
 pe	ぺ
 pi	ぴ
@@ -261,9 +253,7 @@ TI	チ
 TO	ト
 TU	ツ
 ua	ゎ
-uu	ぅ
 UA	ヮ
-UU	ゥ
 vu	ゔ
 VE	ヹ
 VI	ヸ
@@ -277,6 +267,16 @@ WA	ワ
 WE	ヱ
 WI	ヰ
 WO	ヲ
+xa	ぁ
+xe	ぇ
+xi	ぃ
+xo	ぉ
+xu	ぅ
+XA	ァ
+XE	ェ
+XI	ィ
+XO	ォ
+XU	ゥ
 ya	や
 yo	よ
 yu	ゆ
@@ -307,13 +307,11 @@ ZU	ズ
 .'	。
 /'	・
 $$'	¥
-aba	一
-abA	弌
-abi	云
+aba	一	一弌
 abj	亜
 abJ	亞
 abk	于
-abl	夷
+abl	云
 acj	乙
 ack	下
 acK	㊦
@@ -336,7 +334,6 @@ ahh	京
 ahH	亰
 ahp	亟
 aja	亅
-ajp	牽
 aka	五
 akd	互
 akg	亢
@@ -350,7 +347,7 @@ ala	乞
 alf	三
 alj	些
 alk	乍
-als	再
+als	兀
 ama	七
 amd	之
 ams	事
@@ -367,8 +364,9 @@ aqj	亝	aqj->亝 jqj->斊 /qj->斉 /qJ->齊 [亝斊]は異体字なのでシフ�
 aqk	世
 aqK	丗
 aql	井
-asd	爽
+asf	争	部首：亅	爭争
 ata	丶
+ati	乃
 atj	丹
 atk	亶
 atl	中
@@ -377,44 +375,33 @@ at;	丑
 avj	丁
 avk	亭
 awe	亠
-awl	兎
-axc	亳
-axj	二
-axJ	弍
+axj	二	二弍
 axk	丼
 axl	乳
-ax;	乃
-aya	氷
+ax;	亳
 ayd	丕
-ayf	眉
 azj	不
 azk	並
 azl	丙
-azv	弗
 az;	丿
-a;j	烹
+a;j	亡
 a;k	乏
-a;l	亡
 a,a	万	u,a->萬
 a,d	与
-a,f	豫
 a,m	也
-a,s	予
+a,s	予	予豫
 a.a	了
 a.d	乱
 a.D	亂
-a.f	両
-a.F	兩
+a.f	両	両兩
 a.s	亮
-a/a	歪
 bbi	佚
-bbj	以
+bbj	以	㠯以
 bbk	位
 bbl	依
 bbo	倚
 bbu	伊
 bb;	偉
-bcb	化
 bch	億	註：意の部首は心（ｈ）
 bci	俄
 bcj	価
@@ -443,9 +430,8 @@ bgu	儀
 bg;	偽
 bg:	僞
 bha	仰
-bhb	禽
+bhb	侠
 bhc	供
-bhd	侠
 bhi	俥
 bhk	俱
 bhK	倶
@@ -504,7 +490,8 @@ bm,	仕
 bm.	伺
 bm/	似
 bna	什
-bnb	舎
+bnb	舎	漢字源による部首：人
+bnB	舍	漢字源による部首：人
 bnc	住
 bns	儁
 bnv	偖
@@ -520,18 +507,18 @@ bpo	仗
 bpu	傷
 bpx	倡
 bpz	償
-bqd	仁
-bqf	仞
-bqF	仭
 bqi	僭
 bqj	人
 bqk	伸
+bql	仁
 bqm	侭
+bqo	儘
 bqp	信
-bqr	侵
 bqu	僣
-bqw	儘
+bq;	侵
 bq,	儕
+bq.	仞
+bq>	仭
 bra	俎
 bre	倩
 brj	全
@@ -576,6 +563,8 @@ bwp	儻
 bwu	佃
 bwv	仂
 bw;	働
+bxf	佞	右下に女《ｆ》がある
+bxF	侫	妄の部首は女《ｆ》
 bxi	倍
 bxj	伐
 bxk	伯
@@ -592,8 +581,8 @@ bzc	偏
 bzf	傅
 bzg	伏
 bzh	僻
-bzi	舗
-bzI	舖
+bzi	舗	漢字源による部首：人
+bzI	舖	漢字源による部首：人
 bzj	付
 bzk	併
 bzK	倂
@@ -615,9 +604,8 @@ b;l	倣
 b;z	儚
 b,b	們
 b,c	侑
-b,g	俑
 b,m	優
-b,n	愈
+b,n	俑
 b,v	傭
 b,x	佯
 b,z	俣
@@ -631,8 +619,6 @@ b.n	俐
 b.v	儖
 b.x	倆
 b.z	倫
-b.,	来
-b.<	來
 b./	侶
 b/c	倭
 b/m	伶
@@ -643,13 +629,12 @@ b/.	例
 cbj	医
 cbk	允
 cbl	凧
-cb;	斡
 ccj	加
 cck	冤
 ccv	凹
 ccx	卦
-ccz	円
-ccZ	圓
+ccz	円	圓円
+cc;	化
 cdf	囘
 cdi	凱
 cdj	刈
@@ -671,14 +656,11 @@ cf:	勸
 cga	冀
 cgc	几
 cgi	卉
-cgj	帰
-cgJ	歸
+cgj	帰	帰歸皈
 cgk	匱
 cgl	匯
 cgo	剞
 cgp	其
-cgu	舅
-cg;	疑
 cha	区
 chA	區
 chb	凶
@@ -713,7 +695,6 @@ cjo	剄
 cjp	劒
 cjP	劔
 cjs	冏
-cjv	頃
 cjx	劇
 cjz	刑
 cj;	剣
@@ -740,7 +721,8 @@ ckz	光	光炗
 ck;	剛
 ck.	凅
 ck/	冦
-cla	刪
+cla	冣	最冣㝡
+clb	刪
 clc	克
 clj	刷
 clk	刻
@@ -750,17 +732,16 @@ clV	册
 clx	削
 clz	剤
 clZ	劑
-cl;	兀
+cl;	再
 cmc	刺
 cmv	児
 cmV	兒
+cm/	匙
 cna	十
-cnb	廿
 cnc	凖	mnc->準 cnc->凖 後者は異体字なのでシフトコードに移動しても構いません
 cnk	写	寫写冩
 cnK	冩	寫写冩
-cnl	夙
-cnv	酋
+cnv	廿
 cnx	出
 cnz	充
 cn;	准
@@ -781,7 +762,6 @@ cqJ	刄
 cqk	制
 cql	凄
 cq;	勢
-cri	煎
 crj	千
 crk	切
 crl	前
@@ -800,8 +780,6 @@ csm	卆
 cso	剏
 csp	匆
 csq	𠦝	正式な発音は無いけど、部首は十で、部首を取り除くと早が残り、その読み方はソウ->（ｓ）珍しい字なので、打ち難いコードに当てることにした
-csu	曽
-csU	曾
 cs;	勦
 cs/	剿
 ctj	卓
@@ -820,7 +798,8 @@ cwj	冬
 cwk	到
 cwl	努
 cwm	兜
-cwn	兔
+cwn	兎
+cwN	兔
 cwo	動
 cwp	凍
 cwu	刀
@@ -830,6 +809,7 @@ cxi	博
 cxj	南	東西南北
 cxk	内
 cxl	凸
+cxm	嚢	囊嚢
 cxo	凪
 cxp	剥
 cxv	匂
@@ -838,6 +818,7 @@ cx;	匿
 cya	冫
 cyb	匪
 cyc	半
+cyf	冰	冰氷
 cyg	匕
 cyi	凭
 cyo	剽
@@ -845,7 +826,6 @@ cyp	卍
 cyv	卑
 cyx	匹
 cyz	判
-cy;	冰
 czc	分
 czd	卞
 czf	副
@@ -863,17 +843,14 @@ czx	匏
 cz;	勉
 c;c	勃
 c;g	匐
-c;h	鳳
 c;i	勹
 c;j	北	東西南北
 c;k	包
 c;l	凡
 c;m	匚
-c;o	冐
 c;u	卜
 c;v	剖
 c,c	務
-c,j	輿
 c,m	冥
 c,v	冶
 c,x	免
@@ -881,6 +858,7 @@ c,z	勇
 c,.	勿
 c,/	匁
 c.c	凉
+c.f	兩	両兩
 c.j	剌
 c.m	利
 c.v	劉
@@ -915,11 +893,11 @@ dbu	嗚
 db;	営	営營
 db,	噫
 dca	哦
+dcc	叱	口を取り除くと「匕」が残る->《ｃ》
 dci	厦
 dcj	可
 dck	嘉
 dcl	唹
-dcm	叱
 dco	嚶
 dcp	哥
 dcs	厭
@@ -941,13 +919,11 @@ ddw	啀
 ddy	喀
 dfa	厂
 dfd	含
-dfe	喊
 dfj	喚
 dfk	咸
 dfl	啣
 dfs	卷
-dfw	雁
-df;	贋
+df;	喊
 dga	危
 dgd	吉
 dge	吃
@@ -976,7 +952,8 @@ dhl	吟
 dho	喬
 dhq	听
 dhs	啌
-dhw	嘘
+dhw	噓
+dhW	嘘
 dh;	吁
 dja	呟
 djd	原
@@ -1045,7 +1022,7 @@ dmw	嗜
 dm;	厮
 dm,	只
 dm.	嘴
-dna	収
+dna	収	収收
 dnc	啾
 dnd	取
 dne	厨
@@ -1061,13 +1038,16 @@ dn/	呪
 dpa	召
 dpd	咲
 dpe	叙	敘敍叙
-dpf	商
+dpf	嘗	天辺に小《ｆ》らしいものがある	漢字源による部首：口
+dpF	甞	天辺に小《ｆ》らしいものがある	漢字源による部首：口
+dph	嗇
 dpi	喞
 dpj	哨
 dpk	囑
 dpo	唱
 dpr	厰
-dps	囁
+dps	商
+dpt	囁	右部に耳《ｔ》が三つある
 dpu	嘱
 dpw	嘯
 dqd	吹
@@ -1077,9 +1057,9 @@ dqj	唇
 dqr	嗔
 dqw	噬
 dq;	哂
-dra	卩
-drd	喘
-drj	善
+dra	喘
+drd	卩	字全体が部首なので一鍵三鍵同一
+drj	善	譱善
 drk	咀
 drl	啜
 drs	吮
@@ -1092,7 +1072,7 @@ dsf	咤
 dsh	噪
 dsi	叢
 dsj	叟
-dsk	巣	dsk->巣 hsk->巢 果の部首は木（ｋ）
+dsk	巣	巣巢	果の部首は木（ｋ）
 dsl	噌
 dso	喪
 dsr	嗾
@@ -1127,20 +1107,19 @@ dwr	唐
 dw;	囀
 dxf	吠
 dxg	叭
-dxh	唄
 dxi	吶
 dxj	呑
 dxk	咄
-dxl	嚢
+dxl	唄
+dxm	囊	囊嚢
 dxo	噺
 dxu	嚀
 dxv	噸
 dx;	喃
 dya	反
-dyd	轡
+dyd	品	口《ｄ》は三つある
 dyf	否
 dyk	叛
-dyp	品
 dys	嚊
 dzf	吩
 dzi	嘸
@@ -1148,19 +1127,17 @@ dzj	噴
 dzk	咐
 dzl	哺
 dz;	吻
-d;a	卯
-d;e	厖
-d;f	夘
+d;a	卯	漢字源による部首：卩《ｄ》
+d;A	夘	漢字源による部首：卩《ｄ》
+d;f	厖
 d;j	咆
-d;k	牟
-d;l	呆
+d;k	呆	下部が木《ｋ》
 d,a	命
 d,d	厄
-d,e	喩
 d,f	問
 d,m	名
 d,r	唯
-d,s	鳴
+d,s	喩
 d,w	又
 d,;	嘛
 d,.	友
@@ -1178,17 +1155,19 @@ d/d	和
 d/f	呂
 d/m	唳
 d/s	啝
+d/u	厲	部首の厂を取り除くと、萬が残り、その部首が艸〈u〉
 d/,	哢
 d/.	咾
 eba	堊
 ebd	圦
-ebh	圷
+ebh	夷	大を取り除くと弓《ｈ》が残る
 ebi	壱
 ebj	囲
 ebJ	圍
 ebk	因
 ebl	域
 ebm	埃
+ebn	圷
 ebo	塰
 ebp	囗
 ebs	堙
@@ -1196,21 +1175,21 @@ ebu	壹
 eby	塋
 eb;	圧
 eb:	壓
+ecc	園	園薗
 ech	奕
 eci	囮
 ecj	夏
 eck	奥
 ecK	奧
-ecl	堰
+ecl	塩	塩鹽
 ecm	墺
 eco	塢
 ecp	堝
 ecu	垣
-ecv	塩
-ecV	鹽
+ecv	堰
 ecx	央
 ecy	奄
-ecz	園
+ecz	圓	圓円
 ec;	夥
 eda	夬
 edf	回
@@ -1230,7 +1209,7 @@ efk	圜
 efl	坩
 efs	堪
 ega	圻
-egj	奇
+egj	奇	奇竒
 egl	基
 egw	埼
 eha	均
@@ -1238,7 +1217,6 @@ ehd	夾
 ehe	堀
 ehf	尭
 ehF	堯
-eho	粂
 ehp	垠
 ehr	墟
 ehs	圉
@@ -1282,33 +1260,34 @@ em.	址
 ena	壽
 ene	奢
 enf	塾
+enq	夙
 enr	墫
 enw	囚
-epd	嗇
 epe	奘
 epf	城
-epi	奨
-epI	獎
+epi	奨	奨奬獎
+epI	奬	奨奬獎
 epj	場
 epo	壌
 epO	壤
 epr	埴
 eps	墅
-ept	墻
-epu	奬
+ept	墻	墻牆
 epw	塲
 eqa	夊
 eqe	図
 eqE	圖
 eqi	声
 eqm	垂
+eqo	壬
 eqr	埀
 eqv	壻
 erj	夕
 erk	塑
 esa	多
 esd	夛
-ese	壯
+ese	壮
+esE	壯
 esf	増
 esF	增
 esj	奏
@@ -1345,20 +1324,18 @@ ewq	套
 ewr	填
 ewu	奠
 ew;	塘
-exi	奈
-exj	売
-exJ	賣
+exi	売	売賣
+exj	壜	曇の部首は日《ｊ》
 exk	培
 exl	坏
 exo	垪
-exu	壜
-ex;	坡
+exp	坡	右部に皮《ｐ》がある
+ex;	奈
 eya	坂
 eze	坿
 ezf	夫
 ezi	坪
-ezj	変
-ezJ	變
+ezj	塀
 ezk	壁
 ezl	埔
 ezo	埠
@@ -1367,7 +1344,7 @@ ezr	圃
 ezs	堡
 ezu	墓
 ezz	奮
-ez;	塀
+ez;	変	変變
 e;a	夲
 e;d	垉
 e;f	奉
@@ -1462,6 +1439,7 @@ fkp	寤
 fkr	媾
 fks	娯
 fk;	嫦
+fla	㝡	最冣㝡
 fld	妻
 flf	宰
 flj	察
@@ -1469,6 +1447,7 @@ flk	婚
 fls	寨
 fl;	尅
 fma	子
+fmb	姒	部首の女を取り除くと、以が残り、その部首が人〔b〕
 fmd	寺
 fme	字
 fmf	尓	你伱尓尒您
@@ -1506,13 +1485,13 @@ fpi	尚
 fpj	如
 fpk	宵
 fpo	娘
+fpq	妾	上部に立《ｑ》がある
 fpr	嫋
 fps	将
 fpS	將
 fpu	嬢
 fpU	孃
 fpw	寔
-fpy	嘗
 fqe	姓
 fqf	娠
 fqj	寝
@@ -1560,16 +1539,14 @@ fwk	奴
 fwl	宕
 fwu	嫐
 fw;	嬲
-fxf	佞
-fxg	婆
+fxf	婆
 fxi	嫩
 fxj	妊
 fxJ	姙
 fxk	媒
 fxl	寧
-fxo	侫
-fxp	寞
-fxu	孛
+fxp	孛
+fxu	寞	莫の部首は艸《ｕ》
 fxz	宍
 fx;	娚
 fya	寐
@@ -1596,15 +1573,13 @@ f;f	妨
 f;j	宝
 f;J	寶
 f;k	寳
-f,a	蜜
+f,a	孕	乃の部首は丿《ａ》
 f,d	妄
 f,e	尤
 f,f	容
 f,m	妖
 f,q	宥
-f,r	耀
 f,s	密
-f,v	孕
 f,w	姚
 f,;	孟
 f,.	妹
@@ -1613,12 +1588,12 @@ f.d	婪
 f.f	寮
 f.s	嬾
 f.,	寥
-f/d	牢
 f/f	婁
 gbi	廴
-gbj	尹
+gbj	㠯	㠯以
 gbk	庵
 gbl	帷
+gbm	尹
 gbo	幄
 gbu	已
 gb;	幃
@@ -1628,8 +1603,8 @@ gcl	峨
 gcL	峩
 gcx	崋
 gc;	廈
-gda	乢
-gdf	改
+gda	乢	漢字源による部首：山《ｇ》
+gdc	屶	下部に刀《ｃ》がある。昔は「会」と同じだったらしいので、音読みをカイとして見なす	漢字源による部首：山《ｇ》
 gdg	届
 gdG	屆
 gdi	幗
@@ -1655,10 +1630,10 @@ gf;	岸
 gf:	㟁
 gga	屹
 ggd	廐
-gge	希
+gge	屰
 ggi	屓
 ggj	崎
-ggk	畿
+ggk	希
 ggl	幾
 ggm	岌
 ggo	巍
@@ -1688,11 +1663,10 @@ gjl	幻
 gjw	广
 gj;	嶮
 gka	己
-gkb	幌
 gkd	巧
 gke	広
 gkE	廣
-gkf	攻
+gkf	幌
 gkg	尻
 gkj	岡
 gkJ	崗
@@ -1714,14 +1688,14 @@ glg	差
 glj	座
 glk	嵳
 glm	巉
-glp	犀
+glq	屮
 gls	嵯
 gl;	崑
 gma	巳
 gmd	巵
 gme	廝
 gmf	廁
-gmg	妛
+gmg	妛	漢字源による部首：山《ｇ》
 gmk	帋
 gml	岻
 gmq	幟
@@ -1734,7 +1708,6 @@ gm/	峙
 gna	尺
 gne	州	駲酬洲州
 gng	巡
-gnw	順
 gn,	峻
 gn.	廚
 gpa	庄
@@ -1763,8 +1736,9 @@ gsa	岔
 gsd	屬
 gsi	帚
 gsj	層
-gsk	属
-gsl	巽
+gsk	巢	巣巢	果の部首は木《ｋ》
+gsl	属
+gso	巽
 gs;	崢
 gta	岱
 gtj	帯
@@ -1778,7 +1752,7 @@ gvi	幀
 gvj	帳
 gvk	底
 gvl	廸
-gvo	屮
+gvo	屮
 gvu	帖
 gvx	帝
 gvz	庁
@@ -1804,7 +1778,6 @@ gxJ	廢
 gxk	年
 gxl	尿
 gxo	帛
-gxp	屶
 gxu	岶
 gxz	廼
 gx;	屯
@@ -1854,21 +1827,22 @@ g.m	廖
 g.w	巒
 g.,	履
 g./	嵐
-g/a	崙
+g/a	弄	弄挊挵
 g/e	崘
 g/g	嶺
-g/m	屡
+g/m	崙
+g/n	屡
 g/w	廬
 g/,	廉
 g/.	廊
-hba	慇
+hba	弌	一弌
+hbb	恁	任の部首が人《ｂ》
 hbc	引
-hbd	粥
 hbh	怡
 hbi	意
 hbj	惟
 hbk	恚
-hbl	恁
+hbl	慇	殷の部首は殳《ｌ》
 hbn	懿
 hbo	彙
 hbp	影
@@ -1881,13 +1855,12 @@ hb/	彝
 hb?	彜
 hca	懊
 hcg	懌
-hch	徃
 hci	悦
 hcj	彁
 hck	怏
 hcl	悁
-hco	恩
-hcp	鳶
+hco	徃	右部に生《ｏ》がある
+hcp	恩
 hcv	応
 hcV	應
 hcx	往
@@ -1989,13 +1962,14 @@ hlw	悃
 hl;	彡
 hma	式
 hmd	志
-hme	弑
+hme	慈
 hmf	思
-hmo	慈
+hml	徙	右上に止《ｌ》がある
 hmq	忸
 hmr	怩
 hms	恣
-hmw	徙
+hmv	悉
+hmw	弑
 hm;	恃
 hna	愁
 hnd	従
@@ -2026,15 +2000,14 @@ hqd	忱
 hqe	性
 hqf	您	你伱尓尒您
 hqh	慎
+hqH	愼
 hqi	悽
-hqj	愼
 hqk	怎
 hql	惴
 hqo	忰
 hqp	悴
 hqr	征
 hqs	惺
-hqt	須
 hqw	心
 hq;	彗
 hre	惜
@@ -2046,8 +2019,7 @@ hse	惣
 hsf	想
 hsh	惰
 hsi	慥
-hsj	愡
-hsk	巢	dsk->巣 hsk->巢 巢は異体字なのでコードをシフトに変更して構いません
+hsk	愡
 hsl	懦
 hso	懆
 hsp	愴
@@ -2094,8 +2066,9 @@ hxg	得
 hxh	悩
 hxH	惱
 hxi	怕
-hxj	慝
+hxj	弍	二弍
 hxk	憊
+hxl	慝
 hxo	悖
 hxp	悳
 hxv	念
@@ -2121,6 +2094,7 @@ hzf	彿
 hzh	憮
 hzi	忿
 hzo	怫
+hzp	弗
 hzv	慕
 hzx	怖
 hz;	愎
@@ -2133,18 +2107,20 @@ h;o	彭
 h;r	懋
 h;s	彷
 h,a	愉
-h,c	慾
+h,c	愈	兪の部首は入《ｃ》
 h,d	弥
 h,e	悒
 h,f	役
 h,g	彌
 h,j	弋
+h,l	慾	欲の部首は欠《ｌ》
 h,q	慂
 h,r	恙
 h,s	悠
 h,t	懣
 h,v	慵
 h,w	徭
+h,z	悶
 h,.	慢
 h,/	憂
 h.a	律
@@ -2153,8 +2129,8 @@ h.e	懶
 h.f	悧
 h.r	懍
 h.s	慄
-h.,	徠
-h./	悋
+h.,	悋
+h./	徠	来來徠
 h/a	恋
 h/A	戀
 h/d	怜
@@ -2208,16 +2184,15 @@ igp	擬
 igq	掬
 igu	技
 igw	揆
-iha	挙
-ihA	舉
+iha	挙	挙擧舉
+ihA	擧	挙擧舉
 ihd	拠
 ihD	據
 ihe	据
 ihf	拒
 ihi	拱
 iho	挾
-ihp	掀
-ihq	擧
+ihq	掀
 ihr	掘
 ihs	挟
 ihv	摎
@@ -2427,8 +2402,10 @@ i.f	拉
 i.r	擂
 i.s	攬
 i.w	撩
-i/a	捩
+i/a	挊	弄挊挵
+i/A	挵	弄挊挵
 i/d	或
+i/e	捩
 i/f	戻
 i/s	撈
 i/v	攣
@@ -2436,6 +2413,7 @@ jba	暎
 jbj	曖
 jbk	暗
 jbl	映
+jbo	斡
 jbp	暈
 jbz	晏
 jb;	曳
@@ -2445,21 +2423,22 @@ jck	旺
 jcl	暇
 jcv	易
 jc;	曰
+jdf	斈	下部に子《ｆ》がある
 jdj	會	会會
 jdk	曷
-jdl	斈
-jd;	晦
+jdl	晦	毎の部首は毋《ｌ》
+jd;	改
 jfa	旱
 jfj	敢
 jga	曁
 jgi	旗
-jgj	旧
+jgj	旧	旧舊
 jgk	既
 jgl	救
-jgo	旡
 jgp	晞
 jgq	暉
 jgs	曦
+jgu	旡
 jgw	朞
 jg;	期
 jha	斤
@@ -2475,8 +2454,7 @@ jjf	月
 jjs	景
 jka	攷
 jkc	昿
-jkd	昂
-jke	杲
+jkd	攻
 jkf	更
 jkj	故
 jkl	昴
@@ -2489,10 +2467,12 @@ jkw	晤
 jkx	昊
 jkz	敖
 jk;	敲
-jla	最
+jk/	昂
+jla	最	最冣㝡	漢字源による部首：曰《ｊ》
 jld	昨
 jle	斛
 jlf	昆
+jlg	朔	右部の屰の部首は屮《ｇ》
 jlj	散
 jlk	暫
 jlr	晒
@@ -2502,10 +2482,9 @@ jma	施
 jmd	旨
 jme	斯
 jmf	時
-jmr	匙
 jms	支
 jmw	昵
-jna	收
+jna	收	収收
 jnd	春
 jnf	旬
 jnk	斫
@@ -2548,6 +2527,8 @@ jr;	旃
 jsd	曹
 jsf	族
 jsj	早
+js;	曽
+js:	曾
 jti	晝
 jtj	替
 jtk	昼
@@ -2563,13 +2544,13 @@ jvl	朝
 jvx	晁
 jvz	暢
 jv;	敵
+jv.	𣇄	鼎𣇄
 jwj	斗
 jxc	敗
 jxi	曩
 jxj	日
 jxk	旆
 jxl	敦
-jxo	霸
 jxv	曇
 jxz	曝
 jx;	暾
@@ -2589,16 +2570,18 @@ jzI	旙
 jzj	暮
 jzk	敷
 jzl	无
+jzn	斧	斧𨨞	右上に父《ｎ》がある
 jzv	普
 jzx	文
 jz;	敝
 j;a	暴
 j;d	放
 j;e	旁
-j;f	方
-j;j	攴
+j;f	冐	冒冐	漢字源による部首：月《ｊ》
+j;j	方
 j;k	朋
 j;l	攵
+j;m	攴
 j;s	望
 j;w	旄
 j,a	有
@@ -2704,7 +2687,6 @@ khv	椚
 khw	栩
 khz	橇
 kh;	桾
-kh/	渠
 kja	杰
 kjd	枅
 kje	檠
@@ -2726,6 +2708,7 @@ kkj	構
 kkl	杞
 kkm	椌
 kkn	楜
+kkp	杲
 kkq	槓
 kkr	杭
 kks	枯
@@ -2815,6 +2798,7 @@ kre	栫
 krj	栓
 krk	染
 krl	梳
+kro	楚	下部に疋《ｏ》がある
 krq	槭
 krw	椄
 kr;	析
@@ -2962,6 +2946,8 @@ k.v	欖
 k.w	梁
 k.x	櫑
 k.z	楞
+k./	来	来來徠
+k.?	來	来來徠	漢字源による部首：木《ｋ》
 k/a	柆
 k/c	榴
 k/d	楼
@@ -3001,13 +2987,14 @@ lfk	歓
 lfK	歡
 lga	气
 lgi	欷
-lgj	気
+lgj	歸	帰歸皈
 lgk	毀
 lgl	欺
 lgo	毬
+lgp	毅
 lgq	氣	愾氣滊餼
 lgu	歙
-lg;	毅
+lg;	気
 lhd	欽
 lhf	欣
 lhs	歔
@@ -3046,7 +3033,8 @@ lxj	毒
 lya	殯
 lyd	殍
 lyf	比
-lys	琵
+lys	毘
+lyS	毗
 lzc	武
 lzj	毋
 lzk	氛
@@ -3056,12 +3044,14 @@ lz;	殕
 l;d	氓
 l;f	歿
 l,a	毎
+l,A	每
 l,d	民
 l,e	歟
 l,f	毛
 l,m	殀
 l,r	毟
 l,s	欲
+l/a	歪
 l/d	歛
 l/f	歴
 mba	瀛
@@ -3120,11 +3110,12 @@ mgw	沂
 mg,	泣
 mg.	汽
 mg/	汲
-mha	洫
+mha	渠
 mhd	漁
+mhe	澆	土《ｅ》は三つある
 mhf	況
 mhs	洶
-mh;	澆
+mhv	洫	下部に血《ｖ》がある
 mja	源
 mjd	渓
 mje	溪
@@ -3175,19 +3166,19 @@ mm,	漬
 mm.	沚
 mm/	泗
 mna	潤
-mnb	灑
 mnc	準	mnc->準 cnc->凖 後者は異体字なのでシフトコードに移動しても構いません
-mnd	酒
+mnd	瀉
+mnD	泻
 mne	洲	駲酬洲州
 mnf	汁
 mng	溲
 mnk	澁
-mnl	渋
+mnl	渋	右上に止《ｌ》がある
 mnL	澀
 mnq	湫
 mnr	浚
 mns	淑
-mnt	瀉
+mnt	灑
 mnv	洙
 mnw	淳
 mnx	濡
@@ -3318,13 +3309,14 @@ myA	濱
 myc	潘
 myd	汎
 mye	漂
-myf	氾
+myf	氷	冰氷
+myg	泯
 myq	渺
 myr	泛
 mys	泌
 myt	瀰
 myv	溽
-myw	泯
+myw	氾
 myx	濔
 myz	瀕
 mzc	浮
@@ -3413,6 +3405,7 @@ nck	焉
 ncl	焔
 ncn	牙
 ncv	火
+ncV	灬
 ncx	炎
 ncz	煙
 nc;	烟
@@ -3443,12 +3436,13 @@ nhf	狂
 nhr	燻
 nhs	狗
 nh;	煦
-nja	炯
+nja	牽
 njd	玄
 nje	猊
 njf	犬
 njk	狽
 njl	狷
+njq	炯
 njr	煢
 njs	献
 njS	獻
@@ -3467,8 +3461,9 @@ nkw	熕
 nkz	炗	光炗
 nk;	牾
 nla	犲
-nld	采
+nld	采	漢字源による部首：爪《ｎ》
 nlf	災
+nlg	犀	部首の牛のほかには、尸《ｇ》がある
 nlk	猜
 nln	焜
 nlr	爨
@@ -3478,27 +3473,28 @@ nmd	獅
 nmf	熾
 nmk	爾	爾儞
 nna	熟
-nnc	爍
-nnd	狩
-nne	爵
-nnf	邪
-nnk	倏
+nnd	獣	左部にツ《ｄ》＋口《ｄ》がある
+nnD	獸
+nne	倏	倏倐	漢字源による部首：犬《ｎ》	右上に夂《ｅ》がある
+nnE	倐	倏倐	漢字源による部首：火《ｎ》	右上に夂《ｅ》がある
+nnf	狩	右部に宀《ｆ》＋寸《ｆ》がある
+nnk	爍	樂の部首は木《ｋ》
 nnl	炙
 nnr	灼
 nns	煮
-nnw	獣
-nnW	獸
+nnw	爵	爪の下に覀《ｗ》がある
 nn;	狃
 npa	焦
 npd	照
 npe	犹
 npf	状
 npF	牀
+npi	獎	奨奬獎
 npo	爿
-npq	牆
 npr	猩
 nps	焼
 npS	燒
+npt	牆	墻牆
 npv	烝
 npw	猖
 npz	燮
@@ -3506,20 +3502,21 @@ nqe	牲
 nqn	燧
 nqr	燼
 nqw	炊
-nre	燹
+nre	煎
 nrn	然
 nrq	狙
 nrw	煽
 nr;	爼
+nr.	燹
 nr/	牋
 nsa	率
-nsd	壮
 nse	燭
-nsf	争
-nsF	爭
+nsf	爭	部首：爪	爭争
+nsj	牕	窓牕
 nsk	熄
 nsl	炒
 nsn	爪
+nsr	爽
 ns;	燥
 ns/	猝
 ntl	煖
@@ -3562,13 +3559,14 @@ nzc	片
 nzn	牡
 nzv	物
 nzx	父
-nz,	斧
 nz.	炳
 nz/	焚
-n;a	焙
-n;d	炮
+n;a	烹	享の部首は亠《ａ》
+n;c	炮	包の部首は勹《ｃ》
+n;d	牟	上部にム《ｄ》がある
 n;f	牧
 n;n	犇
+n;q	焙	右上に立《ｑ》がある
 n;s	烽
 n,a	熊
 n,d	無
@@ -3590,11 +3588,12 @@ n.r	燗
 n.s	烙
 n.w	燐
 n./	犖
-n/a	狼
+n/a	炉
+n/A	爐
 n/d	烈
-n/f	炉
-n/F	爐
+n/f	牢	上部に宀《ｆ》がある
 n/k	猥
+n/n	狼
 n/s	煉
 oba	痾
 obh	瓔
@@ -3630,11 +3629,13 @@ ofo	甘
 ofp	疳
 ofs	癇
 ofu	環
-oga	瘧
-ogi	球
-ogo	疚
+oga	疚	久の部首は丿《ａ》
+ogi	畿	畿の中に戈《ｉ》がある
+ogj	玖
+ogk	瘧
+ogo	球
 ogp	畸
-ogu	玖
+ogu	疑
 oha	畊
 ohd	琴
 ohe	疆
@@ -3662,13 +3663,12 @@ olj	瑣
 olk	瑳
 ols	珊
 oma	瓷
-omc	疵
 omd	璽
 ome	瑟
 omf	疾
+oml	疵	此の部首は止《ｌ》
 omr	痣
 oms	珥
-omv	鴫
 omw	畤
 ond	甃
 onf	珠
@@ -3679,7 +3679,6 @@ opD	疂
 ope	疊
 opE	疉
 opf	璋
-opo	甞
 ops	瘴
 oqe	生
 oqf	瘁
@@ -3690,15 +3689,15 @@ oqr	甚
 oqu	疹
 oqw	申
 ora	癬
-ore	疏
+ore	疋
 orh	瘠
 ori	疝
-orj	甎
+orj	甦	更の部首は曰《ｊ》
 oro	疎
 orp	痊
-orq	楚
+orq	甎
 oru	疽
-orw	甦
+orw	疏
 ory	甅
 osi	瘡
 oso	痩
@@ -3710,7 +3709,6 @@ otj	畴
 otJ	疇
 oto	男
 otO	♂
-otp	蛋
 otq	痰
 ots	琢
 otu	痴
@@ -3732,30 +3730,29 @@ owo	田
 owp	甸
 owq	畋
 owr	癜
+owt	甜	左部は甘《ｏ》
 owu	痘
 oxb	瑙
 oxc	瓲
-oxg	琲
 oxh	璞
-oxi	壬
+oxi	琲
 oxj	珮
 oxk	琶
 oxo	畑
 oxp	珀
 oxu	玻
-oxv	畠
+oxv	畠	漢字源による部首：田《ｏ》
 oxy	癈
 oya	病
+oyc	琵	匕《ｃ》がある
 oyd	番
 oye	畔
 oyf	班
-oyg	瘢
-oyq	毘
 oyr	瓶
 oys	疲
-oyt	痺
+oyt	瘢	般の部首は舟《ｔ》
 oyv	畢
-oyw	疋
+oyw	痺
 oyx	瓢
 oyz	痞
 ozc	瘋
@@ -3807,12 +3804,11 @@ o.v	癩
 o.w	琉
 o.x	痳
 o.,	璃
-o/a	弄
+o/a	癘
 o/c	癧
 o/d	玲
 o/e	璢
 o/f	琅
-o/j	癘
 o/q	瓏
 o/r	瘰
 o/s	瑠
@@ -3848,10 +3844,10 @@ pfs	瞰
 pfu	監
 pga	瞶
 pgi	癸
-pgj	磯
+pgj	皈	帰歸皈
 pgo	皀
 pgp	碕
-pgu	皈
+pgu	磯
 pgz	礒
 pha	皎
 phd	矜
@@ -3862,7 +3858,7 @@ phs	矩
 phw	皹
 pja	眩
 pjd	県
-pjD	縣
+pjD	縣	漢字源による部首：目
 pje	硯
 pjf	研
 pjg	碣
@@ -3872,10 +3868,11 @@ pjr	睨
 pjs	盻
 pjt	磬
 pjw	眷
-pka	矼
+pka	皷	皷鼓
 pkd	硬
 pke	磺
 pkf	皇
+pkg	矼	右部は工《ｇ》
 pkj	盍
 pkm	盒
 pkp	皐
@@ -3948,9 +3945,8 @@ pwq	礑
 pwr	盪
 pwu	登
 pwy	碾
-pxb	頗
+pxb	碚
 pxc	癶
-pxg	碚
 pxh	碯
 pxi	発
 pxI	發
@@ -3965,7 +3961,8 @@ pya	皮
 pyd	百
 pye	礬
 pyf	碑
-pyp	眇
+pyp	眉	部首：目
+pyq	眇
 pyr	砒
 pys	盤
 pyw	磐
@@ -3975,14 +3972,15 @@ pzp	皿
 pzu	碧
 pzv	瞥
 p;a	睦
+p;c	皰	包の部首は勹《ｃ》
 p;d	盆
 p;e	磅
-p;f	冒
-p;j	眸
-p;k	皰
-p;m	皃
+p;f	冒	冒冐	漢字源による部首：目《ｐ》
+p;m	眸
 p;r	硼
 p;s	砲
+p;v	皃	貌皃㒵
+p;V	㒵	貌皃㒵	漢字源による部首：白《ｐ》
 p,a	眠
 p,c	矇
 p,d	目
@@ -4005,7 +4003,8 @@ p/s	碗
 p/w	盧
 qbj	移
 qbk	禹
-qbl	穎
+qbl	穎	穎頴
+qbL	頴	穎頴	漢字源による部首：頁《，》	大漢和辞典による部首：禾《ｑ》
 qb;	穢
 qci	禾
 qcj	科
@@ -4019,17 +4018,18 @@ qdj	穫
 qfj	稈
 qge	稘
 qgi	穹
-qgj	究
+qgj	竒	奇竒	漢字源による部首：立《ｑ》
 qgk	祈
 qgl	窮
 qgm	禧
 qgn	窺
-qgo	竒
+qgo	祁
 qgp	稀
 qgq	祺
 qgu	祇
-qg;	祁
+qg;	究
 qhe	窟
+qhf	禽
 qhi	竏
 qhk	禦
 qhl	竟
@@ -4067,12 +4067,12 @@ qnl	竪
 qnq	祝
 qnr	秋
 qnR	秌
+qnt	禸	漢字源による読み方：ジュウ
 qnw	社
 qnW	社
 qn;	種
 qpe	称
-qpf	妾
-qpg	秤
+qpf	秤
 qph	竦
 qpi	稱
 qpj	稙
@@ -4103,9 +4103,10 @@ qrq	窃
 qrw	竰
 qr;	禅
 qr:	禪
-qsj	窓
+qsj	窓	窓牕
 qsk	稍
-qsl	窗
+qsm	窗
+qsM	窻
 qs;	竃
 qs:	竈
 qti	稠
@@ -4155,8 +4156,8 @@ q,.	窈
 q,/	穃
 q.e	稜
 q.m	窿
+q.q	立	字全体が部首なので一鍵三鍵同一
 q.r	稟
-q.w	立
 q.,	禀
 q/m	窪
 q/w	窶
@@ -4181,15 +4182,16 @@ rgj	笈
 rgk	箕
 rgl	簣
 rg;	籏
-rha	箜
+rha	粂	久の部首は丿《ａ》
 rhe	粁
 rhi	筥
 rhl	篋
 rho	筴
 rhp	箟
-rhq	筺
+rhq	箜	空の部首は穴《ｑ》
 rhr	筋
 rhw	筐
+rhW	筺
 rh;	箘
 rje	筧
 rjr	笄
@@ -4203,7 +4205,6 @@ rkr	粳
 rkw	糊
 rk;	篝
 rk/	簧
-rla	纂
 rle	算
 rli	簀
 rlj	粲
@@ -4221,8 +4222,9 @@ rmr	竺
 rmw	粢
 rm,	篩
 rna	糅
-rne	笋
-rnw	筍
+rnq	筍
+rnQ	笋
+rnr	粥
 rpe	粧
 rpq	笙
 rpr	笑
@@ -4257,6 +4259,7 @@ rsk	箏
 rsK	筝
 rsl	篠
 rsL	筱
+rsm	粟
 rso	簇
 rsp	籔
 rsP	䉤
@@ -4414,6 +4417,7 @@ sle	繖
 slf	索
 slj	紗
 slk	紮
+slm	纂
 slr	縡
 sls	細
 slv	纔
@@ -4459,7 +4463,6 @@ srk	組
 srl	線
 srL	綫
 srm	紲
-srn	譱
 sro	素
 srp	緤
 srs	繊
@@ -4583,17 +4586,19 @@ tfj	肝
 tfk	艦
 tfl	翫
 tf;	翰
-tgi	舊
-tgj	臼
+tgd	翕	合の部首は口《ｄ》
+tgi	耆
+tgj	舊	旧舊
 tgk	肌
 tgl	脚
-tgo	艤
-tgu	翕
-tg;	耆
-tha	脇
-the	胸
-tht	翹
-thw	脅
+tgo	舅	男の部首は田《ｏ》
+tgs	艤	義の部首は羊《ｓ》
+tg;	臼
+tha	舉	挙擧舉
+the	翹	土《ｅ》が三つある
+thq	脅
+tht	脇
+th;	胸
 tja	腱
 tjq	舷
 tjt	肩
@@ -4618,7 +4623,6 @@ tk;	航
 tk.	膏
 tk/	肴
 tlj	腮
-tlk	朔
 tma	肢
 tmd	膩
 tme	耳
@@ -4676,8 +4680,6 @@ trk	脊
 trl	船
 tro	翦
 trs	舛
-tru	膤
-trw	舍
 tr;	腺
 tsi	艝
 tsj	臓
@@ -4716,7 +4718,6 @@ twi	耨
 twj	胴
 twk	艟
 twl	臀
-two	甜	右部は甘(o)
 tw;	腆
 txi	脳
 txI	腦
@@ -4755,22 +4756,23 @@ t;e	耄
 t;j	膨
 t;k	胞
 t;l	肪
-t;s	鵬
 t;t	翻
 t;w	舫
-t,a	肬
+t,a	耀
 t,d	舁
 t,e	膜
+t,f	肬	右部に尢がある
 t,j	膺
 t,l	艨
 t,m	脈
 t,n	與
-t,q	耶
+t,q	脉
+t,r	膤	漢字源による部首：にくづき
 t,s	腴
 t,t	腰
 t,w	翼
 t,z	翊
-t,;	脉
+t,;	耶	右部が阝《；》
 t,,	臾
 t,.	耗
 t,/	翌
@@ -4793,6 +4795,7 @@ t/w	艪
 t/W	艣
 t/,	腕
 t/.	老
+t//	聾	上部は龍《／》
 uba	茵
 ubc	蔚
 ubd	薀
@@ -4808,7 +4811,7 @@ ubz	茴
 ub;	菴
 uca	茆
 ucb	莪
-ucc	薗
+ucc	薗	園薗
 ucg	莚
 uch	蓊
 uci	芽
@@ -4841,8 +4844,8 @@ ufo	莟
 ufp	蒄
 ufu	菅
 ugi	萓
+ugj	韮	韮韭	漢字源による部首：艸《ｕ》
 ugo	葵
-ugp	韮
 ugu	菊
 uha	芹
 uhd	菌
@@ -4964,8 +4967,10 @@ uso	葬
 usp	蒼
 usr	蔟
 uss	艸
+usS	艹
 usu	蔵
 usU	藏
+usw	艹
 us;	荼
 uti	蓄
 uto	苔
@@ -5074,6 +5079,7 @@ u/e	蕗
 u/f	莨
 u/i	薐
 u/l	藜
+u/r	蓮
 u/s	苓
 u/u	蘆
 u/v	蘢
@@ -5171,6 +5177,7 @@ vm,	衄
 vm.	蛭
 vm/	蝨
 vnc	蛇
+vnk	蟀
 vnl	襦
 vnv	袖
 vnx	術
@@ -5178,7 +5185,7 @@ vnz	衆
 vn;	蠢
 vn,	蜥
 vn.	螽
-vn/	蟀
+vn/	襲
 vpc	蝕
 vpd	蜀
 vpi	裳
@@ -5199,7 +5206,6 @@ vqp	蜃
 vqu	蚋
 vq;	蚓
 vq,	蜻
-vq.	雖
 vq/	襯
 vra	褻
 vre	蠕
@@ -5219,13 +5225,14 @@ vtJ	䖝
 vtk	衷
 vtl	袋
 vtm	蟲
-vto	蜘
-vtp	襌
-vtP	褝
+vto	蛋	上部に疋《ｏ》がある
+vtp	蜘	知の部首は矢《ｐ》
 vtq	蟄
 vtu	蛛
 vtw	褫
-vt;	袒
+vt;	襌
+vt:	褝
+vt.	袒
 vt/	襷
 vvi	蟶
 vvj	袮
@@ -5277,13 +5284,14 @@ v;s	裹
 v;v	蚌
 v;x	蚫
 v;z	袤
+v,a	蛹
 v,c	蚰
 v,d	蝣
 v,m	融
 v,s	螟
 v,v	裕
 v,x	裄
-v,z	蛹
+v,z	蜜
 v,.	蝿
 v,>	蠅
 v,/	蝓
@@ -5310,6 +5318,7 @@ v/.	裂
 wbi	諳
 wbj	詠
 wbk	襾
+wbK	覀	漢字源では、これは襾の変形とされている
 wbl	詑
 wbu	謂
 wb;	詒
@@ -5444,22 +5453,22 @@ wqr	誠
 wqw	誰
 wq;	診
 wra	詛
-wrj	設
+wrj	譱	譱善
 wrk	訴
 wrl	詮
+wrw	設
 wr;	説
-wsj	粟
-wsk	詫
+wsj	詫
+wsk	譟	右下に木《ｋ》がある
 wsl	諍
-ws;	譟
+wta	註	主の部首は丶《ａ》
 wti	覃
 wtj	談
 wtk	託
 wtl	誕
 wto	誅
 wtp	謫
-wtu	註
-wtw	譚
+wtw	譚	右上に覀《ｗ》がある
 wt;	諾
 wvi	詆
 wvj	訂
@@ -5481,8 +5490,8 @@ wxi	訥
 wxj	認
 wxk	読
 wxK	讀
-wxl	覇
-wx;	豚
+wxl	豚
+wx;	覇	霸覇
 wye	誹
 wyp	譬
 wyq	謬
@@ -5492,10 +5501,12 @@ wzi	誣
 wzj	訃
 wzk	覆
 wzl	譜
+wzm	覓
+wzM	覔
 wzo	諷
 wzp	謨
 wzu	諞
-wz;	覓
+wz;	變	変變
 w;e	訪
 w;j	謗
 w;r	豊
@@ -5509,6 +5520,7 @@ w,n	謾
 w,q	謎
 w,r	訳
 w,R	譯
+w,s	豫	予豫
 w,t	覦
 w,w	誘
 w,.	諭
@@ -5518,9 +5530,9 @@ w.e	覧
 w.E	覽
 w.r	詈
 w.,	諒
-w/j	話
-w/k	論
-w/l	誄
+w/m	話
+w/,	論
+w/.	誄
 xbj	軋
 xbk	貽
 xbl	軼
@@ -5539,6 +5551,7 @@ xdl	貉
 xd;	赫
 xfj	貫
 xfk	轗
+xf;	贋	雁の部首は隹《；》
 xgi	躬
 xgj	軌
 xgk	起
@@ -5679,17 +5692,18 @@ xwo	輾
 xwp	躔
 xwu	蹈
 xw;	賭
-xxc	輩
-xxi	貊
+xxc	貊
+xxi	賣	売賣
 xxj	弐
 xxJ	貳
 xxk	貝
 xxl	軟
-xxo	跛
-xxp	跋
+xxm	貘
+xxo	跋
+xxp	跛	右部に皮《ｐ》がある
 xxu	貮
 xxv	賠
-xxz	貘
+xxz	輩
 xx;	買
 xyb	蹕
 xyc	販
@@ -5698,6 +5712,7 @@ xyi	豹
 xyo	賓
 xyO	賓
 xyp	豼
+xys	轡	車の左右に糸《ｓ》がある
 xyv	貧
 xyx	費
 xyz	貔
@@ -5714,10 +5729,11 @@ xzx	賁
 xz;	貶
 x;c	貿
 x;j	蹼
-x;v	貌
+x;v	貌	貌皃㒵
 x,a	軅
 x,b	軈
 x,c	踊
+x,j	輿
 x,m	躍
 x,v	輸
 x,x	軛
@@ -5799,23 +5815,25 @@ yle	醋
 ylf	込
 yls	酷
 ylw	逧
-yma	悉
 ymd	辤	辤辞辭 [辤]は異体字なのでコードをシフトに移動しても構いません
 ymf	辞	辤辞辭
 ymF	辭	辤辞辭
 yms	邇
 ymS	迩
 yna	述
+ynb	酋
 ync	醜
 ynd	重
 yne	酬	駲酬洲州
 ynf	週
 yng	這
-ynq	逎
+ynn	邪	左部に牙《ｎ》がある
+ynq	酒
 ynr	酌
 yns	釈
 ynS	釋
 ynt	遒
+ynT	逎
 ynv	遮
 ynw	遵
 ynx	醇
@@ -5832,14 +5850,13 @@ yqe	辛
 yqf	辷
 yqg	酳
 yqi	酔
-yqj	辰
-yqk	醉
-yql	隨
 yqo	遂
 yqp	醒
 yqr	逝
 yqt	邃
+yqu	醉
 yqw	迅
+yqy	辰	字全体が部首になっている為、三鍵目がy
 yq;	進
 yre	選
 yrp	酥
@@ -5926,6 +5943,7 @@ y,a	野	野埜
 y,c	酩
 y,d	遊
 y,e	邑
+y,E	阝	漢字源：「阝は邑の変形」とされている
 y,f	迷
 y,q	釉
 y,r	酉
@@ -5948,8 +5966,7 @@ y.,	遼
 y/a	醪
 y/d	連
 y/f	郎
-y/s	蓮
-y/v	醴
+y/s	醴
 zbj	鋭
 zbk	錏
 zbl	鎰
@@ -6077,6 +6094,7 @@ zyz	鐇
 zzj	釜
 zzk	釡
 zzl	鋪
+zzn	𨨞	斧𨨞	右上に父《ｎ》がある
 zz;	錻
 z;c	鉾
 z;v	鋩
@@ -6145,14 +6163,15 @@ z/.	鈴
 ;dm	闊
 ;ds	鞨
 ;d;	閣
-;fd	閑
+;fa	閑
+;fd	雁	雁鳫
 ;fj	陥
 ;fJ	陷
 ;fk	関
 ;fK	關
 ;fl	間
 ;f;	韓
-;gj	韭
+;gj	韭	韮韭
 ;gk	鞠
 ;gl	鞫
 ;ha	鞏
@@ -6160,13 +6179,15 @@ z/.	鈴
 ;hf	響
 ;hF	響
 ;hs	陜
-;ja	阮
+;ja	険
+;jA	險
 ;jd	隙
 ;je	闃
-;jf	険
-;jF	險
+;jf	𨿸	𨿸雞鶏鷄
+;jF	雞	𨿸雞鶏鷄
 ;jk	閠
 ;jl	靹
+;jq	阮
 ;jr	闕
 ;js	限
 ;jw	閨
@@ -6184,7 +6205,6 @@ z/.	鈴
 ;lD	雜
 ;lf	際
 ;lk	鞐
-;ls	隹
 ;ma	閾
 ;md	阯
 ;mf	雌
@@ -6209,9 +6229,11 @@ z/.	鈴
 ;qd	靖
 ;qe	震
 ;qf	隧
+;qg	隹	スイ
 ;qi	靱
 ;qI	靭
 ;qj	随
+;qJ	隨
 ;qk	陣
 ;ql	青
 ;qm	靫
@@ -6219,6 +6241,7 @@ z/.	鈴
 ;qo	陬
 ;qr	陲
 ;qu	隋
+;qv	雖	左下に虫《ｖ》がある
 ;qw	静
 ;qW	靜
 ;qy	雛
@@ -6253,7 +6276,7 @@ z/.	鈴
 ;v;	陟
 ;we	陦
 ;wi	鞜
-;wj	闘
+;wj	闘	闘鬪鬭	漢字源による部首：門《；》
 ;wk	電
 ;wl	陶
 ;wm	韜
@@ -6269,9 +6292,10 @@ z/.	鈴
 ;xk	閥
 ;xl	陪
 ;xm	霈
+;xp	陌	百の部首は白《ｐ》
 ;xv	鞄
 ;xz	鞆
-;x;	陌
+;x;	霸	霸覇
 ;ya	鞁
 ;yd	阪
 ;ye	鞴
@@ -6295,14 +6319,13 @@ z/.	鈴
 ;,a	陽
 ;,c	雍
 ;,d	面
-;,e	悶
+;,e	靺
 ;,f	門
 ;,m	霧
 ;,r	阨
 ;,s	雄
 ;,v	靨
 ;,w	閖
-;,x	靺
 ;.a	雷
 ;.d	隆
 ;.e	霖
@@ -6324,7 +6347,6 @@ z/.	鈴
 ;/s	霊
 ;/S	靈
 ,ba	饐
-,bc	頴
 ,bm	飲
 ,bM	飮
 ,bx	餡
@@ -6381,7 +6403,7 @@ z/.	鈴
 ,hx	饉
 ,hz	驍
 ,h;	饗
-,ja	頚
+,ja	頃
 ,jc	騫
 ,jd	験
 ,jD	驗
@@ -6394,6 +6416,7 @@ z/.	鈴
 ,jv	馨
 ,jw	髻
 ,jx	顴
+,j,	頚
 ,ka	顧
 ,kd	高
 ,ke	鬨
@@ -6413,9 +6436,10 @@ z/.	鈴
 ,ms	駟
 ,m,	髭
 ,na	鬚
-,nd	馴
+,nd	順
 ,ne	駲	駲酬洲州
 ,nf	首
+,ng	馴	右部に川《ｇ》がある
 ,nr	驟
 ,ns	駿
 ,pa	餉
@@ -6429,6 +6453,7 @@ z/.	鈴
 ,pw	顳
 ,qr	駸
 ,qw	騅
+,q,	須
 ,q.	髄	膸髄髓
 ,q>	髓	膸髄髓
 ,re	饌
@@ -6460,9 +6485,9 @@ z/.	鈴
 ,wa	鬥
 ,we	騰
 ,wf	饕
+,wj	鬪	闘鬪鬭
+,wJ	鬭
 ,wm	頭
-,wq	鬪
-,wQ	鬭
 ,wr	骰
 ,w,	駑
 ,w.	鬧
@@ -6472,6 +6497,7 @@ z/.	鈴
 ,xM	髮
 ,xv	頓
 ,xz	髑
+,x;	頗
 ,x,	飩
 ,x.	駁
 ,x/	驀
@@ -6535,14 +6561,16 @@ z/.	鈴
 .ca	鴎
 .cA	鷗
 .cg	鴨
-.ch	鰛
+.ch	鳶	上部に弋《ｈ》がある
 .cj	鴬
 .ck	鵝
+.cl	鹽	塩鹽
 .cm	鵞
 .cn	鰕
 .cv	鰮
 .cx	鶯
 .cz	魘
+.c;	鰛
 .c,	鴛
 .c.	鯣
 .c/	鴦
@@ -6558,7 +6586,7 @@ z/.	鈴
 .d.	鮖
 .d/	鱠
 .fa	鰔
-.fd	鳫
+.fd	鳫	雁鳫
 .fj	鹹
 .fm	鸛
 .fs	鴈
@@ -6574,10 +6602,9 @@ z/.	鈴
 .jd	鯨
 .je	鹸
 .jE	鹼
-.jf	鶏
-.jF	鷄
+.jf	鶏	𨿸雞鶏鷄
+.jF	鷄	𨿸雞鶏鷄
 .jq	鵙
-.jr	雞
 .js	鴃
 .jv	鰹
 .jw	鯢
@@ -6605,8 +6632,9 @@ z/.	鈴
 .ma	鴟
 .md	鰤
 .mf	鮨
+.mo	鴫	左部は田《ｏ》
 .ms	鯔
-.m.	鵄
+.mt	鵄	右部は至《ｔ》
 .na	鰍
 .nd	鵲
 .ne	鶸
@@ -6662,15 +6690,18 @@ z/.	鈴
 .z,	鵡
 .z.	鰒
 .z/	鵐
-.;a	鶩
+.;a	鳳	鳥の上に一《ａ》がある
+.;c	鴇	左部に匕《ｃ》と十《ｃ》がある
 .;d	魴
-.;f	鴇
+.;f	鶩
+.;j	鵬	朋の部首は月《ｊ》
 .;s	鴾
 .,a	魍
-.,d	鷹
+.,d	鳴	左部は口《ｄ》
 .,f	魔
 .,m	魅
 .,s	鰻
+.,;	鷹	鳥の上に隹《；》がある
 .,.	鷂
 ..a	鷯
 ..d	鰡
@@ -6692,7 +6723,7 @@ z/.	鈴
 /dm	齶
 /fj	鼾
 /f/	龕
-/gm	亀
+/gm	亀	漢字源による部首：龜《／》
 /gM	龜
 /g,	麹
 /g.	麾
@@ -6705,9 +6736,8 @@ z/.	鈴
 /jd	麑
 /jf	黔
 /js	黥
-/ka	黌
-/kd	鼓
-/kD	皷
+/ka	鼓	皷鼓
+/kd	黌
 /kf	黄
 /kF	黃
 /ks	齬
@@ -6715,11 +6745,10 @@ z/.	鈴
 /lD	齋
 /lf	黒
 /ls	齪
-/mf	歯
+/mf	歯	漢字源による部首：齒《／》
 /mF	齒
 /na	麝
 /nd	麈
-/nf	襲
 /ns	齣
 /pf	黍
 /qe	齔
@@ -6735,7 +6764,7 @@ z/.	鈴
 /tw	黛
 /vm	齠
 /v,	黜
-/v.	鼎
+/v.	鼎	鼎𣇄
 /we	黨
 /wr	鼕
 /w;	點	/w;->點 nwh->点 [;]（セミコロン）に点が入っているから
@@ -6765,7 +6794,7 @@ z/.	鈴
 /,r	麿
 /,s	麺
 /,/	龠
-/.f	竜
+/.f	竜	漢字源による部首：龍《／》
 /.F	龍
 /.,	麟
 //a	鹿
@@ -6774,14 +6803,12 @@ z/.	鈴
 //m	黎
 //s	齢
 //S	齡
-//,	聾
 _342C	㐬
 _342E	㐮
 _3468	㑨
 _346A	㑪
 _3402	㐂
 _3406	㐆
-_34B5	㒵
 _34BC	㒼
 _34C1	㓁
 _34C7	㓇
@@ -6802,7 +6829,6 @@ _3696	㚖
 _3699	㚙
 _3605	㘅
 _36CF	㛏
-_3761	㝡
 _3762	㝢
 _376B	㝫
 _376C	㝬
@@ -6812,7 +6838,6 @@ _37E2	㟢
 _37E8	㟨
 _37F4	㟴
 _37FD	㟽
-_382F	㠯
 _3836	㠶
 _3840	㡀
 _385C	㡜
@@ -7013,7 +7038,6 @@ _5103	儃
 _5106	儆
 _5108	儈
 _510B	儋
-_51A3	冣
 _51AD	冭
 _51BC	冼
 _51C3	凃
@@ -7072,7 +7096,6 @@ _5300	匀
 _530A	匊
 _530B	匋
 _53A4	厤
-_53B2	厲
 _53B4	厴
 _53B7	厷
 _53C0	叀
@@ -7158,7 +7181,6 @@ _563F	嘿
 _5647	噇
 _5649	噉
 _5640	噀
-_5653	噓
 _565E	噞
 _5666	噦
 _5660	噠
@@ -7185,7 +7207,6 @@ _56B2	嚲
 _56B3	嚳
 _56C5	囅
 _56C9	囉
-_56CA	囊
 _56DF	囟
 _56E8	囨
 _56F6	囶
@@ -7294,7 +7315,6 @@ _59BC	妼
 _59C3	姃
 _59C8	姈
 _59CD	姍
-_59D2	姒
 _59DD	姝
 _59DE	姞
 _59E3	姣
@@ -7304,7 +7324,6 @@ _59EE	姮
 _59F8	姸
 _5013	倓
 _5018	倘
-_5010	倐
 _501C	倜
 _501E	倞
 _5022	倢
@@ -7423,7 +7442,6 @@ _5C63	屣
 _5C67	屧
 _5C68	屨
 _5C69	屩
-_5C70	屰
 _5C7A	屺
 _5C7C	屼
 _5C88	岈
@@ -7615,7 +7633,6 @@ _62FD	拽
 _6318	挘
 _6310	挐
 _6332	挲
-_6335	挵
 _6339	挹
 _633B	挻
 _633C	挼
@@ -7631,7 +7648,6 @@ _6384	掄
 _6394	掔
 _6399	掙
 _6303	挃
-_630A	挊
 _630D	挍
 _63BD	掽
 _63D4	揔
@@ -8001,9 +8017,7 @@ _6BBE	殾
 _6BC7	毇
 _6BC8	毈
 _6BC9	毉
-_6BCF	每
 _6BD6	毖
-_6BD7	毗
 _6BDA	毚
 _6BE6	毦
 _6BE7	毧
@@ -8051,7 +8065,6 @@ _6CEB	泫
 _6CEC	泬
 _6CED	泭
 _6CEE	泮
-_6CFB	泻
 _6D26	洦
 _6D27	洧
 _6D2E	洮
@@ -8234,7 +8247,6 @@ _7238	爸
 _7239	爹
 _7242	牂
 _7253	牓
-_7255	牕
 _7256	牖
 _7257	牗
 _7263	牣
@@ -8583,7 +8595,6 @@ _79A1	禡
 _79A9	禩
 _79B1	禱
 _79B4	禴
-_79B8	禸
 _79BB	离
 _79C2	秂
 _79C7	秇
@@ -8610,7 +8621,6 @@ _705E	灞
 _7064	灤
 _7065	灥
 _7069	灩
-_706C	灬
 _706E	灮
 _7075	灵
 _7076	灶
@@ -8669,7 +8679,6 @@ _7AA0	窠
 _7AAC	窬
 _7AB3	窳
 _7AB9	窹
-_7ABB	窻
 _7ABC	窼
 _7ABE	窾
 _7ACC	竌
@@ -9218,8 +9227,6 @@ _8949	襉
 _8940	襀
 _8962	襢
 _8989	覉
-_8980	覀
-_8994	覔
 _8990	覐
 _899F	覟
 _8901	褁
@@ -9608,7 +9615,6 @@ _95D3	闓
 _95D0	闐
 _95DA	闚
 _95DE	闞
-_961D	阝
 _962C	阬
 _9633	阳
 _963C	阼
@@ -10042,7 +10048,6 @@ _FA37	嘆
 _FA39	塀
 _FA30	侮
 _FA3B	層
-_FA3C	屮
 _FA3D	悔
 _FA3E	慨
 _FA3F	憎
@@ -10070,8 +10075,6 @@ _FA59	繁
 _FA5A	署
 _FA5B	者
 _FA5C	臭
-_FA5D	艹
-_FA5E	艹
 _FA5F	著
 _FA62	謁
 _FA63	謹
@@ -10131,7 +10134,6 @@ _22C24	𢰤
 _22DE1	𢷡
 _231B6	𣆶
 _231C3	𣇃
-_231C4	𣇄
 _23372	𣍲
 _233D2	𣏒
 _233D3	𣏓
@@ -10298,7 +10300,6 @@ _289BA	𨦺
 _289BB	𨦻
 _2808A	𨂊
 _280BB	𨂻
-_28A1E	𨨞
 _28A29	𨨩
 _28A43	𨩃
 _28A71	𨩱
@@ -10316,7 +10317,6 @@ _28E36	𨸶
 _28E89	𨺉
 _28EEB	𨻫
 _28F32	𨼲
-_28FF8	𨿸
 _292A0	𩊠
 _292B1	𩊱
 _29490	𩒐
