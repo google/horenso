@@ -734,11 +734,10 @@ cmc	刺
 cmv	児
 cmV	兒
 cna	十
-cnb	廿
 cnc	凖	mnc->準 cnc->凖 後者は異体字なのでシフトコードに移動しても構いません
 cnk	写	寫写冩
 cnK	冩	寫写冩
-cnv	酋
+cnv	廿
 cnx	出
 cnz	充
 cn;	准
@@ -759,7 +758,6 @@ cqJ	刄
 cqk	制
 cql	凄
 cq;	勢
-cri	煎
 crj	千
 crk	切
 crl	前
@@ -778,8 +776,6 @@ csm	卆
 cso	剏
 csp	匆
 csq	𠦝	正式な発音は無いけど、部首は十で、部首を取り除くと早が残り、その読み方はソウ->（ｓ）珍しい字なので、打ち難いコードに当てることにした
-csu	曽
-csU	曾
 cs;	勦
 cs/	剿
 ctj	卓
@@ -2540,6 +2536,8 @@ jr;	旃
 jsd	曹
 jsf	族
 jsj	早
+js;	曽
+js:	曾
 jti	晝
 jtj	替
 jtk	昼
@@ -3505,11 +3503,12 @@ nqe	牲
 nqn	燧
 nqr	燼
 nqw	炊
-nre	燹
+nre	煎
 nrn	然
 nrq	狙
 nrw	煽
 nr;	爼
+nr.	燹
 nr/	牋
 nsa	率
 nsd	壮
@@ -5819,11 +5818,12 @@ ynd	重
 yne	酬	駲酬洲州
 ynf	週
 yng	這
-ynq	逎
+ynq	酋
 ynr	酌
 yns	釈
 ynS	釋
 ynt	遒
+ynT	逎
 ynv	遮
 ynw	遵
 ynx	醇
