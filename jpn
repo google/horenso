@@ -805,6 +805,7 @@ cxi	博
 cxj	南	東西南北
 cxk	内
 cxl	凸
+cxm	嚢	囊嚢
 cxo	凪
 cxp	剥
 cxv	匂
@@ -1100,11 +1101,11 @@ dwr	唐
 dw;	囀
 dxf	吠
 dxg	叭
-dxh	唄
 dxi	吶
 dxj	呑
 dxk	咄
-dxl	嚢
+dxl	唄
+dxm	囊	囊嚢
 dxo	噺
 dxu	嚀
 dxv	噸
@@ -7191,7 +7192,6 @@ _56B2	嚲
 _56B3	嚳
 _56C5	囅
 _56C9	囉
-_56CA	囊
 _56DF	囟
 _56E8	囨
 _56F6	囶
