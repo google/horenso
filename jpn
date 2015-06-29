@@ -915,13 +915,11 @@ ddw	啀
 ddy	喀
 dfa	厂
 dfd	含
-dfe	喊
 dfj	喚
 dfk	咸
 dfl	啣
 dfs	卷
-dfw	雁
-df;	贋
+df;	喊
 dga	危
 dgd	吉
 dge	吃
@@ -5544,6 +5542,7 @@ xdl	貉
 xd;	赫
 xfj	貫
 xfk	轗
+xf;	贋	雁の部首は隹《；》
 xgi	躬
 xgj	軌
 xgk	起
@@ -6151,7 +6150,8 @@ z/.	鈴
 ;dm	闊
 ;ds	鞨
 ;d;	閣
-;fd	閑
+;fa	閑
+;fd	雁	雁鳫
 ;fj	陥
 ;fJ	陷
 ;fk	関
@@ -6566,7 +6566,7 @@ z/.	鈴
 .d.	鮖
 .d/	鱠
 .fa	鰔
-.fd	鳫
+.fd	鳫	雁鳫
 .fj	鹹
 .fm	鸛
 .fs	鴈
