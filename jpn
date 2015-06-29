@@ -848,7 +848,6 @@ c;j	北	東西南北
 c;k	包
 c;l	凡
 c;m	匚
-c;o	冐
 c;u	卜
 c;v	剖
 c,c	務
@@ -2572,10 +2571,11 @@ jz;	敝
 j;a	暴
 j;d	放
 j;e	旁
-j;f	方
-j;j	攴
+j;f	冐	冒冐	漢字源による部首：月《ｊ》
+j;j	方
 j;k	朋
 j;l	攵
+j;m	攴
 j;s	望
 j;w	旄
 j,a	有
@@ -3851,7 +3851,7 @@ phs	矩
 phw	皹
 pja	眩
 pjd	県
-pjD	縣
+pjD	縣	漢字源による部首：目
 pje	硯
 pjf	研
 pjg	碣
@@ -3937,9 +3937,8 @@ pwq	礑
 pwr	盪
 pwu	登
 pwy	碾
-pxb	頗
+pxb	碚
 pxc	癶
-pxg	碚
 pxh	碯
 pxi	発
 pxI	發
@@ -3965,14 +3964,15 @@ pzp	皿
 pzu	碧
 pzv	瞥
 p;a	睦
+p;c	皰	包の部首は勹《ｃ》
 p;d	盆
 p;e	磅
-p;f	冒
-p;j	眸
-p;k	皰
-p;m	皃
+p;f	冒	冒冐	漢字源による部首：目《ｐ》
+p;m	眸
 p;r	硼
 p;s	砲
+p;v	皃	貌皃㒵
+p;V	㒵	貌皃㒵
 p,a	眠
 p,c	矇
 p,d	目
@@ -5721,7 +5721,7 @@ xzx	賁
 xz;	貶
 x;c	貿
 x;j	蹼
-x;v	貌
+x;v	貌	貌皃㒵
 x,a	軅
 x,b	軈
 x,c	踊
@@ -6489,6 +6489,7 @@ z/.	鈴
 ,xM	髮
 ,xv	頓
 ,xz	髑
+,x;	頗
 ,x,	飩
 ,x.	駁
 ,x/	驀
@@ -6803,7 +6804,6 @@ _3468	㑨
 _346A	㑪
 _3402	㐂
 _3406	㐆
-_34B5	㒵
 _34BC	㒼
 _34C1	㓁
 _34C7	㓇
