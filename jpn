@@ -1071,7 +1071,7 @@ dsf	咤
 dsh	噪
 dsi	叢
 dsj	叟
-dsk	巣	dsk->巣 hsk->巢 果の部首は木（ｋ）
+dsk	巣	巣巢	果の部首は木（ｋ）
 dsl	噌
 dso	喪
 dsr	嗾
@@ -1729,8 +1729,9 @@ gsa	岔
 gsd	屬
 gsi	帚
 gsj	層
-gsk	属
-gsl	巽
+gsk	巢	巣巢	果の部首は木《ｋ》
+gsl	属
+gso	巽
 gs;	崢
 gta	岱
 gtj	帯
@@ -2009,8 +2010,7 @@ hse	惣
 hsf	想
 hsh	惰
 hsi	慥
-hsj	愡
-hsk	巢	dsk->巣 hsk->巢 巢は異体字なのでコードをシフトに変更して構いません
+hsk	愡
 hsl	懦
 hso	懆
 hsp	愴
