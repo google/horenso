@@ -4795,6 +4795,7 @@ t/w	艪
 t/W	艣
 t/,	腕
 t/.	老
+t//	聾	上部は龍《／》
 uba	茵
 ubc	蔚
 ubd	薀
@@ -4966,8 +4967,10 @@ uso	葬
 usp	蒼
 usr	蔟
 uss	艸
+usS	艹
 usu	蔵
 usU	藏
+usw	艹
 us;	荼
 uti	蓄
 uto	苔
@@ -5174,6 +5177,7 @@ vm,	衄
 vm.	蛭
 vm/	蝨
 vnc	蛇
+vnk	蟀
 vnl	襦
 vnv	袖
 vnx	術
@@ -5181,7 +5185,7 @@ vnz	衆
 vn;	蠢
 vn,	蜥
 vn.	螽
-vnk	蟀
+vn/	襲
 vpc	蝕
 vpd	蜀
 vpi	裳
@@ -6745,7 +6749,6 @@ z/.	鈴
 /mF	齒
 /na	麝
 /nd	麈
-vn/	襲
 /ns	齣
 /pf	黍
 /qe	齔
@@ -6800,7 +6803,6 @@ vn/	襲
 //m	黎
 //s	齢
 //S	齡
-t//	聾	上部は龍《／》
 _342C	㐬
 _342E	㐮
 _3468	㑨
@@ -10073,8 +10075,6 @@ _FA59	繁
 _FA5A	署
 _FA5B	者
 _FA5C	臭
-_FA5D	艹
-_FA5E	艹
 _FA5F	著
 _FA62	謁
 _FA63	謹
