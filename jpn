@@ -631,7 +631,7 @@ ccj	加
 cck	冤
 ccv	凹
 ccx	卦
-ccz	円
+ccz	円	圓円
 cc;	化
 cdf	囘
 cdi	凱
@@ -1175,16 +1175,15 @@ eci	囮
 ecj	夏
 eck	奥
 ecK	奧
-ecl	堰
+ecl	塩	塩鹽
 ecm	墺
 eco	塢
 ecp	堝
 ecu	垣
-ecv	塩
-ecV	鹽
+ecv	堰
 ecx	央
 ecy	奄
-ecz	圓
+ecz	圓	圓円
 ec;	夥
 eda	夬
 edf	回
@@ -1212,7 +1211,6 @@ ehd	夾
 ehe	堀
 ehf	尭
 ehF	堯
-eho	粂
 ehp	垠
 ehr	墟
 ehs	圉
@@ -4182,15 +4180,16 @@ rgj	笈
 rgk	箕
 rgl	簣
 rg;	籏
-rha	箜
+rha	粂	久の部首は丿《ａ》
 rhe	粁
 rhi	筥
 rhl	篋
 rho	筴
 rhp	箟
-rhq	筺
+rhq	箜	空の部首は穴《ｑ》
 rhr	筋
 rhw	筐
+rhW	筺
 rh;	箘
 rje	筧
 rjr	笄
@@ -6546,6 +6545,7 @@ z/.	鈴
 .ch	鰛
 .cj	鴬
 .ck	鵝
+.cl	鹽	塩鹽
 .cm	鵞
 .cn	鰕
 .cv	鰮
