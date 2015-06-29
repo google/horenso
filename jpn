@@ -1328,8 +1328,7 @@ eya	坂
 eze	坿
 ezf	夫
 ezi	坪
-ezj	変
-ezJ	變
+ezj	塀
 ezk	壁
 ezl	埔
 ezo	埠
@@ -1338,7 +1337,7 @@ ezr	圃
 ezs	堡
 ezu	墓
 ezz	奮
-ez;	塀
+ez;	変	変變
 e;a	夲
 e;d	垉
 e;f	奉
@@ -5491,10 +5490,12 @@ wzi	誣
 wzj	訃
 wzk	覆
 wzl	譜
+wzm	覓
+wzM	覔
 wzo	諷
 wzp	謨
 wzu	諞
-wz;	覓
+wz;	變	変變
 w;e	訪
 w;j	謗
 w;r	豊
@@ -9220,7 +9221,6 @@ _8940	襀
 _8962	襢
 _8989	覉
 _8980	覀
-_8994	覔
 _8990	覐
 _899F	覟
 _8901	褁
