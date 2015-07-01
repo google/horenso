@@ -577,7 +577,7 @@ bx;	俳
 bya	伴
 byi	佰
 byp	俵
-byw	備
+byz	備
 bzb	保
 bzc	偏
 bzf	傅
@@ -1739,9 +1739,9 @@ gqj	帥
 gqk	尽
 gql	崇
 gqw	岑
-gra	川
 grj	席
-grk	巛
+grk	川
+grK	巛
 grl	屑
 gr;	岨
 gsa	岔
@@ -2147,6 +2147,7 @@ h.e	懶
 h.f	悧
 h.r	懍
 h.s	慄
+h.w	悝
 h.,	悋
 h./	徠	来來徠
 h/a	恋
@@ -3146,6 +3147,7 @@ mja	源
 mjd	渓
 mje	溪
 mjf	決
+mjg	涇	右部に巛《ｇ》と工《ｇ》がある
 mjk	潔
 mjl	激
 mjs	減
@@ -3186,6 +3188,7 @@ mma	漆
 mmd	滋
 mme	濕
 mmf	治
+mmg	淄		右上に巛《ｇ》がある
 mmr	滓
 mms	湿
 mm,	漬
@@ -6012,7 +6015,7 @@ y,S	〒
 y,t	邀
 y,v	逾
 y,w	遥
-y,x	遙
+y,W	遙
 y,z	邁
 y.a	辣
 y.d	量
@@ -6656,7 +6659,7 @@ z/.	鈴
 .f,	鰥
 .ga	鰭
 .gd	鱚
-.gj	鬼
+.gm	鬼
 .gs	魏
 .g.	鳩
 .hf	魚
@@ -7968,7 +7971,6 @@ _604C	恌
 _607F	恿
 _608A	悊
 _6095	悕
-_609D	悝
 _609E	悞
 _600D	怍
 _60B1	悱
@@ -8128,7 +8130,6 @@ _6D65	浥
 _6D60	浠
 _6D70	浰
 _6D82	涂
-_6D87	涇
 _6D89	涉
 _6D80	涀
 _6D8A	涊
@@ -8147,7 +8148,6 @@ _6DAE	涮
 _6DB4	涴
 _6DBF	涿
 _6DC2	淂
-_6DC4	淄
 _6DC8	淈
 _6DCE	淎
 _6DCF	淏
