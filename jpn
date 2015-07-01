@@ -357,6 +357,7 @@ apa	上
 apA	㊤
 apd	且
 apf	丈
+apF	𠀋
 apg	丞
 aps	乗
 apS	乘
@@ -672,6 +673,7 @@ chh	冂
 chi	匡
 chk	具
 chl	勤
+chL	勤
 cho	劬
 chp	協
 chs	勗
@@ -826,6 +828,7 @@ cyi	凭
 cyo	剽
 cyp	卍
 cyv	卑
+cyV	卑
 cyx	匹
 cyz	判
 czc	分
@@ -843,6 +846,7 @@ czu	冕
 czv	冖
 czx	匏
 cz;	勉
+cz:	勉
 c;c	勃
 c;g	匐
 c;i	勹
@@ -1323,6 +1327,8 @@ ewi	堵
 ewj	土
 ewk	堂
 ewl	天
+ewm	圡
+ewM	𡈽
 ewq	套
 ewr	填
 ewu	奠
@@ -1405,6 +1411,7 @@ fda	学
 fdg	孩
 fdm	害
 fds	學
+fdS	斈	漢字原による部首：子《ｒ》
 fdy	嬶
 ffa	奸
 ffd	完
@@ -1635,14 +1642,16 @@ gga	屹
 ggd	廐
 gge	屰
 ggi	屓
-ggj	崎
+ggj	崎	嵜﨑崎㟢
+ggJ	㟢	嵜﨑崎㟢
 ggk	希
 ggl	幾
 ggm	岌
 ggo	巍
 ggp	廏
 ggs	嶬
-ggu	嵜
+ggu	嵜	嵜﨑崎㟢
+ggU	﨑	嵜﨑崎㟢
 ggw	岐
 gg;	弃
 gha	巾
@@ -1691,7 +1700,7 @@ glg	差
 glj	座
 glk	嵳
 glm	巉
-glq	屮
+glq	屮	読み方 サ 意味 左
 gls	嵯
 gl;	崑
 gma	巳
@@ -1755,7 +1764,7 @@ gvi	幀
 gvj	帳
 gvk	底
 gvl	廸
-gvo	屮
+gvo	屮	読み方 テツ テチ 意味 草の芽
 gvu	帖
 gvx	帝
 gvz	庁
@@ -1767,13 +1776,14 @@ gwi	幢
 gwj	展
 gwk	店
 gwl	島
-gwL	嶌
 gwo	帑
 gwp	巓
 gwq	嶋
 gwQ	嶹
 gwu	嶝
 gw;	屠
+gw.	㠀
+gw>	嶌
 gxc	巴
 gxi	尼
 gxj	廃
@@ -1871,6 +1881,7 @@ hcx	往
 hcz	怨
 hc;	憶
 hda	悔
+hdA	悔
 hdf	快
 hdh	愕
 hdi	恢
@@ -2050,6 +2061,7 @@ ht;	憚
 hva	弖
 hvc	弔
 hvd	懲
+hvD	懲
 hvi	彫
 hvj	悵
 hvk	悌
@@ -2241,6 +2253,7 @@ ilw	扠
 ilx	搓
 ilz	撰
 il;	撒
+il/	𢦏
 ima	揣
 imd	持
 imf	指
@@ -2430,7 +2443,6 @@ jck	旺
 jcl	暇
 jcv	易
 jc;	曰
-jdf	斈	下部に子《ｆ》がある
 jdj	會	会會
 jdk	曷
 jdl	晦	毎の部首は毋《ｌ》
@@ -2441,6 +2453,7 @@ jga	曁
 jgi	旗
 jgj	旧	旧舊
 jgk	既
+jgK	既
 jgl	救
 jgp	晞
 jgq	暉
@@ -2507,6 +2520,7 @@ jpj	昭
 jpq	敞
 jpr	昃
 jps	暑
+jpS	暑
 jpt	昌
 jpw	曙
 jqe	星
@@ -2565,6 +2579,7 @@ jya	旻
 jyd	斑
 jye	斐
 jyf	敏
+jyF	敏
 jyq	暃
 jyr	朏
 jys	晩
@@ -2944,6 +2959,7 @@ k.c	欒
 k.d	柳
 k.e	椋
 k.f	林
+k.F	𣏟
 k.j	李
 k.k	朸
 k.q	栗
@@ -3011,7 +3027,8 @@ ljs	歉
 lkf	毫
 lld	残
 llD	殘
-llf	殺
+llf	殺	殺殺煞
+llF	殺	殺殺煞
 lls	歳
 lma	止
 lmd	次
@@ -3092,6 +3109,7 @@ mc,	汚
 mc.	沿
 mc/	河
 mda	海
+mdA	海
 mdf	活
 mdm	涯
 mds	潰
@@ -3411,8 +3429,13 @@ nbZ	爲
 nb;	營	営營 營はシフトに移動しても構いません
 nca	燕
 nck	焉
-ncl	焔
+ncl	焔	焔焰㷔熖燄
+ncL	焰	焔焰㷔熖燄
 ncn	牙
+nco	㷔	焔焰㷔熖燄
+ncO	熖	焔焰㷔熖燄
+ncp	燄	焔焰㷔熖燄
+ncs	焱
 ncv	火
 ncV	灬
 ncx	炎
@@ -3470,9 +3493,10 @@ nkv	犒
 nkw	熕
 nkz	炗	光炗
 nk;	牾
-nla	犲
+nla	災
 nld	采	漢字源による部首：爪《ｎ》
-nlf	災
+nle	犲
+nlf	煞	殺殺煞
 nlg	犀	部首の牛のほかには、尸《ｇ》がある
 nlk	猜
 nln	焜
@@ -3492,7 +3516,9 @@ nnk	爍	樂の部首は木《ｋ》
 nnl	炙
 nnr	灼
 nns	煮
+nnS	煮
 nnw	爵	爪の下に覀《ｗ》がある
+nnx	煑
 nn;	狃
 npa	焦
 npd	照
@@ -3501,6 +3527,7 @@ npf	状
 npF	牀
 npi	獎	奨奬獎
 npo	爿
+npO	丬
 npr	猩
 nps	焼
 npS	燒
@@ -3702,6 +3729,7 @@ oqu	疹
 oqw	申
 ora	癬
 ore	疋
+orE	𤴔
 orh	瘠
 ori	疝
 orj	甦	更の部首は曰《ｊ》
@@ -3723,6 +3751,7 @@ oto	男
 otO	♂
 otq	痰
 ots	琢
+otS	琢
 otu	痴
 otw	痔
 oty	癡
@@ -4033,6 +4062,7 @@ qge	稘
 qgi	穹
 qgj	竒	奇竒	漢字源による部首：立《ｑ》
 qgk	祈
+qgK	祈
 qgl	窮
 qgm	禧
 qgn	窺
@@ -4069,6 +4099,7 @@ qlw	祭
 qme	私
 qmq	祀
 qmr	祉
+qmR	祉
 qmw	示
 qmW	礻
 qm,	祠
@@ -4097,6 +4128,7 @@ qpt	稷
 qpu	穣
 qpU	穰
 qpw	祥
+qpW	祥
 qpy	穡
 qqi	秦
 qqj	神
@@ -4158,6 +4190,7 @@ qyr	秕
 qyw	秒
 qzi	竡
 qzj	福
+qzJ	福
 qzk	秉
 qzl	祓
 qz;	竝
@@ -4260,6 +4293,7 @@ rre	筅
 rri	箭
 rrj	粗
 rrk	節
+rrK	節
 rrl	箋
 rro	糎
 rrp	籖
@@ -4461,6 +4495,7 @@ sn/	絛
 spa	縟
 spd	紹
 spf	署
+spF	署
 spi	織
 spj	繞
 spo	縄
@@ -4664,6 +4699,7 @@ tnq	脩
 tns	習
 tnt	腫
 tnw	者
+tnW	者
 tn;	聚
 tpa	肖
 tpe	翔
@@ -4980,6 +5016,7 @@ usD	莊
 use	薮
 usE	藪
 usf	草
+usF	䒑
 usi	藻
 uso	葬
 usp	蒼
@@ -4988,7 +5025,7 @@ uss	艸
 usS	艹
 usu	蔵
 usU	藏
-usw	艹
+usw	艹	UCS互換
 usW	艹
 us;	荼
 uti	蓄
@@ -5454,6 +5491,7 @@ wph	觸
 wpi	触
 wpj	誦
 wpo	諸
+wpO	諸
 wpq	訟
 wpr	譲
 wpR	讓
@@ -5666,6 +5704,7 @@ xsf	赱
 xsi	躱
 xsj	走
 xsk	足
+xsK	𧾷
 xsl	賊
 xsm	轌
 xso	輳
@@ -5923,6 +5962,7 @@ yv;	辻
 ywe	迯
 ywg	辿	部首の辶の取り除くと山(g)が残る
 ywi	都
+ywI	都
 ywo	酘
 ywp	道
 ywq	透
@@ -6566,6 +6606,7 @@ z/.	鈴
 ,/a	驢
 ,/d	髏
 ,/f	類
+,/F	類
 ,/s	顱
 .ba	鸚
 .bc	鯏
@@ -6856,7 +6897,6 @@ _376B	㝫
 _376C	㝬
 _3775	㝵
 _378D	㞍
-_37E2	㟢
 _37E8	㟨
 _37F4	㟴
 _37FD	㟽
@@ -6864,7 +6904,6 @@ _3836	㠶
 _3840	㡀
 _385C	㡜
 _3861	㡡
-_3800	㠀
 _3917	㤗
 _391A	㤚
 _396F	㥯
@@ -6894,7 +6933,6 @@ _3D1E	㴞
 _3D64	㵤
 _3D9A	㶚
 _3DC0	㷀
-_3DD4	㷔
 _3E3F	㸿
 _3E66	㹦
 _3E68	㹨
@@ -6934,7 +6972,6 @@ _4453	䑓
 _445B	䑛
 _4476	䑶
 _447A	䑺
-_4491	䒑
 _4408	䐈
 _44B3	䒳
 _44BE	䒾
@@ -6981,7 +7018,6 @@ _4E12	丒
 _4E28	丨
 _4E29	丩
 _4E2B	丫
-_4E2C	丬
 _4E2E	丮
 _4E2F	丯
 _4E30	丰
@@ -7229,7 +7265,6 @@ _56E8	囨
 _56F6	囶
 _56F7	囷
 _5715	圕
-_5721	圡
 _5723	圣
 _5729	圩
 _572F	圯
@@ -8214,24 +8249,19 @@ _7120	焠
 _712B	焫
 _712E	焮
 _712F	焯
-_7131	焱
-_7130	焰
 _7146	煆
 _7147	煇
 _714A	煊
-_7151	煑
 _7152	煒
 _7153	煓
 _7150	煐
 _715C	煜
-_715E	煞
 _7168	煨
 _7160	煠
 _7185	熅
 _7187	熇
 _7180	熀
 _7192	熒
-_7196	熖
 _719B	熛
 _7103	焃
 _7104	焄
@@ -8246,7 +8276,6 @@ _71AF	熯
 _71B3	熳
 _71BA	熺
 _71C1	燁
-_71C4	燄
 _71CB	燋
 _71D3	燓
 _71D9	燙
@@ -10024,64 +10053,40 @@ _F91D	欄
 _F928	廊
 _F929	朗
 _F936	虜
-_F970	殺
-_F9D0	類
 _F9DC	隆
-_FA11	﨑
 _FA13	﨓
 _FA14	﨔
 _FA15	凞
 _FA16	猪
 _FA10	塚
-_FA1A	祥
-_FA1B	福
 _FA1F	﨟
 _FA21	﨡
-_FA22	諸
 _FA24	﨤
-_FA26	都
 _FA20	蘒
 _FA31	僧
 _FA32	免
-_FA33	勉
-_FA34	勤
-_FA35	卑
 _FA36	喝
 _FA37	嘆
 _FA39	塀
 _FA30	侮
 _FA3B	層
-_FA3D	悔
 _FA3E	慨
 _FA3F	憎
-_FA41	敏
-_FA42	既
-_FA43	暑
 _FA44	梅
-_FA45	海
 _FA46	渚
-_FA48	煮
-_FA40	懲
-_FA4A	琢
 _FA4B	碑
-_FA4D	祉
-_FA4E	祈
 _FA4F	祐
 _FA51	祝
 _FA52	禍
 _FA53	禎
-_FA56	節
 _FA58	縉
 _FA59	繁
-_FA5A	署
-_FA5B	者
 _FA5C	臭
 _FA5F	著
 _FA62	謁
 _FA63	謹
 _FA60	褐
 _FA0F	﨏
-_2123D	𡈽
 _21255	𡉕
 _21274	𡉴
 _2127B	𡉻
@@ -10124,7 +10129,6 @@ _223AD	𢎭
 _226F3	𢛳
 _2285B	𢡛
 _228AB	𢢫
-_2298F	𢦏
 _22AB8	𢪸
 _22B46	𢭆
 _22B4F	𢭏
@@ -10141,7 +10145,6 @@ _233D3	𣏓
 _233D5	𣏕
 _233D0	𣏐
 _233DA	𣏚
-_233DF	𣏟
 _233E4	𣏤
 _2344A	𣑊
 _2344B	𣑋
@@ -10186,7 +10189,6 @@ _24096	𤂖
 _24A4D	𤩍
 _24B56	𤭖
 _24B6F	𤭯
-_24D14	𤴔
 _24E37	𤸷
 _24E6A	𤹪
 _24E8B	𤺋
@@ -10280,7 +10282,6 @@ _27BC7	𧯇
 _27CB8	𧲸
 _27DA0	𧶠
 _27E10	𧸐
-_27FB7	𧾷
 _28277	𨉷
 _28282	𨊂
 _282F3	𨋳
@@ -10351,7 +10352,6 @@ _20807	𠠇
 _208B9	𠢹
 _2097C	𠥼
 _20089	𠂉
-_2000B	𠀋
 _200A2	𠂢
 _200A4	𠂤
 _20AD3	𠫓
