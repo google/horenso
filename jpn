@@ -510,9 +510,10 @@ bpx	倡
 bpz	償
 bqi	僭
 bqj	人
-bqJ	亻
-bqk	伸
-bql	仁
+bqJ	𠆢
+bqk	仁
+bqK	亻
+bql	伸
 bqm	侭
 bqo	儘
 bqp	信
@@ -4113,6 +4114,7 @@ qnf	穐
 qnF	龝
 qnl	竪
 qnq	祝
+qnQ	祝
 qnr	秋
 qnR	秌
 qnt	禸	漢字源による読み方：ジュウ
@@ -4568,6 +4570,7 @@ syp	縻
 syq	罠
 syr	紊
 sys	繁
+syS	繁
 syt	繙
 syv	緲
 syz	緋
@@ -4694,6 +4697,7 @@ tm,	膝
 tm.	而
 tm/	翅
 tna	臭
+tnA	臭
 tnd	粛
 tnD	肅
 tne	舟
@@ -10076,12 +10080,9 @@ _FA44	梅
 _FA46	渚
 _FA4B	碑
 _FA4F	祐
-_FA51	祝
 _FA52	禍
 _FA53	禎
 _FA58	縉
-_FA59	繁
-_FA5C	臭
 _FA5F	著
 _FA62	謁
 _FA63	謹
@@ -10337,7 +10338,6 @@ _29EC4	𩻄
 _29EDB	𩻛
 _29EE9	𩻩
 _29FCE	𩿎
-_201A2	𠆢
 _20213	𠈓
 _2032B	𠌫
 _20371	𠍱
