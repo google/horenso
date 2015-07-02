@@ -1070,12 +1070,12 @@ dps	商
 dpt	囁	右部に耳《ｔ》が三つある
 dpu	嘱
 dpw	嘯
-dqd	吹
-dqe	呻
-dqf	嘶
+dqi	嗔
 dqj	唇
-dqr	嗔
-dqw	噬
+dqk	呻
+dql	吹
+dqo	嘶
+dqu	噬
 dq;	哂
 dra	喘
 drd	卩	字全体が部首なので一鍵三鍵同一
@@ -1252,15 +1252,15 @@ ejr	奚
 ejs	奎
 ej;	型
 eka	夸
-ekd	坑
 eke	固
 ekf	壙
 ekj	垢
 ekl	壺
 ekL	壷
 ekm	圄
+ekq	坑
 ekr	壕
-eks	堽
+ekw	堽
 ela	在
 ele	墾
 eli	国
@@ -4519,6 +4519,7 @@ spd	紹
 spf	署
 spF	署
 spi	織
+spI	𦀗
 spj	繞
 spo	縄
 spO	繩
@@ -5485,9 +5486,9 @@ wk/	覯
 wle	谷
 wlj	讒
 wlk	讃
+wlK	讚
 wlr	詐
 wlw	諢
-wl;	讚
 wme	視
 wmE	視
 wmf	豕
@@ -10243,7 +10244,6 @@ _268DD	𦣝
 _268EA	𦣪
 _26951	𦥑
 _269DD	𦧝
-_26017	𦀗
 _26060	𦁠
 _2600C	𦀌
 _260ED	𦃭
