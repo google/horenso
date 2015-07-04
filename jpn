@@ -901,6 +901,7 @@ dbn	噎
 dbo	咏
 dbp	唖
 dbu	嗚
+dby	啊
 db;	営	営營
 db,	噫
 dca	哦
@@ -2183,6 +2184,7 @@ ibo	按
 ibp	挧
 ibu	握
 ibz	揖
+ich	找	yカ
 ici	援
 icj	掖
 ico	戈
@@ -2330,11 +2332,10 @@ isa	捉
 isd	掃
 ise	插
 isf	損
-ish	找
+ish	搶
 isi	打
 isj	拿
 isl	掻
-isn	搶
 iso	捜
 isO	搜
 isp	挿
@@ -5836,9 +5837,10 @@ xzu	躄
 xzv	輻
 xzx	賁
 xz;	貶
-x;c	貿
+x;c	跑	yホウ	包の部首は勹《ｃ》
 x;j	蹼
 x;v	貌	貌皃㒵
+x;x	貿
 x,a	軅
 x,b	軈
 x,c	踊
@@ -7241,7 +7243,6 @@ _5535	唵
 _553C	唼
 _5541	啁
 _5547	啇
-_554A	啊
 _5550	啐
 _555E	啞
 _5561	啡
@@ -9415,7 +9416,6 @@ _8DAF	趯
 _8DC6	跆
 _8DC8	跈
 _8DCE	跎
-_8DD1	跑
 _8DD7	跗
 _8DD9	跙
 _8DEC	跬
