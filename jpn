@@ -3261,13 +3261,14 @@ mqE	渗
 mqf	沁
 mql	瀋
 mqm	水
-mqM	氵
+mqM	氺
 mqq	淒
 mqr	清
 mqt	潯
 mqx	涁	klx->杉 mqx->涁 hyx->彬 (mqt->滲の異字体なのでシフト化しても構いません)
 mq;	瀞
 mq,	深
+mq<	氵
 mq.	津
 mq/	浸
 mra	汐
@@ -8106,7 +8107,6 @@ _6BFF	毿
 _6C10	氐
 _6C33	氳
 _6C36	氶
-_6C3A	氺
 _6C3F	氿
 _6C4D	汍
 _6C59	汙
