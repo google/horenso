@@ -631,7 +631,7 @@ b/x	僂
 b/z	儷
 b/,	令
 b/.	例
-cbj	医
+cbi	医	医毉醫
 cbk	允
 cbl	凧
 ccj	加
@@ -691,7 +691,6 @@ ch/	匈
 cja	匸
 cjb	兮
 cjc	元
-cjf	兼
 cjg	决
 cji	刔
 cjj	勁
@@ -702,6 +701,7 @@ cjo	剄
 cjp	劒
 cjP	劔
 cjs	冏
+cjv	兼
 cjx	劇
 cjz	刑
 cj;	剣
@@ -3017,6 +3017,7 @@ k/w	櫚
 k/x	櫺
 k/z	櫪
 lba	殞
+lbi	毉	医毉醫
 lbj	欸
 lbk	氤
 lbl	殷
@@ -5868,15 +5869,15 @@ x/.	賂
 yba	遺
 ybc	遏
 ybd	逶
-ybi	逸
-ybI	逸
+ybi	醫	医毉醫
 ybl	遖
 ybo	運
 ybp	違
 ybs	迂
 ybx	郢
+yby	逸
+ybY	逸
 ybz	郁
-yb;	醫
 ycv	過
 ycx	遐
 ycy	遠
@@ -8094,7 +8095,6 @@ _6BBD	殽
 _6BBE	殾
 _6BC7	毇
 _6BC8	毈
-_6BC9	毉
 _6BD6	毖
 _6BDA	毚
 _6BE6	毦
