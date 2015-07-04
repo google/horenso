@@ -110,10 +110,6 @@ BE	ベ
 BI	ビ
 BO	ボ
 BU	ブ
-ca	ゕ
-ce	ゖ
-CA	ヵ
-CE	ヶ
 da	だ
 de	で
 di	ぢ
@@ -149,9 +145,13 @@ HE	ヘ
 HI	ヒ
 HO	ホ
 ia	ゃ
+ie	ゖ
+ii	ゕ
 io	ょ
 iu	ゅ
 IA	ャ
+IE	ヶ
+II	ヵ
 IO	ョ
 IU	ュ
 ka	か
