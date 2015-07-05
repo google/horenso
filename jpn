@@ -2893,6 +2893,7 @@ kwa	朷
 kwe	桐
 kwf	樋
 kwg	槙
+kwG	槇
 kwh	档
 kwi	橈
 kwj	東	東西南北
@@ -2906,7 +2907,6 @@ kwq	樢
 kwr	桃
 kwt	橙
 kwu	榻
-kwv	槇
 kw;	梼
 kw.	櫂
 kw/	杜
@@ -3611,6 +3611,7 @@ nw;	点	/w;->點 nwh->点 [;]（セミコロン）に点が入っているから
 nw/	獰
 nxb	獏
 nxc	独
+nxC	獨
 nxg	煤
 nxi	燉
 nxk	熱
@@ -3618,7 +3619,6 @@ nxl	燃
 nxo	犢
 nxp	牘
 nxv	特
-nxz	獨
 nx;	爆
 nx,	狛
 nx.	爬
