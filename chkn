@@ -1,0 +1,330 @@
+#!/usr/bin/perl
+# ターミナルで使える漢字直接入力のための単純なツール
+# 起動方法
+# a. 既定の日本語コードマッピングを使う (jpn)
+#    ./chkn
+# b. 任意のマッピングファイルを使う
+#    ./chkn TABLE1 TABLE2
+#
+# リターンを押す度にテキストをコピーしたりどこかに送信するには$COPY_TOOLの環境
+# 変数を指定します。リターンを押すと、このCOPY_TOOLが起動されSTDINにテキストが
+# 書き込まれます。例：Mac OS Xの場合、これをpbcopyに設定すると便利です。
+#
+# COPY_TOOL=pbcopy ./chkn
+
+use strict;
+use utf8;
+use warnings;
+
+use FindBin;
+use Term::ReadKey;
+
+binmode STDOUT, ':utf8';
+
+my %codes;
+
+my @codes_files = @ARGV;
+my @entered_text;
+my @uncommitted;
+
+my @kanji_keys = ('a'..'z', q{;}, q{,}, q{.}, q{/});
+
+sub shift_key {
+    my ($key) = @_;
+    $key =~ tr{1-90[a-z];,./}{!@#$%^&*()[A-Z]:<>?};
+    return $key;
+}
+
+sub term_copy {
+    my $copy_tool = $ENV{COPY_TOOL};
+    if (!$copy_tool) {
+        return;
+    }
+
+    open my $tool_proc, '|-', $copy_tool
+        or die "Cannot run '$copy_tool': $!";
+    binmode $tool_proc, ':utf8';
+    print $tool_proc @_;
+}
+
+sub clear_screen {
+    print "\033[2J";
+}
+
+sub erase_to_eol {
+    print "\033[K";
+}
+
+my $jouyou_kanji = '一丁七万丈三上下不与且世丘丙両並中串丸丹主丼久乏乗乙九乞乱乳乾亀了予争事二互五井亜亡交享京亭人仁今介仏仕他付仙代令以仮仰仲件任企伎伏伐休会伝伯伴伸伺似但位低住佐体何余作佳併使例侍供依価侮侯侵侶便係促俊俗保信修俳俵俸俺倉個倍倒候借倣値倫倹偉偏停健側偵偶偽傍傑傘備催傲債傷傾僅働像僕僚僧儀億儒償優元兄充兆先光克免児党入全八公六共兵具典兼内円冊再冒冗写冠冥冬冶冷凄准凍凝凡処凶凸凹出刀刃分切刈刊刑列初判別利到制刷券刹刺刻則削前剖剛剝剣剤副剰割創劇力功加劣助努励労効劾勃勅勇勉動勘務勝募勢勤勧勲勾匂包化北匠匹区医匿十千升午半卑卒卓協南単博占印危即却卵卸厄厘厚原厳去参又及友双反収叔取受叙口古句叫召可台史右号司各合吉同名后吏吐向君吟否含吸吹呂呈呉告周呪味呼命和咲咽哀品員哲哺唄唆唇唐唯唱唾商問啓善喉喚喜喝喩喪喫営嗅嗣嘆嘱嘲器噴嚇囚四回因団困囲図固国圏園土圧在地坂均坊坑坪垂型垣埋城域執培基埼堀堂堅堆堕堤堪報場塀塁塊塑塔塗塚塞塡塩塾境墓増墜墨墳墾壁壇壊壌士壮声壱売変夏夕外多夜夢大天太夫央失奇奈奉奏契奔奥奨奪奮女奴好如妃妄妊妖妙妥妨妬妹妻姉始姓委姫姻姿威娘娠娯婆婚婦婿媒媛嫁嫉嫌嫡嬢子孔字存孝季孤学孫宅宇守安完宗官宙定宛宜宝実客宣室宮宰害宴宵家容宿寂寄密富寒寛寝察寡寧審寮寸寺対寿封専射将尉尊尋導小少尚就尺尻尼尽尾尿局居屈届屋展属層履屯山岐岡岩岬岳岸峠峡峰島崇崎崖崩嵐川州巡巣工左巧巨差己巻巾市布帆希帝帥師席帯帰帳常帽幅幕幣干平年幸幹幻幼幽幾庁広床序底店府度座庫庭庶康庸廃廉廊延廷建弁弄弊式弐弓弔引弟弥弦弧弱張強弾当彙形彩彫彰影役彼往征径待律後徐徒従得御復循微徳徴徹心必忌忍志忘忙応忠快念怒怖思怠急性怨怪恋恐恒恣恥恨恩恭息恵悔悟悠患悦悩悪悲悼情惑惜惧惨惰想愁愉意愚愛感慄慈態慌慎慕慢慣慨慮慰慶憂憎憤憧憩憬憲憶憾懇懐懲懸成我戒戚戦戯戴戸戻房所扇扉手才打払扱扶批承技抄把抑投抗折抜択披抱抵抹押抽担拉拍拐拒拓拘拙招拝拠拡括拭拳拶拷拾持指挑挙挟挨挫振挿捉捕捗捜捨据捻掃授掌排掘掛採探接控推措掲描提揚換握揮援揺損搬搭携搾摂摘摩摯撃撤撮撲擁操擦擬支改攻放政故敏救敗教敢散敬数整敵敷文斉斎斑斗料斜斤斥斬断新方施旅旋族旗既日旦旧旨早旬旺昆昇明易昔星映春昧昨昭是昼時晩普景晴晶暁暇暑暖暗暦暫暮暴曇曖曜曲更書曹曽替最月有服朕朗望朝期木未末本札朱朴机朽杉材村束条来杯東松板析枕林枚果枝枠枢枯架柄某染柔柱柳柵査柿栃栄栓校株核根格栽桁桃案桑桜桟梅梗梨械棄棋棒棚棟森棺椅植椎検業極楷楼楽概構様槽標模権横樹橋機欄欠次欧欲欺款歌歓止正武歩歯歳歴死殉殊残殖殴段殺殻殿毀母毎毒比毛氏民気水氷永氾汁求汎汗汚江池汰決汽沃沈沖沙没沢河沸油治沼沿況泉泊泌法泡波泣泥注泰泳洋洗洞津洪活派流浄浅浜浦浪浮浴海浸消涙涯液涼淑淡淫深混添清渇済渉渋渓減渡渦温測港湖湧湯湾湿満源準溝溶溺滅滋滑滝滞滴漁漂漆漏演漠漢漫漬漸潔潜潟潤潮潰澄激濁濃濫濯瀬火灯灰災炉炊炎炭点為烈無焦然焼煎煙照煩煮熊熟熱燃燥爆爪爵父爽片版牙牛牧物牲特犠犬犯状狂狙狩独狭猛猟猫献猶猿獄獣獲玄率玉王玩珍珠班現球理琴瑠璃璧環璽瓦瓶甘甚生産用田由甲申男町画界畏畑畔留畜畝略番異畳畿疎疑疫疲疾病症痕痘痛痢痩痴瘍療癒癖発登白百的皆皇皮皿盆益盗盛盟監盤目盲直相盾省眉看県真眠眺眼着睡督睦瞬瞭瞳矛矢知短矯石砂研砕砲破硝硫硬碁碑確磁磨礁礎示礼社祈祉祖祝神祥票祭禁禅禍福秀私秋科秒秘租秩称移程税稚種稲稼稽稿穀穂積穏穫穴究空突窃窒窓窟窮窯立竜章童端競竹笑笛符第筆等筋筒答策箇箋算管箱箸節範築篤簡簿籍籠米粉粋粒粗粘粛粧精糖糧糸系糾紀約紅紋納純紙級紛素紡索紫累細紳紹紺終組経結絞絡給統絵絶絹継続維綱網綻綿緊総緑緒線締編緩緯練緻縁縄縛縦縫縮績繁繊織繕繭繰缶罪置罰署罵罷羅羊美羞群羨義羽翁翌習翻翼老考者耐耕耗耳聖聞聴職肉肌肖肘肝股肢肥肩肪肯育肺胃胆背胎胞胴胸能脂脅脇脈脊脚脱脳腎腐腕腫腰腸腹腺膚膜膝膨膳臆臓臣臨自臭至致臼興舌舎舗舞舟航般舶舷船艇艦良色艶芋芝芯花芳芸芽苗苛若苦英茂茎茨茶草荒荘荷菊菌菓菜華萎落葉著葛葬蒸蓄蓋蔑蔵蔽薄薦薪薫薬藍藤藩藻虎虐虚虜虞虫虹蚊蚕蛇蛍蛮蜂蜜融血衆行術街衛衝衡衣表衰衷袋袖被裁裂装裏裕補裸製裾複褐褒襟襲西要覆覇見規視覚覧親観角解触言訂訃計討訓託記訟訪設許訳訴診証詐詔評詞詠詣試詩詮詰話該詳誇誉誌認誓誕誘語誠誤説読誰課調談請論諦諧諭諮諸諾謀謁謄謎謙講謝謡謹識譜警議譲護谷豆豊豚象豪貌貝貞負財貢貧貨販貪貫責貯貴買貸費貼貿賀賂賃賄資賊賓賛賜賞賠賢賦質賭購贈赤赦走赴起超越趣足距跡路跳践踊踏踪蹴躍身車軌軍軒軟転軸軽較載輝輩輪輸轄辛辞辣辱農辺込迅迎近返迫迭述迷追退送逃逆透逐逓途通逝速造連逮週進逸遂遅遇遊運遍過道達違遜遠遡遣適遭遮遵遷選遺避還那邦邪邸郊郎郡部郭郵郷都酌配酎酒酔酢酪酬酵酷酸醒醜醸采釈里重野量金釜針釣鈍鈴鉄鉛鉢鉱銀銃銅銘銭鋭鋳鋼錠錦錬錮錯録鍋鍛鍵鎌鎖鎮鏡鐘鑑長門閉開閑間関閣閥閲闇闘阜阪防阻附降限陛院陣除陥陪陰陳陵陶陸険陽隅隆隊階随隔隙際障隠隣隷隻雄雅集雇雌雑離難雨雪雰雲零雷電需震霊霜霧露青静非面革靴韓音韻響頂頃項順須預頑頒頓領頭頰頻頼題額顎顔顕願類顧風飛食飢飯飲飼飽飾餅養餌餓館首香馬駄駅駆駐駒騎騒験騰驚骨骸髄高髪鬱鬼魂魅魔魚鮮鯨鳥鳴鶏鶴鹿麓麗麦麺麻黄黒黙鼓鼻齢𠮟';
+
+sub is_jouyou {
+    my ($c) = @_;
+    $c = ord $c;
+    my $min = 0;
+    my $max = length $jouyou_kanji;
+
+    while ($min < $max) {
+        my $try = ($min + $max) >> 1;
+        my $tried = ord(substr $jouyou_kanji, $try, 1);
+        if ($tried < $c) {
+            $min = $try + 1;
+        } elsif ($tried > $c) {
+            $max = $try;
+        } else {
+            return $try + 1;
+        }
+    }
+
+    return 0;
+}
+
+# ターミナル上の字の幅を返す
+# 半角の場合：1
+# 全角の場合：2
+# 文字列の長さが2以上の場合、全文字合計の幅を返す
+sub char_width {
+    my ($s) = @_;
+    my $total = 0;
+
+    for my $char (split q{}, $s) {
+        my $ord = ord $char;
+        if ($ord <= 0xff) {
+            $total += 1;
+        } elsif ($ord >= 0xff01 && $ord <= 0xff60) {
+            # 全角英数字
+            $total += 2;
+        } elsif ($ord >= 0xff61 && $ord <= 0xffdc) {
+            # 半角カタカナ
+            $total += 1;
+        } elsif ($ord >= 0xf900 && $ord < 0xfb00) {
+            # CJK Compatibility Ideographs
+            $total += 2;
+        } elsif ($ord >= 0x10000) {
+            # surrogate pair (多分、漢字)
+            $total += 2;
+        } elsif ($ord >= 0x3000 && $ord <= 0x30fe) {
+            # 平仮名／片仮名
+            $total += 2;
+        } elsif ($ord >= 0x3200 && $ord < 0xa000) {
+            # Enclosed CJK Letters [3200, 3300)
+            # CJK 互換             [3300, 3400)
+            # "Rare" CJK           [3400, 4e00)
+            # 漢字                 [4e00, 0xa000)
+            $total += 2;
+        } else {
+            $total += 1;
+        }
+    }
+
+    return $total;
+}
+
+sub guide_ji {
+    my ($key) = @_;
+    my $raw_ji = $codes{$key};
+    my $padding = q{ } x (2 - char_width $raw_ji);
+    if (is_jouyou $raw_ji) {
+        # 常用漢字を青く描画する
+        return "\e[34m$raw_ji\e[39m$padding";
+    } else {
+        return "$raw_ji$padding";
+    }
+}
+
+if (!@codes_files) {
+    push @codes_files, "$FindBin::Bin/jpn";
+}
+
+sub read_codes {
+    %codes = ();
+    for my $codes_file (@codes_files) {
+        open my $codes, $codes_file
+            or die "Cannot open $codes_file: $!";
+        binmode $codes, ':utf8';
+
+        while (my $line = <$codes>) {
+            chomp $line;
+
+            my ($key, $value) = split m/\t/, $line, 3;
+            if (!defined $value) {
+                print STDERR "Could not process code: $line\n";
+                die;
+            }
+            die "Duplicate code: $key" if defined $codes{$key};
+            $codes{$key} = $value;
+        }
+    }
+}
+read_codes;
+
+ReadMode 4; # Turn off controls keys
+
+my @input_history;
+
+sub print_keyboard_row {
+    my ($left_padding, $key_names, $keyboard_ref) = @_;
+    my @key_name_array = split q{}, $key_names;
+
+    my $draw_frame = !$keyboard_ref;
+    $keyboard_ref //= {};
+
+    if ($draw_frame) {
+        print $left_padding;
+        my $separator = q{};
+        for my $key_name (@key_name_array) {
+            if ($key_name eq q{ }) {
+                print q{  };
+                next;
+            }
+            printf '%s┌%s ┐', $separator, $key_name;
+            $separator = q{ };
+        }
+        erase_to_eol;
+    }
+    print "\n";
+    print $left_padding;
+    for my $key_name (@key_name_array) {
+        if ($key_name eq q{ }) {
+            print q{  };
+            next;
+        }
+        my $key_value = $keyboard_ref->{$key_name} || q{  };
+        my $shift_value = $keyboard_ref->{shift_key $key_name} || q{│ };
+        printf '│%s%s', $key_value, $shift_value;
+    }
+    erase_to_eol;
+    print "\n";
+    if ($draw_frame) {
+        print $left_padding;
+        my $separator = q{};
+        for my $key_name (@key_name_array) {
+            if ($key_name eq q{ }) {
+                print q{  };
+                next;
+            }
+            my $index_finger_key = $key_name eq 'f' || $key_name eq 'j';
+            printf '%s└%s┘', $separator, ($index_finger_key ? '==' : '──');
+            $separator = q{ };
+        }
+        erase_to_eol;
+    }
+}
+
+# The argument is a hash from keys (e.g. 'f') to something to draw inside the
+# keyboard in the guide. If the key is omitted in the map, the key is kept
+# blank. Otherwise, it should be a single wide character.
+# If that argument is omitted, then it only draws the keyboard outline.
+sub print_keyboard {
+    my ($keyboard_ref) = @_;
+
+    my ($width, $height) = GetTerminalSize;
+    printf "\033[%d;0H", ($height - 8);
+
+    print_keyboard_row q{}, 'qwert yuiop', $keyboard_ref;
+    print "\n";
+    print_keyboard_row q{  }, 'asdfg hjkl;', $keyboard_ref;
+    print "\n";
+    print_keyboard_row q{    }, 'zxcvb nm,./', $keyboard_ref;
+}
+
+my $last_term_size = q{};
+sub maybe_refresh_screen {
+    my $term_size = join q{,}, GetTerminalSize;
+    return if $term_size eq $last_term_size;
+    $last_term_size = $term_size;
+
+    clear_screen;
+
+    printf "\033[0;0H";
+    for my $past_input (@input_history) {
+        print "$past_input\n";
+    }
+
+    print_keyboard;
+}
+
+while (1) {
+    local $";
+    $" = q{};
+
+    maybe_refresh_screen;
+
+    # Jump to underneath the last input history item
+    printf "\033[%d;0H", scalar(@input_history) + 1;
+
+    print "@entered_text";
+    if (@uncommitted) {
+        print "<@uncommitted>";
+    }
+
+    erase_to_eol;
+
+    my $key = ReadKey 0;
+    if (ord($key) < 0x20 && $key ne "\n") {
+        next;
+    }
+
+    if ($key eq "\n") {
+        if (@uncommitted) {
+            push @entered_text, @uncommitted;
+            @uncommitted = ();
+        } elsif (!@entered_text) {
+            @input_history = ();
+            # 開発中はコードを調整・追加するので、コードを最読込
+            read_codes;
+
+            # 乱れている場合があるので、キーボードを最描画する
+            clear_screen;
+            print_keyboard;
+        } else {
+            my $completed_text = join q{}, @entered_text;
+            push @input_history, $completed_text;
+            term_copy $completed_text;
+            @entered_text = ();
+        }
+    } elsif (ord($key) == 127) {
+        # Backspace
+        if (@uncommitted) {
+            pop @uncommitted;
+        } elsif (@entered_text) {
+            pop @entered_text;
+        }
+    } else {
+        push @uncommitted, $key;
+    }
+
+    while (@uncommitted > 3) {
+        push @entered_text, shift(@uncommitted);
+    }
+
+    my $maybe_code = join q{}, @uncommitted;
+    if ($codes{$maybe_code}) {
+        push @entered_text, $codes{$maybe_code};
+
+        if (length($maybe_code) == 3) {
+            my @chars = split q{}, $maybe_code;
+            my %keyboard = (
+                $chars[0] => '1 ',
+                $chars[1] => '2 ',
+                $chars[2] => guide_ji($maybe_code),
+            );
+            print_keyboard \%keyboard;
+        }
+        @uncommitted = ();
+    }
+
+    while (@uncommitted >= 3) {
+        push @entered_text, shift(@uncommitted);
+    }
+
+    my %keyboard = ();
+    for my $key (@kanji_keys, map {shift_key $_} @kanji_keys) {
+        my $suggested_code = join q{}, @uncommitted, $key;
+        if ($codes{$suggested_code}) {
+            $keyboard{$key} = guide_ji $suggested_code;
+        }
+    }
+    if (%keyboard) {
+        print_keyboard \%keyboard;
+    }
+}
