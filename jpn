@@ -367,7 +367,7 @@ apS	乘
 aqj	亝	aqj->亝 jqj->斊 /qj->斉 /qJ->齊 [亝斊]は異体字なのでシフト可
 aqk	世
 aqK	丗
-aql	井
+aql	井	yセイ
 asf	争	部首：亅	爭争
 ata	丶
 ati	乃
@@ -402,7 +402,7 @@ a.s	亮
 bbi	佚
 bbj	以	㠯以
 bbk	位
-bbl	依
+bbl	依	yイ
 bbo	倚
 bbu	伊
 bb;	偉
@@ -893,7 +893,7 @@ c/<	勞
 c/.	冷
 dbc	叡
 dbh	哀
-dbi	咽
+dbi	咽	yイン
 dbj	員
 dbk	印
 dbl	右
@@ -1405,7 +1405,7 @@ e/r	奩
 e/s	㚑	䨩霊靈灵㚑
 e/w	壟
 fba	寅
-fbi	尉
+fbi	尉	yイ
 fbj	威
 fbk	委
 fbl	姻
@@ -1879,7 +1879,7 @@ hbb	恁	任の部首が人《ｂ》
 hbc	引
 hbh	怡
 hbi	意
-hbj	惟
+hbj	惟	yイ
 hbk	恚
 hbl	慇	殷の部首は殳《ｌ》
 hbn	懿
@@ -2451,7 +2451,7 @@ i.s	攬
 i.w	撩
 i/a	挊	弄挊挵
 i/A	挵	弄挊挵
-i/d	或
+i/d	或	yワク
 i/e	捩
 i/f	戻
 i/s	撈
@@ -2468,7 +2468,7 @@ jb:	曵
 jcj	於
 jck	旺
 jcl	暇
-jcv	易
+jcv	易	yエキ
 jc;	曰
 jdj	會	会會
 jdk	曷
@@ -2722,7 +2722,7 @@ kgz	橘
 kg;	棄
 kg.	槻
 kg/	櫃
-kha	杏
+kha	杏	yキョウ
 khc	橿
 khd	極
 khe	框
@@ -4359,7 +4359,7 @@ rsk	箏
 rsK	筝
 rsl	篠
 rsL	筱
-rsm	粟
+rsm	粟	yゾク
 rso	簇
 rsp	籔
 rsP	䉤
@@ -4918,8 +4918,10 @@ ubk	蘊
 ubl	葦
 ubo	萎
 ubp	苡
-ubs	蔭
+ubs	蔭	yイン	𦹥蔭䕃𨼲
+ubS	䕃	yイン	𦹥蔭䕃𨼲
 ubu	英
+ubw	𦹥	yイン	𦹥蔭䕃𨼲
 ubx	藹
 ubz	茴
 ub;	菴
@@ -5201,7 +5203,7 @@ u/u	蘆
 u/v	蘢
 u/w	萵
 vbi	褞
-vbj	衣
+vbj	衣	yイ
 vbJ	衤
 vbk	衛
 vbK	衞
@@ -5274,7 +5276,7 @@ vku	蛄
 vkv	行
 vkx	衡
 vkz	虍
-vk;	袷
+vk;	袷	yコウ
 vk.	蠱
 vk/	蜈
 vla	蠶
@@ -5879,7 +5881,7 @@ x/v	踉
 x/z	輦
 x/,	路
 x/.	賂
-yba	遺
+yba	遺	yイ
 ybc	遏
 ybd	逶
 ybi	醫	医毉醫
@@ -6263,10 +6265,11 @@ z/.	鈴
 ;bn	鞍
 ;bo	韋
 ;bp	霙
+;bs	𨼲	yイン	𦹥蔭䕃𨼲
 ;bu	韻
 ;bx	鞋
 ;by	靄
-;bz	闇
+;bz	闇	yアン
 ;b;	雲
 ;b,	隕
 ;b.	韵
@@ -6474,8 +6477,8 @@ z/.	鈴
 ;/s	霊	䨩霊靈灵㚑
 ;/S	靈	䨩霊靈灵㚑
 ,ba	饐
-,bm	飲
-,bM	飮
+,bm	飲	yイン
+,bM	飮	yイン
 ,bx	餡
 ,bz	饂
 ,b,	飴	yイ
@@ -7042,7 +7045,6 @@ _4408	䐈
 _44B3	䒳
 _44BE	䒾
 _44D4	䓔
-_4543	䕃
 _4508	䔈
 _450D	䔍
 _45B8	䖸
@@ -10259,7 +10261,6 @@ _26C29	𦰩
 _26C73	𦱳
 _26CDD	𦳝
 _26E40	𦹀
-_26E65	𦹥
 _26F94	𦾔
 _26FF6	𦿶
 _26FF7	𦿷
@@ -10324,7 +10325,6 @@ _28E1F	𨸟
 _28E36	𨸶
 _28E89	𨺉
 _28EEB	𨻫
-_28F32	𨼲
 _292A0	𩊠
 _292B1	𩊱
 _29490	𩒐
