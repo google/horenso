@@ -1202,8 +1202,8 @@ ebp	囗	yイ
 ebs	堙
 ebu	壹
 eby	塋
-eb;	圧
-eb:	壓
+eb;	圧	yアツ
+eb:	壓	yアツ
 ecc	園	園薗
 ech	奕
 eci	囮
@@ -1409,7 +1409,7 @@ fbi	尉
 fbj	威
 fbk	委
 fbl	姻
-fbm	娃
+fbm	娃	yアイ
 fbo	安
 fbp	嬰
 fbu	婬
@@ -1422,7 +1422,7 @@ fci	娥
 fcj	家
 fck	宛
 fcl	媛
-fcm	姶
+fcm	姶	yオウ
 fco	媼
 fcp	婉
 fcu	娟
@@ -1540,7 +1540,7 @@ fri	尠
 frj	尖
 frk	専
 frK	專
-frl	姐
+frl	姐	yソ
 fro	嬋
 frw	孱
 fr;	孅
@@ -1888,8 +1888,8 @@ hbp	影
 hbs	慍
 hbx	慰
 hbz	愛
-hb;	悪
-hb:	惡
+hb;	悪	yアク
+hb:	惡	yアク
 hb/	彝
 hb?	彜
 hca	懊
@@ -2344,7 +2344,7 @@ isO	搜
 isp	挿
 isr	拏
 ist	抓
-isu	扱
+isu	扱	yソウ
 isv	拵
 isy	操
 is;	掫
@@ -2460,7 +2460,7 @@ jba	暎
 jbj	曖
 jbk	暗
 jbl	映
-jbo	斡
+jbo	斡	yアツ
 jbp	暈
 jbz	晏
 jb;	曳
@@ -6253,7 +6253,7 @@ z/.	鈴
 ;bA	隱
 ;bc	閼
 ;bh	靉
-;bi	阿
+;bi	阿	yア
 ;bj	陰
 ;bJ	隂
 ;bk	院
@@ -6478,7 +6478,7 @@ z/.	鈴
 ,bM	飮
 ,bx	餡
 ,bz	饂
-,b,	飴
+,b,	飴	yイ
 ,b.	駰	右部にある因の部首は囗（ｅ）
 ,b/	頤
 ,cm	駅
@@ -6801,7 +6801,7 @@ z/.	鈴
 .wM	鶫
 .w,	鷆
 .w<	鷏
-.w.	鮎
+.w.	鮎	yデン
 .xc	魃
 .xj	鰰
 .xm	魄
