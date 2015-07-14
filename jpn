@@ -548,7 +548,7 @@ btI	俦
 btj	代
 btJ	㈹
 btk	仲
-btl	体	yタイ
+btl	体	yタイ	体躰軆體
 bto	倬
 btu	但
 bt;	値
@@ -1306,8 +1306,8 @@ eps	墅
 ept	墻	墻牆
 epw	塲
 eqa	夊
-eqe	図
-eqE	圖
+eqe	図	yズ
+eqE	圖	yズ
 eqi	声
 eqm	垂
 eqo	壬
@@ -3691,12 +3691,12 @@ obp	瑛
 obu	異
 obz	痿
 oca	瑕
-occ	畫
 och	甌
 oci	王
 ocj	瓮
 ock	瘟
-oco	画
+oco	画	yガ
+ocO	畫	yガ
 ocp	瓜
 ocu	瓦
 ocv	疫
@@ -5783,13 +5783,13 @@ xs/	蹲
 xti	輊
 xtj	貪
 xtk	貸
-xtl	豸
+xtl	躰	yタイ	体躰軆體
+xtL	軆	yタイ	体躰軆體
 xtm	躊
 xtn	躓
 xto	踟
 xtp	賺
-xtu	躰
-xtU	軆
+xtu	豸
 xt;	赧
 xva	躅
 xvc	賃
@@ -6605,10 +6605,10 @@ z/.	鈴
 ,s,	髞
 ,ta	餒
 ,te	駘
+,tl	體	yタイ	体躰軆體
 ,tm	駐
 ,tn	騨
 ,tq	餤
-,ts	體
 ,tw	頽
 ,t,	題
 ,t.	馳
