@@ -852,7 +852,6 @@ czo	冪
 czp	劈
 czu	冕
 czv	冖	yベキ
-c;z	匏	yホウ
 cz;	勉
 cz:	勉
 c;c	勃
@@ -864,6 +863,7 @@ c;l	凡
 c;m	匚
 c;u	卜
 c;v	剖
+c;z	匏	yホウ
 c,a	兪	yユ
 c,c	務
 c,m	冥
@@ -904,7 +904,7 @@ dbm	哇
 dbn	噎
 dbo	咏
 dbp	唖
-dbu	嗚
+dbu	嗚	hyオ	yウ
 dby	啊
 db;	営	営營
 db,	噫
@@ -5951,7 +5951,6 @@ ymS	迩
 yna	述
 ynb	酋
 ync	醜
-ynd	重
 yne	酬	駲酬洲州
 ynf	週
 yng	這
@@ -6015,6 +6014,7 @@ yt;	酎
 yva	迪
 yvc	邸
 yvd	酊
+yvh	遉
 yvi	通
 yvk	酲
 yvl	鄭
@@ -6025,7 +6025,7 @@ yvs	迢
 yvu	逖
 yvv	逞
 yvx	迭
-yvy	遉
+yvy	重	yチョウ	hyジュウ
 yvz	追
 yv;	辻
 ywe	迯
@@ -6372,7 +6372,7 @@ z/.	鈴
 ;qn	霽
 ;qo	陬
 ;qr	陲
-;qu	隋
+;qu	隋	yズイ
 ;qv	雖	左下に虫《ｖ》がある
 ;qw	静
 ;qW	靜
@@ -6680,7 +6680,7 @@ z/.	鈴
 ,.s	駱
 ,.;	驪
 ,.,	鬣
-,/a	驢
+,/a	驢	yロ	hyリョ
 ,/d	髏
 ,/f	類
 ,/F	類
