@@ -323,7 +323,7 @@ adh	丐
 adj	乖
 ad;	亥
 afa	丸
-afj	串
+afj	串	yカン
 afl	丱
 afs	乾
 aga	九
@@ -332,18 +332,17 @@ agj	久
 agk	㐂	b一	yキ
 ag;	及
 aha	享
-ahf	京
-ahF	亰
 ahp	亟
 aja	亅
+ajf	京	yケイ
+ajF	亰	yケイ
 aka	五
-akd	亨
+akd	亨	yコウ
 akf	交
 akg	亢
 akj	互
 akl	乎
 akm	亙
-aks	亘
 ak;	乕
 ala	乞
 alf	三
@@ -358,7 +357,7 @@ amS	亊
 ana	主
 apa	上
 apA	㊤
-apd	且
+apd	且	yショ
 apf	丈
 apF	𠀋
 apg	丞
@@ -368,6 +367,8 @@ aqj	亝	aqj->亝 jqj->斊 /qj->斉 /qJ->齊 [亝斊]は異体字なのでシフ�
 aqk	世
 aqK	丗
 aql	井	yセイ
+aq;	丼	yセイ
+arj	亘	yセン
 asf	争	部首：亅	爭争
 ata	丶
 ati	乃
@@ -380,7 +381,6 @@ avj	丁
 avk	亭
 awe	亠
 axj	二	二弍
-axk	丼
 axl	乳
 ax;	亳
 ayd	丕
@@ -404,6 +404,7 @@ bbj	以	㠯以
 bbk	位
 bbl	依	yイ
 bbo	倚
+bbp	傴	yウ
 bbu	伊
 bb;	偉
 bch	億	註：意の部首は心（ｈ）
@@ -412,7 +413,7 @@ bcj	価
 bcJ	價
 bck	何
 bcl	佳
-bco	伽
+bco	伽	yカ
 bcu	偃
 bcv	仮
 bcx	假
@@ -441,8 +442,6 @@ bhk	俱
 bhK	倶
 bhl	倨
 bho	倔
-bhp	佼
-bhs	傴
 bhv	僑
 bhx	僅
 bhz	偶
@@ -452,7 +451,7 @@ bja	倦
 bjb	倹
 bjB	儉
 bjc	係
-bji	偐
+bji	偐	yゲン
 bjk	傾
 bjl	件
 bjo	俔
@@ -461,12 +460,13 @@ bjs	偈
 bjx	傑
 bjz	儼
 bj;	健
-bka	倥
+bka	佼	交の部首は亠《ａ》	yコウ
 bkb	個
 bkj	傲
 bkl	候
 bkm	伍
 bkn	佝
+bkq	倥	空の部首は穴《ｑ》
 bks	倖
 bkx	估
 bkz	伉
@@ -479,7 +479,6 @@ bld	做
 blf	俒	yコン	完の部首は宀《ｆ》
 blj	佐
 blk	今
-bls	偲
 blx	催
 blz	債
 bl;	作
@@ -488,6 +487,7 @@ bmc	侍
 bmf	你	你伱尓尒您
 bmF	伱	你伱尓尒您
 bmk	儞	爾儞
+bml	偲	yシ
 bmx	仔
 bmz	侈
 bm;	俟
@@ -498,6 +498,7 @@ bna	什
 bnb	舎	漢字源による部首：人
 bnB	舍	漢字源による部首：人
 bnc	住
+bnd	从	从従從
 bns	儁
 bnv	偖
 bnx	借
@@ -506,13 +507,11 @@ bn;	俶
 bn,	儒
 bn.	俊
 bn/	侏
-bpb	从
 bpi	仍
 bpo	仗
 bpu	傷
 bpx	倡
 bpz	償
-bqi	僭
 bqj	人
 bqJ	𠆢
 bqk	仁
@@ -521,18 +520,18 @@ bql	伸
 bqm	侭
 bqo	儘
 bqp	信
-bqu	僣
 bq;	侵
 bq,	儕
 bq.	仞
 bq>	仭
-bra	俎
 bre	倩
+bri	僭	yセン
 brj	全
 brk	仙
 brl	仟
+bro	僉
 brw	僊
-br;	僉
+br;	俎	俎爼	yソ
 bsd	佗
 bsi	僧
 bsj	他
@@ -549,22 +548,23 @@ btI	俦
 btj	代
 btJ	㈹
 btk	仲
-btl	体
+btl	体	yタイ
 bto	倬
 btu	但
 bt;	値
-bvi	偸
 bvj	偵
 bvk	停
 bvl	低
 bvm	儲
+bvo	僣	yテツ
 bvu	佻
 bv;	佇
 bwi	僮
-bwj	伝
-bwJ	傳
+bwj	仝	仝同々
 bwk	倒
-bwl	仝	仝同々
+bwl	伝
+bwL	傳
+bwm	偸	yトウ
 bwo	儂
 bwp	儻
 bwu	佃
@@ -2012,8 +2012,8 @@ hmv	悉
 hmw	弑
 hm;	恃
 hna	愁
-hnd	従
-hnD	從
+hnd	従	从従從
+hnD	從	从従從
 hne	惇
 hnf	弱
 hng	慴
@@ -3585,7 +3585,7 @@ nre	煎
 nrn	然
 nrq	狙
 nrw	煽
-nr;	爼
+nr;	爼	俎爼	yソ
 nr.	燹
 nr/	牋
 nsa	率
