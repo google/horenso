@@ -323,7 +323,7 @@ adh	丐
 adj	乖
 ad;	亥
 afa	丸
-afj	串	yカン
+afj	串	yカン	hyセン
 afl	丱
 afs	乾
 aga	九
@@ -334,10 +334,10 @@ ag;	及
 aha	享
 ahp	亟
 aja	亅
-ajf	京	yケイ
-ajF	亰	yケイ
+ajf	京	yケイ	hyキョウ
+ajF	亰	yケイ	hyキョウ
 aka	五
-akd	亨	yコウ
+akd	亨	yコウ	hyキョウ
 akf	交
 akg	亢
 akj	互
@@ -357,7 +357,7 @@ amS	亊
 ana	主
 apa	上
 apA	㊤
-apd	且	yショ
+apd	且	yショ	hyシャ
 apf	丈
 apF	𠀋
 apg	丞
@@ -379,7 +379,7 @@ atL	㊥
 at;	丑
 avj	丁
 avk	亭
-awe	亠
+awe	亠	yトウ
 axj	二	二弍
 axl	乳
 ax;	亳
@@ -413,7 +413,7 @@ bcj	価
 bcJ	價
 bck	何
 bcl	佳
-bco	伽	yカ
+bco	伽	yカ	hyキャ
 bcu	偃
 bcv	仮
 bcx	假
@@ -451,7 +451,7 @@ bja	倦
 bjb	倹
 bjB	儉
 bjc	係
-bji	偐	yゲン
+bji	偐	yゲン	hyガン
 bjk	傾
 bjl	件
 bjo	俔
@@ -531,7 +531,7 @@ brk	仙
 brl	仟
 bro	僉
 brw	僊
-br;	俎	俎爼	yソ
+br;	俎	俎爼	yソ	hyショ
 bsd	佗
 bsi	僧
 bsj	他
@@ -548,7 +548,7 @@ btI	俦
 btj	代
 btJ	㈹
 btk	仲
-btl	体	yタイ	体躰軆體
+btl	体	yタイ	体躰軆體	hyテイ
 bto	倬
 btu	但
 bt;	値
@@ -556,7 +556,7 @@ bvj	偵
 bvk	停
 bvl	低
 bvm	儲
-bvo	僣	yテツ
+bvo	僣	yテツ	hyセン
 bvu	佻
 bv;	佇
 bwi	僮
@@ -564,7 +564,7 @@ bwj	仝	仝同々
 bwk	倒
 bwl	伝
 bwL	傳
-bwm	偸	yトウ
+bwm	偸	yトウ	hyチュウ
 bwo	儂
 bwp	儻
 bwu	佃
@@ -576,11 +576,11 @@ bxj	伐
 bxk	伯
 bxl	任
 bxo	佩
-bxp	儺	yナ
+bxp	儺	yナ	hyダ
 bx;	俳
 bya	伴
 byc	俾	yヒ	卑の部首は十《ｃ》
-byi	佰	yヒャク
+byi	佰	yヒャク	hyハク
 byp	俵
 byz	備
 bzb	保
@@ -617,7 +617,7 @@ b,x	佯
 b,z	俣
 b,.	余	b,.->余 ,,.->餘
 b,/	佑
-b.a	侖	yリン
+b.a	侖	yリン	hyロン
 b.c	儡
 b.j	俚
 b.m	僚
@@ -627,7 +627,7 @@ b.x	倆
 b.z	倫
 b./	侶
 b/a	仂	yロク
-b/c	倭	yワ
+b/c	倭	yワ	hyイ
 b/m	伶
 b/x	僂
 b/z	儷
@@ -649,7 +649,7 @@ cdk	劾
 cdl	割
 cdm	劃
 cdo	剴
-cdp	匯	yカイ	匯滙
+cdp	匯	yカイ	匯滙	hyワイ
 cdu	劼
 cd;	刮
 cfi	函
@@ -731,7 +731,7 @@ ckz	光	光炗
 ck;	剛
 ck.	凅
 ck/	冦
-cla	冣	最冣㝡	yサイ
+cla	冣	最冣㝡	yサイ	hyシュ
 clb	刪
 clc	克
 clj	刷
@@ -778,8 +778,8 @@ crk	切
 crl	前
 crm	剪
 cro	占
-crp	冉	yゼン
-cru	刹	yセツ
+crp	冉	yゼン	hyネン
+cru	刹	yセツ	hyセチ	hyサツ
 cr;	先
 cr,	勣
 csc	卅
@@ -819,7 +819,7 @@ cw;	党
 cxc	入
 cxi	博
 cxj	南	東西南北
-cxk	内	yナイ
+cxk	内	yナイ	hyダイ
 cxl	凸
 cxm	嚢	囊嚢
 cxo	凪
@@ -851,8 +851,8 @@ czm	匍
 czo	冪
 czp	劈
 czu	冕
-czv	冖
-czx	匏
+czv	冖	yベキ
+c;z	匏	yホウ
 cz;	勉
 cz:	勉
 c;c	勃
@@ -870,13 +870,13 @@ c,m	冥
 c,v	冶
 c,x	免
 c,z	勇
-c,.	勿
+c,.	勿	yモチ	hyブツ
 c,/	匁
 c.c	凉
 c.f	兩	両兩
 c.j	剌
 c.m	利
-c.v	劉
+c.v	劉	yリュウ
 c.x	凌
 c.z	凜
 c.Z	凛
@@ -3149,7 +3149,7 @@ mda	海
 mdA	海
 mdf	活
 mdm	涯
-mdp	滙	yカイ	匯滙
+mdp	滙	yカイ	匯滙	hyワイ
 mds	潰
 md;	濶
 md,	渇
@@ -5783,8 +5783,8 @@ xs/	蹲
 xti	輊
 xtj	貪
 xtk	貸
-xtl	躰	yタイ	体躰軆體
-xtL	軆	yタイ	体躰軆體
+xtl	躰	yタイ	体躰軆體	hyテイ
+xtL	軆	yタイ	体躰軆體	hyテイ
 xtm	躊
 xtn	躓
 xto	踟
@@ -6605,7 +6605,7 @@ z/.	鈴
 ,s,	髞
 ,ta	餒
 ,te	駘
-,tl	體	yタイ	体躰軆體
+,tl	體	yタイ	体躰軆體	hyテイ
 ,tm	駐
 ,tn	騨
 ,tq	餤
