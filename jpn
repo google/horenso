@@ -568,7 +568,6 @@ bwm	偸	yトウ
 bwo	儂
 bwp	儻
 bwu	佃
-bwv	仂
 bw;	働
 bxf	佞	右下に女《ｆ》がある
 bxF	侫	妄の部首は女《ｆ》
@@ -577,10 +576,11 @@ bxj	伐
 bxk	伯
 bxl	任
 bxo	佩
-bxp	儺
+bxp	儺	yナ
 bx;	俳
 bya	伴
-byi	佰
+byc	俾	yヒ	卑の部首は十《ｃ》
+byi	佰	yヒャク
 byp	俵
 byz	備
 bzb	保
@@ -597,7 +597,6 @@ bzl	仏
 bzL	佛
 bzm	俘
 bzo	俛
-bzp	俾
 bzu	仆
 bzv	便
 bzx	儛	tzx->舞
@@ -618,7 +617,7 @@ b,x	佯
 b,z	俣
 b,.	余	b,.->余 ,,.->餘
 b,/	佑
-b.a	侖
+b.a	侖	yリン
 b.c	儡
 b.j	俚
 b.m	僚
@@ -627,7 +626,8 @@ b.v	儖
 b.x	倆
 b.z	倫
 b./	侶
-b/c	倭
+b/a	仂	yロク
+b/c	倭	yワ
 b/m	伶
 b/x	僂
 b/z	儷
@@ -649,6 +649,7 @@ cdk	劾
 cdl	割
 cdm	劃
 cdo	剴
+cdp	匯	yカイ	匯滙
 cdu	劼
 cd;	刮
 cfi	函
@@ -656,7 +657,6 @@ cfI	凾
 cfj	刊
 cfk	冠
 cfl	勘
-cfp	刋
 cfu	凵
 cf;	勧
 cf:	勸
@@ -666,7 +666,6 @@ cgC	𠘨
 cgi	卉
 cgj	帰	帰歸皈
 cgk	匱
-cgl	匯
 cgo	剞
 cgp	其
 cha	区
@@ -675,28 +674,29 @@ chb	凶
 chc	兢	部首の［十］を除けば、［兄］が残り、その部首は［儿］->ｃ
 chf	况
 chg	兇
-chh	冂
 chi	匡
 chk	具
 chl	勤
 chL	勤
 cho	劬
 chp	協
-chs	勗
+chs	勖	yキョク
+chS	勗	yキョク
 chv	共
 chx	勛	[勲勳]の異体字なので、シフト可
 chz	勲
 chZ	勳
 ch;	凝
-ch.	匝
 ch/	匈
 cja	匸
 cjb	兮
 cjc	元
+cjd	冂	yケイ
+cjD	冋	yケイ
 cjg	决
 cji	刔
-cjj	勁
-cjJ	劤
+cjj	勁	yケイ
+cjJ	劤	yケイ
 cjk	兄
 cjl	券
 cjo	剄
@@ -731,7 +731,7 @@ ckz	光	光炗
 ck;	剛
 ck.	凅
 ck/	冦
-cla	冣	最冣㝡
+cla	冣	最冣㝡	yサイ
 clb	刪
 clc	克
 clj	刷
@@ -772,13 +772,14 @@ cqJ	刄
 cqk	制
 cql	凄
 cq;	勢
+cri	刋	yセン
 crj	千
 crk	切
 crl	前
 crm	剪
 cro	占
-crp	冉
-cru	刹
+crp	冉	yゼン
+cru	刹	yセツ
 cr;	先
 cr,	勣
 csc	卅
@@ -790,8 +791,9 @@ csm	卆
 cso	剏
 csp	匆
 csq	𠦝	正式な発音は無いけど、部首は十で、部首を取り除くと早が残り、その読み方はソウ->（ｓ）珍しい字なので、打ち難いコードに当てることにした
+csu	匝	yソウ	匝帀
 cs;	勦
-cs/	剿
+cs/	剿	yソウ
 ctj	卓
 ctk	冲
 ctl	冑
@@ -801,7 +803,6 @@ cvk	勅	jvk->敕 cvk->勅 部首を取り除くと、左部の束が残り、そ
 cvl	剃
 cvx	冢
 cvz	剔
-cv;	兪
 cwh	剳
 cwi	典
 cwj	冬
@@ -813,12 +814,12 @@ cwN	兔
 cwo	動
 cwp	凍
 cwu	刀
-cwU	刂
+cwU	刂	yトウ
 cw;	党
 cxc	入
 cxi	博
 cxj	南	東西南北
-cxk	内
+cxk	内	yナイ
 cxl	凸
 cxm	嚢	囊嚢
 cxo	凪
@@ -863,6 +864,7 @@ c;l	凡
 c;m	匚
 c;u	卜
 c;v	剖
+c,a	兪	yユ
 c,c	務
 c,m	冥
 c,v	冶
@@ -907,7 +909,7 @@ dby	啊
 db;	営	営營
 db,	噫
 dca	哦
-dcc	叱	口を取り除くと「匕」が残る->《ｃ》
+dcc	叱	口を取り除くと「匕」が残る->《ｃ》	yカ
 dci	厦
 dcj	可
 dck	嘉
@@ -1089,7 +1091,7 @@ drk	咀
 drl	啜
 drs	吮
 dr;	囎
-dr/	鼡	dr/->鼡 /r/->鼠
+dr/	鼡	鼡鼠	yソ
 dsa	双
 dsd	即
 dse	唾	垂の部首は土（ｅ）
@@ -1775,6 +1777,7 @@ gsj	層
 gsk	巢	巣巢	果の部首は木《ｋ》
 gsl	属
 gso	巽
+gsu	帀	yソウ	匝帀
 gs;	崢
 gta	岱
 gtj	帯
@@ -3146,6 +3149,7 @@ mda	海
 mdA	海
 mdf	活
 mdm	涯
+mdp	滙	yカイ	匯滙
 mds	潰
 md;	濶
 md,	渇
@@ -6895,7 +6899,7 @@ z/.	鈴
 /q;	齏	;q;->韲 uq;->虀 /q;->齏 [齏韲]は異体字なのでコードはシフト可
 /re	麁
 /rw	齟
-/r/	鼠	dr/->鼡 /r/->鼠
+/r/	鼠	鼡鼠	yソ
 /ta	黐
 /te	黹
 /tw	黛
@@ -6922,14 +6926,14 @@ z/.	鈴
 /;d	黽
 /;f	麭
 /;s	默
-/,a	麵
-/,A	麪
+/,a	麵	yメン	麺麪麵
+/,A	麪	yメン	麺麪麵
 /,d	黙
 /,e	鼬
 /,f	麻
 /,m	黝
-/,r	麿
-/,s	麺
+/,r	麿	yまろ
+/,s	麺	yメン	麺麪麵
 /,w	麼	yマ
 /,W	麽	yマ
 /,/	龠
@@ -7150,7 +7154,6 @@ _5155	兕
 _5157	兗
 _5160	兠
 _5183	冃
-_518B	冋
 _5198	冘
 _519D	冝
 _5103	儃
@@ -7191,7 +7194,6 @@ _52C8	勈
 _52CA	勊
 _52CC	勌
 _52D1	勑
-_52D6	勖
 _52D0	勐
 _52F7	勷
 _52F0	勰
@@ -7620,7 +7622,6 @@ _5E6B	幫
 _5E6C	幬
 _5E6D	幭
 _5E6E	幮
-_5E00	帀
 _5EA5	庥
 _5EAA	庪
 _5EAC	庬
@@ -8230,7 +8231,6 @@ _6EC1	滁
 _6EC3	滃
 _6EC7	滇
 _6ECE	滎
-_6ED9	滙
 _6EEB	滫
 _6EF9	滹
 _6EFB	滻
