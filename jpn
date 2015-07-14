@@ -913,7 +913,7 @@ dcc	叱	口を取り除くと「匕」が残る->《ｃ》	yカ
 dci	厦
 dcj	可
 dck	嘉
-dcl	唹
+dcl	唹	yオ	hyヨ
 dco	嚶
 dcp	哥
 dcs	厭
@@ -1329,7 +1329,7 @@ es:	墮
 eta	大
 ete	坦
 eti	垈
-etj	太
+etj	太	yタイ	hyタ
 etk	地
 etl	団
 etL	團
@@ -1399,8 +1399,8 @@ e,;	圸
 e,.	壗
 e,/	囿
 e/a	囹
-e/e	埒
-e/j	埓
+e.m	埒	yラチ	hyラツ	hyレツ
+e.M	埓	yラチ	hyラツ	hyレツ
 e/m	塁
 e/M	壘
 e/r	奩
@@ -3066,7 +3066,7 @@ lld	残
 llD	殘
 llf	殺	殺殺煞
 llF	殺	殺殺煞
-lls	歳
+lls	歳	yサイ	hyセイ
 lma	止
 lmd	次
 lmf	氏
@@ -3175,7 +3175,7 @@ mg,	泣
 mg.	汽
 mg/	汲
 mha	渠
-mhd	漁
+m.m	漁	hyギョ	yリョウ
 mhe	澆	土《ｅ》は三つある
 mhf	況
 mhs	洶
@@ -3297,7 +3297,7 @@ mrq	潟
 mrr	湶
 mrs	濺
 mrw	漸
-mr;	泄
+mr;	泄	yセツ	hyエイ
 mr,	泉
 mr<	洤
 mr.	浅
@@ -3430,7 +3430,7 @@ m.c	瀾
 m.d	涼
 m.e	溂
 m.f	流
-m.m	浬
+m.j	浬
 m.q	淕
 m.r	溜
 m.s	濫
@@ -5347,7 +5347,7 @@ vtj	虫
 vtJ	䖝
 vtk	衷
 vtl	袋
-vtm	蟲
+vtm	蟲	yチュウ
 vto	蛋	上部に疋《ｏ》がある
 vtp	蜘	知の部首は矢《ｐ》
 vtq	蟄
@@ -5834,7 +5834,7 @@ xya	貓	猫貓
 xyb	蹕
 xyc	販
 xyg	贔
-xyi	豹
+xyi	豹	yヒョウ	hyホウ
 xyo	賓
 xyO	賓
 xyp	豼
@@ -5953,7 +5953,7 @@ ynb	酋
 ync	醜
 yne	酬	駲酬洲州
 ynf	週
-yng	這
+yng	這	yシャ	hyゲン
 ynn	邪	左部に牙《ｎ》がある
 ynq	酒
 ynr	酌
@@ -6590,7 +6590,7 @@ z/.	鈴
 ,pz	饟
 ,qr	駸
 ,qw	騅
-,q,	須
+,q,	須	yス	hyシュ
 ,q.	髄	膸髄髓
 ,q>	髓	膸髄髓
 ,re	饌
