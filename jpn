@@ -1058,7 +1058,7 @@ dnf	受
 dnr	咒
 dns	卸
 dnt	嚼
-dnw	呎
+dnw	呎	yシャク	hyフィート
 dnz	售
 dn,	叔
 dn.	周
@@ -1069,7 +1069,7 @@ dpe	叙	敘敍叙
 dpf	嘗	天辺に小《ｆ》らしいものがある	漢字源による部首：口
 dpF	甞	天辺に小《ｆ》らしいものがある	漢字源による部首：口
 dph	嗇
-dpi	喞
+dpi	喞	yショク	hyソク
 dpj	哨
 dpk	囑
 dpo	唱
@@ -1118,16 +1118,16 @@ dtp	啖
 dts	啗
 dt;	厨	厨廚	yチュウ
 dva	叮
-dvc	嘲
+dvc	嘲	yチョウ	hyトウ
 dvd	吊
 dvi	嚔
 dvj	哲
 dvk	呈
 dvl	喋
 dvs	啼
-dvu	咥
+dvu	咥	yテツ	hyキ
 dv;	嚏
-dwe	吋
+dwe	吋	yトウ	hyスン	hyインチ
 dwj	同	仝同々
 dwk	唸
 dwl	吐
@@ -1145,7 +1145,7 @@ dxk	咄
 dxl	唄
 dxm	囊	囊嚢
 dxo	噺
-dxu	嚀
+dxu	嚀	yネイ	hyニョウ
 dxv	噸
 dx;	喃
 dya	反
@@ -1173,22 +1173,23 @@ d,r	唯
 d,s	喩
 d,w	又
 d,;	嘛
-d,,	嗎	右部に馬《，》がある
+d,,	嗎	右部に馬《，》がある	yマ	hyバ
 d,.	友
 d,/	味
 d.a	吏
 d.d	卵
 d.e	喨
 d.f	厘
-d.m	吝
+d.j	吝	口の上に文《ｊ》がある
+d.m	呂	yリョ	hyロ
 d.s	喇
 d.,	嚠
 d./	哩
 d/a	嗹
-d/d	和
-d/f	呂
+d/d	和	和咊龢
+d/D	咊	和咊龢
 d/m	唳
-d/s	啝
+d/s	啝	yワ	hyカ
 d/u	厲	部首の厂を取り除くと、萬が残り、その部首が艸〈u〉
 d/,	哢
 d/.	咾
@@ -1225,7 +1226,7 @@ ecx	央
 ecy	奄
 ecz	圓	圓円
 ec;	夥
-eda	夬
+eda	夬	yカイ	hyケ
 edf	埆
 edh	垓
 edi	壑
@@ -1247,7 +1248,7 @@ egj	奇	奇竒
 egl	基
 egw	埼
 eha	均
-ehd	夾
+ehd	夾	yキョウ	hyコウ
 ehe	堀
 ehf	尭
 ehF	堯
@@ -1255,8 +1256,9 @@ ehp	垠
 ehr	墟
 ehs	圉
 ehw	境
+eh;	圄	yギョ	hyゴ
 eja	圭
-eje	契
+eje	契	yケイ	hyセツ
 ejf	夐
 ejk	圏
 ejK	圈
@@ -1270,7 +1272,6 @@ ekf	壙
 ekj	垢
 ekl	壺
 ekL	壷
-ekm	圄
 ekq	坑
 ekr	壕
 ekw	堽
@@ -6951,11 +6952,12 @@ z/.	鈴
 /.F	龍
 /.,	麟
 //a	鹿
-//d	麗
+//d	龢	和咊龢
 //f	麓
 //m	黎
 //s	齢
 //S	齡
+//,	麗
 _342C	㐬
 _342E	㐮
 _3468	㑨
@@ -7240,7 +7242,6 @@ _5466	呦
 _546B	呫
 _546C	呬
 _5488	咈
-_548A	咊
 _548D	咍
 _5496	咖
 _549C	咜
@@ -10069,7 +10070,6 @@ _9F97	龗
 _9F90	龐
 _9F02	鼂
 _9F03	鼃
-_9FA2	龢
 _F91D	欄
 _F928	廊
 _F929	朗
