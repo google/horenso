@@ -1259,12 +1259,13 @@ ehw	境
 eh;	圄	yギョ	hyゴ
 eja	圭
 eje	契	yケイ	hyセツ
-ejf	夐
+ejf	𡙇	缺缼欠𡙇
 ejk	圏
 ejK	圈
 ejl	堅
 ejr	奚
 ejs	奎
+ejw	夐	yケイ	hyキョウ
 ej;	型
 eka	夸
 eke	固
@@ -3065,7 +3066,7 @@ lhd	欽
 lhf	欣
 lhs	歔
 ljd	歇
-ljf	欠
+ljf	欠	缺缼欠𡙇
 ljs	歉
 lkf	毫
 lld	残
@@ -4492,7 +4493,8 @@ sja	系
 sjd	経
 sjD	經
 sje	絃
-sjf	結
+sjf	缺	缺缼欠𡙇
+sjF	缼	缺缼欠𡙇
 sjg	絅
 sji	綣
 sjk	繭
@@ -4504,8 +4506,8 @@ sjq	羂
 sjr	綮
 sjs	絹
 sjt	繋
-sjv	缺
-sj;	絢
+sjv	絢
+sj;	結
 ska	紘
 skd	紅
 skf	絞
@@ -8914,7 +8916,6 @@ _7E98	纘
 _7E9A	纚
 _7E08	縈
 _7F3B	缻
-_7F3C	缼
 _7F3E	缾
 _7F43	罃
 _7F44	罄
@@ -10119,7 +10120,6 @@ _213C4	𡏄
 _2146D	𡑭
 _2146E	𡑮
 _215D7	𡗗
-_21647	𡙇
 _216B4	𡚴
 _21742	𡝂
 _21706	𡜆
