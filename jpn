@@ -470,7 +470,7 @@ bkq	倥	空の部首は穴《ｑ》
 bks	倖
 bkx	估
 bkz	伉
-bk;	侯
+bk;	侯	yコウ	hyグ	矦侯
 bk/	傚
 bla	倅
 blb	傘
@@ -1416,6 +1416,7 @@ e/s	㚑	䨩霊靈灵㚑
 e/w	壟	yロウ	hyリョウ
 e/W	壠	yロウ	hyリョウ
 fba	寅
+fbh	姨	yイ
 fbi	尉	yイ
 fbj	威
 fbk	委
@@ -1425,7 +1426,7 @@ fbo	安
 fbp	嬰
 fbu	婬
 fbx	婀
-fbz	嫗
+fbz	嫗	yウ	hyオウ
 fb;	宇
 fcb	嫣
 fcg	寃
@@ -1436,7 +1437,6 @@ fcl	媛
 fcm	姶	yオウ
 fco	媼
 fcp	婉
-fcu	娟
 fcx	嫁
 fcz	寡
 fc;	宴
@@ -1471,6 +1471,7 @@ fhd	嬌
 fhf	姜
 fhs	寓
 fjd	妍
+fje	娟	yケン	hyエン
 fjf	嫌
 fjs	孑
 fka	孔
@@ -1537,6 +1538,7 @@ fpS	將
 fpu	嬢
 fpU	孃
 fpw	寔
+fpy	嬲	yジョウ	hyニョウ
 fqe	姓
 fqf	娠
 fqj	寝
@@ -1574,23 +1576,19 @@ ft;	妲
 fva	定
 fvj	姪
 fvk	寵
-fvl	姨
-fv;	寉
 fwd	妬
 fwe	導
 fwi	孥
 fwj	当	当當
 fwk	奴
 fwl	宕
-fwu	嫐
-fw;	嬲
+fwu	嫐	yドウ	hyノウ
 fxf	婆
 fxi	嫩
 fxj	妊
 fxJ	姙
 fxk	媒
 fxl	寧
-fxp	孛
 fxu	寞	莫の部首は艸《ｕ》
 fxz	宍
 fx;	娚
@@ -1613,13 +1611,14 @@ fzp	媽
 fzs	孵
 fzu	娉
 fz;	宀
+f;a	妄	yボウ	hyモウ	亡の部首は亠《ａ》
 f;d	尨
 f;f	妨
 f;j	宝
 f;J	寶
 f;k	寳
+f;s	孛	yボツ	hyハイ
 f,a	孕	乃の部首は丿《ａ》
-f,d	妄
 f,e	尤
 f,f	容
 f,m	妖
@@ -1650,14 +1649,13 @@ gcx	崋
 gc;	廈
 gda	乢	漢字源による部首：山《ｇ》
 gdc	屶	下部に刀《ｃ》がある。昔は「会」と同じだったらしいので、音読みをカイとして見なす	漢字源による部首：山《ｇ》
-gdg	届
-gdG	屆
+gdg	届	yカイ	hyケ
+gdG	屆	yカイ	hyケ
 gdi	幗
 gdj	崖
 gdJ	崕
 gdk	廻
 gdl	廓
-gdo	崔
 gdp	嵬
 gds	岳
 gdu	廨
@@ -1675,7 +1673,7 @@ gf;	岸
 gf:	㟁
 gga	屹
 ggd	廐
-gge	屰
+gge	屰	yギャク	hyゲキ
 ggi	屓
 ggj	崎	嵜﨑崎㟢
 ggJ	㟢	嵜﨑崎㟢
@@ -1695,7 +1693,7 @@ ghe	巨
 ghg	局
 ghi	居
 ghk	嵎
-ghl	嶷
+ghl	嶷	yギョク	hyギ	hyゴク
 gho	峡
 ghp	峅
 ghq	峽
@@ -1709,7 +1707,7 @@ gjk	建
 gjl	幻
 gjw	广
 gj;	嶮
-gka	己
+gka	己	yコ	hyキ
 gkd	巧
 gke	広
 gkE	廣
@@ -1720,7 +1718,7 @@ gkJ	崗
 gkl	幸
 gkm	庚
 gko	岬
-gkp	岫
+gno	岫	由の部首は田《ｏ》	yシュウ
 gkr	巷
 gks	康
 gkt	峇
@@ -1732,13 +1730,14 @@ gla	山
 gld	左
 glD	㊧
 gle	嶄
-glg	差
+glg	差	yサ	hyシャ	hyシ
 glj	座
 glk	嵳
+gll	崑	毘の部首は比《ｌ》
 glm	巉
 glq	屮	yサ	意味 左
 gls	嵯
-gl;	崑
+gl;	崔	yサイ	hyスイ	山を取り除くと隹《；》が残る
 gma	巳
 gmd	巵
 gme	廁	廁厠	yシ
@@ -3988,6 +3987,7 @@ pkw	砿
 pkW	礦
 pkx	磽
 pkz	瞽
+pk;	矦	yコウ	hyグ	矦侯
 pla	砦
 pld	砕
 ple	磋
@@ -6309,6 +6309,7 @@ z/.	鈴
 ;dm	闊
 ;ds	鞨
 ;d;	閣
+;d,	寉	yカク	寉鶴
 ;fa	閑
 ;fd	雁	雁鳫
 ;fj	陥
@@ -6739,7 +6740,7 @@ z/.	鈴
 .dn	鯑
 .ds	鮭
 .dv	鶚
-.d,	鶴
+.d,	鶴	yカク	寉鶴
 .d.	鮖
 .d/	鱠
 .fa	鰔
@@ -8609,7 +8610,6 @@ _77A9	瞩
 _77DE	矞
 _77DF	矟
 _77E4	矤
-_77E6	矦
 _77E0	矠
 _77EA	矪
 _77EC	矬
