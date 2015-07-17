@@ -1350,6 +1350,7 @@ evj	墜
 evk	堤
 evz	墸	yチョ	hyショ
 ev;	塚
+ewc	夲	yトウ	hyホン	《大》を取り除くと十《ｃ》が残る
 ewe	塗
 ewf	塔
 ewh	壥
@@ -1392,10 +1393,9 @@ e;j	報
 e;k	墨
 e;K	墨
 e;l	奔
-e;q	夲
 e;r	奉
 e;w	堋
-e,a	埜	野埜
+e,a	埜	野埜	yヤ	hyショ
 e,f	夜
 e,j	墹
 e,m	壅
@@ -1413,7 +1413,8 @@ e/m	塁
 e/M	壘
 e/r	奩
 e/s	㚑	䨩霊靈灵㚑
-e/w	壟
+e/w	壟	yロウ	hyリョウ
+e/W	壠	yロウ	hyリョウ
 fba	寅
 fbi	尉	yイ
 fbj	威
@@ -6082,7 +6083,7 @@ yz;	逼
 y;d	逢
 y;f	邦
 y;s	迸
-y,a	野	野埜
+y,a	野	野埜	yヤ	hyショ
 y,c	酩
 y,d	遊
 y,e	邑
@@ -7407,7 +7408,6 @@ _58D4	壔
 _58DA	壚
 _58E2	壢
 _58E9	壩
-_58E0	壠
 _58F3	壳
 _58F4	壴
 _5914	夔
