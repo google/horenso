@@ -3026,7 +3026,7 @@ ivi	挑
 _6318	挘
 iha	挙	挙擧舉
 ihs	挟
-ibp	挧
+ibp	挧	yウ	hyク
 ibi	挨
 ils	挫
 iqe	振
@@ -3046,10 +3046,10 @@ isa	捉
 ixb	捌
 ifp	捍
 _634E	捎
-ixh	捏
+ixh	捏	yネツ	hyデツ
 icx	捐
 izx	捕
-ivo	捗
+ivo	捗	yチョク	hyチキ
 _6359	捙
 iso	捜
 _6365	捥
@@ -3078,7 +3078,7 @@ _6394	掔
 icj	掖
 ihr	掘
 _6399	掙
-idp	掛
+idp	掛	yカイ	hyカ	hyケ
 iwf	掟	右部の部首は宀(f)
 i.d	掠
 ila	採
@@ -3107,7 +3107,7 @@ ivp	提
 ise	插
 _63D4	揔
 _63D5	揕
-ibz	揖
+i,q	揖	yユウ	hyシュウ
 i,s	揚
 ifu	換
 _63DC	揜
@@ -3146,11 +3146,11 @@ iye	搬
 iwu	搭	右部の部首は艸(u)
 _642F	搯
 ijr	搴
-ish	搶
+ish	搶	yソウ	hyショウ
 ijs	携
 ili	搾
 irp	摂
-ihv	摎
+ikt	摎	yコウ	hyキョウ	hyキュウ	hyリュウ	hyル	hyク	翏の部首は羽《ｔ》
 idH	摑
 ivc	摘
 _645A	摚
@@ -3176,7 +3176,7 @@ iwy	撓
 iqf	撕
 ixz	撚
 _649D	撝
-iwq	撞	右部の部首は立(q)
+iwq	撞	yドウ	hyシュ	童の部首は立(q)
 _649F	撟
 ivx	撤
 ix/	撥
@@ -3332,8 +3332,8 @@ jsf	族
 j.s	旒
 _65D4	旔
 jgi	旗
-jzI	旙
-jzi	旛
+jyO	旙	yハン	hyホン	番の部首は田《ｏ》
+jyo	旛	yハン	hyホン	番の部首は田《ｏ》
 jzl	无
 jgu	旡
 jgk	既
@@ -6514,7 +6514,7 @@ tqe	翆
 t,z	翊
 t,/	翌
 _7FCE	翎
-_7FCF	翏
+t.b	翏	yリュウ	hyル	羽の真下に𠆢《ｂ》がある
 tns	習
 tpe	翔
 tgd	翕	合の部首は口《ｄ》
