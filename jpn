@@ -225,7 +225,7 @@ Em	㍾
 agk	㐂	b一	yキ
 ab;	㐆	yイン	b丿
 _342C	㐬
-_342E	㐮
+vpX	㐮	yジョウ	hyソウ
 _3468	㑨
 _346A	㑪
 b;B	㒒
@@ -3352,7 +3352,7 @@ jya	旻
 _65FC	旼
 _6600	昀
 jk/	昂
-jpr	昃
+jpr	昃	yショク	hyシキ	hyソク
 _6604	昄
 jlf	昆
 jpa	昇
@@ -3360,7 +3360,7 @@ _6608	昈
 _6609	昉
 jkx	昊
 jpt	昌
-j,f	明
+j,f	明	b日	i明朙
 jl;	昏
 jcv	易	yエキ
 jrk	昔
@@ -3409,8 +3409,8 @@ jti	晝
 jgp	晞
 jq/	晟
 _6661	晡
-jqq	晢
-_6663	晣
+jri	晢	yセツ	hyセイ	hyサイ
+jrI	晣	yセツ	hyセイ	hyサイ
 jkw	晤
 _6665	晥
 jdl	晦	毎の部首は毋《ｌ》
@@ -3423,8 +3423,8 @@ _666C	晬
 _666D	晭
 jzv	普
 jjs	景
-jnl	晰
-_6673	晳
+jrw	晰	hyシャク
+jrW	晳	hyシャク
 jqr	晴
 jpd	晶
 _6677	晷
@@ -3472,14 +3472,14 @@ _66C8	曈
 jhS	曉
 jbj	曖
 jpw	曙
-j,w	曚
+j,w	曚	yモウ	hyボウ
 _66DB	曛
 j,d	曜
 jxz	曝
 jkv	曠
 jgs	曦
 _66E8	曨
-jxi	曩
+jwv	曩	yドウ	hyノウ	襄の部首は衣《ｖ》
 _66EC	曬
 jc;	曰
 jhd	曲
@@ -3491,9 +3491,9 @@ jpf	書
 jsd	曹
 _66FA	曺
 _66FB	曻
-j,q	曼
-js;	曽
-js:	曾
+j,q	曼	yマン	hyバン
+js;	曽	yソウ	hyソ
+js:	曾	yソウ	hyソ
 jtj	替
 jla	最	最冣㝡	漢字源による部首：曰《ｊ》
 _6701	朁
@@ -3510,12 +3510,12 @@ jlg	朔	右部の屰の部首は屮《ｇ》
 jvj	朕
 j/s	朖
 j/f	朗
-_6719	朙
+j,F	朙	b月	i明朙
 j;s	望
 jvl	朝
 jgw	朞
 jg;	期
-j,v	朦
+j,v	朦	yモウ	hyボウ
 j/l	朧
 k;f	木
 k,e	未
@@ -7640,7 +7640,7 @@ _8940	襀
 vhl	襁
 _8942	襂
 v;m	襃
-vpx	襄
+vpx	襄	yジョウ	hyソウ
 _8945	襅
 _8949	襉
 vt;	襌
