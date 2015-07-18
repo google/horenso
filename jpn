@@ -716,7 +716,7 @@ cj,	勍
 cj.	𠝏
 cj>	剱
 cj/	劵
-cj?	𠔉	yケン？	部首：八
+cE	𠔉	b八	八を取り除くと大《ｅ》に見える
 cka	刧
 ckb	冱
 ckc	公
@@ -1415,7 +1415,7 @@ e/a	囹
 e/m	塁
 e/M	壘
 e/r	奩
-e/s	㚑	䨩霊靈灵㚑
+e/s	㚑	i䨩霊靈灵㚑
 e/w	壟	yロウ	hyリョウ
 e/W	壠	yロウ	hyリョウ
 fba	寅
@@ -1663,9 +1663,9 @@ gds	岳
 gdu	廨
 gd;	嶽
 gfa	干
-gfd	巌
-gfD	巖
-gfe	巗	巌の異体字
+gfd	巌	i巗巌巖
+gfD	巖	i巗巌巖
+gfe	巗	i巗巌巖
 gfj	幹	i榦幹
 gfk	巻
 gfl	岩
@@ -1677,20 +1677,20 @@ gga	屹
 ggd	廐
 gge	屰	yギャク	hyゲキ
 ggi	屓
-ggj	崎	嵜﨑崎㟢
-ggJ	㟢	嵜﨑崎㟢
+ggj	崎	i嵜﨑崎㟢
+ggJ	㟢	i嵜﨑崎㟢
 ggk	希
 ggl	幾
 ggm	岌
 ggo	巍
 ggp	廏
 ggs	嶬
-ggu	嵜	嵜﨑崎㟢
-ggU	﨑	嵜﨑崎㟢
+ggu	嵜	i嵜﨑崎㟢
+ggU	﨑	i嵜﨑崎㟢
 ggw	岐
 gg;	弃
 gha	巾
-ghd	廾
+ghd	廾	yキョウ	hyク
 ghe	巨
 ghg	局
 ghi	居
@@ -3693,7 +3693,7 @@ n/e	猥
 n/f	牢	上部に宀《ｆ》がある
 n/k	煉	東の部首は木《ｋ》
 n/n	狼
-n/s	灵	䨩霊靈灵㚑
+n/s	灵	i䨩霊靈灵㚑
 oba	痾
 obh	瓔
 obH	珱
@@ -6498,9 +6498,9 @@ z/.	鈴
 ;/k	靂
 ;/l	隈
 ;/m	陋
-;/q	䨩	神の部首は礻《ｑ》	䨩霊靈灵㚑
-;/s	霊	䨩霊靈灵㚑
-;/S	靈	䨩霊靈灵㚑
+;/q	䨩	神の部首は礻《ｑ》	i䨩霊靈灵㚑
+;/s	霊	i䨩霊靈灵㚑
+;/S	靈	i䨩霊靈灵㚑
 ,ba	饐
 ,bm	飲	yイン
 ,bM	飮	yイン
@@ -7672,10 +7672,10 @@ _5F7E	彾
 _5F89	徉
 _5F8F	徏
 _5F9C	徜
-_5F02	异
+gbg	异	yイ	b廾	巳の部首は己《ｇ》
 _5F07	弇
 _5F08	弈
-_5F00	开
+gja	开	yケン	hyカイ	b廾	幵のシフト位値に当てても間違いではないかも知れない
 _5F0E	弎
 _5FA2	徢
 _5FA4	徤
