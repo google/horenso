@@ -2600,7 +2600,7 @@ hsa	忖
 hmd	志
 h;d	忘
 h;f	忙
-hcv	応	オウ
+hcv	応	yオウ	hyヨウ	i応應
 hwq	忝
 hyi	忞
 hte	忠
@@ -2836,7 +2836,7 @@ hgw	憙
 ht;	憚	i憚惮	yタン
 hzd	憤
 _61A5	憥
-hpf	憧
+hpf	憧	yショウ	hyドウ
 _61A8	憨
 hjl	憩
 hyq	憫
@@ -2852,8 +2852,8 @@ hfh	憾
 hhr	懃
 hso	懆
 hla	懇
-hj,	懈
-hcV	應
+hdw	懈	yカイ	hyケ	解の部首は角《ｗ》
+hcV	應	yオウ	hyヨウ	i応應
 hca	懊
 h;r	懋
 hcg	懌
@@ -2877,7 +2877,7 @@ hpu	懾
 hbn	懿
 h/A	戀
 ico	戈
-inr	戉
+icl	戉	yエツ
 izp	戊
 ino	戌
 ini	戍
@@ -2885,12 +2885,12 @@ ine	戎
 iqw	成
 icu	我
 idu	戒
-irh	戔
+irh	戔	yセン	hyサン
 _6215	戕
 i/d	或	yワク
 irj	戚
 ida	戛
-ilc	戝
+xsL	戝	yゾク	i賊戝	hyザイ	hb戈
 idA	戞
 ije	戟
 ifs	戡
@@ -2942,7 +2942,7 @@ _6273	扳
 izi	扶
 iyf	批
 _627B	扻
-i,/	扼
+i,/	扼	yヤク	hyアク
 ich	找	yカ
 ipd	承
 igu	技
@@ -2978,7 +2978,7 @@ _62C4	拄
 ito	担
 ith	拆
 izj	拇
-ix;	拈
+ix;	拈	yネン	hyデン
 i.f	拉
 izv	拊
 iyr	拌
@@ -3000,8 +3000,8 @@ ixu	拝
 ihd	拠
 idi	拡
 idf	括
-ipi	拭
-id;	拮
+ipi	拭	yショク	hyシキ
+igd	拮	yキツ	hyケツ	hyカツ	吉の部首は口《ｄ》
 ipe	拯
 ihi	拱
 ijf	拳
@@ -8003,7 +8003,7 @@ xvc	賃
 x/m	賄
 xmx	資
 xkz	賈
-xsl	賊
+xsl	賊	yゾク	i賊戝
 xsu	賍
 xrU	賎
 xql	賑
@@ -9130,9 +9130,9 @@ _97F1	韱
 ;q;	韲	;q;->韲 uq;->虀 /q;->齏 [齏韲]は異体字なのでコードはシフト可
 ;cj	音
 _97F4	韴
-;b.	韵
+;bU	韵	yイン
 ;pa	韶
-;bu	韻
+;bu	韻	yイン
 ;hf	響
 ,js	頁
 ,vm	頂
