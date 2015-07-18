@@ -1121,7 +1121,7 @@ ctj	卓
 chp	協
 cxj	南	東西南北
 dte	単
-cxi	博
+cxi	博	yハク	i愽博
 c;u	卜
 czd	卞
 cro	占
@@ -2491,7 +2491,7 @@ _5F1D	弝
 _5F1E	弞
 hvx	弟
 _5F23	弣
-h,d	弥
+h,d	弥	yミ	hyビ
 hjd	弦
 hkf	弧
 hwj	弩
@@ -2512,7 +2512,7 @@ _5F45	彅
 _5F47	彇
 htQ	彈
 hhi	彊
-h,g	彌
+h,D	彌	yミ	hyビ
 h/l	彎
 hjw	彑
 fwj	当	当當
@@ -2622,11 +2622,11 @@ hlk	忽
 hzi	忿
 _600D	怍
 hqk	怎
-hck	怏
-hhp	怐
+hck	怏	yオウ	yヨウ
+hk/	怐	yコウ	hyク
 hwf	怒
 _6014	怔
-hxi	怕
+hxu	怕
 hzx	怖
 _6017	怗
 _6018	怘
@@ -2695,21 +2695,21 @@ _6095	悕
 hxo	悖
 hyg	悗
 hpo	悚
-hnr	悛
-h.w	悝
-_609E	悞
+hnr	悛	yシュン	hyセン
+hdy	悝	yカイ	hyリ	忄を取り除くと里《ｙ》が残る
+hkb	悞	yゴ	hyグ
 hka	悟
 h,s	悠
 hfd	患
 hci	悦
 h.f	悧
-hqf	您	你伱尓尒您
+hqf	您	你伱尓尒您	yジン	hyヂン	hyニン
 hxh	悩
 hb;	悪	yアク
 _60B0	悰
 _60B1	悱
 hyf	悲
-hxp	悳
+hxp	悳	直の部首は目《ｐ》
 hqp	悴
 hvj	悵
 h,z	悶
@@ -2719,7 +2719,7 @@ hqi	悽
 _60BE	悾
 hps	情
 hti	惆
-hne	惇
+hne	惇	yジュン	hyトン
 _60C8	惈
 _60CB	惋
 h/s	惑
@@ -2751,14 +2751,14 @@ _60F8	惸
 hnw	惹
 hqs	惺
 hsr	惻
-hnq	愀
+hnq	愀	yシュウ	hyショウ
 hna	愁
 hjo	愃
 hjp	愆
 h,c	愈	兪の部首は入《ｃ》
 h,a	愉
 hyc	愍
-hz;	愎
+hz;	愎	yフク	hyヒョク
 hbi	意
 _6110	愐
 _6112	愒
@@ -2780,7 +2780,7 @@ hsp	愴
 _6137	愷
 _613A	愺
 hqH	愼
-hts	愽
+hxi	愽	yハク	i愽博
 hdq	愾	愾氣滊餼
 hji	愿
 _6141	慁
@@ -2811,7 +2811,7 @@ hpe	慫
 h.d	慮
 hpq	慯
 hbx	慰
-htj	慱
+htj	慱	yタン
 hjx	慳
 hng	慴
 h,v	慵
