@@ -3703,7 +3703,7 @@ _686E	桮
 _6872	桲
 kzj	桴
 _6875	桵
-k,k	桶
+kwy	桶	yトウ	hyツウ	hyヨウ
 kdv	桷
 _687A	桺
 _687C	桼
@@ -3713,7 +3713,7 @@ k.w	梁
 _6882	梂
 kvz	梃
 kxc	梅
-k,m	梍
+ksr	梍	yソウ
 klp	梏
 _6890	梐
 kmr	梓
@@ -3727,7 +3727,7 @@ kso	梛
 _689C	梜
 kpo	條
 khl	梟
-k/s	梠
+k.m	梠	yリョ	hyロ
 kpr	梢
 _68A3	梣
 kpC	梥	公の部首は八《ｃ》
@@ -3743,7 +3743,7 @@ klu	梱
 _68B2	梲
 krl	梳
 _68B4	梴
-k;r	梵
+k;r	梵	yボン	hyフウ
 kyr	梶
 kye	梹
 kzk	梺
@@ -3780,7 +3780,7 @@ _68E8	棨
 _68EC	棬
 _68ED	棭
 kqk	森
-kxu	棯
+kxu	棯	yニン	hyジン	hyデン
 _68F0	棰
 _68F1	棱
 kqr	棲
@@ -3801,14 +3801,14 @@ k.e	椋
 kkm	椌
 kpd	植
 kvk	椎
-k,/	椏
+kb/	椏	yア
 kpq	椒
 klc	椙	jpc->昌
 khv	椚
 kdh	椛
 kjk	検
 kwo	椡
-kdm	椢
+kdM	椢	yカイ	hyケ
 kmw	椣
 kxo	椥
 kj/	椦
@@ -3818,7 +3818,7 @@ k,r	椰
 kt;	椴
 _6935	椵
 knc	椶
-kql	椹
+kvo	椹	yチン	hyジン	甚の部首は甘《ｏ》
 _693B	椻
 kwp	椽
 kvs	椿
@@ -3827,14 +3827,14 @@ _6946	楆
 _6949	楉
 k,q	楊
 kzl	楓
-kjw	楔
+kre	楔	yセツ	hyカツ	hyケチ	契の部首は大《ｅ》
 ksm	楕
 _6957	楗
 k;w	楙
 kro	楚	下部に疋《ｏ》がある
 kkn	楜
 k/l	楝
-k.z	楞
+k.z	楞	yリョウ	hyロウ
 kxp	楠
 k,h	楡
 knv	楢
@@ -3842,7 +3842,7 @@ _6963	楣
 _6964	楤
 _6968	楨
 _6969	楩
-ktm	楪
+kvi	楪	yチョウ	hyチャ	hyジョウ	hyヨウ
 kng	楫
 _696C	楬
 khf	業
@@ -3921,7 +3921,7 @@ klm	槲
 _69F3	槳
 _69F4	槴
 _69F5	槵
-_69F6	槶
+kdm	槶	yカイ	hyケ
 kkz	槹
 kg.	槻
 ksl	槽
@@ -4057,7 +4057,7 @@ _6B17	欗
 _6B1B	欛
 kbu	欝
 _6B1E	欞
-kvo	欟
+kvw	欟	yつき	hyカン	観の部首は見《ｗ》	i欟𣠤
 ljf	欠	缺缼欠𡙇
 lmd	次
 lhf	欣
@@ -10182,7 +10182,7 @@ _23763	𣝣
 _23764	𣝤
 _237E7	𣟧
 _237FF	𣟿
-_23824	𣠤
+kvW	𣠤	yつき	hyカン	観の部首は見《ｗ》	i欟𣠤
 _2383D	𣠽
 _23A98	𣪘
 _23C7F	𣱿
