@@ -4321,7 +4321,7 @@ _6D31	洱
 mne	洲	駲酬洲州
 mpi	洳	yジョ	hyニョ
 _6D34	洴
-mn/	洵
+mng	洵
 mhs	洶
 mkj	洸
 _6D39	洹
@@ -4407,7 +4407,7 @@ _6DDD	淝
 mpr	淞
 _6DDF	淟
 mtl	淡
-mcn	淤
+mcn	淤	yオ	hyヨ
 mfd	淦
 mpF	淨
 _6DE9	淩
@@ -4434,7 +4434,7 @@ mjd	渓
 mcu	渕
 mqE	渗
 mfs	渙
-mpq	渚
+mpq	渚	yショ
 mjs	減
 m,z	渝
 _6E1E	渞
@@ -4468,7 +4468,7 @@ ms.	湊
 _6E4B	湋
 _6E4C	湌
 mta	湍
-m,x	湎
+m,x	湎	yメン	hyベン
 _6E4F	湏
 _6E51	湑
 _6E53	湓
@@ -4482,10 +4482,10 @@ _6E5E	湞
 mkt	湟
 _6E63	湣
 m,.	湧
-mnq	湫
+mnq	湫	秋の部首は禾《ｑ》	yシュウ	hyショウ
 mbc	湮
 mw,	湯
-mcs	湲
+mcs	湲	yエン	hyカン	hyゲン
 mrr	湶
 m/.	湾
 mms	湿
@@ -4507,12 +4507,12 @@ mje	溪
 _6EAB	溫
 mrh	溯
 _6EB1	溱
-mng	溲
+mnt	溲	yシュ	hyソウ	右上に臼《ｔ》がある
 _6EB4	溴
 m,r	溶
 mle	溷
 mv.	溺
-myv	溽
+mpg	溽	yジョク	hyニク
 _6EBF	溿
 _6EC1	滁
 m;k	滂
@@ -4526,11 +4526,11 @@ mmd	滋
 mvs	滌
 _6ECE	滎
 md.	滑
-mmr	滓
+mmr	滓	yシ	hyサイ
 mwp	滔
 mwl	滕
 mdp	滙	yカイ	匯滙	hyワイ
-m/,	滝
+m/,	滝	yロウ	hyソウ
 mt;	滞
 _6EEB	滫
 mkz	滬
@@ -4559,7 +4559,7 @@ _6F18	漘
 _6F1A	漚
 mx,	漠
 mf,	漢
-m/k	漣
+m/k	漣	yレン
 _6F25	漥
 _6F2A	漪
 m,e	漫
@@ -4599,7 +4599,7 @@ mqt	潯
 mds	潰
 mvj	潴
 mlv	潸
-mrp	潺
+mrp	潺	yセン	hyサン
 mwg	潼
 _6F7D	潽
 _6F7E	潾
@@ -4701,7 +4701,7 @@ _704A	灊
 _704B	灋
 mff	灌
 _704E	灎
-mnt	灑
+mn/	灑	麗の部首は鹿《／》
 _7054	灔
 mts	灘
 _705D	灝
@@ -5458,7 +5458,7 @@ pka	皷	皷鼓
 php	皸
 phw	皹
 pne	皺
-pzp	皿
+pzp	皿	yベイ	hyメイ
 pbo	盂
 pxv	盃
 _76C5	盅
@@ -7829,7 +7829,7 @@ wvu	諜
 wzu	諞
 _8ADF	諟
 wjg	諠
-wcu	諡
+wmp	諡	yシ	益の部首は皿《ｐ》
 wlw	諢
 wdu	諤
 wvl	諦
@@ -7861,7 +7861,7 @@ wgp	謔
 wpd	謖
 w;j	謗
 wjk	謙
-wc,	謚
+wmP	謚	yシ	益の部首は皿《ｐ》
 wkq	講
 _8B1C	謜
 wne	謝
@@ -9936,7 +9936,7 @@ jgK	既
 jpS	暑
 _FA44	梅
 mdA	海
-_FA46	渚
+mpQ	渚	yショ
 mf<	漢
 nnS	煮
 nsF	爫	UCS互換文字
