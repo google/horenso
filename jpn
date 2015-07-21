@@ -225,7 +225,7 @@ Em	㍾
 agk	㐂	b一	yキ
 ab;	㐆	yイン	b丿
 _342C	㐬
-vpX	㐮	yジョウ	hyソウ
+vpX	㐮	yジョウ	hyソウ	b衣	i㐮襄
 _3468	㑨
 _346A	㑪
 b;B	㒒
@@ -917,7 +917,7 @@ cgc	几
 c;l	凡
 _51E2	凢
 cpj	処	處処
-cbl	凧
+ct;	凧	yたこ
 ckn	凩
 cxo	凪
 cyi	凭
@@ -3532,7 +3532,7 @@ k.k	朸
 kgj	机
 kgk	朽
 kms	朿
-kb;	杁
+kb;	杁	yいり	hyえぶり
 kfa	杆
 _6747	杇
 _6748	杈
@@ -3557,7 +3557,7 @@ k,c	杢
 ksn	杣
 kxv	杤
 k./	来	来來徠
-klH	杦	agh->久
+kqe	杦	yすぎ
 kya	杪
 kkr	杭
 kxj	杯
@@ -3644,7 +3644,7 @@ _67FC	柼
 k,b	柾	yまさ	hyキュウ
 kmd	柿
 _6801	栁
-kv;	栂
+kv;	栂	yつが	hyとが	hyバイ
 kxk	栃
 kbl	栄
 _6810	栐
@@ -3803,17 +3803,17 @@ kpd	植
 kvk	椎
 kb/	椏	yア
 kpq	椒
-klc	椙	jpc->昌
+kqd	椙	yすぎ
 khv	椚
-kdh	椛
+k,u	椛	yもみじ	hyかば	花の部首は艹《ｕ》
 kjk	検
-kwo	椡
+khc	椡	yくぬぎ	到の部首は刂《ｃ》
 kdM	椢	yカイ	hyケ
 kmw	椣
 kxo	椥
 kj/	椦
 ktl	椨
-k;e	椪
+k;e	椪	yポン	hyはえ
 k,r	椰
 kt;	椴
 _6935	椵
@@ -3858,7 +3858,7 @@ kbz	楹
 _697A	楺
 k/d	楼
 kdk	楽
-kyw	楾
+kyw	楾	yはんぞう
 _697F	楿
 _6980	榀
 k,t	榁
@@ -3985,12 +3985,12 @@ ks.	橢
 _6A64	橤
 kwq	橦	yトウ	hyショウ	hyズウ	hyヅウ	hyシュ	hyショウ	童の部首は立《ｑ》
 _6A6B	橫
-kvu	橲
+kmc	橲	yじさ	hyずさ
 _6A73	橳
 k,;	橸	yまさ
 _6A7A	橺
 _6A7E	橾
-khc	橿
+kho	橿	右部に田《ｏ》が２つある
 kta	檀
 _6A83	檃
 kjs	檄
@@ -4209,7 +4209,7 @@ mpo	汝
 mkq	汞
 mka	江
 mtm	池
-mx/	汢
+mxe	汢	yぬた	右部に土《ｅ》がある
 _6C67	汧
 mzj	汨	yベキ	hyミャク	hyコツ	右部に日《ｊ》がある
 mcg	汪
@@ -4356,7 +4356,7 @@ mpe	浹
 _6D80	涀
 mqx	涁	klx->杉 mqx->涁 hyx->彬 (mqt->滲の異字体なのでシフト化しても構いません)
 _6D82	涂
-mx;	涅
+mxj	涅	i涅𣵀	右上に日《ｊ》がある
 mjg	涇	yケイ	hyキョウ	右部に巛《ｇ》と工《ｇ》がある
 mpd	消
 _6D89	涉
@@ -7640,7 +7640,7 @@ _8940	襀
 vhl	襁
 _8942	襂
 v;m	襃
-vpx	襄	yジョウ	hyソウ
+vpx	襄	yジョウ	hyソウ	b衣	i㐮襄
 _8945	襅
 _8949	襉
 vt;	襌
@@ -10189,7 +10189,7 @@ _23C7F	𣱿
 _23CFE	𣳾
 _23D00	𣴀
 _23D0E	𣴎
-_23D40	𣵀
+mxJ	𣵀	i涅𣵀	右上に日《ｊ》がある
 _23DD3	𣷓
 _23DF9	𣷹
 _23DFA	𣷺
