@@ -2170,7 +2170,7 @@ glq	屮	yサ	意味 左
 gx;	屯
 gge	屰	yギャク	hyゲキ
 gla	山
-gdc	屶	下部に刀《ｃ》がある。昔は「会」と同じだったらしいので、音読みをカイとして見なす	漢字源による部首：山《ｇ》
+gdc	屶	下部に刀《ｃ》がある。昔は「会」と同じだったらしいので、音読みをカイとして見なす	漢字源による部首：山《ｇ》	yカイ	hyなた
 gga	屹
 _5C7A	屺
 _5C7C	屼
@@ -5026,7 +5026,7 @@ _737C	獼
 _7381	玁
 njd	玄
 _7385	玅
-nsa	率
+nsa	率	yソツ	hyリツ
 ohf	玉
 _738A	玊
 oci	王
@@ -5251,7 +5251,7 @@ odo	界
 odf	畍
 _754E	畎
 obi	畏
-_7550	畐
+ozd	畐
 oxo	畑
 o;R	畒
 oye	畔
@@ -5299,7 +5299,7 @@ ogu	疑
 oyA	疒
 ovx	疔
 oga	疚	久の部首は丿《ａ》
-ori	疝
+ori	疝	yセン
 _75A2	疢
 o,e	疣
 odu	疥
@@ -5313,7 +5313,7 @@ _75B7	疷
 oth	疸
 oqu	疹
 owi	疼
-oru	疽
+oru	疽	yソ
 omf	疾
 _75BF	疿
 _75C0	痀
@@ -5419,9 +5419,9 @@ _7671	癱
 owe	癲
 pxc	癶
 pgi	癸
-pxi	発
+pxi	発	yハツ	hyホツ	i発發
 pwu	登
-pxI	發
+pxI	發	yハツ	hyホツ	i発發
 pxo	白
 pyd	百
 pgo	皀
@@ -5490,7 +5490,7 @@ p,d	目
 _76F1	盱
 p,s	盲
 pvo	直
-psp	相
+psp	相	yソウ	hyショウ
 pjs	盻
 _76FC	盼
 pnf	盾
@@ -5593,7 +5593,7 @@ ptp	短
 p/d	矮
 phf	矯
 _77F0	矰
-prp	石
+prp	石	yセキ	hyシャク
 _77F4	矴
 _77FB	矻
 pkg	矼	右部は工《ｇ》
@@ -6200,14 +6200,14 @@ sgj	紀
 stm	紂
 _7D03	紃
 s,f	約
-skd	紅
+skd	紅	yコウ	hyク
 sbl	紆
 _7D07	紇
 _7D08	紈
 _7D09	紉
 syr	紊
 s,/	紋
-sxj	納
+sxj	納	yノウ
 stu	紐
 _7D12	紒
 _7D13	紓
@@ -6229,7 +6229,7 @@ sms	紫
 sti	紬
 slk	紮
 s/f	累
-sls	細
+sls	細	yサイ
 _7D31	紱
 srm	紲
 sqj	紳
@@ -6701,7 +6701,7 @@ txI	腦
 _8167	腧
 _8168	腨
 _8169	腩
-tnt	腫
+tnt	腫	yシュ
 _816D	腭
 tlj	腮
 t,t	腰
@@ -6782,7 +6782,7 @@ tpj	舂
 _8204	舄
 tgo	舅	男の部首は田《ｏ》
 t,n	與
-tkl	興
+tkl	興	yコウ	hyキョウ
 tha	舉	挙擧舉
 tgj	舊	旧舊
 trj	舌
@@ -6910,7 +6910,7 @@ uwq	苳
 urk	苴
 _82F7	苷
 uzo	苹
-uxo	苺
+uxo	苺	yバイ	hyマイ	hyいちご	i苺莓
 uzi	苻
 _82FD	苽
 _82FE	苾
@@ -6980,7 +6980,7 @@ usD	莊	荘莊㽵	yソウ	hyショウ
 _838D	莍
 uls	莎
 _8392	莒
-uxc	莓
+uxO	莓	yバイ	hyマイ	hyいちご	i苺莓
 _8394	莔
 _8395	莕
 ujk	莖
@@ -7531,7 +7531,7 @@ vjk	衒
 vnx	術
 vdj	街
 _8858	衘
-vc;	衙
+vc;	衙	yガ
 vbk	衛
 vpv	衝
 vbK	衞
@@ -7539,12 +7539,12 @@ _885F	衟
 vkx	衡
 vh;	衢
 vbj	衣	yイ
-vbJ	衤
+vbJ	衤	yイ	hyころもへん
 vyv	表
 _8869	衩
 vlj	衫
 _886F	衯
-vqj	衰
+vqj	衰	yスイ
 vwj	衲
 vmx	衵
 vtk	衷
@@ -8345,7 +8345,7 @@ ybd	逶
 _9037	逷
 yby	逸
 ytO	逹
-yz;	逼
+yyo	逼	yヒッ	畐の部首は田《ｏ》
 y,v	逾
 yx;	遁
 yqo	遂
@@ -8402,7 +8402,7 @@ yzX	邊
 _908C	邌
 y.w	邏
 _9090	邐
-y,e	邑
+y,e	邑	yユウ
 y,g	邕	部首：邑	yヨウ	上部に巛《ｇ》がある
 _9097	邗
 _9099	邙
@@ -8894,7 +8894,7 @@ _95DE	闞
 ;zd	闢
 ;tm	闥
 ;zx	阜
-y,E	阝	漢字源：「阝は邑の変形」とされている
+y,E	阝	漢字源：「阝は邑の変形」とされている	yユウ	hyこざとへん
 ;r;	阡
 ;,r	阨
 ;yd	阪
@@ -9589,7 +9589,7 @@ _9C36	鰶
 _9C37	鰷
 .jv	鰹
 .s,	鰺
-.,s	鰻
+.,s	鰻	yマン
 .yw	鰾
 _9C41	鱁
 _9C45	鱅
