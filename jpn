@@ -1002,7 +1002,7 @@ cyo	剽
 cs/	剿	yソウ
 _5282	劂
 cdm	劃
-_5284	劄
+rwe	劄	yトウ	hyサツ	hyチョウ	i劄箚
 cjx	劇
 czp	劈
 c.v	劉	yリュウ
@@ -3552,7 +3552,7 @@ _675D	杝
 kkl	杞
 ksd	束	部首の木を取り除けば口が残り、その部首のキーはｄ
 kk;	杠
-kpa	条
+kpa	条	i条條	yジョウ	hyチョウ
 k,c	杢
 ksn	杣
 kxv	杤
@@ -3725,7 +3725,7 @@ _6899	梙
 _689A	梚
 kso	梛
 _689C	梜
-kpo	條
+kpA	條	i条條	yジョウ	hyチョウ
 khl	梟
 k.m	梠	yリョ	hyロ
 kpr	梢
@@ -5815,11 +5815,11 @@ qvj	程
 qsk	稍
 qqk	税
 _7A11	稑
-qxi	稔
+qxi	稔	yネン	hyジン
 _7A15	稕
 qxo	稗
 qge	稘
-qpj	稙
+qvp	稙	yチョク	hyチキ	hyショク	直の部首は目《ｐ》
 qt;	稚
 _7A1B	稛
 q.e	稜
@@ -5897,7 +5897,7 @@ qgl	窮
 q,w	窯
 q,q	窰
 _7AB3	窳
-q/w	窶
+q/w	窶	yロウ	hyク
 _7AB9	窹
 qgn	窺
 qsM	窻
@@ -5927,7 +5927,7 @@ qhl	竟	yキョウ	hyケイ
 qpq	章
 qzi	竡
 qm/	竢
-qw;	竣
+qn/	竣	yシュン
 qwk	童
 qph	竦
 _7AE7	竧
@@ -5941,7 +5941,7 @@ _7AF4	竴
 qhr	競	yキョウ	hyケイ	i競竸
 qhR	竸	yキョウ	hyケイ	i競竸
 rtl	竹
-rmr	竺
+rmr	竺	yジク	hyチク	hyトク
 _7AFD	竽
 rfl	竿
 rbj	笂
@@ -5955,11 +5955,11 @@ rlw	笏
 rpr	笑
 _7B12	笒
 rra	笘
-rpq	笙
+rpq	笙	yショウ	hyソウ	hyセイ
 rvj	笛
 rtm	笞
 r.r	笠
-rql	笥
+rmd	笥	yシ	hyス	司の部首は口《ｄ》
 rzl	符
 _7B27	笧
 r;r	笨
@@ -6004,14 +6004,14 @@ _7B6D	筭
 rqe	筮
 _7B6F	筯
 rlk	筰
-rsL	筱
+rpI	筱	yショウ	i篠筱筿
 _7B72	筲
 _7B73	筳
 rho	筴
 rc;	筵
 _7B79	筹
 rhW	筺
-rs.	筿
+rpk	筿	yショウ	i篠筱筿
 rzo	箆
 rcj	箇
 rrl	箋
@@ -6025,9 +6025,9 @@ rgk	箕
 rle	算
 rh;	箘
 rzp	箙
-rwe	箚
+rwE	箚	yトウ	hyサツ	hyチョウ	i劄箚
 _7B9B	箛
-rhq	箜	空の部首は穴《ｑ》
+rhq	箜	空の部首は穴《ｑ》	yク	hyコウ
 rfi	箝
 _7B9E	箞
 rhp	箟
@@ -6035,7 +6035,7 @@ rfk	管
 rto	箪
 rri	箭
 _7BAF	箯
-rsj	箱
+rsj	箱	yソウ	hyショウ
 rqu	箴
 _7BB5	箵
 rvk	箸
@@ -6057,7 +6057,7 @@ _7BD7	篗
 _7BD9	篙
 _7BDA	篚
 rk;	篝
-rsl	篠
+rpi	篠	yショウ	i篠筱筿
 rxk	篤
 r.q	篥
 rz,	篦
@@ -6078,9 +6078,9 @@ _7C0E	簎
 _7C0F	簏
 rlu	簑	簑簔蓑
 rl;	簒
-rlm	簓
+rlm	簓	yささら
 rlU	簔	簑簔蓑
-r.a	簗
+r,n	簗	yやな	i簗𥱋
 rtO	簞
 rtu	簟
 _7C20	簠
@@ -10234,7 +10234,7 @@ _25AE3	𥫣
 _25AE4	𥫤
 _25AF1	𥫱
 _25BB2	𥮲
-_25C4B	𥱋
+r,N	𥱋	yやな	i簗𥱋
 _25C64	𥱤
 _25DA1	𥶡
 _25E2E	𥸮
