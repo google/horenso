@@ -328,7 +328,7 @@ _41EE	䇮
 _41F3	䇳
 _4207	䈇
 _420E	䈎
-rsP	䉤
+rsP	䉤	yソウ	hyス	hyシュ
 _42C6	䋆
 _42D6	䋖
 _42DD	䋝
@@ -6082,7 +6082,7 @@ rlm	簓	yささら
 rlU	簔	簑簔蓑
 r,n	簗	yやな	i簗𥱋
 rtO	簞
-rtu	簟
+rww	簟	yテン	hyタン	覃の部首は覀《ｗ》
 _7C20	簠
 rfj	簡
 rgl	簣
@@ -6090,7 +6090,7 @@ _7C26	簦
 rk/	簧
 rqp	簪
 rpw	簫
-_7C31	簱
+rxm	簱	yはた
 _7C33	簳
 _7C36	簶
 rco	簷
@@ -6104,10 +6104,10 @@ _7C45	籅
 _7C4A	籊
 rt;	籌
 rr;	籍
-rg;	籏
+rx,	籏	yはた
 rwo	籐
 _7C51	籑
-rsp	籔
+rsp	籔	yソウ	hyス	hyシュ
 rrp	籖
 _7C57	籗
 rwO	籘
@@ -6165,7 +6165,7 @@ rsr	粽
 rqk	精
 _7CBF	粿
 rkj	糀
-rqr	糂
+rqr	糂	yジン	hyサン	hyソン
 _7CC4	糄
 rna	糅
 _7CC8	糈
@@ -6181,7 +6181,7 @@ _7CD9	糙
 ry;	糜
 _7CDD	糝
 rz/	糞
-rkm	糟
+rsl	糟	yソウ
 rka	糠
 rz.	糢
 _7CE6	糦
@@ -6257,7 +6257,7 @@ _7D53	絓
 sku	絖
 _7D59	絙
 _7D5A	絚
-sn/	絛
+spy	絛	yジョウ	hyトウ	i絛縧
 _7D5C	絜
 skf	絞
 s.d	絡
@@ -6275,12 +6275,12 @@ sdj	絵
 srj	絶
 sjs	絹
 _7D7A	絺
-s/l	絽
+s/l	絽	yロ	hyリョ
 _7D7F	絿
 _7D83	綃
 _7D86	綆
 _7D88	綈
-sn.	綉
+snw	綉	yシュウ	i繡繍綉
 _7D8B	綋
 _7D8C	綌
 sqf	綏	右部の部首は女(f)
@@ -6369,7 +6369,7 @@ slr	縡
 swl	縢
 pjD	縣	漢字源による部首：目
 sna	縦
-_7E27	縧
+spY	縧	yジョウ	hyトウ	i絛縧
 _7E28	縨
 s;f	縫
 _7E2C	縬
@@ -6390,7 +6390,7 @@ syo	繆
 _7E47	繇
 srs	繊
 sjt	繋
-sne	繍
+snE	繍	yシュウ	i繡繍綉
 _7E52	繒
 spi	織
 sru	繕
@@ -6399,7 +6399,7 @@ syt	繙
 s.k	繚
 sfd	繝
 spj	繞
-_7E61	繡
+sne	繡	yシュウ	i繡繍綉
 shs	繦
 sbo	繧
 spO	繩
