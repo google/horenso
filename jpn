@@ -5239,7 +5239,7 @@ ovo	町
 oco	画	yガ
 ovc	甼
 _753D	甽
-_753E	甾
+omg	甾	上部に巛《ｇ》がある	yシ	hyサイ
 _7540	畀
 o.j	畄
 ozK	畆	yホ	hyボウ	hyム	hyモ	hyせ	hyうね	i畝畆𤰖㽗畒
@@ -5496,7 +5496,7 @@ _76FC	盼
 pnf	盾
 pqw	省
 pzo	眄
-pyq	眇
+pyq	眇	yビョウ	hyミョウ
 pti	眈
 pyp	眉	部首：目
 _770A	眊
@@ -6192,7 +6192,7 @@ r/w	糲
 rv;	糴
 _7CF5	糵
 rvi	糶
-smd	糸
+smd	糸	i糸絲
 sgi	糺
 sja	系
 sgl	糾
@@ -6212,7 +6212,7 @@ stu	紐
 _7D12	紒
 _7D13	紓
 snd	純
-sye	紕
+syl	紕	右部に比《ｌ》がある
 slj	紗
 ska	紘
 smf	紙
@@ -6269,7 +6269,7 @@ _7D6A	絪
 spu	絮
 _7D70	絰
 swj	統
-sma	絲
+smD	絲	i糸絲
 skn	絳
 sdj	絵
 srj	絶
@@ -6315,12 +6315,12 @@ sgo	綺
 stl	綻
 snl	綽
 s.a	綾
-s,s	綿
+s,s	綿	yメン	hyベン	i綿緜
 _7DC0	緀
 _7DC2	緂
-sm,	緇
+smo	緇	yシ	甾の部首は田《ｏ》
 shd	緊
-syz	緋
+sy;	緋	右部に非《；》がある
 _7DCC	緌
 ssk	総
 s.f	緑
@@ -6331,9 +6331,9 @@ _7DD7	緗
 sf;	緘
 _7DD9	緙
 srl	線
-s,v	緜
+s,S	緜	yメン	hyベン	i綿緜
 snr	緝
-sxc	緞
+sxc	緞	yドン	hyダン
 svj	締
 syi	緡
 scJ	緣
@@ -6344,7 +6344,7 @@ sfk	緩
 s,;	緬	右部に面《；》がある
 sbk	緯
 _7DF1	緱
-syv	緲
+syp	緲	眇の部首は目《ｐ》	yビョウ	hyミョウ
 s/d	練
 _7DF9	緹
 st;	緻
@@ -6357,7 +6357,7 @@ sbi	縊
 sv;	縋
 _7E10	縐
 _7E11	縑
-sm.	縒
+smg	縒	yシ	hyサ	差の部首は工《ｇ》
 _7E15	縕
 _7E17	縗
 sx;	縛
@@ -6376,17 +6376,17 @@ _7E2C	縬
 sn;	縮
 snA	縱
 s/m	縲
-s,r	縵
+s,r	縵	yマン	hyバン
 s/s	縷
-sy;	縹
+syq	縹	票の部首は示《ｑ》
 s/.	縺
-syp	縻
+sy/	縻	糸が麻《／》に囲まれている
 ssK	總
 sri	績
 sys	繁
 s;j	繃
 _7E45	繅
-syo	繆
+syt	繆	y翏の部首は羽《ｔ》	yビュウ	hyリュウ	hyミュウ	hyボク	hyル	hyキュウ
 _7E47	繇
 srs	繊
 sjt	繋
@@ -6395,7 +6395,7 @@ _7E52	繒
 spi	織
 sru	繕
 sle	繖
-syt	繙
+syo	繙	番の部首は田《ｏ》
 s.k	繚
 sfd	繝
 spj	繞
@@ -6412,7 +6412,7 @@ _7E75	繵
 sc;	繹
 snv	繻
 sjL	繼
-syl	繽
+syx	繽	賓の部首は貝《ｘ》
 _7E7E	繾
 s.t	繿
 slm	纂
@@ -6457,7 +6457,7 @@ s,.	罔
 sfs	罕
 szl	罘
 skl	罟
-syq	罠
+syw	罠
 _7F61	罡
 _7F63	罣
 _7F64	罤
