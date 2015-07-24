@@ -2345,7 +2345,7 @@ _5E15	帕
 gvu	帖	yチョウ	hyジョウ
 _5E18	帘
 gtk	帙
-gsi	帚
+gnw	帚	yシュウ	hyソウ	hyス	i帚菷
 gxo	帛
 gvx	帝
 _5E1F	帟
@@ -6879,7 +6879,7 @@ _82B7	芷
 ujf	芸
 uha	芹
 _82BA	芺
-uqu	芻
+uqu	芻	i芻蒭	yスウ	hyシュ
 _82BC	芼
 uci	芽
 _82BE	芾
@@ -6996,7 +6996,7 @@ _83A7	莧
 u/f	莨
 _83A9	莩
 ucb	莪
-uxp	莫
+uxp	莫	yバク	hyマク	hyボ
 u.,	莱
 uwP	莵
 u;r	莽
@@ -7022,7 +7022,7 @@ uwp	菟
 uxz	菠
 _83E1	菡
 _83E5	菥
-uzg	菩
+uzg	菩	yボ	hyハイ	hyボク
 _83EA	菪
 uhw	菫
 ucp	華
@@ -7030,7 +7030,7 @@ ukl	菰
 u.k	菱
 uya	菲
 ub;	菴
-une	菷
+unw	菷	yシュウ	hyソウ	hyス	i帚菷
 _83F9	菹
 u.w	菻
 unr	菽
@@ -7052,7 +7052,7 @@ _8417	萗
 u;E	萠
 u,q	萢
 uni	萩
-ucj	萪
+ucj	萪	yカ
 u,a	萬	a,a->万の異字体なので、シフト化しても構いません
 ujl	萱
 u/d	萵	咼の部首は口《ｄ》
@@ -7060,7 +7060,7 @@ u,.	萸
 _8439	萹
 uda	萼
 u.d	落
-u;o	葆
+u;b	葆	yホウ	hyホ	保の部首は亻《ｂ》
 _8448	葈
 u,f	葉
 _844A	葊
@@ -7103,13 +7103,13 @@ upj	蒋
 unp	蒐
 umr	蒔
 _8497	蒗
-u,r	蒙
+u,r	蒙	yモウ	hyボウ
 uli	蒜
 _849E	蒞
 ulr	蒟
 u;j	蒡	旁の部首は方《ｊ》
 _84A6	蒦
-unt	蒭
+uqU	蒭	i芻蒭	yスウ	hyシュ
 _84AF	蒯
 uzl	蒲
 _84B4	蒴
@@ -7136,7 +7136,7 @@ ulu	蓑	簑簔蓑
 _84D3	蓓
 uyr	蓖
 ule	蓙
-unw	蓚
+une	蓚	yシュウ	hyチョウ
 _84DC	蓜
 _84E7	蓧
 _84EA	蓪
