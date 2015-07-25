@@ -1384,7 +1384,7 @@ ddy	喀
 _5581	喁
 _5582	喂
 dx;	喃
-drj	善	譱善
+drj	善	i譱善
 _5586	喆
 d.s	喇
 _5588	喈
@@ -7631,7 +7631,7 @@ vta	褪
 vtw	褫
 _8930	褰
 _8932	褲
-vpo	褶
+vns	褶	yシュウ	hyショウ	hyチョウ
 _8937	褷
 v/l	褸
 _8939	褹
@@ -7755,8 +7755,8 @@ w.r	詈
 _8A4D	詍
 _8A4E	詎
 wlr	詐
-wbl	詑
-wb;	詒
+wsf	詑	yタ	它の部首は宀《ｆ》
+wb;	詒	yイ	hyタイ
 wpf	詔
 wyw	評
 _8A58	詘
@@ -7778,7 +7778,7 @@ w/m	話
 wd;	該
 wpu	詳
 _8A75	詵
-_8A79	詹
+wru	詹
 wdm	詼
 wvo	誂
 w/.	誄
@@ -7875,13 +7875,13 @@ wyq	謬
 _8B2D	謭
 wc.	謳
 whr	謹
-w,n	謾
+w,j	謾	yマン	hyバン	曼の部首は日《ｊ》
 wcp	譁
 _8B43	譃
 _8B46	譆
 wpW	證
 wc/	譌
-wjd	譎
+wjd	譎	yケツ	hyキツ
 wg.	譏
 _8B51	譑
 _8B54	譔
@@ -7895,16 +7895,16 @@ _8B5E	譞
 wsk	譟	右下に木《ｋ》がある
 wjl	警
 _8B69	譩
-wwq	譫
+wri	譫	yセン	hyトウ
 wyp	譬
 w,R	譯
 wg;	議
-wrj	譱	譱善
+wrj	譱	i譱善
 wpr	譲
 wji	譴
 _8B76	譶
 wkl	護
-w,j	譽
+w,n	譽
 _8B7F	譿
 wxK	讀
 _8B81	讁
@@ -7926,14 +7926,14 @@ _8B9D	讝
 _8B9E	讞
 wle	谷
 _8C39	谹
-wkd	谺
+wcn	谺	yカ	hyケ	右部に牙《ｎ》がある
 _8C3D	谽
 wj.	谿
 wd/	豁
 _8C45	豅
 wwj	豆
 _8C47	豇
-wdi	豈
+wdi	豈	yガイ	hyキ	hyケ
 _8C49	豉
 w;r	豊
 wco	豌
