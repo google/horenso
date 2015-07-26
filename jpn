@@ -1614,7 +1614,7 @@ _57AC	垬
 ets	垰
 eds	垳
 _57B8	垸
-eqr	埀
+eqM	埀
 ebm	埃
 edf	埆
 _57C7	埇
@@ -1665,7 +1665,7 @@ e;f	堡	yホウ	hyホ
 evk	堤
 _5827	堧
 efs	堪
-ehF	堯
+ehF	堯	hb几	i尭堯
 ecv	堰
 e;j	報
 _5832	堲
@@ -2128,7 +2128,7 @@ f,e	尤
 f;d	尨
 _5C29	尩
 _5C2B	尫
-ehf	尭
+ehf	尭	hb几	i尭堯
 _5C30	尰
 fns	就
 gms	尸
@@ -5293,7 +5293,7 @@ opE	疉
 ope	疊
 ore	疋
 _758C	疌
-oro	疎
+oro	疎	yソ	hyショ	i踈疎
 orw	疏
 ogu	疑
 otp	疒	yダク	hyニャク
@@ -7979,7 +7979,7 @@ _8CA4	貤
 xyv	貧
 xcj	貨
 xyc	販
-xtj	貪
+xtj	貪	yタン	hyドン
 xfj	貫
 xrl	責
 xmC	貭
@@ -7997,7 +7997,7 @@ xvx	貼	yチョウ
 xbk	貽
 x;x	貿
 xcl	賀
-xzx	賁
+x;k	賁	yホン	hyヒ	hyフン
 x/.	賂
 xvc	賃
 x/m	賄
@@ -8070,7 +8070,7 @@ _8DA6	趦
 xqp	趨
 _8DAF	趯
 xsk	足
-xm/	趺
+xze	趺	yフ	夫の部首は大《ｅ》
 xm.	趾
 xgo	跂
 _8DC6	跆
@@ -8100,8 +8100,8 @@ xhi	跼
 _8DFD	跽
 xwi	跿
 _8E06	踆
-xrm	踈
-x/v	踉
+xro	踈	yソ	hyショ	i踈疎
+x.g	踉	yリョウ	hyロウ
 x,c	踊
 _8E0C	踌
 xwl	踏
@@ -8116,7 +8116,7 @@ _8E21	踡
 _8E22	踢
 _8E23	踣
 _8E27	踧
-xs;	踪
+xs;	踪	yソウ	hyソ
 x,z	踰
 x,.	踴
 xpv	踵
@@ -8130,13 +8130,13 @@ xwu	蹈
 xlf	蹉
 xjk	蹊
 _8E4B	蹋
-xsp	蹌
+xsp	蹌	yソウ	hyショウ
 xri	蹐
 _8E54	蹔
 xyb	蹕
 xn/	蹙
 xr,	蹟
-xro	蹠
+xrm	蹠
 _8E62	蹢
 x,/	蹣
 xpu	蹤
@@ -8186,7 +8186,7 @@ xhc	軍
 _8ED1	軑
 xjc	軒
 _8ED4	軔
-x,x	軛
+x,x	軛	yヤク	hyアク
 xxl	軟
 xwj	転
 xkj	軣
@@ -8360,7 +8360,7 @@ yzp	遍
 ycv	過
 ybc	遏
 ycx	遐
-yfa	遑
+yke	遑	yコウ	hyオウ
 ynt	遒
 ywp	道
 yto	達
@@ -8382,7 +8382,7 @@ ynv	遮
 yxb	遯
 ytQ	遲
 ynw	遵
-yxu	遶
+ypc	遶	yジョウ	hyニョウ	尭の部首は几《ｃ》
 yry	遷
 yre	選
 yba	遺	yイ
@@ -8390,7 +8390,7 @@ y.,	遼
 yhr	遽
 yyf	避
 y,t	邀
-y,z	邁
+y,z	邁	yマイ	hyバイ
 yds	邂
 yqt	邃
 yfy	還
@@ -8409,10 +8409,10 @@ _9099	邙
 _909B	邛
 _90A1	邡
 _90A2	邢
-yxc	那
+yxc	那	yナ	hyダ
 y;f	邦
 ys;	邨
-ynn	邪	左部に牙《ｎ》がある
+ynn	邪	左部に牙《ｎ》がある	yジャ	hyヤ
 yfd	邯
 _90B0	邰
 ygo	邱
@@ -8500,7 +8500,7 @@ y,c	酩
 y.s	酪
 yne	酬	駲酬洲州
 yvk	酲
-yqg	酳
+yb;	酳	yイン
 _9174	酴
 ykf	酵
 yls	酷
@@ -8512,7 +8512,7 @@ _9185	醅
 ynx	醇
 yqu	醉
 yle	醋
-yty	醍
+yty	醍	yダイ	hyテイ
 _918E	醎
 ykr	醐
 yqp	醒
@@ -8610,7 +8610,7 @@ _924F	鉏
 zrl	鉐
 _9251	鉑
 _9256	鉖
-zjv	鉗
+zjv	鉗	yケン	hyカン
 _9259	鉙
 z.,	鉚
 zcj	鉛
@@ -8642,7 +8642,7 @@ znv	銖
 _9297	銗
 z,x	銘
 _9299	銙
-zvz	銚
+zvz	銚	yチョウ	hyヨウ	hyジョウ
 zri	銛
 zfk	銜
 _929F	銟
@@ -8683,13 +8683,13 @@ zkx	鋼
 _92FF	鋿
 _9302	錂
 z/M	錄
-zpi	錆
+zq;	錆	yセイ	hyショウ	右部に青《；》がある
 _930D	錍
 zbk	錏
 zql	錐
 _9311	錑
 _9315	錕
-zq;	錘
+zqo	錘	yスイ	hyツイ
 zmc	錙
 zsj	錚
 _931D	錝
