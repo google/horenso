@@ -21,7 +21,21 @@ use Term::ReadKey;
 
 binmode STDOUT, ':utf8';
 
+# 2~3打鍵コードの文字列 => 実際に入力される文字・文字列
 my %codes;
+
+# 間違いやすい字の実際ではないけど調べ得るコードプレフィックス
+# 例えば、合の部首は口《ｄ》けれど、人《ｂ》と思い込む可能性がある
+# なので、上記の%codesマップにdkg->合と云うエントリーがあるのに対して
+# %suggestionsに"bg"と云うキーがあって、配列リファレンスの値に
+# "dkg -> 合 (部首＝口)"のような文字列が含まれている。
+#
+# 入力コードプレフィックス => 入力したいと思われる漢字などの配列
+my %suggestions = (
+    # TODO: コードファイルからのhbとhyの注を使ってマップを自動生成する
+    bg => ["dkg -> 合（部首＝口）"],
+    yn => ["yvy -> 重（読み＝チョウ）"],
+);
 
 my @codes_files = @ARGV;
 my @entered_text;
@@ -243,6 +257,13 @@ sub maybe_refresh_screen {
     print_keyboard;
 }
 
+# 標準入力からキーを一つ読むか、Alt+キーを読む
+sub read_key_chord {
+    my $first_key = ReadKey 0;
+    return $first_key if ord($first_key) != 27;
+    return $first_key . ReadKey(0);
+}
+
 while (1) {
     local $";
     $" = q{};
@@ -259,7 +280,18 @@ while (1) {
 
     erase_to_eol;
 
-    my $key = ReadKey 0;
+    my $key = read_key_chord;
+    if ($key eq "\x1b" . 'h') {
+        my $prefix = join q{}, @uncommitted;
+        print "\n";
+        my $suggestions = $suggestions{$prefix} // [];
+        for my $suggestion (@$suggestions) {
+            print "$suggestion\n";
+        }
+        read_key_chord;
+        next;
+    }
+    next if length($key) == 2;
     if (ord($key) < 0x20 && $key ne "\n") {
         next;
     }
