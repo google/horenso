@@ -19,7 +19,41 @@ use warnings;
 use FindBin;
 use Term::ReadKey;
 
+binmode STDERR, ':utf8';
 binmode STDOUT, ':utf8';
+
+my %rad_to_key = (
+    入 => 'c',
+    几 => 'c',
+    卜 => 'c',
+    卩 => 'd',
+    夕 => 'e',
+    小 => 'f',
+    宀 => 'f',
+    工 => 'g',
+    彑 => 'h',
+    戈 => 'i',
+    田 => 'o',
+    臣 => 'q',
+    穴 => 'q',
+    隹 => ';',
+);
+
+my @yomiken = (
+    'b'..'d',
+    'f'..'h',
+    'j'..'n',
+    'p'..'t',
+    'v'..'z',
+    ';',
+    ',',
+    '.',
+    '/',
+);
+
+my @yomi_ranges = qw{ア エキ カイ カン キ キョ ケ コ コク シ シャ ショ シン セキ ソウ タイ チュツ テン トク ハン フ ホウ マ ラ ル};
+
+@yomiken == @yomi_ranges or die;
 
 # 2~3打鍵コードの文字列 => 実際に入力される文字・文字列
 my %codes;
@@ -31,11 +65,7 @@ my %codes;
 # "dkg -> 合 (部首＝口)"のような文字列が含まれている。
 #
 # 入力コードプレフィックス => 入力したいと思われる漢字などの配列
-my %suggestions = (
-    # TODO: コードファイルからのhbとhyの注を使ってマップを自動生成する
-    bg => ["dkg -> 合（部首＝口）"],
-    yn => ["yvy -> 重（読み＝チョウ）"],
-);
+my %suggestions;
 
 my @codes_files = @ARGV;
 my @entered_text;
@@ -151,6 +181,7 @@ if (!@codes_files) {
 
 sub read_codes {
     %codes = ();
+    %suggestions = ();
     for my $codes_file (@codes_files) {
         open my $codes, $codes_file
             or die "Cannot open $codes_file: $!";
@@ -159,13 +190,36 @@ sub read_codes {
         while (my $line = <$codes>) {
             chomp $line;
 
-            my ($key, $value) = split m/\t/, $line, 3;
+            my ($key, $value, @notes) = split m/\t/, $line;
             if (!defined $value) {
                 print STDERR "Could not process code: $line\n";
                 die;
             }
             die "Duplicate code: $key" if defined $codes{$key};
             $codes{$key} = $value;
+
+            # hbかhyの注がある場合は%suggestionsのマップを拡張する
+            my @hy_keys = map {
+                # yomikenとyomi_rangesを使って読みから読み鍵の変換を行う
+                0;
+            } map {substr $_, 2} grep {$_ =~ /^hy/} @notes;
+
+            my @hb_keys = map {
+                if (!$rad_to_key{$_}) {
+                    print STDERR "radical not in \%rad_to_key: $_\n";
+                    die;
+                }
+                $rad_to_key{$_};
+            } map {substr $_, 2} grep {$_ =~ /^hb/} @notes;
+
+            my @code_source_notes = map {
+                my $x = $_;
+                $x =~ s/^y/読み＝/;
+                $x =~ s/^b/部首＝/;
+                $x;
+            } grep {
+                $_ =~ /^[yb]/;
+            } @notes;
         }
     }
 }
