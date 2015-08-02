@@ -51,7 +51,7 @@ my @yomiken = (
     '/',
 );
 
-my @yomi_ranges = qw{ア エキ カイ カン キ キョ ケ コ コク シ シャ ショ シン セキ ソウ タイ チュツ テン トク ハン フ ホウ マ ラ ル};
+my @yomi_ranges = qw{ア エキ カイ カン キ キヨ ケ コ コク シ シヤ シヨ シン セキ ソウ タイ チュツ テン トク ハン フ ホウ マ ラ ル};
 
 @yomiken == @yomi_ranges or die;
 
@@ -179,6 +179,18 @@ if (!@codes_files) {
     push @codes_files, "$FindBin::Bin/jpn";
 }
 
+sub simplify_yomi {
+    my ($a) = @_;
+    # 読み鍵を決定する際、ひら・カタを区別しないので、ひらがなをカタカナに変換
+    # する
+    $a =~ tr/ぁ-ゖ/ァ-ヶ/;
+    $a =~ tr/ャュョ/ヤユヨ/;
+    # 半濁音と濁音も無視するので、濁点を取り除く
+    $a =~ tr{ガギグゲゴザジズゼゾダヂヅデドバビブベボパピプペポ}
+            {カキクケコサシスセソタチツテトハヒフヘホハヒフヘホ};
+    return $a;
+}
+
 sub read_codes {
     %codes = ();
     %suggestions = ();
@@ -199,11 +211,22 @@ sub read_codes {
             $codes{$key} = $value;
 
             # hbかhyの注がある場合は%suggestionsのマップを拡張する
+
+            # hyに相当する読み鍵を計算する
             my @hy_keys = map {
                 # yomikenとyomi_rangesを使って読みから読み鍵の変換を行う
-                0;
+                my $yomi = simplify_yomi $_;
+                my $match_id = $#yomi_ranges;
+                for my $id (0..($#yomi_ranges-1)) {
+                    if (($yomi_ranges[$id + 1] cmp $yomi) > 0) {
+                        $match_id = $id;
+                        last;
+                    }
+                }
+                $yomiken[$match_id];
             } map {substr $_, 2} grep {$_ =~ /^hy/} @notes;
 
+            # hbに相当する部首鍵を計算する
             my @hb_keys = map {
                 if (!$rad_to_key{$_}) {
                     print STDERR "radical not in \%rad_to_key: $_\n";
@@ -212,6 +235,7 @@ sub read_codes {
                 $rad_to_key{$_};
             } map {substr $_, 2} grep {$_ =~ /^hb/} @notes;
 
+            # 実際の読み・部首は明記されている場合、サジェストに入れる
             my @code_source_notes = map {
                 my $x = $_;
                 $x =~ s/^y/読み＝/;
@@ -220,6 +244,25 @@ sub read_codes {
             } grep {
                 $_ =~ /^[yb]/;
             } @notes;
+
+            next if !@hb_keys && !@hy_keys;
+            my $code_help = "$key => $value";
+            if (@code_source_notes) {
+                local $";
+                $" = q{、};
+                $code_help .= " (@code_source_notes)";
+            }
+
+            my $b_key = substr $key, 0, 1;
+            my $y_key = substr $key, 1, 1;
+            for my $b ($b_key, @hb_keys) {
+                for my $y ($y_key, @hy_keys) {
+                    next if $b eq $b_key && $y eq $y_key;
+
+                    my $array = $suggestions{"$b$y"} //= [];
+                    push @$array, $code_help;
+                }
+            }
         }
     }
 }
