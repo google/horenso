@@ -23,15 +23,18 @@ binmode STDERR, ':utf8';
 binmode STDOUT, ':utf8';
 
 my %rad_to_key = (
+    亠 => 'a',
     入 => 'c',
     几 => 'c',
     力 => 'c',
+    十 => 'c',
     卜 => 'c',
     卩 => 'd',
     夕 => 'e',
     小 => 'f',
     宀 => 'f',
     工 => 'g',
+    幺 => 'g',
     彑 => 'h',
     戈 => 'i',
     田 => 'o',
