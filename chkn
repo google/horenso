@@ -1,9 +1,12 @@
 #!/usr/bin/perl
 # ターミナルで使える漢字直接入力のための単純なツール
 # 起動方法
-# a. 既定の日本語コードマッピングを使う (jpn)
+# a. 既定の日本語コードマッピングを使う (code)
 #    ./chkn
-# b. 任意のマッピングファイルを使う
+# b. 言語を指定する
+#    CHKN_LANG=jpn ./chkn # 日本語モード（既定）
+#    CHKN_LANG=cht ./chkn # 中国語繁体字モード
+# c. 任意のマッピングファイルを使う
 #    ./chkn TABLE1 TABLE2
 #
 # リターンを押す度にテキストをコピーしたりどこかに送信するには$COPY_TOOLの環境
@@ -21,6 +24,8 @@ use Term::ReadKey;
 
 binmode STDERR, ':utf8';
 binmode STDOUT, ':utf8';
+
+my $lang = $ENV{CHKN_LANG} // 'jpn';
 
 my %rad_to_key = (
     亠 => 'a',
@@ -191,7 +196,7 @@ sub guide_ji {
 }
 
 if (!@codes_files) {
-    push @codes_files, "$FindBin::Bin/jpn";
+    push @codes_files, "$FindBin::Bin/code";
 }
 
 sub simplify_yomi {
@@ -222,6 +227,20 @@ sub read_codes {
                 print STDERR "Could not process code: $line\n";
                 die;
             }
+
+            # 使用の言語でこのコードを有効にするか
+            # - Lから始まるノートが無い場合：有効
+            # - "L$lang"とノートがある場合：有効
+            # - その他：無効
+            my $lang_note_count = 0;
+            my $found_spec_lang = 0;
+            for my $note (@notes) {
+                next if $note !~ m/^L[a-z]+$/;
+                $lang_note_count++;
+                $found_spec_lang = 1 if $note eq "L$lang";
+            }
+            next if $lang_note_count and !$found_spec_lang;
+
             die "Duplicate code: $key" if defined $codes{$key};
             $codes{$key} = $value;
 
