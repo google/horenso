@@ -8802,7 +8802,6 @@ _92FB	鋻
 zkx	鋼
 _92FF	鋿
 _9302	錂
-z/M	錄
 zq;	錆	yセイ	hyショウ	右部に青《；》がある
 _930D	錍
 zbk	錏
@@ -8828,7 +8827,9 @@ zro	錫
 z/,	錬
 zkc	錮
 zlx	錯
-z/m	録
+z/m	録	Ljpn
+z/M	錄	Ljpn
+z/m	錄	Lcht
 zxu	錵	yにえ	花の部首は艹《ｕ》
 zdj	錺
 zz;	錻
@@ -10500,3 +10501,5 @@ d.r	啦	Lcht	Pla1	yラ	j拉
 dkJ	嚎	Lcht	Phao2	yゴウ	j豪
 .be	鵪	Lcht	Pan1	yアン	hyオン	奄の部首は大《ｅ》
 rpu	扔	Lcht	Preng1	yジョウ	hyニョウ
+l,c	氧	Lcht	Pyang3	yヨウ
+lbc	氨	Lcht	Pan1	yアン
