@@ -1656,7 +1656,9 @@ _56F6	囶
 _56F7	囷
 e/a	囹
 eke	固
-eli	国
+eli	国	Ljpn
+elI	國	Ljpn
+eli	國	Lcht
 e,/	囿
 els	圀
 e;o	圃	甫の部首は用《ｏ》
@@ -1664,7 +1666,6 @@ eh;	圄	yギョ	hyゴ
 ejK	圈
 ehs	圉
 _570A	圊
-elI	國
 ebJ	圍
 ejk	圏
 ecc	園	園薗
@@ -3026,8 +3027,9 @@ igO	戲
 it;	戳
 itq	戴
 ikf	戸
-i/f	戻
-_623E	戾
+i/f	戻	Ljpn
+i/F	戾	Ljpn
+i/f	戾	Lcht
 i;d	房
 ipf	所
 izl	扁
@@ -4406,7 +4408,6 @@ mg,	泣
 mv,	泥
 mt/	注
 _6CE9	泩
-m/r	泪
 _6CEB	泫
 _6CEC	泬
 _6CED	泭
@@ -4489,7 +4490,10 @@ mj;	涓
 _6D94	涔
 mvk	涕
 _6D98	涘
-m/f	涙
+m/f	涙	Ljpn
+m/R	淚	Ljpn
+m/r	泪
+m/f	淚	Lcht
 mwf	涛	i涛濤	寿の部首は寸《ｆ》
 mxL	涜
 _6DAA	涪
@@ -4521,7 +4525,6 @@ m.q	淕
 _6DD6	淖
 mwq	淘
 ms,	淙
-m/R	淚
 _6DDB	淛
 _6DDD	淝
 mpr	淞
@@ -4607,7 +4610,9 @@ mbc	湮
 mw,	湯
 mcs	湲	yエン	hyカン	hyゲン
 mrr	湶
-m/.	湾
+m/.	湾	Ljpn
+m/>	灣	Ljpn
+m/.	灣	Lcht
 mms	湿
 m,m	満
 m.e	溂
@@ -4807,8 +4812,9 @@ mpv	瀟
 _7023	瀣
 mvd	瀦
 m/<	瀧	yロウ	hyソウ
-m.A	瀨
-m.a	瀬
+m.A	瀨	Ljpn
+m.a	瀬	Ljpn
+m.a	瀨	Lcht
 myt	瀰
 m/l	瀲
 _7039	瀹
@@ -4826,7 +4832,6 @@ _7054	灔
 mts	灘
 _705D	灝
 _705E	灞
-m/>	灣
 _7064	灤
 _7065	灥
 _7069	灩
