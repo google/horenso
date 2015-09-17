@@ -107,12 +107,14 @@
 ,xc	馬
 ,hr	馭
 ,ye	馮
-,sM	馱
 ,t.	馳
 ,ng	馴	右部に川《ｇ》がある
 ,zc	馼
 ,x.	駁
-,sm	駄
+,sm	駄	Ljpn
+,sM	馱	Ljpn
+,sm	馱	Lcht
+,su	髒	葬の部首は艹《ｕ》
 ,cm	駅
 ,hf	駆
 ,he	駈
@@ -137,14 +139,15 @@
 ,qw	騅
 ,g,	騎
 ,g/	騏
-,sd	騒
 ,jd	験
 ,z/	騙
 ,tn	騨
 ,jc	騫
 ,mr	騭	yシツ	i隲騭
 ,we	騰
-,sD	騷
+,sd	騒	Ljpn
+,sD	騷	Ljpn
+,sd	騷	Lcht
 ,.m	騾
 ,x/	驀
 ,l,	驂
