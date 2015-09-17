@@ -1,303 +1,303 @@
-xa	ぁ
-;a	あ
-xi	ぃ
-;i	い
-xu	ぅ
-;u	う
-xe	ぇ
-;e	え
-xo	ぉ
-;o	お
-ka	か
-ga	が
-ki	き
-k7	きゃ
-k8	きゅ
-k9	きょ
-k*	きゅう
-k(	きょう
-gi	ぎ
-g7	ぎゃ
-g8	ぎゅ
-g9	ぎょ
-g*	ぎゅう
-g(	ぎょう
-ku	く
-gu	ぐ
-ke	け
-ge	げ
-ko	こ
-go	ご
-sa	さ
-za	ざ
-si	し
-s7	しゃ
-s8	しゅ
-s9	しょ
-s*	しゅう
-s(	しょう
-zi	じ
-z7	じゃ
-z8	じゅ
-z9	じょ
-z*	じゅう
-z(	じょう
-su	す
-zu	ず
-se	せ
-ze	ぜ
-so	そ
-zo	ぞ
-ta	た
-da	だ
-ti	ち
-t7	ちゃ
-t8	ちゅ
-t9	ちょ
-t*	ちゅう
-t(	ちょう
-di	ぢ
-d7	ぢゃ
-d8	ぢゅ
-d9	ぢょ
-d*	ぢゅう
-d(	ぢょう
-t'	っ
-tu	つ
-du	づ
-te	て
-de	で
-to	と
-do	ど
-na	な
-ni	に
-n7	にゃ
-n8	にゅ
-n9	にょ
-n*	にゅう
-n(	にょう
-nu	ぬ
-ne	ね
-no	の
-ha	は
-ba	ば
-pa	ぱ
-hi	ひ
-h7	ひゃ
-h8	ひゅ
-h9	ひょ
-h*	ひゅう
-h(	ひょう
-bi	び
-b7	びゃ
-b8	びゅ
-b9	びょ
-b*	びゅう
-b(	びょう
-pi	ぴ
-p7	ぴゃ
-p8	ぴゅ
-p9	ぴょ
-p*	ぴゅう
-p(	ぴょう
-fu	ふ
-bu	ぶ
-pu	ぷ
-he	へ
-be	べ
-pe	ぺ
-ho	ほ
-bo	ぼ
-po	ぽ
-ma	ま
-mi	み
-m7	みゃ
-m8	みゅ
-m9	みょ
-m*	みゅう
-m(	みょう
-mu	む
-me	め
-mo	も
-ia	ゃ
-ya	や
-iu	ゅ
-yu	ゆ
-io	ょ
-yo	よ
-ra	ら
-ri	り
-r7	りゃ
-r8	りゅ
-r9	りょ
-r*	りゅう
-r(	りょう
-ru	る
-re	れ
-ro	ろ
-wu	ゎ
-wa	わ
-wi	ゐ
-we	ゑ
-wo	を
-n'	ん
-vu	ゔ
-ii	ゕ
-ie	ゖ
-"s	ゝ
-"d	ゞ
-XA	ァ
-;A	ア
-XI	ィ
-;I	イ
-XU	ゥ
-;U	ウ
-XE	ェ
-;E	エ
-XO	ォ
-;O	オ
-KA	カ
-GA	ガ
-KI	キ
-K7	キャ
-K8	キュ
-K9	キョ
-K*	キュウ
-K(	キョウ
-GI	ギ
-G7	ギャ
-G8	ギュ
-G9	ギョ
-G*	ギュウ
-G(	ギョウ
-KU	ク
-GU	グ
-KE	ケ
-GE	ゲ
-KO	コ
-GO	ゴ
-SA	サ
-ZA	ザ
-SI	シ
-S7	シャ
-S8	シュ
-S9	ショ
-S*	シュウ
-S(	ショウ
-ZI	ジ
-Z7	ジャ
-Z8	ジュ
-Z9	ジョ
-Z*	ジュウ
-Z(	ジョウ
-SU	ス
-ZU	ズ
-SE	セ
-ZE	ゼ
-SO	ソ
-ZO	ゾ
-TA	タ
-DA	ダ
-TI	チ
-T7	チャ
-T8	チュ
-T9	チョ
-T*	チュウ
-T(	チョウ
-DI	ヂ
-D7	ヂャ
-D8	ヂュ
-D9	ヂョ
-D*	ヂュウ
-D(	ヂョウ
-T'	ッ
-TU	ツ
-DU	ヅ
-TE	テ
-DE	デ
-TO	ト
-DO	ド
-NA	ナ
-NI	ニ
-N7	ニャ
-N8	ニュ
-N9	ニョ
-N*	ニュウ
-N(	ニョウ
-NU	ヌ
-NE	ネ
-NO	ノ
-HA	ハ
-BA	バ
-PA	パ
-HI	ヒ
-H7	ヒャ
-H8	ヒュ
-H9	ヒョ
-H*	ヒュウ
-H(	ヒョウ
-BI	ビ
-B7	ビャ
-B8	ビュ
-B9	ビョ
-B*	ビュウ
-B(	ビョウ
-PI	ピ
-P7	ピャ
-P8	ピュ
-P9	ピョ
-P*	ピュウ
-P(	ピョウ
-FU	フ
-BU	ブ
-PU	プ
-HE	ヘ
-BE	ベ
-PE	ペ
-HO	ホ
-BO	ボ
-PO	ポ
-MA	マ
-MI	ミ
-M7	ミャ
-M8	ミュ
-M9	ミョ
-M*	ミュウ
-M(	ミョウ
-MU	ム
-ME	メ
-MO	モ
-IA	ャ
-YA	ヤ
-IU	ュ
-YU	ユ
-IO	ョ
-YO	ヨ
-RA	ラ
-RI	リ
-R7	リャ
-R8	リュ
-R9	リョ
-R*	リュウ
-R(	リョウ
-RU	ル
-RE	レ
-RO	ロ
-WU	ヮ
-WA	ワ
-WI	ヰ
-WE	ヱ
-WO	ヲ
-N'	ン
-VU	ヴ
-II	ヵ
-IE	ヶ
-VI	ヸ
-VE	ヹ
-VO	ヺ
--	ー
-"S	ヽ
-"D	ヾ
+xa	ぁ	Ljpn
+;a	あ	Ljpn
+xi	ぃ	Ljpn
+;i	い	Ljpn
+xu	ぅ	Ljpn
+;u	う	Ljpn
+xe	ぇ	Ljpn
+;e	え	Ljpn
+xo	ぉ	Ljpn
+;o	お	Ljpn
+ka	か	Ljpn
+ga	が	Ljpn
+ki	き	Ljpn
+k7	きゃ	Ljpn
+k8	きゅ	Ljpn
+k9	きょ	Ljpn
+k*	きゅう	Ljpn
+k(	きょう	Ljpn
+gi	ぎ	Ljpn
+g7	ぎゃ	Ljpn
+g8	ぎゅ	Ljpn
+g9	ぎょ	Ljpn
+g*	ぎゅう	Ljpn
+g(	ぎょう	Ljpn
+ku	く	Ljpn
+gu	ぐ	Ljpn
+ke	け	Ljpn
+ge	げ	Ljpn
+ko	こ	Ljpn
+go	ご	Ljpn
+sa	さ	Ljpn
+za	ざ	Ljpn
+si	し	Ljpn
+s7	しゃ	Ljpn
+s8	しゅ	Ljpn
+s9	しょ	Ljpn
+s*	しゅう	Ljpn
+s(	しょう	Ljpn
+zi	じ	Ljpn
+z7	じゃ	Ljpn
+z8	じゅ	Ljpn
+z9	じょ	Ljpn
+z*	じゅう	Ljpn
+z(	じょう	Ljpn
+su	す	Ljpn
+zu	ず	Ljpn
+se	せ	Ljpn
+ze	ぜ	Ljpn
+so	そ	Ljpn
+zo	ぞ	Ljpn
+ta	た	Ljpn
+da	だ	Ljpn
+ti	ち	Ljpn
+t7	ちゃ	Ljpn
+t8	ちゅ	Ljpn
+t9	ちょ	Ljpn
+t*	ちゅう	Ljpn
+t(	ちょう	Ljpn
+di	ぢ	Ljpn
+d7	ぢゃ	Ljpn
+d8	ぢゅ	Ljpn
+d9	ぢょ	Ljpn
+d*	ぢゅう	Ljpn
+d(	ぢょう	Ljpn
+t'	っ	Ljpn
+tu	つ	Ljpn
+du	づ	Ljpn
+te	て	Ljpn
+de	で	Ljpn
+to	と	Ljpn
+do	ど	Ljpn
+na	な	Ljpn
+ni	に	Ljpn
+n7	にゃ	Ljpn
+n8	にゅ	Ljpn
+n9	にょ	Ljpn
+n*	にゅう	Ljpn
+n(	にょう	Ljpn
+nu	ぬ	Ljpn
+ne	ね	Ljpn
+no	の	Ljpn
+ha	は	Ljpn
+ba	ば	Ljpn
+pa	ぱ	Ljpn
+hi	ひ	Ljpn
+h7	ひゃ	Ljpn
+h8	ひゅ	Ljpn
+h9	ひょ	Ljpn
+h*	ひゅう	Ljpn
+h(	ひょう	Ljpn
+bi	び	Ljpn
+b7	びゃ	Ljpn
+b8	びゅ	Ljpn
+b9	びょ	Ljpn
+b*	びゅう	Ljpn
+b(	びょう	Ljpn
+pi	ぴ	Ljpn
+p7	ぴゃ	Ljpn
+p8	ぴゅ	Ljpn
+p9	ぴょ	Ljpn
+p*	ぴゅう	Ljpn
+p(	ぴょう	Ljpn
+fu	ふ	Ljpn
+bu	ぶ	Ljpn
+pu	ぷ	Ljpn
+he	へ	Ljpn
+be	べ	Ljpn
+pe	ぺ	Ljpn
+ho	ほ	Ljpn
+bo	ぼ	Ljpn
+po	ぽ	Ljpn
+ma	ま	Ljpn
+mi	み	Ljpn
+m7	みゃ	Ljpn
+m8	みゅ	Ljpn
+m9	みょ	Ljpn
+m*	みゅう	Ljpn
+m(	みょう	Ljpn
+mu	む	Ljpn
+me	め	Ljpn
+mo	も	Ljpn
+ia	ゃ	Ljpn
+ya	や	Ljpn
+iu	ゅ	Ljpn
+yu	ゆ	Ljpn
+io	ょ	Ljpn
+yo	よ	Ljpn
+ra	ら	Ljpn
+ri	り	Ljpn
+r7	りゃ	Ljpn
+r8	りゅ	Ljpn
+r9	りょ	Ljpn
+r*	りゅう	Ljpn
+r(	りょう	Ljpn
+ru	る	Ljpn
+re	れ	Ljpn
+ro	ろ	Ljpn
+wu	ゎ	Ljpn
+wa	わ	Ljpn
+wi	ゐ	Ljpn
+we	ゑ	Ljpn
+wo	を	Ljpn
+n'	ん	Ljpn
+vu	ゔ	Ljpn
+ii	ゕ	Ljpn
+ie	ゖ	Ljpn
+"s	ゝ	Ljpn
+"d	ゞ	Ljpn
+XA	ァ	Ljpn
+;A	ア	Ljpn
+XI	ィ	Ljpn
+;I	イ	Ljpn
+XU	ゥ	Ljpn
+;U	ウ	Ljpn
+XE	ェ	Ljpn
+;E	エ	Ljpn
+XO	ォ	Ljpn
+;O	オ	Ljpn
+KA	カ	Ljpn
+GA	ガ	Ljpn
+KI	キ	Ljpn
+K7	キャ	Ljpn
+K8	キュ	Ljpn
+K9	キョ	Ljpn
+K*	キュウ	Ljpn
+K(	キョウ	Ljpn
+GI	ギ	Ljpn
+G7	ギャ	Ljpn
+G8	ギュ	Ljpn
+G9	ギョ	Ljpn
+G*	ギュウ	Ljpn
+G(	ギョウ	Ljpn
+KU	ク	Ljpn
+GU	グ	Ljpn
+KE	ケ	Ljpn
+GE	ゲ	Ljpn
+KO	コ	Ljpn
+GO	ゴ	Ljpn
+SA	サ	Ljpn
+ZA	ザ	Ljpn
+SI	シ	Ljpn
+S7	シャ	Ljpn
+S8	シュ	Ljpn
+S9	ショ	Ljpn
+S*	シュウ	Ljpn
+S(	ショウ	Ljpn
+ZI	ジ	Ljpn
+Z7	ジャ	Ljpn
+Z8	ジュ	Ljpn
+Z9	ジョ	Ljpn
+Z*	ジュウ	Ljpn
+Z(	ジョウ	Ljpn
+SU	ス	Ljpn
+ZU	ズ	Ljpn
+SE	セ	Ljpn
+ZE	ゼ	Ljpn
+SO	ソ	Ljpn
+ZO	ゾ	Ljpn
+TA	タ	Ljpn
+DA	ダ	Ljpn
+TI	チ	Ljpn
+T7	チャ	Ljpn
+T8	チュ	Ljpn
+T9	チョ	Ljpn
+T*	チュウ	Ljpn
+T(	チョウ	Ljpn
+DI	ヂ	Ljpn
+D7	ヂャ	Ljpn
+D8	ヂュ	Ljpn
+D9	ヂョ	Ljpn
+D*	ヂュウ	Ljpn
+D(	ヂョウ	Ljpn
+T'	ッ	Ljpn
+TU	ツ	Ljpn
+DU	ヅ	Ljpn
+TE	テ	Ljpn
+DE	デ	Ljpn
+TO	ト	Ljpn
+DO	ド	Ljpn
+NA	ナ	Ljpn
+NI	ニ	Ljpn
+N7	ニャ	Ljpn
+N8	ニュ	Ljpn
+N9	ニョ	Ljpn
+N*	ニュウ	Ljpn
+N(	ニョウ	Ljpn
+NU	ヌ	Ljpn
+NE	ネ	Ljpn
+NO	ノ	Ljpn
+HA	ハ	Ljpn
+BA	バ	Ljpn
+PA	パ	Ljpn
+HI	ヒ	Ljpn
+H7	ヒャ	Ljpn
+H8	ヒュ	Ljpn
+H9	ヒョ	Ljpn
+H*	ヒュウ	Ljpn
+H(	ヒョウ	Ljpn
+BI	ビ	Ljpn
+B7	ビャ	Ljpn
+B8	ビュ	Ljpn
+B9	ビョ	Ljpn
+B*	ビュウ	Ljpn
+B(	ビョウ	Ljpn
+PI	ピ	Ljpn
+P7	ピャ	Ljpn
+P8	ピュ	Ljpn
+P9	ピョ	Ljpn
+P*	ピュウ	Ljpn
+P(	ピョウ	Ljpn
+FU	フ	Ljpn
+BU	ブ	Ljpn
+PU	プ	Ljpn
+HE	ヘ	Ljpn
+BE	ベ	Ljpn
+PE	ペ	Ljpn
+HO	ホ	Ljpn
+BO	ボ	Ljpn
+PO	ポ	Ljpn
+MA	マ	Ljpn
+MI	ミ	Ljpn
+M7	ミャ	Ljpn
+M8	ミュ	Ljpn
+M9	ミョ	Ljpn
+M*	ミュウ	Ljpn
+M(	ミョウ	Ljpn
+MU	ム	Ljpn
+ME	メ	Ljpn
+MO	モ	Ljpn
+IA	ャ	Ljpn
+YA	ヤ	Ljpn
+IU	ュ	Ljpn
+YU	ユ	Ljpn
+IO	ョ	Ljpn
+YO	ヨ	Ljpn
+RA	ラ	Ljpn
+RI	リ	Ljpn
+R7	リャ	Ljpn
+R8	リュ	Ljpn
+R9	リョ	Ljpn
+R*	リュウ	Ljpn
+R(	リョウ	Ljpn
+RU	ル	Ljpn
+RE	レ	Ljpn
+RO	ロ	Ljpn
+WU	ヮ	Ljpn
+WA	ワ	Ljpn
+WI	ヰ	Ljpn
+WE	ヱ	Ljpn
+WO	ヲ	Ljpn
+N'	ン	Ljpn
+VU	ヴ	Ljpn
+II	ヵ	Ljpn
+IE	ヶ	Ljpn
+VI	ヸ	Ljpn
+VE	ヹ	Ljpn
+VO	ヺ	Ljpn
+-	ー	Ljpn
+"S	ヽ	Ljpn
+"D	ヾ	Ljpn
 4m8	うみゅ	Ljpn
 5m8	えみゅ	Ljpn
 6m8	おみゅ	Ljpn
