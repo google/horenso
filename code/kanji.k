@@ -247,6 +247,7 @@ knx	楸
 kbz	楹
 k/d	楼
 kdk	楽
+kdk	樂
 kyw	楾	yはんぞう
 k,t	榁
 kdf	概
@@ -291,7 +292,6 @@ kkz	槹
 kg.	槻
 ksl	槽
 kht	槿
-kdK	樂
 kpw	樅
 kyz	樊
 kwf	樋

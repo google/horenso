@@ -12,7 +12,7 @@ ipn	戕	yショウ	左部に爿《ｎ》がある
 i/d	或	yワク
 irj	戚
 ida	戛
-idA	戞
+ida	戞
 ije	戟
 ifs	戡
 iru	戦
@@ -23,11 +23,10 @@ irU	戰
 igO	戲
 it;	戳
 itq	戴
-ikf	戸	Ljpn
+ikf	戸
 ikf	戶	Lcht
-i/f	戻	Ljpn
-i/F	戾	Ljpn
-i/f	戾	Lcht
+i/f	戻
+i/f	戾
 i;d	房
 ipf	所
 izl	扁
@@ -101,6 +100,7 @@ ixU	拜
 ixu	拝
 ihd	拠
 idi	拡
+idi	擴
 idf	括
 ipi	拭	yショク	hyシキ
 igd	拮	yキツ	hyケツ	hyカツ	吉の部首は口《ｄ》
@@ -174,6 +174,7 @@ is;	掫
 igq	掬
 ijd	掲
 idh	掴
+idh	摑
 ixt	掵
 isL	掻	i搔掻
 ic;	掾
@@ -213,7 +214,6 @@ ijs	携
 ili	搾
 irp	摂
 ikt	摎	yコウ	hyキョウ	hyキュウ	hyリュウ	hyル	hyク	翏の部首は羽《ｔ》
-idH	摑
 ivc	摘
 ilt	摧
 i,m	摩
@@ -237,7 +237,8 @@ ixn	播
 ilj	撮
 ilz	撰
 i;s	撲
-idJ	撹
+idj	攪
+idj	撹
 its	撻
 ifa	撼
 i,.	擁
@@ -260,7 +261,6 @@ igp	擬
 iyq	擯
 idw	擱
 iv;	擲
-idI	擴
 irs	擶
 ixx	擺
 i.a	擽
@@ -273,7 +273,6 @@ irP	攝
 ilQ	攢
 i/v	攣
 itd	攤
-idj	攪
 idq	攫	i爴攫
 i.s	攬
 il/	𢦏

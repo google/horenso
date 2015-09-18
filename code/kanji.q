@@ -22,6 +22,7 @@ qpw	祥
 qye	票
 qlw	祭
 qwl	祷	i祷禱
+qwl	禱	i祷禱
 qgq	祺
 q/<	祿
 q.,	禀
@@ -38,7 +39,6 @@ qgm	禧
 qr:	禪
 q/>	禮
 qvq	禰	yデイ	hyネ	i禰祢
-qwL	禱	i祷禱
 qpr	禳
 qnt	禸	yジュウ	hyニュウ
 qbk	禹
@@ -69,8 +69,8 @@ qgp	稀
 qfj	稈
 qvj	程
 qsk	稍
+qqk	税
 qqk	稅	Lcht
-qqk	税	Ljpn
 qxi	稔	yネン	hyジン
 qxo	稗
 qge	稘
@@ -82,16 +82,15 @@ qti	稠
 qn;	種
 qpi	稱
 qwj	稲
+qwj	稻
 qpt	稷
-qwJ	稻
 qcl	稼
 qje	稽
 qkr	稾
 qkw	稿
 qle	穀
-qql	穂	Ljpn
-qqL	穗	Ljpn
-qql	穗	Lcht
+qql	穂
+qql	穗
 q,/	穃
 q;j	穆
 qto	穉

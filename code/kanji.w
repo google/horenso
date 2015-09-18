@@ -108,7 +108,7 @@ wkw	誤
 wk.	誥
 wpj	誦
 wdp	誨
-wr;	説	Ljpn
+wr;	説
 wr;	說	Lcht
 wxk	読
 wqw	誰

@@ -269,6 +269,23 @@ sub read_codes {
             }
             next if $lang_note_count and !$found_spec_lang;
 
+            # コードが衝突する場合、自動的にコードを整理
+            # 優先度の低い方をシフトコードに移す
+            if (defined $codes{$key}) {
+                die if length($key) != 3;
+                my $shift_key =
+                    substr($key, 0, 2) . shift_key(substr($key, 2));
+                die "$codes_file $key $shift_key"
+                    if defined($codes{$shift_key});
+
+                if (priority($value) > priority($codes{$key})) {
+                    $codes{$shift_key} = $codes{$key};
+                    delete $codes{$key};
+                } else {
+                    $key = $shift_key;
+                }
+            }
+
             die "Duplicate code: $key" if defined $codes{$key};
             $codes{$key} = $value;
 

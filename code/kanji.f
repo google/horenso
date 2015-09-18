@@ -26,6 +26,7 @@ fld	妻
 fpq	妾	上部に立《ｑ》がある
 f;l	姆	yボ	hyモ	母の部首は毋《ｌ》
 fm,	姉
+fm,	姊	Lcht
 fm.	始
 frl	姐	yソ
 fko	姑
@@ -145,6 +146,7 @@ fck	宛
 fgj	宜
 f;j	宝
 fmq	実
+fmq	實
 fgl	客
 fre	宣
 fm/	室
@@ -178,7 +180,6 @@ fcz	寡
 fqJ	寢
 fkp	寤
 f.,	寥
-fmQ	實
 fxl	寧
 fls	寨
 fq;	審
@@ -207,7 +208,7 @@ ftJ	對
 fwe	導
 fpf	小
 fpd	少
-fmF	尒	你伱尓尒您
+fmf	尒	你伱尓尒您
 fmf	尓	你伱尓尒您
 frj	尖
 fpi	尚
