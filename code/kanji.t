@@ -203,7 +203,7 @@ tgo	舅	男の部首は田《ｏ》
 t,n	與
 tkl	興	yコウ	hyキョウ
 tha	舉	挙擧舉
-tgj	舊	旧舊
+tgj	舊	i旧舊𦾔
 trj	舌
 tml	舐	右部に氏《ｌ》がある
 tpo	舒

@@ -76,7 +76,7 @@ jgu	旡
 jgk	既
 jxj	日
 jto	旦
-jgj	旧	旧舊
+jgj	旧	i旧舊𦾔
 jmd	旨
 jsj	早
 jnf	旬
