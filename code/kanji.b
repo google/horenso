@@ -142,7 +142,8 @@ bbo	倚
 bnx	借
 bpx	倡
 b;l	倣
-bt;	値
+bt;	値	Ljpn
+bt;	值	Lcht
 bkq	倥	空の部首は穴《ｑ》
 bja	倦
 bhl	倨
