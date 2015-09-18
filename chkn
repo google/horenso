@@ -315,6 +315,14 @@ sub read_codes {
             }
         }
     }
+
+    # コードファイルに入っていないか設定言語のＬノートが付いていないのに、常用
+    # されている漢字があれば、コードファイルを直す必要がある。コードを割り当て
+    # るか、Lノートを追加しよう。
+    my %code_by_kanji = reverse %codes;
+    for my $ji (split(m//, $jouyou_kanji), split(m//, $jijouyou_kanji)) {
+        die sprintf("%X", ord($ji)) if not defined $code_by_kanji{$ji};
+    }
 }
 read_codes;
 
