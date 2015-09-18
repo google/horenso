@@ -155,7 +155,9 @@ b.z	倫
 bto	倬
 b/c	倭	yワ	hyイ
 bhK	倶
-bjb	倹
+bjb	倹	Ljpn
+bjB	儉	Ljpn
+bjb	儉	Lcht
 bcu	偃
 bcx	假
 bjs	偈
@@ -211,7 +213,6 @@ bgu	儀
 bns	儁
 bxy	儂	yノウ	hyドウ	農の部首は辰《ｙ》
 bch	億	註：意の部首は心（ｈ）
-bjB	儉
 bn,	儒
 bti	儔
 bq,	儕

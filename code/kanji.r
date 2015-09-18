@@ -93,7 +93,8 @@ rli	簀
 rso	簇
 r/q	簍
 rlu	簑	簑簔蓑
-rl;	簒
+rl;	簒	Ljpn
+rl;	篡	Lcht
 rlm	簓	yささら
 rlU	簔	簑簔蓑
 r,n	簗	yやな	i簗𥱋
