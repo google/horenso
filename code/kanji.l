@@ -26,11 +26,13 @@ lfK	歡
 lma	止
 lqj	正
 lmk	此
-l;F	步
+l;f	歩	Ljpn
+l;F	步	Ljpn
+l;f	步	Lcht
 lzc	武
-l;f	歩
 l/a	歪
-lls	歳	yサイ	hyセイ
+lls	歳	Ljpn	yサイ	hyセイ
+lls	歲	Lcht	yサイ	hyセイ
 l/f	歴	Ljpn
 l/F	歷	Ljpn
 l/f	歷	Lcht
