@@ -61,6 +61,9 @@ bnc	住
 blj	佐
 b,/	佑
 btl	体	yタイ	i体躰軆體	hyテイ
+btl	體	b亻	hb骨	yタイ	i体躰軆體	hyテイ
+bt.	躰	b亻	hb身	yタイ	i体躰軆體	hyテイ
+bt.	軆	b亻	hb身	yタイ	i体躰軆體	hyテイ
 bck	何
 bsd	佗
 b,.	余	b,.->余 ,,.->餘

@@ -111,7 +111,6 @@ nlr	爨
 nsn	爪	yソウ
 nsN	爫	yソウ	hyつめかんむり
 nx.	爬
-nsf	爭	b爪	i爭争	yソウ
 nc,	爰
 nbZ	爲
 ndq	爴	i爴攫

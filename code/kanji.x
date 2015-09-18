@@ -165,12 +165,10 @@ x.Z	躪
 xqj	身
 xgi	躬
 xhx	躯	i躯軀
-xtl	躰	yタイ	i体躰軆體	hyテイ
 xsi	躱
 xmb	躾
 xhX	軀	i躯軀
 x,a	軅
-xtL	軆	yタイ	i体躰軆體	hyテイ
 x,b	軈
 xnx	車
 xbj	軋
