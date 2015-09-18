@@ -90,7 +90,9 @@ bsm	侘
 bhc	供
 bbl	依	yイ
 bhb	侠
-bcj	価
+bcj	価	Ljpn
+bcJ	價	Ljpn
+bcj	價	Lcht
 bxF	侫	妄の部首は女《ｆ》
 bqm	侭
 bz;	侮	i侮侮
@@ -204,7 +206,6 @@ bsi	僧	i僧僧
 bri	僭	yセン
 bwi	僮
 bh/	僵
-bcJ	價
 bzh	僻
 bgu	儀
 bns	儁
