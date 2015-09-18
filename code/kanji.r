@@ -141,7 +141,8 @@ rxj	粘
 rsm	粟	yゾク
 rwr	粡
 rmw	粢
-rcl	粤
+rcl	粵	Lcht
+rcl	粤	Ljpn
 rnr	粥
 rpe	粧
 rzi	粨
