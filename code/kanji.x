@@ -53,6 +53,7 @@ xql	賑
 xyo	賓
 x.x	賚
 xlx	賛	i賛贊
+xlx	贊	i賛贊
 xm,	賜
 xpc	賞
 xxv	賠
@@ -71,7 +72,6 @@ xm;	贄
 xqo	贅
 xb;	贇
 xsd	贈
-xlX	贊	i賛贊
 xf;	贋	雁の部首は隹《；》
 xr.	贍
 xbu	贏
@@ -118,7 +118,6 @@ xv;	跳
 xrk	践
 xhi	跼
 xwi	跿
-xro	踈	yソ	hyショ	i踈疎
 x.g	踉	yリョウ	hyロウ
 x,c	踊
 xtM	踌	i躊踌
@@ -165,9 +164,9 @@ x.Z	躪
 xqj	身
 xgi	躬
 xhx	躯	i躯軀
+xhx	軀	i躯軀
 xsi	躱
 xmb	躾
-xhX	軀	i躯軀
 x,a	軅
 x,b	軈
 xnx	車

@@ -249,6 +249,7 @@ ctj	卓
 chp	協
 cxj	南	東西南北
 cxi	博	yハク	i愽博
+cxi	愽	yハク	i愽博	b十	hb忄
 c;x	卜
 czd	卞
 cro	占

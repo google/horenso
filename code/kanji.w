@@ -10,7 +10,7 @@ wge	覊
 wje	見
 wgk	規
 wzn	覓	yベキ	hyミャク	i覓覔	見の上に爫《ｎ》がある
-wzN	覔	yベキ	hyミャク	i覓覔
+wzn	覔	yベキ	hyミャク	i覓覔
 wme	視
 wm;	覗
 ww;	覘

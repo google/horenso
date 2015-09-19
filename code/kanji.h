@@ -79,9 +79,9 @@ hns	循
 h,w	徭
 hyd	微
 hxz	徳	i徳德
+hxz	德	i徳德
 hvo	徴
 hvO	徵
-hxZ	德	i徳德
 hv;	徹
 hhw	徼
 hg;	徽
@@ -139,6 +139,7 @@ hm;	恃
 hkq	恆
 hht	恊
 h/a	恋
+h/a	戀
 hko	恍
 hhf	恐
 hks	恒
@@ -238,7 +239,6 @@ hdj	愨
 hrh	愬
 hsp	愴
 hqH	愼
-hxi	愽	yハク	i愽博
 hdq	愾	愾滊餼	yガイ	hyキ	hyケ
 hji	愿
 h,q	慂
@@ -317,6 +317,5 @@ hhg	懼
 hfp	懽
 hpu	懾
 hbn	懿
-h/A	戀
 hdA	悔
 hvD	懲

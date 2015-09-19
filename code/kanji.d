@@ -41,6 +41,7 @@ d,w	又
 dla	叉	yサ	hyシャ
 d,.	友
 dsa	双	i双雙
+dsa	雙	i双雙	b又	hb隹
 dya	反
 dna	収	i収收
 dn,	叔
@@ -68,6 +69,7 @@ dmd	史
 dbl	右
 dha	叶
 dkd	号	i号號
+dkd	號	i号號	b口	hb虍
 dmk	司
 dda	叺
 dh;	吁
@@ -106,6 +108,7 @@ d.m	呂	yリョ	hyロ
 d;k	呆	下部が木《ｋ》
 dvk	呈
 dkh	呉
+dkh	吳	Lcht
 dld	告
 dnw	呎	yシャク	hyフィート
 dxj	呑
@@ -121,6 +124,7 @@ dwp	呶
 dkn	呷
 dqk	呻
 dkl	呼
+dkL	嚝	《呼》と意味は似ているけれど、異体字関係ではない	yコウ
 d,a	命
 dhv	呿	yキョ
 drk	咀
@@ -273,7 +277,6 @@ dys	嚊
 dv;	嚏
 dvi	嚔
 dkz	嚙
-dkD	嚝	《号》と意味は似ているけれど、異体字関係ではない	yコウ
 d.,	嚠
 dcz	嚥
 dk,	嚮

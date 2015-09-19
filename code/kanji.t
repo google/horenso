@@ -19,6 +19,7 @@ tf;	翰
 tbm	翳
 the	翹	土《ｅ》が三つある
 t;t	翻	yホン	hyハン	i飜翻
+t;t	飜	yホン	hyハン	i飜翻	b羽	hb飛
 t,w	翼
 t,a	耀
 t/.	老
@@ -207,7 +208,6 @@ tgj	舊	i旧舊𦾔
 trj	舌
 tml	舐	右部に氏《ｌ》がある
 tpo	舒
-tf,	舘	i舘館
 trs	舛
 tnn	舜	部首の舛の他にも上部に爪(n)がある
 tzx	舞	bzx->儛

@@ -1,6 +1,5 @@
 fpA	♀
 fla	㝡	最冣㝡
-fbn	㝢	yウ	i㝢宇𡧃	禹の部首は禸《ｑ》
 fpa	女
 fwk	奴
 fxh	奶	yナイ	hyダイ
@@ -133,6 +132,8 @@ fz;	宀	yベン	hyメン
 fs;	它
 fta	宅
 fb;	宇	yウ	i㝢宇𡧃
+fb:	𡧃	yウ	i㝢宇𡧃
+fb/	㝢	yウ	i㝢宇𡧃
 fna	守
 fbo	安
 fsa	宋
@@ -219,4 +220,3 @@ fc,	尢
 f,e	尤
 f;d	尨
 fns	就
-fb:	𡧃	yウ	i㝢宇𡧃

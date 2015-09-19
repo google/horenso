@@ -81,6 +81,7 @@ y,v	逾
 yx;	遁
 yqo	遂
 ytq	遅
+ytq	遲
 yha	遇
 yvh	遉
 y,d	遊
@@ -108,7 +109,6 @@ yvp	適
 ysa	遭
 ynv	遮
 yxb	遯
-ytQ	遲
 ynw	遵
 ypc	遶	yジョウ	hyニョウ	尭の部首は几《ｃ》
 yry	遷

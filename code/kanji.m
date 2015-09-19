@@ -239,6 +239,7 @@ mwp	滔
 mwl	滕
 mdp	滙	yカイ	匯滙	hyワイ
 m/,	滝	yロウ	hyソウ
+m/,	瀧	yロウ	hyソウ
 mt;	滞
 mkz	滬
 mt:	滯
@@ -336,7 +337,6 @@ m/c	瀝
 mq;	瀞	yセイ	hyジョウ
 mpv	瀟
 mvd	瀦
-m/<	瀧	yロウ	hyソウ
 m.A	瀨	Ljpn
 m.a	瀬	Ljpn
 m.a	瀨	Lcht

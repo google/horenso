@@ -1,4 +1,3 @@
-e/s	㚑	i䨩霊靈灵㚑
 ebp	囗	yイ
 en/	囚
 emf	四
@@ -8,6 +7,7 @@ etl	団
 eci	囮
 elr	困
 ebj	囲
+ebj	圍
 eqe	図	yズ
 e/a	囹
 eke	固
@@ -20,7 +20,6 @@ e;o	圃	甫の部首は用《ｏ》
 eh;	圄	yギョ	hyゴ
 ejK	圈
 ehs	圉
-ebJ	圍
 ejk	圏
 ecc	園	園薗
 ecz	圓	圓円
@@ -31,6 +30,7 @@ ewj	土
 ewm	圡
 ebd	圦
 eb;	圧	yアツ
+eb;	壓	yアツ
 ela	在
 eja	圭
 etk	地
@@ -115,6 +115,7 @@ esl	塞
 ewr	塡
 eco	塢
 ecl	塩	i塩鹽
+ecl	鹽	i塩鹽	b土	hb鹵
 ewR	填
 ebo	塰
 epw	塲
@@ -143,7 +144,6 @@ et;	壇
 edj	壊
 epo	壌
 edi	壑
-eb:	壓	yアツ
 ekr	壕
 e,.	壗
 e/M	壘
@@ -160,9 +160,9 @@ ese	壮
 esE	壯
 eqi	声
 ebi	壱
+ebi	壹
 exi	売	売賣
 ekL	壷
-ebu	壹
 ekl	壺
 eqv	壻
 el;	壼
@@ -209,7 +209,7 @@ ejr	奚
 ewu	奠
 ene	奢
 eck	奥
-ecK	奧
+eck	奧
 epi	奨	奨奬獎
 e/r	奩
 etw	奪

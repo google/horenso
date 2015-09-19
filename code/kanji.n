@@ -7,7 +7,7 @@ ncv	火
 ncV	灬	yカ	hyれんが
 nwn	灯
 nda	灰
-n/s	灵	i䨩霊靈灵㚑
+;/w	灵	i䨩霊靈灵㚑	b雨
 nga	灸
 nnr	灼
 nla	災

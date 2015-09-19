@@ -29,8 +29,8 @@
 ,t,	題
 ,df	額
 ,d,	顎
-,fD	顏
 ,fd	顔
+,fd	顏
 ,jf	顕	Ljpn
 ,jF	顯	Ljpn
 ,jf	顯	Lcht
@@ -53,7 +53,6 @@
 ,yc	飄
 ,yz	飆
 ,yf	飛
-,;t	飜	yホン	hyハン	i飜翻
 ,pf	食
 ,pF	飠
 ,gm	飢
@@ -83,6 +82,7 @@
 ,bx	餡	yアン	hyカン
 ,tq	餤
 ,f,	館	i舘館
+,f,	舘	i舘館	b食	hb舌
 ,kw	餬
 ,vx	餮
 ,gq	餼	愾滊餼
@@ -147,6 +147,7 @@
 ,tn	騨
 ,jc	騫
 ,mr	騭	yシツ	i隲騭
+,mr	隲	yシツ	i隲騭	b馬	hb阜
 ,we	騰
 ,sd	騒	Ljpn
 ,sD	騷	Ljpn

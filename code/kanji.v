@@ -8,7 +8,6 @@ vjx	虔
 vhv	虚
 v.v	虜
 vhc	虞
-vkd	號	i号號
 vgi	虧
 vtj	虫
 vmv	虱
