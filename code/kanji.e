@@ -165,7 +165,6 @@ ekL	壷
 ekl	壺
 eqv	壻
 el;	壼
-enw	壽	i寿壽
 etq	夂
 ez;	変	変變
 eqa	夊

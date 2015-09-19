@@ -11,18 +11,19 @@ lb;	欹
 lgl	欺
 lhd	欽
 lfj	款
+lfj	欵
 lsj	歃
 ljd	歇
 ljs	歉
 lcl	歌
 lt;	歎
 lfk	歓
+lfk	歡
 lhs	歔
 lgs	歖	喜囍歖
 lgu	歙
 lf;	歛	yカン	hyレン
 l,e	歟
-lfK	歡
 lma	止
 lqj	正
 lmk	此

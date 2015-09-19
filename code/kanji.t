@@ -120,6 +120,7 @@ t,q	脉
 trk	脊
 td:	脍	yカイ
 tgl	脚
+tgl	腳	Lcht
 tjw	脛
 tqg	脣
 tnq	脩

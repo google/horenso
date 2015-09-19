@@ -35,7 +35,7 @@ dmg	厶
 dkU	厷	肱厷
 dhf	去
 dlf	参
-dlF	參
+dlf	參
 d,w	又
 dla	叉	yサ	hyシャ
 d,.	友

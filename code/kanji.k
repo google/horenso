@@ -279,6 +279,7 @@ kly	槎
 kdq	槐
 kkq	槓
 k,d	様
+k,d	樣
 kwg	槙
 kdw	槝	yかし
 k/v	槞
@@ -306,7 +307,6 @@ kqJ	樞
 kpt	樟
 k,s	模
 kv.	樢	yチョウ	hyボク	hyモク	右部に鳥《．》がある
-k,D	樣
 kjl	権
 kcl	横
 kd;	樫

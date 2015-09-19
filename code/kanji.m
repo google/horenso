@@ -40,6 +40,7 @@ mm.	沚
 mxk	沛
 m;f	没
 mt.	沢
+mt.	澤
 m/A	沪	yロ	hyリョ
 m,v	沫
 mre	沮	yソ	hyショ
@@ -163,6 +164,7 @@ mwe	添
 mqr	清
 md,	渇
 mls	済
+mls	濟
 mpa	渉
 mcJ	渊
 mnl	渋	右上に止《ｌ》がある
@@ -241,8 +243,8 @@ mdp	滙	yカイ	匯滙	hyワイ
 m/,	滝	yロウ	hyソウ
 m/,	瀧	yロウ	hyソウ
 mt;	滞
+mt;	滯
 mkz	滬
-mt:	滯
 mqe	滲
 mv/	滴
 m/v	滷
@@ -296,7 +298,6 @@ m.v	澑
 mfk	澗
 msk	澡
 mfl	澣
-mt>	澤
 m/w	澪
 mwt	澱
 mcc	澳	yオウ	hyイク
@@ -310,7 +311,6 @@ myx	濔	yビ	hyミ	hyデイ	hyナイ
 mme	濕
 mxo	濘
 m,b	濛
-mlS	濟
 mk/	濠
 mnx	濡
 mwF	濤	i涛濤

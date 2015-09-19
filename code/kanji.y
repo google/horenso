@@ -6,7 +6,7 @@ yzg	辟	yヘキ
 y.a	辣
 ymd	辤	辤辞辭 [辤]は異体字なのでコードをシフトに移動しても構いません
 yzl	辧
-yzL	辨
+yzl	辨
 ymF	辭	辤辞辭
 yzu	辯
 yqy	辰	字全体が部首になっている為、三鍵目がy
@@ -16,6 +16,7 @@ yts	辵	i辵辶辶	yチャク	hyシン
 ytW	辶	i辵辶辶	yチャク	hyシン
 yqf	辷
 yzx	辺
+yzx	邊
 yv;	辻
 ylf	込
 ytl	达
@@ -125,7 +126,6 @@ yfy	還
 yms	邇
 yxg	邈
 yzk	邉
-yzX	邊
 y.w	邏
 y,e	邑	yユウ
 y,g	邕	部首：邑	yヨウ	上部に巛《ｇ》がある

@@ -197,7 +197,8 @@ fqw	寸
 fmd	寺
 ftj	対
 ftj	對
-fnw	寿	i寿壽
+fnw	寿	i寿壽	b寸
+fnw	壽	i寿壽	b寸	hb士
 fzk	封
 frk	専
 fnf	射

@@ -13,6 +13,7 @@ hk;	弘
 hmg	弛	yシ	hyチ
 hvx	弟
 h,d	弥	yミ	hyビ
+h,d	彌	yミ	hyビ
 hjd	弦
 hkf	弧
 hwj	弩
@@ -27,7 +28,6 @@ htq	弾
 hcj	彁	yカ	hyセイ	yk
 htQ	彈
 hhi	彊
-h,D	彌	yミ	hyビ
 h/l	彎
 hjw	彑
 hwh	当	i当當	b彑	hb小
@@ -57,6 +57,7 @@ hqr	征
 hr;	徂
 hco	徃	右部に生《ｏ》がある
 hjr	径
+hjr	徑
 hth	待
 hnk	徇
 hlq	很
@@ -64,7 +65,6 @@ hdk	徊
 h.a	律
 hkd	後
 hpa	徐
-hjR	徑
 hwr	徒
 hnd	従	从従從
 hxg	得
@@ -161,6 +161,7 @@ hhd	恭
 hsd	息
 hkw	恰
 hjs	恵
+hjs	惠
 hgb	恷	yキュウ	休の部首は亻《ｂ》
 hcl	悁
 hlw	悃
@@ -206,7 +207,6 @@ hle	惚
 hre	惜
 hpc	惝	yショウ
 hbj	惟	yイ
-hjS	惠
 hb:	惡	yアク
 hse	惣
 hha	惧
