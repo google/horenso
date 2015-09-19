@@ -146,6 +146,7 @@ fva	定
 fck	宛
 fgj	宜
 f;j	宝
+f;j	寶
 fmq	実
 fmq	實
 fgl	客
@@ -190,10 +191,10 @@ f.f	寮
 ff,	寰
 f;k	寳
 fvk	寵
-f;J	寶
 fqw	寸
 fmd	寺
 ftj	対
+ftj	對
 fnw	寿	i寿壽
 fzk	封
 frk	専
@@ -205,7 +206,6 @@ frK	專
 fbi	尉	yイ
 fsf	尊
 fqk	尋
-ftJ	對
 fwe	導
 fpf	小
 fpd	少
