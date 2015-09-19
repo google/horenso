@@ -184,7 +184,6 @@ wri	譫	yセン	hyトウ
 wyp	譬
 w,R	譯
 wg;	議
-wrj	譱	i譱善
 wpr	譲
 wji	譴
 wkl	護

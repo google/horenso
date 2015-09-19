@@ -22,7 +22,6 @@ d;f	厖
 d.f	厘
 dkj	厚	厚㫗
 djd	原
-dme	厠	i廁厠	yシ	hyソク
 dj;	厥
 dci	厦
 dt;	厨	厨廚	yチュウ
@@ -44,6 +43,7 @@ dsa	双	i双雙
 dsa	雙	i双雙	b又	hb隹
 dya	反
 dna	収	i収收
+dna	收	i収收	b又	hb夊
 dn,	叔
 dnd	取
 dnf	受
@@ -205,6 +205,7 @@ dnc	啾
 ddy	喀
 dx;	喃
 drj	善	i譱善
+drj	譱	i譱善	b口	hb言
 d.s	喇
 dkk	喉
 df;	喊

@@ -93,7 +93,6 @@ ecp	堝
 e;f	堡	yホウ	hyホ
 evk	堤
 efs	堪
-ehF	堯	hb几	i尭堯
 ecv	堰
 e;j	報
 epj	場
@@ -113,10 +112,10 @@ edu	塙
 ev;	塚
 esl	塞
 ewr	塡
+ewr	填
 eco	塢
 ecl	塩	i塩鹽
 ecl	鹽	i塩鹽	b土	hb鹵
-ewR	填
 ebo	塰
 epw	塲
 eq/	塵	yジン	hyヂン	土を取り除くと鹿《／》が残る
@@ -216,6 +215,7 @@ etw	奪
 epI	奬	奨奬獎
 ezz	奮
 ehf	尭	hb几	i尭堯
+ehf	堯	hb几	i尭堯
 e,R	梦
 e;K	墨
 ewM	𡈽

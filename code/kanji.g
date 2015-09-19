@@ -210,6 +210,7 @@ gks	康
 g,/	庸
 gyA	庿
 gme	廁	i廁厠	yシ	hyソク
+gme	厠	i廁厠	yシ	hyソク	b广	hb厂
 gpd	廂
 gxj	廃
 gxj	廢
