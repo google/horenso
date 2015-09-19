@@ -119,13 +119,14 @@ fgo	季
 fkj	孤
 fwi	孥
 fdf	学
+fdf	學
+fds	斈	b子
 fdl	孩
 fsk	孫
 fng	孰
 frw	孱
 fm;	孳
 fzs	孵
-fds	學
 fn.	孺
 fz;	宀	yベン	hyメン
 fs;	它
@@ -217,5 +218,4 @@ fc,	尢
 f,e	尤
 f;d	尨
 fns	就
-fdF	斈	漢字原による部首：子
 fb:	𡧃	yウ	i㝢宇𡧃
