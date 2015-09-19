@@ -82,6 +82,7 @@ ch;	凝
 cgc	几
 c;l	凡
 cpj	処	i處処
+cpj	處	i處処	b几	hb虍
 ct;	凧	yたこ
 ckn	凩
 cxo	凪
@@ -139,10 +140,10 @@ cgo	剞
 cj;	剣
 clz	剤
 cxU	剥
-cpI	剩
+cpi	剰
+cpi	剩
 crm	剪
 czf	副
-cpi	剰
 cj>	剱
 cdl	割
 cwh	剳
@@ -229,6 +230,8 @@ cja	匸
 cyx	匹
 cha	区
 cbi	医	i医毉醫
+cbi	醫	i医毉醫	b匸	hb酉
+cbo	毉	i医毉醫	b匸	hb殳
 cx;	匿
 chA	區
 cna	十

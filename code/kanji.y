@@ -190,7 +190,6 @@ ync	醜
 ydy	醢
 yps	醤
 y/a	醪
-ybi	醫	i医毉醫
 ypS	醬
 yje	醯
 y/s	醴

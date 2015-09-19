@@ -184,6 +184,7 @@ hci	悦
 h.f	悧
 hqf	您	你伱尓尒您	yジン	hyヂン	hyニン
 hxh	悩
+hxh	惱
 hb;	悪	yアク
 hyf	悲
 hxp	悳	直の部首は目《ｐ》
@@ -211,7 +212,6 @@ hha	惧
 hls	惨
 ht:	惮	i憚惮	yタン
 hsh	惰
-hxH	惱
 hsf	想
 hqg	惴	yスイ	右上に山《ｇ》がある
 hkj	惶

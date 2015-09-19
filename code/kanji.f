@@ -20,6 +20,7 @@ fye	妣
 fsj	妥
 f;f	妨
 fwd	妬
+fwd	妒
 ft;	妲
 f,.	妹
 fld	妻

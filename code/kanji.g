@@ -2,7 +2,6 @@ glD	㊧
 gf:	㟁
 ggJ	㟢	i嵜﨑崎㟢
 gw.	㠀
-gbj	㠯	i㠯以
 gda	乢	漢字源による部首：山《ｇ》
 gmg	妛	漢字源による部首：山《ｇ》
 gms	尸
@@ -213,6 +212,7 @@ gyA	庿
 gme	廁	i廁厠	yシ	hyソク
 gpd	廂
 gxj	廃
+gxj	廢
 gc;	廈
 g/,	廉
 g/.	廊	i廊廊
@@ -227,7 +227,6 @@ gmf	廝
 gya	廟
 gpe	廠
 gzo	廡
-gxJ	廢
 gkE	廣
 gdu	廨
 g.e	廩

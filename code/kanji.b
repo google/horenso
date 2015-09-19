@@ -13,6 +13,7 @@ bdk	介
 bpi	仍
 bnd	从	从従從
 bzl	仏
+bzl	佛
 bmx	仔
 bm,	仕
 bsj	他
@@ -25,6 +26,7 @@ brl	仟
 btj	代
 b/,	令
 bbj	以	i㠯以
+bbj	㠯	i㠯以	b人	hb己
 bq>	仭
 bcv	仮
 bha	仰	yギョウ	仰卬
@@ -68,7 +70,6 @@ bck	何
 bsd	佗
 b,.	余	b,.->余 ,,.->餘
 bbi	佚
-bzL	佛
 bl;	作
 bkn	佝
 bxf	佞	右下に女《ｆ》がある
@@ -98,7 +99,6 @@ bcJ	價	Ljpn
 bcj	價	Lcht
 bxF	侫	妄の部首は女《ｆ》
 bqm	侭
-bz;	侮	i侮侮
 bk;	侯	yコウ	hyグ	矦侯
 bq;	侵
 b./	侶
@@ -208,6 +208,7 @@ bg:	僞
 bvo	僣	yテツ	hyセン
 bh;	僥
 bsi	僧	i僧僧
+bsi	僧	i僧僧
 bri	僭	yセン
 bwi	僮
 bh/	僵
@@ -237,6 +238,6 @@ bnB	舍	漢字源による部首：人
 bnb	舎	漢字源による部首：人
 b;A	舖	漢字源による部首：人
 b;a	舗	漢字源による部首：人
-bz:	侮	i侮侮
-bsI	僧	i僧僧
+bz;	侮	i侮侮
+bz;	侮	i侮侮
 bqJ	𠆢

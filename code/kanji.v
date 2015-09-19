@@ -5,7 +5,6 @@ vkz	虍
 vkj	虎
 vgj	虐
 vjx	虔
-vpj	處	i處処
 vhv	虚
 v.v	虜
 vhc	虞

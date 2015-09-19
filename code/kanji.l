@@ -71,7 +71,6 @@ ldK	殼
 lwl	殿
 lg;	毀
 lgp	毅
-lbi	毉	i医毉醫
 lzj	毋
 l;s	母
 l,a	毎
@@ -93,8 +92,8 @@ l,d	民
 l;d	氓
 lga	气
 lgk	気	i炁気氣	b气	yキ	hyケ
+lgk	氣	i炁気氣	b气	yキ	hyケ
 lzk	氛
-lgK	氣	i炁気氣	b气	yキ	hyケ
 lbk	氤
 llF	殺	殺殺煞
 l,c	氧	Lcht	Pyang3	yヨウ
