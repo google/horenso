@@ -12,9 +12,9 @@ clc	克
 csi	兌
 c,x	免
 cwn	兎
+cwn	兔
 cmv	児
-cmV	兒
-cwN	兔
+cmv	兒
 cw;	党
 cwm	兜
 chc	兢	部首の［十］を除けば、［兄］が残り、その部首は［儿］->ｃ
@@ -256,7 +256,9 @@ cro	占
 ccx	卦
 cxm	嚢	囊嚢
 cdf	囘
-cgj	帰	帰歸皈
+cgj	帰	i帰歸皈
+cgj	歸	i帰歸皈	b刂	hb止
+cgm	皈	i帰歸皈	b刂	hb白
 cnv	廿
 cz:	勉
 chL	勤

@@ -3,8 +3,8 @@ p;f	冒	冒冐	漢字源による部首：目《ｐ》
 pxc	癶
 pgi	癸
 pxi	発	yハツ	hyホツ	i発發
+pxi	發	yハツ	hyホツ	i発發
 pwu	登
-pxI	發	yハツ	hyホツ	i発發
 pxo	白
 pyd	百
 pgc	皀	yキュウ	hyヒョク	hyキョウ	hyコウ	下部に匕《ｃ》がある
@@ -12,7 +12,6 @@ p;v	皃	貌皃㒵
 pvi	的
 pdo	皆
 pkf	皇
-pgj	皈	帰歸皈
 pkq	皋
 pkn	皎	yコウ	hyキョウ	i晈皎
 pkp	皐

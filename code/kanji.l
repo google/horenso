@@ -37,7 +37,6 @@ lls	歲	Lcht	yサイ	hyセイ
 l/f	歴	Ljpn
 l/F	歷	Ljpn
 l/f	歷	Lcht
-lgj	歸	帰歸皈
 ldj	歹
 lms	死
 l;a	歿

@@ -1,7 +1,6 @@
 knS	㈱
 kpv	㮤
 kpD	㯰
-k.?	來	来來徠	漢字源による部首：木《ｋ》
 k;f	木
 k,e	未
 k,a	末
@@ -31,10 +30,11 @@ kkl	杞
 ksd	束	部首の木を取り除けば口が残り、その部首のキーはｄ
 kk;	杠
 kpa	条	i条條	yジョウ	hyチョウ
+kpa	條	i条條	yジョウ	hyチョウ
 k,c	杢
 ksn	杣
-kxv	杤
 k./	来	来來徠
+k./	來	来來徠	漢字源による部首：木《ｋ》
 kqe	杦	yすぎ
 kya	杪
 kkr	杭
@@ -94,7 +94,6 @@ kgo	柩
 kfd	柬
 kx/	柮
 kcz	柯
-kx;	柰	i柰奈
 ktk	柱
 k.d	柳
 kln	柴
@@ -104,7 +103,9 @@ kld	査
 k,b	柾	yまさ	hyキュウ
 kmd	柿
 kv;	栂	yつが	hyとが	hyバイ
-kxk	栃
+kxk	栃	hyバン	hyマン	yとち
+kxk	杤	hyバン	hyマン	yとち
+kx,	𣜜
 kbl	栄
 krj	栓
 kqw	栖
@@ -137,7 +138,8 @@ kba	桙
 kcv	桜
 k,l	桝
 kl;	桟
-kwH	档	i檔档
+kwh	檔	i檔档
+kwh	档	i檔档
 kdO	桧
 kzj	桴
 kwy	桶	yトウ	hyツウ	hyヨウ
@@ -153,7 +155,6 @@ kmr	梓
 kme	梔
 kka	梗
 kso	梛
-kpA	條	i条條	yジョウ	hyチョウ
 khl	梟
 k.m	梠	yリョ	hyロ
 kpr	梢
@@ -170,6 +171,7 @@ kyr	梶
 kye	梹
 kzk	梺
 kw;	梼	i梼檮
+kw;	檮	i梼檮
 kg;	棄
 kzX	棅	yヘイ	hyヒョウ	i柄棅
 k.r	棆
@@ -246,6 +248,8 @@ kdj	楷
 knx	楸
 kbz	楹
 k/d	楼
+k/d	樓
+k/c	櫔	yレイ	hyライ	hyとち	hyマン	hyバン
 kdk	楽
 kdk	樂
 kyw	楾	yはんぞう
@@ -282,6 +286,7 @@ k,d	様
 k,d	樣
 kwg	槙
 kdw	槝	yかし
+k/v	櫳
 k/v	槞
 kl,	槧
 kdz	槨
@@ -298,7 +303,6 @@ kyz	樊
 kwf	樋
 kfl	樌
 k,z	樒
-k/D	樓
 ksp	樔
 kvp	樗
 kyd	標
@@ -335,7 +339,6 @@ kjs	檄
 kcp	檍	yオク	hyヨク
 kko	檎	yゴ	hyゴン	hyキン
 kco	檐
-kwh	檔	i檔档
 kxb	檗
 kdo	檜
 kje	檠
@@ -343,7 +346,6 @@ kjK	檢
 kpj	檣
 k/R	檪
 k,,	檬	yモウ	hyボウ
-kw:	檮	i梼檮
 kyt	檳
 kxm	檸
 kf;	檻
@@ -361,15 +363,15 @@ k/z	櫪
 k/x	櫺
 kcV	櫻
 k.a	欄	i欄欄
+k.a	欄	i欄欄
 khk	欅
 kjr	權
 k.c	欒
 k.v	欖
 kbu	欝
 kvw	欟	yつき	hyカン	観の部首は見《ｗ》	i欟𣠤
+kvw	𣠤	yつき	hyカン	観の部首は見《ｗ》	i欟𣠤
 kb.	荣
-k.A	欄	i欄欄
 kn:	𣏐	yシャク	hyヒョウ
 kxh	𣏕	yハイ
 kxy	𣏟	yハイ
-kvW	𣠤	yつき	hyカン	観の部首は見《ｗ》	i欟𣠤

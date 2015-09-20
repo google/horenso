@@ -126,6 +126,7 @@ npo	爿
 npk	牀	yショウ	hyソウ	右部に木《ｋ》がある
 nss	牂	yソウ	右部に羊《ｓ》がある
 npt	牆	i墻牆
+npt	墻	i墻牆	b爿	hb土
 nzc	片
 nyd	版
 nr/	牋
@@ -176,6 +177,7 @@ nka	狡
 nds	狢
 nnf	狩	右部に宀《ｆ》＋寸《ｆ》がある
 nxc	独
+nxc	獨
 nhd	狭
 njl	狷
 n.d	狸
@@ -206,7 +208,6 @@ npi	獎	奨奬獎
 nxb	獏
 njw	獗
 nnd	獣	左部にツ《ｄ》＋口《ｄ》がある
-nxC	獨
 ndl	獪
 nw/	獰
 ndf	獲

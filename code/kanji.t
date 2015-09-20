@@ -33,6 +33,7 @@ tm.	而
 ttk	耐
 t.m	耒
 tko	耕	yコウ	hyキョウ	i畊耕
+tko	畊	yコウ	hyキョウ	i畊耕	b耒	hb田
 t,.	耗
 tbi	耘
 txm	耙

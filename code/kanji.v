@@ -1,6 +1,4 @@
-vpX	㐮	yジョウ	hyソウ	b衣	i㐮襄
 vtJ	䖝
-vcI	䖸	yガ	hyギ	我の部首は戈《ｉ》	i蛾䖸
 vkz	虍
 vkj	虎
 vgj	虐
@@ -48,6 +46,7 @@ vsl	蛸
 v,a	蛹
 vqm	蛻
 vci	蛾	yガ	hyギ	我の部首は戈《ｉ》	i蛾䖸
+vci	䖸	yガ	hyギ	我の部首は戈《ｉ》	i蛾䖸
 vpd	蜀
 v;l	蜂
 vqy	蜃	上部に辰《ｙ》がある
@@ -194,10 +193,10 @@ vxk	裴
 vxK	裵
 v.,	裸
 vco	裹	yカ	i裹褁	上部に田《ｏ》がある
+vcO	褁	yカ	i裹褁	上部に田《ｏ》がある
 vrj	裼	易の部首は日《ｊ》
 vqk	製
 vhx	裾
-vcO	褁	yカ	i裹褁	上部に田《ｏ》がある
 vjs	褂	yケ	hyカイ
 vvk	褄
 vzl	複
@@ -217,6 +216,7 @@ vra	褻
 vhl	襁
 v;m	襃
 vpx	襄	yジョウ	hyソウ	b衣	i㐮襄
+vpx	㐮	yジョウ	hyソウ	b衣	i㐮襄
 vt;	襌
 vl;	襍
 vcu	襖

@@ -1,7 +1,8 @@
 s,<	㓁
 s,m	养	养養
 stj	着
-smd	糸	i糸絲
+smd	糸
+sme	絲
 sgi	糺
 sja	系
 sgl	糾
@@ -48,6 +49,7 @@ srh	絏
 sj;	結
 sku	絖
 spy	絛	yジョウ	hyトウ	i絛縧
+spy	縧	yジョウ	hyトウ	i絛縧
 skf	絞
 s.d	絡
 sjv	絢
@@ -56,7 +58,6 @@ sg;	給
 sn,	絨
 spu	絮
 swj	統
-smD	絲	i糸絲
 skn	絳
 sdj	絵
 srj	絶
@@ -66,6 +67,7 @@ snw	綉	yシュウ	i繡繍綉
 sqf	綏	右部の部首は女(f)
 sjD	經
 sjl	継
+sjl	繼
 ssj	続
 sdf	綛
 ss;	綜
@@ -114,6 +116,7 @@ s/d	練
 st;	緻
 scj	縁
 spo	縄
+spo	繩
 sck	縅
 sql	縉
 sbi	縊
@@ -125,7 +128,6 @@ spa	縟
 slr	縡
 swl	縢
 sna	縦
-spY	縧	yジョウ	hyトウ	i絛縧
 s;f	縫
 sn;	縮
 snA	縱
@@ -142,6 +144,7 @@ s;j	繃
 syt	繆	翏の部首は羽《ｔ》	yビュウ	hyリュウ	hyミュウ	hyボク	hyル	hyキュウ
 srs	繊
 sjt	繋	yケイ	i繋繫
+sjt	繫	yケイ	i繋繫
 snE	繍	yシュウ	i繡繍綉
 spi	織
 sru	繕
@@ -153,14 +156,11 @@ spj	繞
 sne	繡	yシュウ	i繡繍綉
 shs	繦
 sbo	繧
-spO	繩
 sdJ	繪
-sjT	繫	yケイ	i繋繫
 sjk	繭
 ssl	繰
 sc;	繹
 snv	繻
-sjL	繼
 syx	繽	賓の部首は貝《ｘ》
 s.t	繿
 slm	纂

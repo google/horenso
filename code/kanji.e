@@ -135,13 +135,13 @@ ezp	墳
 evz	墸	yチョ	hyショ
 e,j	墹
 ecm	墺
-ept	墻	i墻牆
 ele	墾
 ezk	壁
 e,m	壅
 et;	壇
 edj	壊
 epo	壌
+epo	壤
 edi	壑
 ekr	壕
 e,.	壗
@@ -151,7 +151,6 @@ exj	壜	yドン	hyタン	曇の部首は日《ｊ》
 edJ	壞
 e/w	壟	yロウ	hyリョウ
 e/W	壠	yロウ	hyリョウ
-epO	壤
 ewh	壥
 emw	士
 eqo	壬
@@ -194,6 +193,7 @@ ehd	夾	yキョウ	hyコウ
 ecy	奄
 egj	奇	奇竒
 ex;	奈	i柰奈
+ex;	柰	i柰奈	b大	hb木
 e;r	奉
 ejs	奎
 esj	奏	b大	hb禾	yソウ

@@ -211,6 +211,7 @@ hb:	惡	yアク
 hse	惣
 hha	惧
 hls	惨
+hls	慘
 ht:	惮	i憚惮	yタン
 hsh	惰
 hsf	想
@@ -252,9 +253,8 @@ hbs	慍
 hqh	慎
 hyw	慓
 h;e	慕
-hlS	慘
 hlv	慙
-hlV	慚
+hlv	慚
 hxl	慝
 hw;	慟
 h,.	慢
