@@ -24,10 +24,10 @@ wga	覬
 wk/	覯
 whf	覲
 wfj	観
+wfj	觀
 wdJ	覺
 w.E	覽
 wv,	覿
-wfJ	觀
 wdl	角
 wkt	觚
 wml	觜

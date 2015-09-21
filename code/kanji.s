@@ -178,9 +178,9 @@ srw	纖
 swo	纛
 s.j	纜
 sfj	缶	yカン	hyフ	i缶缻罐
+sfj	缻	yカン	hyフ	i缶缻罐
 skj	缸
 sjf	缺	缺缼欠𡙇
-sfJ	缻	yカン	hyフ	i缶缻罐
 sjF	缼	缺缼欠𡙇
 scl	罅
 scv	罌

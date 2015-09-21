@@ -213,7 +213,6 @@ hse	惣
 hha	惧
 hls	惨
 hls	慘
-ht:	惮	i憚惮	yタン
 hsh	惰
 hsf	想
 hqg	惴	yスイ	右上に山《ｇ》がある
@@ -286,6 +285,7 @@ hhq	憖
 hgW	憘	yキ
 hgw	憙
 ht;	憚	i憚惮	yタン
+ht;	惮	i憚惮	yタン
 hzd	憤
 hpf	憧	yショウ	hyドウ
 hjl	憩

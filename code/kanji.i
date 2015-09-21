@@ -139,6 +139,7 @@ icx	捐
 i;a	捕
 ivo	捗	yチョク	hyチキ
 iso	捜
+iso	搜
 i;e	捧
 ins	捨
 i/e	捩
@@ -203,7 +204,6 @@ ilx	搓
 isl	搔	i搔掻
 i,A	搖
 iwg	搗	右部の部首は山(g)
-isO	搜
 in;	搦
 iwt	搨	右部に羽(t)があるから
 iye	搬
