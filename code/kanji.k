@@ -100,6 +100,7 @@ kln	柴
 kls	柵
 kmD	柹
 kld	査
+kld	查	Lcht
 k,b	柾	yまさ	hyキュウ
 kmd	柿
 kv;	栂	yつが	hyとが	hyバイ
@@ -138,6 +139,7 @@ kba	桙
 kcv	桜
 k,l	桝
 kl;	桟
+kl;	棧
 kwh	檔	i檔档
 kwh	档	i檔档
 kdO	桧
@@ -189,7 +191,6 @@ kwk	棟
 kwm	棠
 kkx	棡
 kvm	棣
-kl:	棧
 kqk	森
 kxu	棯	yニン	hyジン	hyデン
 kqr	棲
