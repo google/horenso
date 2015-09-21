@@ -113,11 +113,11 @@ gpy	嶼
 gd;	嶽
 glm	巉
 gfd	巌	i巗巌巖
+gfd	巖	i巗巌巖
+gfe	巗	i巗巌巖
 ggo	巍
 g.w	巒
 gwp	巓
-gfD	巖	i巗巌巖
-gfe	巗	i巗巌巖
 grK	巛
 grk	川
 gne	州	駲酬洲州

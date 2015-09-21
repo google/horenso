@@ -96,6 +96,7 @@ hmd	志
 h;d	忘
 h;f	忙
 hcv	応	yオウ	hyヨウ	i応應
+hcv	應	yオウ	hyヨウ	i応應
 hwq	忝
 hyi	忞
 hte	忠
@@ -236,6 +237,7 @@ hbz	愛
 hfs	感
 hsk	愡
 hgs	愧	yキ	i媿愧
+hgs	媿	yキ	i媿愧	b忄	hb女
 hdj	愨
 hrh	愬
 hsp	愴
@@ -299,7 +301,6 @@ hhr	懃
 hso	懆
 hla	懇
 hdw	懈	yカイ	hyケ	解の部首は角《ｗ》
-hcV	應	yオウ	hyヨウ	i応應
 hca	懊
 h;r	懋
 hcg	懌

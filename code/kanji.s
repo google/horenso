@@ -91,6 +91,7 @@ stl	綻
 snl	綽
 s.a	綾
 s,s	綿	yメン	hyベン	i綿緜
+s,s	緜	yメン	hyベン	i綿緜
 smo	緇	yシ	甾の部首は田《ｏ》
 shd	緊
 sy;	緋	右部に非《；》がある
@@ -100,7 +101,6 @@ sps	緒
 sdk	緕
 sf;	緘
 srl	線
-s,S	緜	yメン	hyベン	i綿緜
 snr	緝
 sxc	緞	yドン	hyダン
 svj	締
