@@ -136,6 +136,7 @@ gxc	巴
 gmd	巵
 gkr	巷
 gfk	巻
+gfk	卷	b己	hb卩
 gso	巽
 gha	巾
 gsu	帀	yソウ	匝帀

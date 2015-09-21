@@ -10,10 +10,9 @@ dbk	印
 dga	危
 dsd	即	yソク	hyショク
 dgj	却
+dgj	卻
 d.d	卵
-dfs	卷
 dns	卸
-dgJ	卻
 dsD	卽	yソク	hyショク
 djk	卿	yケイ	hyキョウ
 dfa	厂
