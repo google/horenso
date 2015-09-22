@@ -181,7 +181,6 @@ js;	曽	yソウ	hyソ
 js:	曾	yソウ	hyソ
 jtj	替
 jla	最	最冣㝡	漢字源による部首：曰《ｊ》
-jdj	會	会會
 jjf	月
 j,a	有
 j;k	朋

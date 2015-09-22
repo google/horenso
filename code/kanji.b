@@ -29,6 +29,7 @@ bbj	以	i㠯以
 bbj	㠯	i㠯以	b人	hb己
 bq>	仭
 bcv	仮
+bcv	假
 bha	仰	yギョウ	仰卬
 btk	仲
 bjl	件
@@ -42,7 +43,8 @@ bgk	伎
 bzg	伏
 bxj	伐
 bgl	休
-bdj	会	会會
+bdj	会	i会會
+bdj	會	i会會	b人	hb曰
 blc	伜
 bwl	伝
 bxk	伯
@@ -94,9 +96,8 @@ bsm	侘
 bhc	供
 bbl	依	yイ
 bhb	侠
-bcj	価	Ljpn
-bcJ	價	Ljpn
-bcj	價	Lcht
+bcj	価
+bcj	價
 bxF	侫	妄の部首は女《ｆ》
 bqm	侭
 bk;	侯	yコウ	hyグ	矦侯
@@ -162,7 +163,6 @@ bjb	倹	Ljpn
 bjB	儉	Ljpn
 bjb	儉	Lcht
 bcu	偃
-bcx	假
 bjs	偈
 bb;	偉
 bzc	偏

@@ -35,7 +35,8 @@ cga	冀
 cjd	冂	yケイ
 cxk	内	yナイ	hyダイ
 cxk	內	Lcht
-ccz	円	圓円
+ccz	円	i圓円
+ccz	圓	i圓円	b冂	hb囗
 crp	冉	yゼン	hyネン
 clv	冊
 cjD	冋	yケイ
