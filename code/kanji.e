@@ -18,11 +18,10 @@ e,/	囿
 els	圀
 e;o	圃	甫の部首は用《ｏ》
 eh;	圄	yギョ	hyゴ
-ejK	圈
 ehs	圉
 ejk	圏
+ejk	圈
 ecc	園	園薗
-ecz	圓	圓円
 eqE	圖	yズ
 etL	團
 efk	圜
@@ -88,6 +87,7 @@ etu	堆
 eba	堊
 e;w	堋
 es;	堕
+es;	墮
 ebs	堙
 ecp	堝
 e;f	堡	yホウ	hyホ
@@ -125,12 +125,11 @@ ehw	境
 eps	墅
 e;q	墓
 esf	増
+esf	增
 evj	墜
-esF	增
 ehr	墟
 e;k	墨
 enr	墫
-es:	墮
 ezp	墳
 evz	墸	yチョ	hyショ
 e,j	墹
@@ -155,7 +154,7 @@ ewh	壥
 emw	士
 eqo	壬
 ese	壮
-esE	壯
+ese	壯
 eqi	声
 ebi	壱
 ebi	壹
