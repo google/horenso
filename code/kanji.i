@@ -267,10 +267,10 @@ i.a	擽
 ipq	擾
 iyv	攀
 ilq	攅
+ilq	攢
 ipj	攘
 ijv	攜
 irP	攝
-ilQ	攢
 i/v	攣
 itd	攤
 idq	攫	i爴攫

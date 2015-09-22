@@ -174,7 +174,7 @@ gmq	幟
 gyw	幡	yハン	hyホン	hyまん
 gwi	幢
 gzi	幣	i幣幤
-gzI	幤	i幣幤
+gzi	幤	i幣幤
 gfa	干
 gzc	平
 gxk	年
