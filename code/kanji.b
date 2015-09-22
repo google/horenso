@@ -20,7 +20,6 @@ bsj	他
 bpo	仗
 bzj	付
 brk	仙
-bwj	仝	仝同々
 bq.	仞
 brl	仟
 btj	代
@@ -45,6 +44,7 @@ bgl	休
 bdj	会	会會
 blc	伜
 bwl	伝
+bwl	傳
 bxk	伯
 bkx	估
 bmF	伱	你伱尓尒您
@@ -189,7 +189,6 @@ bk/	傚
 blx	催
 b,v	傭
 bkj	傲
-bwL	傳
 bbp	傴	yウ
 blz	債
 bpu	傷

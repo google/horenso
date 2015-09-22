@@ -31,6 +31,7 @@ hhi	彊
 h/l	彎
 hjw	彑
 hwh	当	i当當	b彑	hb小
+hwh	當	i当當	b彑	hb田	hb小
 htk	彖	yタン
 hq;	彗
 hbo	彙

@@ -29,6 +29,9 @@ my $lang = $ENV{CHKN_LANG} // 'jpn';
 
 my %rad_to_key = (
     亠 => 'a',
+    𠆢 => 'b',
+    人 => 'b',
+    亻 => 'b',
     入 => 'c',
     几 => 'c',
     力 => 'c',

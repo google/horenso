@@ -78,7 +78,8 @@ dkg	合
 dgd	吉
 dvd	吊
 dwe	吋	yトウ	hyスン	hyインチ
-dwj	同	仝同々
+dwj	同	i仝同々
+dwj	仝	i仝同々	b口	hb𠆢
 d,m	名
 dkf	后
 d.a	吏
