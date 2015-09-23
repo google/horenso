@@ -68,6 +68,7 @@ ikd	抗
 iro	折
 i;r	抛
 ixi	抜	i抜拔
+ixi	拔	i抜拔
 iti	択
 iyd	披
 itl	抬
@@ -91,13 +92,12 @@ ido	拐
 ifi	拑
 ihf	拒
 itp	拓
-ixI	拔	i抜拔
 icp	拗	b扌	yオウ	hyヨウ	hb力	力を部首とするのは誤り
 iks	拘
 irq	拙
 ips	招
-ixU	拜
-ixu	拝
+ixu	拝	i拝拜
+ixu	拜	i拝拜
 ihd	拠
 idi	拡
 idi	擴
@@ -255,6 +255,7 @@ iqj	擠
 ity	擡
 ivj	擢
 iwo	擣	i擣𢭏
+iwo	𢭏	i擣𢭏
 ile	擦
 ihA	擧	挙擧舉
 igp	擬
@@ -276,5 +277,4 @@ itd	攤
 idq	攫	i爴攫
 i.s	攬
 il/	𢦏
-iwO	𢭏	i擣𢭏
 i/r	攆	Lcht	Pnian3	yレン	輦はjis x 0213に入っていて、その読み方がレン、ピンインも同じくnian3なので攆の音読みもレンとして見なそう

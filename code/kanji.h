@@ -102,7 +102,8 @@ hwq	忝
 hyi	忞
 hte	忠
 hkr	忤
-hsV	忩	i怱忩
+hsv	怱	i怱忩
+hsv	忩	i怱忩
 hdf	快
 hgl	忯	忄を取り除くと氏《ｌ》が残る
 hqo	忰
@@ -133,7 +134,6 @@ hmr	怩
 hds	怪
 hzo	怫
 hho	怯
-hsv	怱	i怱忩
 hlj	怺
 hbb	恁	任の部首が人《ｂ》
 hn;	恂

@@ -10,6 +10,7 @@ gna	尺
 gkg	尻
 gxi	尼
 gqk	尽	i盡尽
+gqk	盡	i盡尽	b尸	hb皿
 gyp	尾
 gxl	尿
 ghg	局

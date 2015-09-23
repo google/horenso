@@ -90,6 +90,7 @@ jpa	昇
 jkx	昊
 jpt	昌
 j,f	明	b日	i明朙
+j,f	朙	b月	i明朙
 jl;	昏
 jcv	易	yエキ
 jrk	昔
@@ -147,7 +148,8 @@ jbk	暗
 j,.	暘
 j,r	暝
 jvz	暢
-j/d	暦
+j/d	暦	i暦曆
+j/d	曆	i暦曆
 jlk	暫
 j;q	暮
 j;a	暴
@@ -157,7 +159,6 @@ jzd	暼
 jx;	暾
 jga	曁
 j,/	曄	右部の華の部首は艸（ｕ）
-j/D	曆
 jxv	曇
 jhS	曉
 jbj	曖
@@ -190,14 +191,13 @@ jlg	朔	右部の屰の部首は屮《ｇ》
 jvj	朕
 j/s	朖
 j/f	朗	i朗朗
-j,F	朙	b月	i明朙
+j/f	朗	i朗朗
 j;s	望
 jvl	朝
 jgw	朞
 jg;	期
 j,v	朦	yモウ	hyボウ
 j/l	朧
-j/F	朗	i朗朗
 jyF	敏
 jgK	既
 jpS	暑

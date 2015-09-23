@@ -40,7 +40,6 @@ pqr	盛
 pwO	盜
 plk	盞
 p,m	盟
-pqk	盡	i盡尽
 pfu	監
 pys	盤
 pfd	盥

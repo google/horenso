@@ -111,6 +111,7 @@ wdp	誨
 wr;	説
 wr;	說	Lcht
 wxk	読
+wxk	讀
 wqw	誰
 wck	課
 wye	誹
@@ -188,7 +189,6 @@ wpr	譲
 wji	譴
 wkl	護
 w,n	譽
-wxK	讀
 wlk	讃
 wz;	變	変變
 wch	讌
