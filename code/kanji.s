@@ -63,7 +63,6 @@ sdj	絵
 srj	絶
 sjs	絹
 s/l	絽	yロ	hyリョ
-snw	綉	yシュウ	i繡繍綉
 sqf	綏	右部の部首は女(f)
 sjD	經
 sjl	継
@@ -145,7 +144,6 @@ syt	繆	翏の部首は羽《ｔ》	yビュウ	hyリュウ	hyミュウ	hyボク	
 srs	繊
 sjt	繋	yケイ	i繋繫
 sjt	繫	yケイ	i繋繫
-snE	繍	yシュウ	i繡繍綉
 spi	織
 sru	繕
 sle	繖
@@ -154,6 +152,8 @@ s.k	繚
 sfd	繝
 spj	繞
 sne	繡	yシュウ	i繡繍綉
+sne	繍	yシュウ	i繡繍綉
+snw	綉	yシュウ	i繡繍綉
 shs	繦
 sbo	繧
 sdJ	繪

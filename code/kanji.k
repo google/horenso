@@ -74,6 +74,7 @@ khr	枸
 kzc	枹	yフ	hyホウ
 ksf	柁
 kzx	柄	yヘイ	hyヒョウ	i柄棅
+kzx	棅	yヘイ	hyヒョウ	i柄棅
 k/a	柆
 knr	柊
 kzv	柎
@@ -175,7 +176,6 @@ kzk	梺
 kw;	梼	i梼檮
 kw;	檮	i梼檮
 kg;	棄
-kzX	棅	yヘイ	hyヒョウ	i柄棅
 k.r	棆
 k,n	棉
 kgq	棊

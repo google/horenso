@@ -93,6 +93,7 @@ l;d	氓
 lga	气
 lgk	気	i炁気氣	b气	yキ	hyケ
 lgk	氣	i炁気氣	b气	yキ	hyケ
+lg,	炁	i炁気氣	b气	yキ	hyケ	hb灬	hb旡
 lzk	氛
 lbk	氤
 llF	殺	殺殺煞

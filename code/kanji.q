@@ -17,7 +17,6 @@ qnq	祝
 qqj	神
 qq;	祟
 qm,	祠
-qvQ	祢	yデイ	hyネ	i禰祢
 qpw	祥
 qye	票
 qlw	祭
@@ -39,6 +38,7 @@ qgm	禧
 qr:	禪
 q/>	禮
 qvq	禰	yデイ	hyネ	i禰祢
+qvq	祢	yデイ	hyネ	i禰祢
 qpr	禳
 qnt	禸	yジュウ	hyニュウ
 qbk	禹
@@ -158,7 +158,7 @@ qjq	竭
 qtj	端
 qrw	竰
 qhr	競	yキョウ	hyケイ	i競竸
-qhR	竸	yキョウ	hyケイ	i競竸
+qhr	竸	yキョウ	hyケイ	i競竸
 qbL	頴	穎頴	漢字源による部首：頁《，》	大漢和辞典による部首：禾《ｑ》
 qnF	龝
 qqJ	神

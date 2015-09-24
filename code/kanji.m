@@ -116,6 +116,7 @@ mq/	浸
 mpe	浹
 mqx	涁	klx->杉 mqx->涁 hyx->彬 (mqt->滲の異字体なのでシフト化しても構いません)
 mxj	涅	i涅𣵀	右上に日《ｊ》がある
+mxj	𣵀	i涅𣵀	右上に日《ｊ》がある
 mjg	涇	yケイ	hyキョウ	右部に巛《ｇ》と工《ｇ》がある
 mpd	消
 m,c	涌
@@ -127,6 +128,7 @@ m/R	淚	Ljpn
 m/r	泪
 m/f	淚	Lcht
 mwf	涛	i涛濤	寿の部首は寸《ｆ》
+mwf	濤	i涛濤
 mxL	涜
 mdm	涯
 mcm	液
@@ -313,7 +315,6 @@ mxo	濘
 m,b	濛
 mk/	濠
 mnx	濡
-mwF	濤	i涛濤
 m.s	濫
 mnz	濬
 m;e	濮
@@ -349,4 +350,3 @@ mts	灘
 mdA	海
 mpQ	渚	yショ
 mf<	漢
-mxJ	𣵀	i涅𣵀	右上に日《ｊ》がある
