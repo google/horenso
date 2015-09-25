@@ -114,7 +114,6 @@ jvx	晁
 jmf	時
 jkp	晃
 jks	晄
-jkn	晈	yコウ	hyキョウ	i晈皎
 jqG	晉
 jqg	晋
 jbz	晏

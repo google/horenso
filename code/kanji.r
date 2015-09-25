@@ -44,11 +44,9 @@ rje	筧
 rqi	筬	下部の成の部首は戈(i)
 rqe	筮
 rlk	筰
-rpI	筱	yショウ	i篠筱筿
 rho	筴
 rc;	筵
 rhW	筺
-rpk	筿	yショウ	i篠筱筿
 rzo	箆
 rcj	箇
 rrl	箋
@@ -81,6 +79,8 @@ rkl	篌
 rfo	篏
 rk;	篝
 rpi	篠	yショウ	i篠筱筿
+rpi	筱	yショウ	i篠筱筿
+rpk	筿	yショウ	i篠筱筿
 rxk	篤
 r.q	篥
 rz,	篦

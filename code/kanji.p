@@ -14,6 +14,7 @@ pdo	皆
 pkf	皇
 pkq	皋
 pkn	皎	yコウ	hyキョウ	i晈皎
+pkn	晈	yコウ	hyキョウ	i晈皎	b白	hb日
 pkp	皐
 pkr	皓
 pfp	皖
