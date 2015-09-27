@@ -53,13 +53,11 @@ tqk	聖
 tzm	聘
 tn/	聚
 tzk	聞
-tqr	聟
 tsl	聡
 tsl	聰
 tmf	聢	定の部首は宀《ｆ》
 t/J	聨
 t/j	聯
-tqp	聲
 tpw	聳
 tvl	聴
 tvl	聽
