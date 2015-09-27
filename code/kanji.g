@@ -192,6 +192,7 @@ ggl	幾
 gjw	广
 gvz	庁
 gke	広
+gke	廣
 gpa	庄	yショウ	hyソウ	hyホウ	hyビョウ
 gys	庇
 gpi	床
@@ -230,7 +231,6 @@ gmf	廝
 gya	廟
 gpe	廠
 gzo	廡
-gkE	廣
 gdu	廨
 g.e	廩
 g/w	廬	yロ	hyリョ

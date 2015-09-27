@@ -183,6 +183,7 @@ xmv	軸
 xcv	軻
 xbl	軼
 xjx	軽
+xjx	輕
 xpx	軾
 xdj	較
 x/c	輅
@@ -192,7 +193,6 @@ x.C	輌
 xvo	輒
 xy;	輓
 xzc	輔
-xjX	輕
 xvm	輙
 x.c	輛
 xmg	輜

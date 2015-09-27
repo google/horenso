@@ -1,5 +1,6 @@
 tcL	卧	b臣	hb卜	卜はUCSコードポイント割り当てに採用された部首
 tnd	粛
+tnd	肅
 tbj	羽
 tcj	翁
 tm/	翅
@@ -54,21 +55,20 @@ tn/	聚
 tzk	聞
 tqr	聟
 tsl	聡
+tsl	聰
 tmf	聢	定の部首は宀《ｆ》
 t/J	聨
 t/j	聯
-tsL	聰
 tqp	聲
 tpw	聳
 tvl	聴
+tvl	聽
 tpt	聶
 tpu	職
 tx/	聹	yネイ
-tvL	聽
 t//	聾	上部は龍《／》
 tb;	聿
 tbo	肄
-tnD	肅
 tm;	肆	左部に镸《；》がある
 tvo	肇
 txj	肉
@@ -117,7 +117,7 @@ thq	脅
 tqm	脆
 tht	脇
 t,m	脈
-t,q	脉
+t,m	脉
 trk	脊
 td:	脍	yカイ
 tgl	脚
@@ -128,6 +128,7 @@ tnq	脩
 t;o	脯	yホ	hyフ	甫の部首は用《ｏ》
 tti	脱
 txi	脳
+txi	腦
 tv;	脹
 tyq	脾
 tw;	腆
@@ -140,7 +141,6 @@ tkw	腔
 t/,	腕
 ttS	腟
 tqu	腥
-txI	腦
 tnt	腫	yシュ
 tlj	腮
 t,t	腰
@@ -183,10 +183,10 @@ tqi	臍
 tyx	臏	賓の部首は貝《ｘ》
 tn;	臑	yジュ	hyドウ	hyノウ	需の部首は雨《；》
 tsj	臓
+tsj	臟
 t/r	臘
 tco	臙
 t/n	臚	yロ	hyリョ
-tsJ	臟
 t/k	臠
 tql	臣
 tcl	臥

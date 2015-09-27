@@ -40,7 +40,7 @@ pwo	盗
 pqr	盛
 pwO	盜
 plk	盞
-p,m	盟
+p,q	盟
 pfu	監
 pys	盤
 pfd	盥

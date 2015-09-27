@@ -28,6 +28,7 @@ q.,	禀
 qhw	禁
 q/,	禄
 qr;	禅
+qr;	禪
 qjr	禊
 qck	禍
 qvo	禎
@@ -35,7 +36,6 @@ qzj	福
 qpo	禝
 qhk	禦
 qgm	禧
-qr:	禪
 q/>	禮
 qvq	禰	yデイ	hyネ	i禰祢
 qvq	祢	yデイ	hyネ	i禰祢
