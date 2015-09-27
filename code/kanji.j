@@ -89,6 +89,7 @@ jk/	昂
 jpr	昃	yショク	hyシキ	hyソク
 jlf	昆
 jpa	昇
+jpa	曻
 jkx	昊
 jpt	昌
 j,f	明	b日	i明朙

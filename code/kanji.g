@@ -61,6 +61,7 @@ gkt	峇
 gm/	峙
 gwg	峠
 gho	峡
+gho	峽
 gcl	峨
 gcL	峩
 g,n	峪
@@ -70,7 +71,6 @@ g;k	峰
 gwl	島
 gkw	峺
 gn,	峻
-ghq	峽
 gql	崇
 gcx	崋
 ggj	崎	i嵜﨑崎㟢

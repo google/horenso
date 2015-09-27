@@ -169,7 +169,9 @@ mls	済
 mls	濟
 mpa	渉
 mcJ	渊
-mnl	渋	右上に止《ｌ》がある
+mnl	渋	i渋澀澁	右上に止《ｌ》がある
+mnl	澀	i渋澀澁
+mnk	澁	i渋澀澁
 mjd	渓
 mcu	渕
 mqE	渗
@@ -290,8 +292,6 @@ mvj	潴
 mlv	潸
 mrp	潺	yセン	hyサン
 mwg	潼
-mnL	澀
-mnk	澁
 mva	澂
 mvc	澄
 mhe	澆	土《ｅ》は三つある

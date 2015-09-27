@@ -44,6 +44,7 @@ sjg	絅
 sya	絆
 skm	絋
 sjd	経
+sjd	經
 skv	絎
 srh	絏
 sj;	結
@@ -64,7 +65,6 @@ srj	絶
 sjs	絹
 s/l	絽	yロ	hyリョ
 sqf	綏	右部の部首は女(f)
-sjD	經
 sjl	継
 sjl	繼
 ssj	続

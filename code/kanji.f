@@ -78,6 +78,7 @@ fco	媼
 f,,	媽	yモ	hyボ	右部に馬《，》がある。
 fkr	媾
 fcx	嫁
+fcc	媧
 fsl	嫂
 fmw	嫉
 fpr	嫋
