@@ -68,7 +68,9 @@ fyi	婢
 fzj	婦
 f.d	婪
 fbu	婬
-fqq	婿
+fqq	婿	i婿聟壻
+fqq	聟	i婿聟壻	b女	hb耳
+fqa	壻	i婿聟壻	b女	hb土
 fxk	媒
 fyo	媚
 fcl	媛
@@ -76,6 +78,7 @@ fco	媼
 f,,	媽	yモ	hyボ	右部に馬《，》がある。
 fkr	媾
 fcx	嫁
+fcc	媧
 fsl	嫂
 fmw	嫉
 fpr	嫋
@@ -177,10 +180,10 @@ fhs	寓
 fpw	寔
 ffs	寛
 fqj	寝
+fqj	寢
 fxu	寞	莫の部首は艸《ｕ》
 flj	察
 fcz	寡
-fqJ	寢
 fkp	寤
 f.,	寥
 fxl	寧

@@ -34,9 +34,9 @@ wml	觜
 wv;	觝
 wdk	解
 wpi	触
+wpi	觸
 wdo	觧
 wpt	觴
-wph	觸
 wjr	言
 wvj	訂
 wzj	訃
@@ -186,6 +186,7 @@ wyp	譬
 w,R	譯
 wg;	議
 wpr	譲
+wpr	讓
 wji	譴
 wkl	護
 w,n	譽
@@ -195,7 +196,6 @@ wch	讌
 wnk	讎
 wnl	讐
 wlj	讒
-wpR	讓
 wqm	讖
 wfl	讙
 wlK	讚

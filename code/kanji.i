@@ -173,7 +173,8 @@ icz	掩
 irw	措
 is;	掫
 igq	掬
-ijd	掲
+ijd	掲	i揭掲
+ijd	揭	i揭掲
 idh	掴
 idh	摑
 ixt	掵
@@ -210,7 +211,9 @@ iye	搬
 iwu	搭	右部の部首は艸(u)
 ijr	搴
 ish	搶	yソウ	hyショウ
-ijs	携
+ijs	携	i携攜擕
+ijs	攜	i携攜擕
+ijx	擕	i携攜擕
 ili	搾
 irp	摂
 ikt	摎	yコウ	hyキョウ	hyキュウ	hyリュウ	hyル	hyク	翏の部首は羽《ｔ》
@@ -222,6 +225,7 @@ ite	摶
 i,v	摸
 ipw	摺
 ija	撃
+ija	擊
 izb	撇	yヘツ
 i/s	撈
 il;	撒
@@ -245,7 +249,6 @@ i,.	擁
 i.r	擂
 ir;	擅
 itI	擇
-ijA	擊
 isy	操
 ih;	擒
 itw	擔
@@ -270,7 +273,6 @@ iyv	攀
 ilq	攅
 ilq	攢
 ipj	攘
-ijv	攜
 irP	攝
 i/v	攣
 itd	攤

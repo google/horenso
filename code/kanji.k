@@ -74,6 +74,7 @@ khr	枸
 kzc	枹	yフ	hyホウ
 ksf	柁
 kzx	柄	yヘイ	hyヒョウ	i柄棅
+kzx	棅	yヘイ	hyヒョウ	i柄棅
 k/a	柆
 knr	柊
 kzv	柎
@@ -108,6 +109,7 @@ kxk	栃	hyバン	hyマン	yとち
 kxk	杤	hyバン	hyマン	yとち
 kx,	𣜜
 kbl	栄
+kbl	榮
 krj	栓
 kqw	栖
 k.q	栗
@@ -137,12 +139,12 @@ kfi	桓
 kgd	桔	吉の部首は口《ｄ》
 kba	桙
 kcv	桜
+kcv	櫻
 k,l	桝
 kl;	桟
 kl;	棧
 kwh	檔	i檔档
 kwh	档	i檔档
-kdO	桧
 kzj	桴
 kwy	桶	yトウ	hyツウ	hyヨウ
 kdv	桷
@@ -175,7 +177,6 @@ kzk	梺
 kw;	梼	i梼檮
 kw;	檮	i梼檮
 kg;	棄
-kzX	棅	yヘイ	hyヒョウ	i柄棅
 k.r	棆
 k,n	棉
 kgq	棊
@@ -213,7 +214,6 @@ khv	椚
 k,u	椛	yもみじ	hyかば	花の部首は艹《ｕ》
 kjk	検
 khc	椡	yくぬぎ	到の部首は刂《ｃ》
-kdM	椢	yカイ	hyケ
 kmw	椣
 kxo	椥
 kj/	椦
@@ -266,7 +266,6 @@ k;q	榜
 kzd	榠
 kfj	榦	i榦幹
 kyv	榧
-kbL	榮
 kqh	榱
 kc.	榲
 k.b	榴	yリュウ	hyル
@@ -295,6 +294,7 @@ ktq	槫
 krq	槭	yセキ	hyシャク	hyスク	hyサク
 klm	槲
 kdm	槶	yカイ	hyケ
+kdm	椢	yカイ	hyケ
 kkz	槹
 kg.	槻
 ksl	槽
@@ -314,6 +314,7 @@ k,s	模
 kv.	樢	yチョウ	hyボク	hyモク	右部に鳥《．》がある
 kjl	権
 kcl	横
+kcl	橫
 kd;	樫
 k;v	樮
 kpg	樵
@@ -342,6 +343,7 @@ kko	檎	yゴ	hyゴン	hyキン
 kco	檐
 kxb	檗
 kdo	檜
+kdo	桧
 kje	檠
 kjK	檢
 kpj	檣
@@ -362,7 +364,6 @@ k/r	櫟
 k/q	櫨
 k/z	櫪
 k/x	櫺
-kcV	櫻
 k.a	欄	i欄欄
 k.a	欄	i欄欄
 khk	欅
@@ -370,6 +371,7 @@ kjr	權
 k.c	欒
 k.v	欖
 kbu	欝
+kbu	鬱	b木	hb鬯
 kvw	欟	yつき	hyカン	観の部首は見《ｗ》	i欟𣠤
 kvw	𣠤	yつき	hyカン	観の部首は見《ｗ》	i欟𣠤
 kb.	荣

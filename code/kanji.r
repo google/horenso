@@ -1,5 +1,6 @@
 rsP	䉤	yソウ	hyス	hyシュ
 rwe	劄	yトウ	hyサツ	hyチョウ	i劄箚
+rwe	箚	yトウ	hyサツ	hyチョウ	i劄箚
 rtl	竹
 rmr	竺	yジク	hyチク	hyトク
 rfl	竿
@@ -45,7 +46,6 @@ rqe	筮
 rlk	筰
 rho	筴
 rc;	筵
-rt:	筹	i籌筹
 rhW	筺
 rzo	箆
 rcj	箇
@@ -58,12 +58,12 @@ rgk	箕
 rle	算
 rh;	箘
 rzp	箙
-rwE	箚	yトウ	hyサツ	hyチョウ	i劄箚
 rhq	箜	空の部首は穴《ｑ》	yク	hyコウ
 rfi	箝
 rhp	箟
 rfk	管
 rto	箪
+rto	簞
 rri	箭
 rsj	箱	yソウ	hyショウ
 rqu	箴
@@ -98,7 +98,6 @@ rl;	篡	Lcht
 rlm	簓	yささら
 rlU	簔	簑簔蓑
 r,n	簗	yやな	i簗𥱋
-rtO	簞
 rww	簟	yテン	hyタン	覃の部首は覀《ｗ》
 rfj	簡
 rgl	簣
@@ -114,6 +113,7 @@ r;r	簿
 rtp	籀
 r./	籃
 rt;	籌	i籌筹
+rt;	筹	i籌筹
 rr;	籍
 rx,	籏	yはた
 rwo	籐

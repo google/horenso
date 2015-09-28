@@ -76,6 +76,8 @@ jgk	既
 jxj	日
 jto	旦
 jgj	旧	i旧舊𦾔
+jgj	舊	i旧舊𦾔	b日	hb臼	hb艹	hb隹
+jgm	𦾔	i旧舊𦾔	b日	hb艹	hb隹
 jmd	旨
 jsj	早
 jnf	旬
@@ -87,6 +89,7 @@ jk/	昂
 jpr	昃	yショク	hyシキ	hyソク
 jlf	昆
 jpa	昇
+jpa	曻
 jkx	昊
 jpt	昌
 j,f	明	b日	i明朙

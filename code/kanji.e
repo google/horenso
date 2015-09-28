@@ -9,6 +9,7 @@ elr	困
 ebj	囲
 ebj	圍
 eqe	図	yズ
+eqe	圖	yズ
 e/a	囹
 eke	固
 eli	国	Ljpn
@@ -22,7 +23,6 @@ ehs	圉
 ejk	圏
 ejk	圈
 ecc	園	園薗
-eqE	圖	yズ
 etL	團
 efk	圜
 ewj	土
@@ -156,12 +156,12 @@ eqo	壬
 ese	壮
 ese	壯
 eqi	声
+eqi	聲	b士	hb耳
 ebi	壱
 ebi	壹
 exi	売	売賣
 ekL	壷
 ekl	壺
-eqv	壻
 el;	壼
 etq	夂
 ez;	変	変變

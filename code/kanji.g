@@ -61,6 +61,7 @@ gkt	峇
 gm/	峙
 gwg	峠
 gho	峡
+gho	峽
 gcl	峨
 gcL	峩
 g,n	峪
@@ -70,7 +71,6 @@ g;k	峰
 gwl	島
 gkw	峺
 gn,	峻
-ghq	峽
 gql	崇
 gcx	崋
 ggj	崎	i嵜﨑崎㟢
@@ -192,6 +192,7 @@ ggl	幾
 gjw	广
 gvz	庁
 gke	広
+gke	廣
 gpa	庄	yショウ	hyソウ	hyホウ	hyビョウ
 gys	庇
 gpi	床
@@ -230,7 +231,6 @@ gmf	廝
 gya	廟
 gpe	廠
 gzo	廡
-gkE	廣
 gdu	廨
 g.e	廩
 g/w	廬	yロ	hyリョ
