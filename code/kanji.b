@@ -11,7 +11,7 @@ bgi	仇
 blk	今
 bdk	介
 bpi	仍
-bnd	从	从従從
+bnf	偌	Lcht
 bzl	仏
 bzl	佛
 bmx	仔
@@ -173,6 +173,7 @@ bld	做
 bvk	停
 bj;	健
 bs,	偬
+bs,	傯	Lcht
 bml	偲	yシ
 bsu	側
 bvj	偵
@@ -233,8 +234,8 @@ bxp	儺	yナ	hyダ
 bwp	儻
 bjz	儼
 brj	全	b𠆢	hb入
-bnB	舍	漢字源による部首：人
 bnb	舎	漢字源による部首：人
+bnb	舍	漢字源による部首：人
 b;A	舖	漢字源による部首：人
 b;a	舗	漢字源による部首：人
 bz;	侮	i侮侮

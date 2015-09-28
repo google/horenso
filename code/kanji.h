@@ -67,11 +67,12 @@ h.a	律
 hkd	後
 hpa	徐
 hwr	徒
-hnd	従	从従從
+hnd	従	i从従從
+hnd	從	i从従從
+hnc	从	i从従從	b彳	hb人
 hxg	得
 hx;	徘
 hml	徙	右上に止《ｌ》がある
-hnD	從	从従從
 h./	徠	来來徠
 hhk	御
 hkp	徨
