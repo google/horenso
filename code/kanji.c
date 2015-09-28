@@ -140,6 +140,7 @@ cxu	剝
 cgo	剞
 cj;	剣
 clz	剤
+clz	劑
 cxU	剥
 cpi	剰
 cpi	剩
@@ -157,7 +158,6 @@ cjx	劇
 czp	劈
 c.v	劉	yリュウ
 cj:	劍
-clZ	劑
 cjp	劒
 cjP	劔
 c.,	力
