@@ -215,6 +215,9 @@ sub char_width {
     my ($s) = @_;
     my $total = 0;
 
+    # 幅を持たない色のコードを消す
+    $s =~ s/\e\[\d\dm//g;
+
     for my $char (split q{}, $s) {
         my $ord = ord $char;
         if ($ord <= 0xff) {
@@ -435,6 +438,12 @@ sub print_keyboard_row {
         }
         my $key_value = $keyboard_ref->{$key_name} || q{  };
         my $shift_value = $keyboard_ref->{shift_key $key_name} || q{│ };
+        if (char_width($key_value) > 2) {
+            $key_value = q{..};
+        }
+        if (char_width($shift_value) > 2) {
+            $shift_value = q{..};
+        }
         printf '│%s%s', $key_value, $shift_value;
     }
     erase_to_eol;
