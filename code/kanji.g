@@ -16,9 +16,9 @@ gxl	尿
 ghg	局
 gyo	屁	屁𥧔
 ghi	居
-gdG	屆	yカイ	hyケ
-ghw	屈
 gdg	届	yカイ	hyケ
+gdg	屆	yカイ	hyケ
+ghw	屈
 gcj	屋
 gm;	屍
 gmw	屎
