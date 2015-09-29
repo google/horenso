@@ -192,8 +192,10 @@ n.f	猟
 n/e	猥
 npr	猩	yショウ	hyセイ
 nvz	猪
-nya	猫	猫貓	にゃあ！
+nya	猫	i猫貓	にゃあ！
+nya	貓	i猫貓	b犭	hb豸
 njs	献
+njs	獻
 nt/	猯
 nkr	猴
 n,s	猶
@@ -212,7 +214,6 @@ ndf	獲
 n.F	獵
 nnD	獸
 ntq	獺
-njS	獻
 njd	玄
 nsa	率	b玄	hb十	hb亠	hb幺	yソツ	hyリツ	hyシュツ	hyスイ
 nld	采	漢字源による部首：爪《ｎ》
