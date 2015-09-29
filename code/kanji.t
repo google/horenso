@@ -201,11 +201,11 @@ t,,	臾
 t,d	舁
 tpj	舂
 tgo	舅	男の部首は田《ｏ》
-t,n	與
 tkl	興	yコウ	hyキョウ
 tha	舉	挙擧舉
 trj	舌
-tml	舐	右部に氏《ｌ》がある
+tml	舐	i舐䑛	右部に氏《ｌ》がある
+tml	䑛	i舐䑛
 tpo	舒
 trs	舛
 tnn	舜	部首の舛の他にも上部に爪(n)がある

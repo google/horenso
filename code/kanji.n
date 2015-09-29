@@ -208,11 +208,11 @@ npi	獎	奨奬獎
 nxb	獏
 njw	獗
 nnd	獣	左部にツ《ｄ》＋口《ｄ》がある
+nnd	獸
 ndl	獪
 nw/	獰
 ndf	獲
 n.F	獵
-nnD	獸
 ntq	獺
 njd	玄
 nsa	率	b玄	hb十	hb亠	hb幺	yソツ	hyリツ	hyシュツ	hyスイ
