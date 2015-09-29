@@ -11,7 +11,6 @@ xxc	貊
 x;v	貌	貌皃㒵
 x.m	貍
 xjl	貎
-xya	貓	猫貓
 xyz	貔
 xxm	貘
 xxk	貝

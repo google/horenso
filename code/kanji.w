@@ -58,6 +58,7 @@ w;e	訪
 wrw	設
 whe	許
 w,r	訳
+w,r	譯
 wrk	訴
 wci	訶
 wq;	診
@@ -92,7 +93,8 @@ wvo	誂
 w/.	誄
 wto	誅
 wke	誇
-w,m	誉
+w,m	誉	i誉譽
+w,m	譽	i誉譽
 wm.	誌
 wxj	認
 whq	誑
@@ -160,8 +162,8 @@ wjk	謙
 wmP	謚	yシ	益の部首は皿《ｐ》
 wkq	講
 wne	謝
-w,?	謠
 w,/	謡
+w,/	謠
 wj/	謦
 w;u	謨	yボ	hyモ	莫の部首は艹《u》
 wtp	謫
@@ -183,13 +185,11 @@ wsk	譟	右下に木《ｋ》がある
 wjl	警
 wri	譫	yセン	hyトウ
 wyp	譬
-w,R	譯
 wg;	議
 wpr	譲
 wpr	讓
 wji	譴
 wkl	護
-w,n	譽
 wlk	讃
 wz;	變	変變
 wch	讌
