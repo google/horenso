@@ -16,10 +16,10 @@ ida	戞
 ije	戟
 ifs	戡
 iru	戦
+iru	戰
 irt	截
 i.e	戮
 igo	戯
-irU	戰
 igO	戲
 it;	戳
 itq	戴
@@ -216,6 +216,7 @@ ijs	攜	i携攜擕
 ijx	擕	i携攜擕
 ili	搾
 irp	摂
+irp	攝
 ikt	摎	yコウ	hyキョウ	hyキュウ	hyリュウ	hyル	hyク	翏の部首は羽《ｔ》
 ivc	摘
 ilt	摧
@@ -273,7 +274,6 @@ iyv	攀
 ilq	攅
 ilq	攢
 ipj	攘
-irP	攝
 i/v	攣
 itd	攤
 idq	攫	i爴攫

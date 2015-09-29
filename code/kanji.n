@@ -6,6 +6,7 @@ nnE	倐	倏倐	漢字源による部首：火《ｎ》	右上に夂《ｅ》が�
 ncv	火
 ncV	灬	yカ	hyれんが
 nwn	灯
+nwn	燈
 nda	灰
 ;/w	灵	i䨩霊靈灵㚑	b雨
 nga	灸
@@ -81,7 +82,6 @@ ngq	熹
 nmf	熾
 nxl	燃
 ncp	燄	焔焰㷔熖燄
-nwN	燈
 nxi	燉
 n.e	燎
 n.w	燐

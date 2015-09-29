@@ -62,6 +62,7 @@ swj	統
 skn	絳
 sdj	絵
 srj	絶
+srj	絕	Lcht
 sjs	絹
 s/l	絽	yロ	hyリョ
 sqf	綏	右部の部首は女(f)
