@@ -1,4 +1,3 @@
-xxj	弐
 xsL	戝	yゾク	i賊戝	hyザイ	hb戈
 xtu	豸
 xyi	豹	yヒョウ	hyホウ
@@ -25,11 +24,9 @@ xtj	貪	yタン	hyドン
 xfj	貫
 xrl	責
 xmC	貭
-xxu	貮
 xvk	貯
 xqk	貰
 xmz	貲
-xxJ	貳
 xgl	貴
 xz;	貶
 xx;	買

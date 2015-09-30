@@ -3,7 +3,7 @@ dbL	㊨
 dk/	㗅
 dte	単
 drd	卩	字全体が部首なので一鍵三鍵同一
-dkA	卬	yゴウ	仰卬
+dkA	卬	yゴウ
 dmq	卮
 d;a	卯	漢字源による部首：卩《ｄ》
 dbk	印

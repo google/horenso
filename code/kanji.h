@@ -1,7 +1,5 @@
 hqW	㣺
 h,j	弋
-hba	弌	一弌
-hxj	弍	二弍
 hma	式
 hmw	弑
 hga	弓
@@ -191,6 +189,7 @@ hqf	您	你伱尓尒您	yジン	hyヂン	hyニン
 hxh	悩
 hxh	惱
 hb;	悪	yアク
+hb;	惡	yアク
 hyf	悲
 hxp	悳	直の部首は目《ｐ》
 hqp	悴
@@ -210,7 +209,6 @@ hle	惚
 hre	惜
 hpc	惝	yショウ
 hbj	惟	yイ
-hb:	惡	yアク
 hse	惣
 hha	惧
 hls	惨
@@ -322,3 +320,6 @@ hpu	懾
 hbn	懿
 hdA	悔
 hvD	懲
+hxj	弐	i弐貳貮
+hxj	貳	i弐貳貮
+hxm	貮	i弐貳貮

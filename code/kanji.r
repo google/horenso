@@ -98,6 +98,7 @@ rl;	篡	Lcht
 rlm	簓	yささら
 rlU	簔	簑簔蓑
 r,n	簗	yやな	i簗𥱋
+r,n	𥱋	yやな	i簗𥱋
 rww	簟	yテン	hyタン	覃の部首は覀《ｗ》
 rfj	簡
 rgl	簣
@@ -175,6 +176,5 @@ r/w	糲
 rv;	糴
 rvi	糶
 rrK	節
-r,N	𥱋	yやな	i簗𥱋
 rzu	𥹢
 rpu	扔	Lcht	Preng1	yジョウ	hyニョウ

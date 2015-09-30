@@ -29,7 +29,7 @@ bbj	㠯	i㠯以	b人	hb己
 bq>	仭
 bcv	仮
 bcv	假
-bha	仰	yギョウ	仰卬
+bha	仰	yギョウ
 btk	仲
 bjl	件
 bd;	价
@@ -127,6 +127,7 @@ btI	俦
 bnz	修
 bzy	俯
 bhk	俱
+bhk	倶
 bx;	俳
 byp	俵
 bn;	俶
@@ -158,7 +159,6 @@ bjp	倪
 b.z	倫
 bto	倬
 b/c	倭	yワ	hyイ
-bhK	倶
 bjb	倹	Ljpn
 bjB	儉	Ljpn
 bjb	儉	Lcht
