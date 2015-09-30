@@ -150,6 +150,7 @@ gwo	帑
 gvu	帖	yチョウ	hyジョウ
 gtk	帙
 gnw	帚	yシュウ	hyソウ	hyス	i帚菷
+gnw	菷	yシュウ	hyソウ	hyス	i帚菷	b巾	hb艹
 gxo	帛
 gvx	帝
 gqj	帥	yスイ	hyソツ	hyシュチ

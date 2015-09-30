@@ -209,7 +209,8 @@ c,.	勿	yモチ	hyブツ
 c,/	匁
 cxv	匂
 c;k	包
-csp	匆
+csp	匆	i匆匇
+csp	匇	i匆匇
 ch/	匈
 c;o	匍	甫の部首は用《ｏ》
 c;z	匏	yホウ

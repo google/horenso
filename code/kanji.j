@@ -36,7 +36,6 @@ jqW	數
 j/a	斂
 jzf	斃
 jzx	文
-jqj	斊	aqj->亝 jqj->斊 /qj->斉 /qJ->齊 [亝斊]は異体字なのでシフト可
 jyw	斌
 jye	斐
 jyd	斑
