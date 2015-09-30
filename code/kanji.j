@@ -28,11 +28,11 @@ jlj	散
 jxl	敦
 jjd	敬
 jqw	数
+jqw	數
 jk;	敲
 jq;	整
 jv;	敵
 jzk	敷
-jqW	數
 j/a	斂
 jzf	斃
 jzx	文

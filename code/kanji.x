@@ -157,9 +157,9 @@ x,m	躍
 xvv	躑
 xtn	躓
 xwp	躔
-x.z	躙
+x.z	躙	i躙躪
+x.z	躪	i躙躪
 xpi	躡
-x.Z	躪
 xqj	身
 xgi	躬
 xhx	躯	i躯軀
