@@ -119,7 +119,9 @@ n,m	爺
 nkf	爻
 nr;	爼	俎爼	yソ
 nsr	爽
-nmk	爾	爾儞
+nmk	爾	i爾尓尒
+nmi	尒	i爾尓尒	b爻	hb小
+nmi	尓	i爾尓尒	b爻	hb小
 npo	爿
 npk	牀	yショウ	hyソウ	右部に木《ｋ》がある
 nss	牂	yソウ	右部に羊《ｓ》がある

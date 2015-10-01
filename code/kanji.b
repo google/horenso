@@ -49,7 +49,6 @@ bwl	伝
 bwl	傳
 bxk	伯
 bkx	估
-bmF	伱	你伱尓尒您
 bya	伴
 b/m	伶
 bql	伸
@@ -74,8 +73,8 @@ b,.	余	b,.->余 ,,.->餘
 bbi	佚
 bl;	作
 bkn	佝
-bxf	佞	右下に女《ｆ》がある
-bmf	你	你伱尓尒您
+bxf	佞	右下に女《ｆ》がある	i佞侫
+bxf	侫	妄の部首は女《ｆ》	i佞侫
 bxo	佩
 b,x	佯
 byi	佰	yヒャク	hyハク
@@ -98,7 +97,6 @@ bbl	依	yイ
 bhb	侠
 bcj	価
 bcj	價
-bxF	侫	妄の部首は女《ｆ》
 bqm	侭
 bk;	侯	yコウ	hyグ	矦侯
 bq;	侵
@@ -224,7 +222,9 @@ b.v	儖
 bqo	儘
 b;z	儚
 bzx	儛	tzx->舞
-bmk	儞	爾儞
+bmk	儞	i儞你伱
+bmk	你	i儞你伱
+bmi	伱	i儞你伱
 bpz	償
 b.c	儡
 b,m	優
