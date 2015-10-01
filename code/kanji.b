@@ -98,7 +98,8 @@ bhb	侠
 bcj	価
 bcj	價
 bqm	侭
-bk;	侯	yコウ	hyグ	矦侯
+bk;	侯	yコウ	hyグ	i矦侯
+bk;	矦	yコウ	hyグ	i矦侯	b亻	hb矢
 bq;	侵
 b./	侶
 bzv	便
@@ -106,7 +107,8 @@ bjc	係
 bsl	促	b亻	hb足	yソク	hyショク
 bci	俄
 bn.	俊
-br;	俎	俎爼	yソ	hyショ
+br;	俎	i俎爼	yソ	hyショ
+br;	爼	i俎爼	yソ	b人	hb爻
 b.n	俐
 b,n	俑
 blf	俒	yコン	完の部首は宀《ｆ》

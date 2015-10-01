@@ -16,7 +16,6 @@ n/a	炉
 nqw	炊
 ncx	炎
 nsl	炒
-nkz	炗	光炗
 nnl	炙
 nks	炬
 ntn	炭
@@ -117,7 +116,6 @@ nzx	父
 nxh	爸	yバ
 n,m	爺
 nkf	爻
-nr;	爼	俎爼	yソ
 nsr	爽
 nmk	爾	i爾尓尒
 nmi	尒	i爾尓尒	b爻	hb小

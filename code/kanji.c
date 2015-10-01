@@ -7,7 +7,8 @@ cnz	充
 cvj	兆
 chg	兇
 cr;	先
-ckz	光	光炗
+ckz	光	i光炗
+ckz	炗	i光炗	b儿	hb火
 clc	克
 csi	兌
 c,x	免
