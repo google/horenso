@@ -30,6 +30,7 @@ dm;	厮
 dpr	厰
 d/u	厲	部首の厂を取り除くと、萬が残り、その部首が艸〈u〉
 djs	厳
+djs	嚴
 dmg	厶
 dkU	厷	肱厷
 dhf	去
@@ -192,7 +193,8 @@ dps	商
 dby	啊
 dkp	啌	yコウ
 d,f	問
-djf	啓
+djf	啓	i啓啟
+djf	啟	i啓啟	Lcht
 dtp	啖
 dts	啗
 drl	啜
@@ -262,7 +264,8 @@ dsl	噌
 dbn	噎
 dgp	噐
 dhs	噓
-dkZ	噛
+dkz	嚙
+dkz	噛
 dhi	噤
 dg;	器
 dsh	噪
@@ -277,11 +280,9 @@ ddk	嚇
 dys	嚊
 dv;	嚏
 dvi	嚔
-dkz	嚙
 d.,	嚠
 dcz	嚥
 dk,	嚮
-djS	嚴
 dco	嚶
 dnt	嚼
 dw;	囀

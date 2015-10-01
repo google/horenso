@@ -105,7 +105,6 @@ hsv	怱	i怱忩
 hsv	忩	i怱忩
 hdf	快
 hgl	忯	忄を取り除くと氏《ｌ》が残る
-hqo	忰
 hqd	忱
 hxv	念
 hmq	忸
@@ -185,7 +184,7 @@ h,s	悠
 hfd	患
 hci	悦
 h.f	悧
-hqf	您	你伱尓尒您	yジン	hyヂン	hyニン
+hqf	您	yジン	hyヂン	hyニン
 hxh	悩
 hxh	惱
 hb;	悪	yアク
@@ -193,6 +192,7 @@ hb;	惡	yアク
 hyf	悲
 hxp	悳	直の部首は目《ｐ》
 hqp	悴
+hqp	忰
 hvj	悵
 h,z	悶
 hgp	悸

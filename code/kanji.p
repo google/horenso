@@ -110,7 +110,6 @@ phd	矜
 pmf	矢
 pbp	矣
 pto	知
-pk;	矦	yコウ	hyグ	矦侯
 pqi	矧
 phs	矩
 ptp	短

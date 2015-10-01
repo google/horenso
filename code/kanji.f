@@ -214,8 +214,6 @@ fqk	尋
 fwe	導
 fpf	小
 fpd	少
-fmf	尒	你伱尓尒您
-fmf	尓	你伱尓尒您
 frj	尖
 fpi	尚
 fri	尠
