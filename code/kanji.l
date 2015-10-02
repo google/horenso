@@ -92,5 +92,5 @@ lg,	炁	i炁気氣	b气	yキ	hyケ	hb灬	hb旡
 lzk	氛
 lbk	氤
 llF	殺	殺殺煞
-l,c	氧	Lcht	Pyang3	yヨウ
-lbc	氨	Lcht	Pan1	yアン
+l,c	氧	Pyang3	yヨウ
+lbc	氨	Pan1	yアン

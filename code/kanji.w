@@ -111,7 +111,7 @@ wk.	誥
 wpj	誦
 wdp	誨
 wr;	説
-wr;	說	Lcht
+wr;	說
 wxk	読
 wxk	讀
 wqw	誰

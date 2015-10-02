@@ -109,7 +109,7 @@ d.m	呂	yリョ	hyロ
 d;k	呆	下部が木《ｋ》
 dvk	呈
 dkh	呉
-dkh	吳	Lcht
+dkh	吳
 dld	告
 dnw	呎	yシャク	hyフィート
 dxj	呑
@@ -195,7 +195,7 @@ dby	啊
 dkp	啌	yコウ
 d,f	問
 djf	啓	i啓啟
-djf	啟	i啓啟	Lcht
+djf	啟	i啓啟
 dtp	啖
 dts	啗
 drl	啜
@@ -304,7 +304,7 @@ dxa	𠫓	yトツ	ムを取り除くと亠《ａ》が残る
 dzc	𠬝	服𠬝	部首：又 yフク
 dmf	𠮟
 dc/	𠹭	yカ
-dzg	噼	Lcht	Ppi1	yヘキ	j辟
-dxp	啪	Lcht	Ppa1	yハク	j拍
-d.r	啦	Lcht	Pla1	yラ	j拉
-dkJ	嚎	Lcht	Phao2	yゴウ	j豪
+dzg	噼	Ppi1	yヘキ	j辟
+dxp	啪	Ppa1	yハク	j拍
+d.r	啦	Pla1	yラ	j拉
+dkJ	嚎	Phao2	yゴウ	j豪

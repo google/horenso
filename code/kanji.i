@@ -24,7 +24,7 @@ igO	戲
 it;	戳
 itq	戴
 ikf	戸
-ikf	戶	Lcht
+ikf	戶
 i/f	戻
 i/f	戾
 i;d	房
@@ -280,4 +280,4 @@ idq	攫	i爴攫
 idq	爴	i爴攫	b扌	hb爪
 i.s	攬
 il/	𢦏
-i/r	攆	Lcht	Pnian3	yレン	輦はjis x 0213に入っていて、その読み方がレン、ピンインも同じくnian3なので攆の音読みもレンとして見なそう
+i/r	攆	Pnian3	yレン	輦はjis x 0213に入っていて、その読み方がレン、ピンインも同じくnian3なので攆の音読みもレンとして見なそう

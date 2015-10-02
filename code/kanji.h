@@ -37,8 +37,8 @@ hb?	彜
 hb/	彝
 hl;	彡
 hjf	形
-hjg	彥	Lcht	b彡	hb立	yゲン	hyひこ
-hjg	彦	Ljpn	b彡	hb立	yゲン	hyひこ
+hjg	彥	b彡	hb立	yゲン	hyひこ
+hjg	彦	b彡	hb立	yゲン	hyひこ
 hld	彩
 hyo	彪
 hvi	彫

@@ -93,8 +93,8 @@ rli	簀
 rso	簇
 r/q	簍
 rlu	簑	簑簔蓑
-rl;	簒	Ljpn
-rl;	篡	Lcht
+rl;	簒
+rl;	篡
 rlm	簓	yささら
 rlU	簔	簑簔蓑
 r,n	簗	yやな	i簗𥱋
@@ -143,8 +143,8 @@ rxj	粘
 rsm	粟	yゾク
 rwr	粡
 rmw	粢
-rcl	粵	Lcht
-rcl	粤	Ljpn
+rcl	粵
+rcl	粤
 rnr	粥
 rpe	粧
 rzi	粨
@@ -177,4 +177,4 @@ rv;	糴
 rvi	糶
 rrK	節
 rzu	𥹢
-rpu	扔	Lcht	Preng1	yジョウ	hyニョウ
+rpu	扔	Preng1	yジョウ	hyニョウ

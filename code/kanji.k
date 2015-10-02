@@ -101,7 +101,7 @@ kln	柴
 kls	柵
 kmD	柹
 kld	査
-kld	查	Lcht
+kld	查
 k,b	柾	yまさ	hyキュウ
 kmd	柿
 kv;	栂	yつが	hyとが	hyバイ

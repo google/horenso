@@ -26,7 +26,7 @@ fld	妻
 fpq	妾	上部に立《ｑ》がある
 f;l	姆	yボ	hyモ	母の部首は毋《ｌ》
 fm,	姉
-fm,	姊	Lcht
+fm,	姊
 fm.	始
 frl	姐	yソ
 fko	姑

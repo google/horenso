@@ -11,7 +11,7 @@ bgi	仇
 blk	今
 bdk	介
 bpi	仍
-bnf	偌	Lcht
+bnf	偌
 bzl	仏
 bzl	佛
 bmx	仔
@@ -149,8 +149,8 @@ bbo	倚
 bnx	借
 bpx	倡
 b;l	倣
-bt;	値	Ljpn
-bt;	值	Lcht
+bt;	値
+bt;	值
 bkq	倥	空の部首は穴《ｑ》
 bja	倦
 bhl	倨
@@ -172,7 +172,7 @@ bld	做
 bvk	停
 bj;	健
 bs,	偬
-bs,	傯	Lcht
+bs,	傯
 bml	偲	yシ
 bsu	側
 bvj	偵

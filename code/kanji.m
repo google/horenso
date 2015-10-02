@@ -123,10 +123,10 @@ m,c	涌
 mri	涎
 mj;	涓
 mvk	涕
-m/f	涙	Ljpn
-m/R	淚	Ljpn
+m/f	涙
+m/R	淚
 m/r	泪
-m/f	淚	Lcht
+m/f	淚
 mwf	涛	i涛濤	寿の部首は寸《ｆ》
 mwf	濤	i涛濤
 mxL	涜

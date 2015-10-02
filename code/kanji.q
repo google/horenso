@@ -70,7 +70,7 @@ qfj	稈
 qvj	程
 qsk	稍
 qqk	税
-qqk	稅	Lcht
+qqk	稅
 qxi	稔	yネン	hyジン
 qxo	稗
 qge	稘
