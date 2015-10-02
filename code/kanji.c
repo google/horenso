@@ -16,7 +16,8 @@ cwn	兎
 cwn	兔
 cmv	児
 cmv	兒
-cw;	党
+cw;	党	i党黨
+cw;	黨	i党黨	b儿	hb黑
 cwm	兜
 chc	兢	部首の［十］を除けば、［兄］が残り、その部首は［儿］->ｃ
 cxc	入
@@ -140,6 +141,7 @@ ck;	剛
 cxu	剝
 cgo	剞
 cj;	剣
+cj;	劍
 clz	剤
 clz	劑
 cxU	剥
@@ -158,7 +160,6 @@ cdm	劃
 cjx	劇
 czp	劈
 c.v	劉	yリュウ
-cj:	劍
 cjp	劒
 cjP	劔
 c.,	力
@@ -171,8 +172,10 @@ cwl	努
 ckp	劫
 cho	劬
 cph	劭
-c/m	励
-c/,	労
+c/m	励	i励勵
+c/m	勵	i励勵
+c/,	労	i労勞
+c/,	勞	i労勞
 cj/	劵
 ckl	効
 cdu	劼
@@ -186,12 +189,11 @@ cj,	勍
 c/l	勒
 cwo	動
 chs	勖	yキョク
-chS	勗	yキョク
+chs	勗	yキョク
 cfl	勘
 c,c	務
 chx	勛	[勲勳]の異体字なので、シフト可
 cpu	勝
-c/<	勞
 c;u	募	莫の部首は艹《ｕ》
 c./	勠
 cq;	勢
@@ -199,10 +201,9 @@ cr,	勣
 chl	勤
 cs;	勦
 cf;	勧
+cf;	勸
 chz	勲
 chZ	勳
-c/M	勵
-cf:	勸
 c;i	勹
 cn/	勺
 ckj	勾
@@ -232,11 +233,11 @@ c/j	匳
 cja	匸
 cyx	匹
 cha	区
+cha	區
 cbi	医	i医毉醫
 cbi	醫	i医毉醫	b匸	hb酉
 cbo	毉	i医毉醫	b匸	hb殳
 cx;	匿
-chA	區
 cna	十
 crj	千
 csc	卅
