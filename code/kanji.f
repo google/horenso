@@ -97,6 +97,7 @@ fro	嬋
 fhd	嬌
 fzi	嬖
 fpu	嬢
+fpu	孃
 fyd	嬪
 fn;	嬬
 fbp	嬰
@@ -104,7 +105,6 @@ fpy	嬲	yジョウ	hyニョウ
 fdk	嬶
 f.s	嬾
 fsi	孀
-fpU	孃
 fr;	孅
 fma	子
 fjs	孑
@@ -206,7 +206,7 @@ frk	専
 fnf	射
 fl;	尅
 fps	将
-fpS	將
+fps	將
 frK	專
 fbi	尉	yイ
 fsf	尊

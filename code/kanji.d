@@ -1,7 +1,8 @@
 dwu	々
 dbL	㊨
 dk/	㗅
-dte	単
+dte	単	i単單
+dte	單	i単單
 drd	卩	字全体が部首なので一鍵三鍵同一
 dkA	卬	yゴウ
 dmq	卮
@@ -88,7 +89,6 @@ dwl	吐
 dks	向
 dhk	君	きみ->（ｋ）ｉｍｉ
 d.j	吝	口の上に文《ｊ》がある
-dxJ	吞
 dhl	吟
 dxf	吠
 dyf	否
@@ -113,6 +113,7 @@ dkh	吳	Lcht
 dld	告
 dnw	呎	yシャク	hyフィート
 dxj	呑
+dxj	吞
 dja	呟
 dn.	周
 dn/	呪
@@ -225,7 +226,6 @@ d,s	喩
 dso	喪
 dgi	喫
 dho	喬
-dtE	單
 dhe	喰
 db;	営	営營
 dls	嗄

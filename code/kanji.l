@@ -1,9 +1,8 @@
 ljf	欠	缺缼欠𡙇
 lmd	次
 lhf	欣	yキン	hyゴン
-lck	欧	Ljpn
-lcK	歐	Ljpn
-lck	歐	Lcht
+lck	欧
+lck	歐
 l,s	欲
 lgi	欷
 lbj	欸
@@ -27,16 +26,14 @@ l,e	歟
 lma	止
 lqj	正
 lmk	此
-l;f	歩	Ljpn
-l;F	步	Ljpn
-l;f	步	Lcht
+l;f	歩
+l;f	步
 lzc	武
 l/a	歪
-lls	歳	Ljpn	yサイ	hyセイ
-lls	歲	Lcht	yサイ	hyセイ
-l/f	歴	Ljpn
-l/F	歷	Ljpn
-l/f	歷	Lcht
+lls	歳	yサイ	hyセイ
+lls	歲	yサイ	hyセイ
+l/f	歴
+l/f	歷
 ldj	歹
 lms	死
 l;a	歿
@@ -46,9 +43,8 @@ lwj	殄
 ltj	殆
 lnd	殉
 lnf	殊
-lld	残	Ljpn
-llD	殘	Ljpn
-lld	殘	Lcht
+lld	残
+lld	殘
 lyd	殍
 lz;	殕
 lpf	殖
@@ -60,14 +56,13 @@ lya	殯
 lrJ	殱
 lrj	殲
 lns	殳
-lcj	殴	Ljpn
-lcJ	毆	Ljpn
-lcj	毆	Lcht
+lcj	殴
+lcj	毆
 ltk	段
 lbl	殷
 llf	殺	殺殺煞
 ldk	殻
-ldK	殼
+ldk	殼
 lwl	殿
 lg;	毀
 lgp	毅

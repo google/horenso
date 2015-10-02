@@ -31,9 +31,8 @@
 ,d,	顎
 ,fd	顔
 ,fd	顏
-,jf	顕	Ljpn
-,jF	顯	Ljpn
-,jf	顯	Lcht
+,jf	顕
+,jf	顯
 ,fs	願
 ,w/	顚
 ,w/	顛
@@ -140,18 +139,16 @@
 ,qw	騅
 ,g,	騎
 ,g/	騏
-,jd	験	Ljpn
-,jD	驗	Ljpn
-,jd	驗	Lcht
+,jd	験
+,jd	驗
 ,z/	騙
 ,tn	騨
 ,jc	騫
 ,mr	騭	yシツ	i隲騭
 ,mr	隲	yシツ	i隲騭	b馬	hb阜
 ,we	騰
-,sd	騒	Ljpn
-,sD	騷	Ljpn
-,sd	騷	Lcht
+,sd	騒
+,sd	騷
 ,.m	騾
 ,x/	驀
 ,l,	驂

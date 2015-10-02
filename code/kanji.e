@@ -4,6 +4,7 @@ emf	四
 ed;	回
 ebk	因
 etl	団
+etl	團
 eci	囮
 elr	困
 ebj	囲
@@ -12,9 +13,8 @@ eqe	図	yズ
 eqe	圖	yズ
 e/a	囹
 eke	固
-eli	国	Ljpn
-elI	國	Ljpn
-eli	國	Lcht
+eli	国
+eli	國
 e,/	囿
 els	圀
 e;o	圃	甫の部首は用《ｏ》
@@ -23,7 +23,6 @@ ehs	圉
 ejk	圏
 ejk	圈
 ecc	園	園薗
-etL	團
 efk	圜
 ewj	土
 ewm	圡
@@ -101,6 +100,7 @@ edl	堺
 ekw	堽
 ezj	塀
 e/m	塁
+e/m	壘
 edo	塊
 eby	塋
 erk	塑
@@ -139,15 +139,14 @@ ezk	壁
 e,m	壅
 et;	壇
 edj	壊
+edj	壞
 epo	壌
 epo	壤
 edi	壑
 ekr	壕
 e,.	壗
-e/M	壘
 ekf	壙
 exj	壜	yドン	hyタン	曇の部首は日《ｊ》
-edJ	壞
 e/w	壟	yロウ	hyリョウ
 e/W	壠	yロウ	hyリョウ
 ewh	壥

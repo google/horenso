@@ -159,9 +159,8 @@ bjp	倪
 b.z	倫
 bto	倬
 b/c	倭	yワ	hyイ
-bjb	倹	Ljpn
-bjB	儉	Ljpn
-bjb	儉	Lcht
+bjb	倹
+bjb	儉
 bcu	偃
 bjs	偈
 bb;	偉
@@ -238,8 +237,8 @@ bjz	儼
 brj	全	b𠆢	hb入
 bnb	舎	漢字源による部首：人
 bnb	舍	漢字源による部首：人
-b;A	舖	漢字源による部首：人
 b;a	舗	漢字源による部首：人
+b;a	舖	漢字源による部首：人
 bz;	侮	i侮侮
 bz;	侮	i侮侮
 bqJ	𠆢

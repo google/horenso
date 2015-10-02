@@ -209,9 +209,8 @@ mbc	湮
 mw,	湯
 mcs	湲	yエン	hyカン	hyゲン
 mrr	湶
-m/.	湾	Ljpn
-m/>	灣	Ljpn
-m/.	灣	Lcht
+m/.	湾
+m/.	灣
 mms	湿
 m,m	満
 m.e	溂
@@ -338,9 +337,8 @@ m/c	瀝
 mq;	瀞	yセイ	hyジョウ
 mpv	瀟
 mvd	瀦
-m.A	瀨	Ljpn
-m.a	瀬	Ljpn
-m.a	瀨	Lcht
+m.a	瀨
+m.a	瀬
 myt	瀰
 m/l	瀲
 m.c	瀾
