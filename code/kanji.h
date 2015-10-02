@@ -5,6 +5,7 @@ hmw	弑
 hga	弓
 hvc	弔
 hbc	引
+hbg	㥯	yイン	hyオン
 hva	弖
 hzp	弗
 hk;	弘
