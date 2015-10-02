@@ -124,9 +124,8 @@ mri	涎
 mj;	涓
 mvk	涕
 m/f	涙
-m/R	淚
-m/r	泪
 m/f	淚
+m/r	泪
 mwf	涛	i涛濤	寿の部首は寸《ｆ》
 mwf	濤	i涛濤
 mxL	涜
