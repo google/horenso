@@ -12,9 +12,8 @@ eqe	図	yズ
 eqe	圖	yズ
 e/a	囹
 eke	固
-eli	国	Ljpn
-elI	國	Ljpn
-eli	國	Lcht
+eli	国
+eli	國
 e,/	囿
 els	圀
 e;o	圃	甫の部首は用《ｏ》

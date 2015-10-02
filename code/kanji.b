@@ -159,9 +159,8 @@ bjp	倪
 b.z	倫
 bto	倬
 b/c	倭	yワ	hyイ
-bjb	倹	Ljpn
-bjB	儉	Ljpn
-bjb	儉	Lcht
+bjb	倹
+bjb	儉
 bcu	偃
 bjs	偈
 bb;	偉
