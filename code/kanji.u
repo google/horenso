@@ -83,7 +83,9 @@ uro	荐
 ukf	荒
 u/c	荔	艹の下に力《ｃ》がある	yレイ	hyリ	i荔茘
 u/c	茘	艹の下に刀《ｃ》がある	yレイ	hyリ	i荔茘
-usd	荘	荘莊㽵	yソウ	hyショウ
+usd	荘	i荘莊㽵	yソウ	hyショウ
+usd	莊	i荘莊㽵	yソウ	hyショウ
+usc	㽵	i荘莊㽵	yソウ	hyショウ	b艹	hb疒
 uw;	荳
 uxv	荵	yニン	hyジン
 uco	荷
@@ -92,7 +94,6 @@ us;	荼	yタ	hyト	hyズ	hyヅ	hyジャ	hyヂヤ
 u.m	莅
 upr	莇	yショ
 u.j	莉	yリ	hyレイ
-usD	莊	荘莊㽵	yソウ	hyショウ
 uls	莎
 ujk	莖
 ucg	莚
@@ -212,6 +213,7 @@ uvx	蔦
 urq	蔬
 ubs	蔭	yイン	𦹥蔭䕃𨼲
 usu	蔵
+usu	藏
 uzc	蔽
 uhp	蕀
 uqt	蕁
@@ -240,7 +242,7 @@ udr	薈
 ujr	薊
 u/q	薐	稜の部首は禾《ｑ》
 uh;	薑
-usc	薔	yゾウ	hyショク	hyシキ	hyば	「ば」はウソ読み
+usv	薔	yゾウ	hyショク	hyシキ	hyば	「ば」はウソ読み
 ucc	薗	園薗
 uva	薙
 urw	薛
@@ -253,6 +255,7 @@ uqe	薪
 u,d	薬
 u,d	藥
 use	薮
+use	藪
 upw	薯
 uhs	薫	i薫薰
 uhs	薰	i薫薰
@@ -261,14 +264,12 @@ uq/	薺	艸の下は齊と云う部首、その部首の該当するキーは／
 uk;	藁
 unx	藉
 u.s	藍
-usU	藏
 uxx	藐	yバク	hyマク	hyビョウ	hyミョウ	貌の部首は豸《ｘ》
 uhl	藕
 u/a	藜
 ujF	藝
 uwu	藤
 uyd	藩
-usE	藪
 upe	藷
 ubx	藹
 u.z	藺
