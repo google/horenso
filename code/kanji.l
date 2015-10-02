@@ -69,7 +69,7 @@ lgp	毅
 lzj	毋
 l;s	母
 l,a	毎
-l,A	每
+l,a	每
 lxj	毒
 lbz	毓
 lyf	比
