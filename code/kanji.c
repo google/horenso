@@ -12,6 +12,7 @@ ckz	炗	i光炗	b儿	hb火
 clc	克
 csi	兌
 c,x	免
+c,x	免
 cwn	兎
 cwn	兔
 cmv	児

@@ -28,11 +28,12 @@ grl	屑
 ggi	屓
 gwj	展
 gsl	属
+gsl	屬
 gw;	屠
 g/n	屡
 gsj	層
+gsj	層
 g.,	履
-gsd	屬
 glq	屮	yサ	意味 左
 gx;	屯	yトン	hyチュン
 gge	屰	yギャク	hyゲキ
@@ -123,7 +124,6 @@ grK	巛
 grk	川
 gne	州	駲酬洲州
 gng	巡
-gsk	巢	巣巢	果の部首は木《ｋ》
 gk;	工
 gld	左
 gkd	巧

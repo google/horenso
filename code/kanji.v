@@ -5,6 +5,7 @@ vgj	虐
 vjx	虔
 vhv	虚
 v.v	虜
+v.v	虜
 vhc	虞
 vgi	虧
 vtj	虫
