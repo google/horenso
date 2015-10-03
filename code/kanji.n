@@ -146,8 +146,8 @@ nxv	特
 nja	牽
 nk;	牾
 nlg	犀	部首の牛のほかには、尸《ｇ》がある	yサイ	hyセイ
-n.A	犁
 n.a	犂
+n.a	犁
 n;n	犇
 nkv	犒
 n./	犖
@@ -190,6 +190,7 @@ n,f	猛
 nlk	猜
 ns/	猝
 n.f	猟
+n.f	獵
 n/e	猥
 npr	猩	yショウ	hyセイ
 nvz	猪
@@ -213,7 +214,6 @@ nnd	獸
 ndl	獪
 nw/	獰
 ndf	獲
-n.F	獵
 ntq	獺
 njd	玄
 nsa	率	b玄	hb十	hb亠	hb幺	yソツ	hyリツ	hyシュツ	hyスイ

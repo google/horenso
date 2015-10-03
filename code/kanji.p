@@ -35,7 +35,6 @@ pbi	盈
 pco	益
 pkj	盍
 pkm	盒
-pdv	盖
 pwo	盗
 pqr	盛
 pwO	盜
