@@ -69,6 +69,7 @@ wvi	詆
 w.r	詈
 wlr	詐
 wsf	詑	yタ	它の部首は宀《ｆ》
+ws;	譐	yソン
 wb;	詒	yイ	hyタイ
 wpf	詔
 wyw	評
