@@ -14,6 +14,7 @@ irj	戚
 ida	戛
 ida	戞
 ije	戟
+ijj	擎
 ifs	戡
 iru	戦
 iru	戰
@@ -79,7 +80,8 @@ iqu	抻
 icv	押
 itj	抽
 izU	拂
-ito	担
+ito	担	i担擔
+ito	擔	i担擔
 ith	拆
 i;l	拇	母の部首は毋《ｌ》
 ix;	拈	yネン	hyデン
@@ -252,7 +254,6 @@ ir;	擅
 itI	擇
 isy	操
 ih;	擒
-itw	擔
 ixa	擘
 ihD	據
 iqj	擠

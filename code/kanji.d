@@ -53,6 +53,7 @@ dyk	叛
 dsj	叟
 dbc	叡
 dsi	叢
+dsi	藂	b又	hb艹
 dka	口
 dk;	古
 dhd	句

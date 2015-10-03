@@ -31,6 +31,7 @@ vnc	蛇	yジャ	hyダ
 v/c	蛉
 vto	蛋	上部に疋《ｏ》がある
 vjc	蛍
+vjc	螢
 v/z	蛎
 vd;	蛔
 vbl	蛙
@@ -42,6 +43,7 @@ vhi	蛩
 vhp	蛬
 vm.	蛭
 vyx	蛮
+vyx	蠻
 vct	蛯	yえび	老の部首は耂《ｔ》
 vsl	蛸
 v,a	蛹
@@ -89,7 +91,6 @@ v,.	蝿
 v/m	螂
 v,m	融
 v,s	螟
-vjC	螢
 vre	螫
 vkm	螯
 vw;	螳
@@ -126,7 +127,6 @@ vwL	蠧
 vk.	蠱
 vlV	蠶
 vwl	蠹
-vyX	蠻
 vjv	血
 vmc	衂
 vm,	衄

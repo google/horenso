@@ -15,6 +15,7 @@ fgp	妓
 f,m	妖
 f,/	妙
 fsu	妝
+fsh	她
 fye	妣
 fsj	妥
 f;f	妨

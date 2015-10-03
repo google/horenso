@@ -46,6 +46,7 @@ ncL	焰	焔焰㷔熖燄
 ncs	焱
 nrn	然
 nps	焼
+nps	燒
 n/k	煉	東の部首は木《ｋ》
 nke	煌
 nre	煎
@@ -84,7 +85,6 @@ ncp	燄	焔焰㷔熖燄
 nxi	燉
 n.e	燎
 n.w	燐
-npS	燒
 nyw	燔
 nca	燕
 n.r	燗
@@ -159,6 +159,7 @@ njF	犭
 nyf	犯
 nle	犲
 npf	状
+npf	狀
 n,w	犹	yユウ
 nhf	狂
 nn;	狃

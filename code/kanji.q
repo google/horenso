@@ -64,6 +64,7 @@ qco	秧
 qtl	秩
 qhp	秬
 qpe	称
+qpe	稱
 qbj	移
 qgp	稀
 qfj	稈
@@ -80,7 +81,6 @@ q.e	稜
 q.r	稟
 qti	稠
 qn;	種
-qpi	稱
 qwj	稲
 qwj	稻
 qpt	稷
@@ -102,9 +102,9 @@ qpy	穠	yジョウ	hyニュウ	農の部首は辰《ｙ》
 qpd	穡	yショク	hyソク	嗇の部首は口《ｄ》
 qb;	穢
 qpu	穣
+qpu	穰
 qc:	穩
 qdj	穫
-qpU	穰
 qjw	穴
 qg;	究
 qgi	穹

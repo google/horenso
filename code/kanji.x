@@ -173,6 +173,7 @@ xjc	軒
 x,x	軛	yヤク	hyアク
 xxl	軟
 xwj	転
+xwj	轉
 xkj	軣
 xqi	軫
 xmv	軸
@@ -208,7 +209,6 @@ xln	轂
 xdk	轄
 xcz	轅
 x/n	轆
-xwJ	轉
 xsm	轌
 xv.	轍
 xh;	轎

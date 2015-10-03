@@ -15,6 +15,7 @@ wme	視
 wm;	覗
 ww;	覘
 wdj	覚
+wdj	覺
 wjf	覡
 w,t	覦
 w.e	覧
@@ -25,7 +26,6 @@ wk/	覯
 whf	覲
 wfj	観
 wfj	觀
-wdJ	覺
 w.E	覽
 wv,	覿
 wdl	角

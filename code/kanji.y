@@ -200,8 +200,8 @@ ypD	釀
 yhi	釁
 yya	釆
 yns	釈
+yns	釋
 y,q	釉
-ynS	釋
 y.f	里
 yvy	重	yチョウ	hyジュウ
 y,a	野	野埜	yヤ	hyショ

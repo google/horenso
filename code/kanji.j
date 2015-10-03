@@ -180,7 +180,7 @@ jpf	書
 jsd	曹
 j,q	曼	yマン	hyバン
 js;	曽	yソウ	hyソ
-js:	曾	yソウ	hyソ
+js;	曾	yソウ	hyソ
 jtj	替
 jla	最	最冣㝡	漢字源による部首：曰《ｊ》
 jjf	月
