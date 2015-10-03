@@ -20,6 +20,8 @@ els	圀
 e;o	圃	甫の部首は用《ｏ》
 eh;	圄	yギョ	hyゴ
 ehs	圉
+ehb	𡑭	yくれ	hyカイ
+ehb	𡋗	yくれ	hyカイ
 ejk	圏
 ejk	圈
 ecc	園	園薗
