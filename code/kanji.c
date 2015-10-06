@@ -51,7 +51,9 @@ ckm	冓
 czu	冕
 czv	冖	yベキ
 cpc	冗
-cnk	写	寫写冩
+cnk	写	i寫写冩
+cnk	寫	i寫写冩	b冖	hb宀
+cn,	冩	i寫写冩
 cfk	冠
 cvx	冢
 cla	冣	最冣㝡	yサイ	hyシュ
@@ -59,7 +61,6 @@ cck	冤
 c,m	冥
 ck/	冦
 czl	冨	冨富
-cnK	冩	寫写冩
 czo	冪
 cya	冫
 cwj	冬

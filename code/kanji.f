@@ -190,7 +190,6 @@ f.,	寥
 fxl	寧
 fls	寨
 fq;	審
-fnk	寫	寫写冩
 ffS	寬
 f.f	寮
 ff,	寰
