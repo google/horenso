@@ -211,6 +211,8 @@ mrr	湶
 m/.	湾
 m/.	灣
 mms	湿
+mms	溼
+mms	濕
 m,m	満
 m.e	溂
 mxP	溌	yハツ	発の部首は癶《ｐ》
@@ -308,7 +310,6 @@ m/e	濂
 mx.	濃
 mz/	濆
 myx	濔	yビ	hyミ	hyデイ	hyナイ
-mme	濕
 mxo	濘
 m,b	濛
 mk/	濠
