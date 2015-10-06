@@ -160,7 +160,8 @@ eqi	声
 eqi	聲	b士	hb耳
 ebi	壱
 ebi	壹
-exi	売	売賣
+exi	売	i売賣
+exi	賣	i売賣	b士	hb貝
 ekL	壷
 ekl	壺
 el;	壼

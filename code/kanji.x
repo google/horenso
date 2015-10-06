@@ -34,6 +34,7 @@ xtk	貸
 xyx	費
 xvx	貼	yチョウ
 xbk	貽
+xbi	𧶠
 x;x	貿
 xcl	賀
 x;k	賁	yホン	hyヒ	hyフン
@@ -54,7 +55,6 @@ xm,	賜
 xpc	賞
 xxv	賠
 xjv	賢
-xxi	賣	売賣
 xru	賤
 xzl	賦
 xmc	質
@@ -221,5 +221,4 @@ x/l	轣
 x/k	轤
 xyO	賓
 xsD	贈
-xxI	𧶠
 xsK	𧾷

@@ -86,6 +86,8 @@ r.q	篥
 rz,	篦
 rm,	篩
 r/m	篭
+r/m	籠
+r/z	籙	yロク
 ryp	篳
 rci	篶
 r;j	篷
@@ -120,10 +122,9 @@ rx,	籏	yはた
 rwo	籐
 rsp	籔	yソウ	hyス	hyシュ
 rrp	籖
+rrp	籤
 rwO	籘
 r.j	籟
-r/.	籠
-rrP	籤
 r,e	籥
 r.k	籬
 rzj	米
