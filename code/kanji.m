@@ -218,7 +218,8 @@ m.e	溂
 mxP	溌	yハツ	発の部首は癶《ｐ》
 mwd	溏
 mja	源
-mnc	準	mnc->準 cnc->凖 後者は異体字なのでシフトコードに移動しても構いません
+mnc	準	i準凖
+mnc	凖	i準凖	b氵	hb冫
 mkw	溘
 m.r	溜
 mkl	溝
