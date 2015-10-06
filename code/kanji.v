@@ -179,6 +179,7 @@ vdl	裃
 v,x	裄
 vsj	装
 v.m	裏
+v.m	裡
 vb;	裔
 v,v	裕
 vg;	裘
@@ -186,7 +187,6 @@ vho	裙
 v;j	補
 vsJ	裝
 vlx	裟
-v.x	裡
 vyi	裨
 v.z	裲
 vpi	裳

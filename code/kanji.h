@@ -23,9 +23,9 @@ hvz	張
 hhs	強
 h;h	弸
 hyp	弼
-htq	弾
+htq	弾	i弾彈
+htq	彈	i弾彈
 hcj	彁	yカ	hyセイ	yk
-htQ	彈
 hhi	彊
 h/l	彎
 hjw	彑
@@ -152,7 +152,8 @@ hdl	恠
 hdi	恢
 hms	恣
 hnl	恤
-htw	恥
+htw	恥	b心	hb耳
+htw	耻	b心	hb耳
 hlf	恨
 hcp	恩
 hd;	恪

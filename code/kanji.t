@@ -32,6 +32,8 @@ tgi	耆
 tvi	耋
 tm.	而
 ttk	耐
+tte	耼
+tte	聃
 t.m	耒
 tko	耕	yコウ	hyキョウ	i畊耕
 tko	畊	yコウ	hyキョウ	i畊耕	b耒	hb田
@@ -43,7 +45,6 @@ tpi	耡
 twi	耨
 tme	耳
 t,;	耶	右部が阝《；》
-ttw	耻
 ttm	耽
 tkr	耿
 t/a	聆
@@ -93,6 +94,7 @@ txl	肺
 tbl	胃
 ttp	胄
 tt;	胆
+tt;	膽
 txk	背
 ttl	胎
 tyw	胖
@@ -124,7 +126,8 @@ tjw	脛
 tqg	脣
 tnq	脩
 t;o	脯	yホ	hyフ	甫の部首は用《ｏ》
-tti	脱
+tti	脱	i脱脫
+tti	脫	i脱脫
 txi	脳
 txi	腦
 tv;	脹
@@ -169,7 +172,6 @@ tra	膳
 tqt	膵
 tq.	膸	膸髄髓
 t,j	膺
-tt/	膽
 td;	膾	yカイ
 tx.	膿	yノウ	hyドウ
 twl	臀
