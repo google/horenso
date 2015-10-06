@@ -212,7 +212,8 @@ kpq	椒
 kqd	椙	yすぎ
 khv	椚
 k,u	椛	yもみじ	hyかば	花の部首は艹《ｕ》
-kjk	検
+kjk	検	i検檢
+kjk	檢	i検檢
 khc	椡	yくぬぎ	到の部首は刂《ｃ》
 kmw	椣
 kxo	椥
@@ -345,7 +346,6 @@ kxb	檗
 kdo	檜
 kdo	桧
 kje	檠
-kjK	檢
 kpj	檣
 k/R	檪
 k,,	檬	yモウ	hyボウ

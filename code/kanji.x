@@ -111,14 +111,14 @@ xgz	跪
 xhz	跫
 x/,	路
 xv;	跳
-xrk	践
+xrk	践	i践踐
+xrk	踐	i践踐
 xhi	跼
 xwi	跿
 x.g	踉	yリョウ	hyロウ
 x,c	踊
 xtM	踌	i躊踌
 xwl	踏
-xrK	踐
 xcx	踝
 xho	踞
 xto	踟
