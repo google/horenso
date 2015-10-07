@@ -177,7 +177,8 @@ bml	偲	yシ
 bsu	側
 bvj	偵
 bhz	偶
-bwm	偸	yトウ	hyチュウ
+bwm	偸	yトウ	hyチュウ	i偸偷
+bwm	偷	yトウ	hyチュウ	i偸偷
 bg;	偽
 bdi	傀
 bzf	傅
