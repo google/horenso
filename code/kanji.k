@@ -200,6 +200,7 @@ kfk	棺
 kz;	棻
 k/e	椀
 kdp	椁
+kdp	槨
 krw	椄
 kbj	椅
 kga	椈
@@ -290,7 +291,6 @@ kdw	槝	yかし
 k/v	櫳
 k/v	槞
 kl,	槧
-kdz	槨
 ktq	槫
 krq	槭	yセキ	hyシャク	hyスク	hyサク
 klm	槲
