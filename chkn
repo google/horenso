@@ -298,6 +298,7 @@ sub read_codes {
     %codes = ();
     %suggestions = ();
     my %unassigned_by_priority;
+    my $total_assigned;
 
     for my $codes_file (@codes_files) {
         open my $codes, $codes_file
@@ -316,10 +317,13 @@ sub read_codes {
             my $priority = $kanji_to_priority{$value};
             next if !defined($priority) and $codes_file =~ m#/kanji\.#;
 
-            if ($summarize_unassigned &&
-                    $codes_file =~ m#/kanji\.unassigned$#) {
-                my $priority_array = $unassigned_by_priority{$priority} //= [];
-                push @$priority_array, $value;
+            if ($summarize_unassigned) {
+                if ($codes_file =~ m#/kanji\.unassigned$#) {
+                    my $pri_array = $unassigned_by_priority{$priority} //= [];
+                    push @$pri_array, $value;
+                } elsif ($codes_file =~ m#/kanji.[^/]+$#) {
+                    $total_assigned++;
+                }
             }
 
             # コードが衝突する場合、自動的にコードを整理
@@ -418,7 +422,10 @@ sub read_codes {
             }
             print "\n\n";
         }
-        print "total unassigned: $total_unassigned\n";
+        print "合計漢字数\n";
+        print "unassigned: $total_unassigned\n";
+        printf "assigned: $total_assigned (%.1f%%)\n",
+            ($total_assigned * 100 / ($total_assigned + $total_unassigned));
         exit 0;
     }
 }
