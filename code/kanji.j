@@ -19,6 +19,7 @@ jgl	救
 jvk	敕	jvk->敕 cvk->勅 部首を取り除くと、左部の束が残り、その部首は木->ｋ [敕]は異体字なのでシフト可
 jkz	敖
 jxc	敗
+jxt	朒	yニク	hyジク	hyヂク
 jpe	敘	敘敍叙
 jhf	教
 jz;	敝
@@ -118,7 +119,6 @@ jqG	晉
 jqg	晋
 jbz	晏
 jlr	晒
-jyS	晚
 jti	晝
 jgp	晞
 jq/	晟
@@ -128,7 +128,8 @@ jkw	晤
 jdl	晦	毎の部首は毋《ｌ》
 jkr	晧
 jqo	晨
-jys	晩
+jys	晩	i晩晚
+jys	晚	i晩晚
 jzv	普
 jjs	景
 jrw	晰	yセキ	hyシャク
