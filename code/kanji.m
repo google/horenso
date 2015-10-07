@@ -15,6 +15,7 @@ mc,	汚
 mc,	汙
 mc,	污
 mpo	汝
+mpt	漳
 mkq	汞
 mka	江
 mtm	池
@@ -102,6 +103,7 @@ mkc	洽
 mxv	派
 m.f	流
 mpf	浄
+mpf	淨
 mr.	浅
 mrk	浙
 mnr	浚
@@ -153,7 +155,6 @@ mpr	淞
 mtl	淡
 mcn	淤	yオ	hyヨ
 mfd	淦
-mpF	淨
 m.w	淪
 mb.	淫
 mlm	淬
@@ -170,6 +171,7 @@ md,	渇
 mls	済
 mls	濟
 mpa	渉
+mpa	涉
 mcJ	渊
 mnl	渋	i渋澀澁	右上に止《ｌ》がある
 mnl	澀	i渋澀澁
