@@ -12,6 +12,8 @@ mra	汐
 mla	汕
 mfm	汗
 mc,	汚
+mc,	汙
+mc,	污
 mpo	汝
 mkq	汞
 mka	江
@@ -185,7 +187,8 @@ mlr	渣
 m;l	渤
 mbl	渥
 mcv	渦
-mcx	温
+mcx	温	i温溫
+mcx	溫	i温溫
 mrd	渫
 msd	測
 mb;	渭
