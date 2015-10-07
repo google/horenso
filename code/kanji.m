@@ -18,6 +18,7 @@ mpo	汝
 mkq	汞
 mka	江
 mtm	池
+mtz	涿
 mxe	汢	yぬた	右部に土《ｅ》がある
 mzj	汨	yベキ	hyミャク	hyコツ	右部に日《ｊ》がある
 mcg	汪

@@ -29,6 +29,8 @@ f;l	姆	yボ	hyモ	母の部首は毋《ｌ》
 fm,	姉
 fm,	姊
 fm.	始
+fmk	妳
+fxo	嬭	yナイ	hyダイ	hyデイ
 frl	姐	yソ
 fko	姑
 fmb	姒	部首の女を取り除くと、以が残り、その部首が人〔b〕
@@ -42,6 +44,7 @@ ffj	姦
 fbh	姨	yイ
 fvj	姪
 fgi	姫
+fgi	姬
 fcm	姶	yオウ
 fbl	姻
 fms	姿
@@ -57,6 +60,7 @@ fqf	娠
 fci	娥
 fzg	娩
 fks	娯
+fks	娛
 fnq	娵
 fnl	娶
 fpe	娼
