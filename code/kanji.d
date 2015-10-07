@@ -18,6 +18,7 @@ dsD	卽	yソク	hyショク
 djk	卿	yケイ	hyキョウ
 dfa	厂
 d,d	厄
+d,g	么	yマ	hyバ	b厶	hb丿
 d;f	厖
 d.f	厘
 dkj	厚	厚㫗

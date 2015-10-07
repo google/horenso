@@ -30,6 +30,7 @@ my $summarize_unassigned = !!$ENV{UNASSIGNED};
 
 my %rad_to_key = (
     一 => 'a',
+    丿 => 'a',
     二 => 'a',
     亠 => 'a',
     𠆢 => 'b',
