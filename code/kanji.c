@@ -22,7 +22,8 @@ cw;	黨	i党黨	b儿	hb黑
 cwm	兜
 chc	兢	部首の［十］を除けば、［兄］が残り、その部首は［儿］->ｃ
 cxc	入
-c,a	兪	yユ
+c,a	兪	yユ	i兪俞
+c,a	俞	yユ	i兪俞
 cxz	八
 ckc	公
 c/v	六
