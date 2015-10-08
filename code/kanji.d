@@ -119,6 +119,7 @@ dxj	吞
 dja	呟
 dn.	周
 dn/	呪
+dn/	咒
 dml	呰
 dkq	呱
 d,/	味
@@ -140,7 +141,6 @@ d/d	和	和咊龢	yワ	hyカ	hyオ
 dgk	咎
 dbo	咏
 dzk	咐	yブ	hyホ
-dnr	咒
 dk:	咕	yコ	《古》の異体字ではない
 dcb	咖	yカ
 ddl	咢
