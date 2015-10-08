@@ -96,7 +96,7 @@ fcb	嫣
 fk;	嫦
 fxi	嫩
 ffy	嫺
-ffY	嫻
+ffy	嫻
 fg;	嬉
 fro	嬋
 fhd	嬌
@@ -211,7 +211,7 @@ fnf	射
 fl;	尅
 fps	将
 fps	將
-frK	專
+frk	專
 fbi	尉	yイ
 fsf	尊
 fqk	尋

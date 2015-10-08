@@ -23,7 +23,7 @@ qlw	祭
 qwl	祷	i祷禱
 qwl	禱	i祷禱
 qgq	祺
-q/<	祿
+q/,	祿
 q.,	禀
 qhw	禁
 q/,	禄
@@ -36,7 +36,7 @@ qzj	福
 qpo	禝
 qhk	禦
 qgm	禧
-q/>	禮
+q/.	禮
 qvq	禰	yデイ	hyネ	i禰祢
 qvq	祢	yデイ	hyネ	i禰祢
 qpr	禳
@@ -103,7 +103,7 @@ qpd	穡	yショク	hyソク	嗇の部首は口《ｄ》
 qb;	穢
 qpu	穣
 qpu	穰
-qc:	穩
+qc;	穩
 qdj	穫
 qjw	穴
 qg;	究

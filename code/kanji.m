@@ -37,7 +37,7 @@ mvm	沈
 mxz	沌
 mkr	沍
 m,w	沐	yモク	hyボク
-m;F	沒
+m;f	沒
 mw.	沓
 mt,	沖
 mlf	沙
@@ -263,7 +263,7 @@ mv/	滴
 m/v	滷
 mkx	滸
 mlq	滾
-m,M	滿
+m,m	滿
 m.m	漁	hyギョ	yリョウ
 mye	漂
 mma	漆
@@ -327,7 +327,7 @@ m.s	濫
 mnz	濬
 m;e	濮
 mtw	濯
-myA	濱
+mya	濱
 mrJ	濳
 md;	濶
 mrs	濺

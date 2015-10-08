@@ -98,9 +98,9 @@ yto	達
 ybp	違
 ybl	遖
 ykl	遘
-y,W	遙
+y,w	遙
 ysy	遜
-yvO	遞
+yvo	遞
 ycy	遠
 yrw	遡
 yjd	遣
@@ -190,13 +190,13 @@ ync	醜
 ydy	醢
 yps	醤
 y/a	醪
-ypS	醬
+yps	醬
 yje	醯
 y/s	醴
 yhe	醵
 ypd	醸
 yhw	醺
-ypD	釀
+ypd	釀
 yhi	釁
 yya	釆
 yns	釈

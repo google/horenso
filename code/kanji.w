@@ -26,7 +26,7 @@ wk/	覯
 whf	覲
 wfj	観
 wfj	觀
-w.E	覽
+w.e	覽
 wv,	覿
 wdl	角
 wkt	觚
@@ -199,7 +199,7 @@ wnl	讐
 wlj	讒
 wqm	讖
 wfl	讙
-wlK	讚
+wlk	讚
 wle	谷
 wcn	谺	yカ	hyケ	右部に牙《ｎ》がある
 wj.	谿
@@ -209,7 +209,7 @@ wdi	豈	yガイ	hyキ	hyケ
 w;r	豊
 wco	豌
 wn;	豎
-w;R	豐
+w;r	豐
 wmf	豕
 wxl	豚	b豕	hb肉	hb月
 wpe	象	b豕	yショウ	hyゾウ

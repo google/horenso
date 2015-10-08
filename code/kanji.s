@@ -72,7 +72,7 @@ ssj	続
 sdf	綛
 ss;	綜
 s/j	綟
-s.F	綠
+s.f	綠
 stp	綢
 sji	綣
 srL	綫
@@ -105,7 +105,7 @@ snr	緝
 sxc	緞	yドン	hyダン
 svj	締
 syi	緡
-scJ	緣
+scj	緣
 srp	緤
 szk	編
 sfk	緩
@@ -130,14 +130,14 @@ swl	縢
 sna	縦
 s;f	縫
 sn;	縮
-snA	縱
+sna	縱
 s/m	縲
 s,r	縵	yマン	hyバン
 s/s	縷
 syq	縹	票の部首は示《ｑ》
 s/.	縺
 sy/	縻	糸が麻《／》に囲まれている
-ssK	總
+ssk	總
 sri	績
 sys	繁
 s;j	繃
@@ -157,7 +157,7 @@ sne	繍	yシュウ	i繡繍綉
 snw	綉	yシュウ	i繡繍綉
 shs	繦
 sbo	繧
-sdJ	繪
+sdj	繪
 sjk	繭
 ssl	繰
 sc;	繹
@@ -168,7 +168,7 @@ slm	纂
 sdl	纃
 sjp	纈
 slw	纉
-ssJ	續
+ssj	續
 srW	纎
 swk	纏
 skk	纐

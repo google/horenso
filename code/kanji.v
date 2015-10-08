@@ -113,14 +113,14 @@ vwi	蟷
 vdo	蟹
 vgo	蟻
 vrw	蟾
-v,>	蠅
+v,.	蠅
 vdm	蠍
 v;I	蠎
 vdv	蠏
 vbo	蠑
 vr;	蠕	yゼン	hyネン	需の部首は雨《；》
 vdu	蠖	yカク	hyワク	蒦の部首は艹《ｕ》
-v/J	蠟
+v/j	蠟
 v/,	蠡
 vn;	蠢
 v/k	蠣
@@ -186,7 +186,7 @@ v,v	裕
 vg;	裘
 vho	裙
 v;j	補
-vsJ	裝
+vsj	裝
 vlx	裟
 vyi	裨
 v.z	裲

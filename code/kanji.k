@@ -309,7 +309,7 @@ ksp	樔
 kvp	樗
 kyd	標
 kgp	樛
-kqJ	樞
+kqj	樞
 kpt	樟
 k,s	模
 kv.	樢	yチョウ	hyボク	hyモク	右部に鳥《．》がある

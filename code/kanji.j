@@ -54,7 +54,7 @@ jls	斬
 jt;	断
 jme	斯
 jqk	新
-jt:	斷
+jt;	斷
 j;j	方
 jcj	於
 jma	施
@@ -115,7 +115,7 @@ jvx	晁
 jmf	時
 jkp	晃
 jks	晄
-jqG	晉
+jqg	晉
 jqg	晋
 jbz	晏
 jlr	晒
@@ -162,7 +162,7 @@ jx;	暾
 jga	曁
 j,/	曄	右部の華の部首は艸（ｕ）
 jxv	曇
-jhS	曉
+jhs	曉
 jbj	曖
 jpw	曙
 j,w	曚	yモウ	hyボウ

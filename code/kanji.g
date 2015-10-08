@@ -158,7 +158,7 @@ gm.	師
 grj	席
 gtj	帯
 gvj	帳
-gtJ	帶
+gtj	帶
 gbl	帷
 gpo	常
 g;j	帽
@@ -237,7 +237,7 @@ g.e	廩
 g/w	廬	yロ	hyリョ
 gva	廰
 g,d	廱
-gvZ	廳
+gvz	廳
 gbi	廴
 gck	延
 gv;	廷

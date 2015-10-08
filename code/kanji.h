@@ -82,7 +82,7 @@ hyd	微
 hxz	徳	i徳德
 hxz	德	i徳德
 hvo	徴
-hvO	徵
+hvo	徵
 hv;	徹
 hhw	徼
 hg;	徽
@@ -313,7 +313,7 @@ hsl	懦
 hvd	懲
 hlR	懴
 h.e	懶
-hdP	懷
+hdp	懷
 hje	懸
 hlr	懺
 hhg	懼

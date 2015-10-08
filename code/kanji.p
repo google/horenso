@@ -37,7 +37,7 @@ pkj	盍
 pkm	盒
 pwo	盗
 pqr	盛
-pwO	盜
+pwo	盜
 plk	盞
 p,q	盟
 pfu	監
@@ -185,9 +185,9 @@ pro	礎
 pwq	礑
 pgz	礒
 pda	礙
-pkW	礦
+pkw	礦
 p/e	礪
 p/r	礫
 pye	礬
-pjD	縣	漢字源による部首：目
+pjd	縣	漢字源による部首：目
 pcj	𥁕	yオン	異体字の昷だと、上部に日《ｊ》がある

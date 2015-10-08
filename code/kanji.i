@@ -21,7 +21,7 @@ iru	戰
 irt	截
 i.e	戮
 igo	戯
-igO	戲
+igo	戲
 it;	戳
 itq	戴
 ikf	戸
@@ -205,7 +205,7 @@ isf	損
 ixm	搏
 ilx	搓
 isl	搔	i搔掻
-i,A	搖
+i,a	搖
 iwg	搗	右部の部首は山(g)
 in;	搦
 iwt	搨	右部に羽(t)があるから
@@ -251,11 +251,11 @@ ifa	撼
 i,.	擁
 i.r	擂
 ir;	擅
-itI	擇
+iti	擇
 isy	操
 ih;	擒
 ixa	擘
-ihD	據
+ihd	據
 iqj	擠
 ity	擡
 ivj	擢

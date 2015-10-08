@@ -9,7 +9,7 @@ nwn	灯
 nwn	燈
 nda	灰
 ;/w	灵	i䨩霊靈灵㚑	b雨
-nga	灸
+ng/a	灸
 nnr	灼
 nla	災
 n/a	炉
@@ -35,7 +35,7 @@ nc;	烟
 nj;	烱
 n;a	烹	享の部首は亠《ａ》
 n;s	烽
-ngL	焈
+ng/L	焈
 nck	焉
 ncl	焔	焔焰㷔熖燄
 n;q	焙	右上に立《ｑ》がある
@@ -43,7 +43,7 @@ nz/	焚
 nln	焜
 n,d	無
 npa	焦
-ncL	焰	焔焰㷔熖燄
+ncl	焰	焔焰㷔熖燄
 ncs	焱
 nrn	然
 nps	焼
@@ -52,7 +52,7 @@ n/k	煉	東の部首は木《ｋ》
 nke	煌
 nre	煎
 nnx	煑
-ng:	煕
+ng/:	煕
 ntl	煖
 ncz	煙
 nlf	煞	殺殺煞
@@ -66,20 +66,20 @@ n,/	煬
 nns	煮
 nrw	煽
 nsk	熄
-ngl	熈
+ng/l	熈
 n,a	熊
 nhe	熏
 njv	熒	部首：火	yケイ
 n,r	熔
 nkw	熕
 ncO	熖	焔焰㷔熖燄
-ng;	熙
+ng/;	熙
 nna	熟
 n;S	熢
 nbx	熨
 nkc	熬
 nxk	熱
-ngq	熹
+ng/q	熹
 nmf	熾
 nxl	燃
 ncp	燄	焔焰㷔熖燄
@@ -94,7 +94,7 @@ nba	燠
 ns;	燥
 nl;	燦
 nqn	燧
-ngw	燬
+ng/w	燬
 npq	燭	yショク
 npz	燮
 nt;	燵
@@ -104,7 +104,7 @@ nqr	燼
 n,e	燿
 nx;	爆
 nnk	爍	樂の部首は木《ｋ》
-n/A	爐
+n/a	爐
 n.q	爛
 nlr	爨
 nsn	爪	yソウ
@@ -134,7 +134,7 @@ nvn	牒
 nsj	牕	窓牕
 nxp	牘
 ncn	牙
-ngn	牛
+ng/n	牛
 nyr	牝
 n;d	牟	上部にム《ｄ》がある
 n;e	牡	右部に土《ｅ》がある
@@ -154,7 +154,7 @@ nkv	犒
 n./	犖
 ng/	犠
 nxo	犢
-ng?	犧
+ng/?	犧
 njf	犬
 njF	犭
 nyf	犯
