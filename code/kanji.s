@@ -1,239 +1,239 @@
 s,<	㓁
 s,m	养	养養
-stj	着
-smd	糸
-sme	絲
-sgi	糺
-sja	系
-sgl	糾
-sgj	紀
-stm	紂
 s,f	約
-skd	紅	yコウ	hyク
-sbl	紆
-syr	紊
 s,/	紋
-sxj	納	yノウ
-stu	紐
-snd	純
-syl	紕	右部に比《ｌ》がある
-slj	紗
-ska	紘
-smf	紙
-sgk	級
-szj	紛
-sb;	紜
-sro	素
-s;d	紡
-slf	索
-sms	紫
-sti	紬
-slk	紮
-s/f	累
-sls	細	yサイ
-srm	紲
-sqj	紳
-svk	紵
-spd	紹
-sld	紺
-sto	紿
-snf	終
-sje	絃
-srk	組
-sjg	絅
-sya	絆
-skm	絋
-sjd	経
-sjd	經
-skv	絎
-srh	絏
-sj;	結
-sku	絖
-spy	絛	yジョウ	hyトウ	i絛縧
-spy	縧	yジョウ	hyトウ	i絛縧
-skf	絞
-s.d	絡
-sjv	絢
-s;s	絣
-sg;	給
-sn,	絨
-spu	絮
-swj	統
-skn	絳
-sdj	絵
-srj	絶
-srj	絕
-sjs	絹
-s/l	絽	yロ	hyリョ
-sqf	綏	右部の部首は女(f)
-sjl	継
-sjl	繼
-ssj	続
-sdf	綛
-ss;	綜
-s/j	綟
-s.f	綠
-stp	綢
-sji	綣
-srL	綫
-snk	綬
-sbj	維
-sjr	綮
-swi	綯
-s/k	綰
-sks	綱
 s,,	網
-svl	綴
-sl;	綵
-s./	綸
-sgo	綺
-stl	綻
-snl	綽
-s.a	綾
 s,s	綿	yメン	hyベン	i綿緜
 s,s	緜	yメン	hyベン	i綿緜
-smo	緇	yシ	甾の部首は田《ｏ》
-shd	緊
-sy;	緋	右部に非《；》がある
-ssk	総
-s.f	緑
-sps	緒
-sdk	緕
-sf;	緘
-srl	線
-snr	緝
-sxc	緞	yドン	hyダン
-svj	締
-syi	緡
-scj	緣
-srp	緤
-szk	編
-sfk	緩
 s,;	緬	右部に面《；》がある
-sbk	緯
-syp	緲	眇の部首は目《ｐ》	yビョウ	hyミョウ
-s/d	練
-st;	緻
-scj	縁
-spo	縄
-spo	繩
-sck	縅
-sql	縉
-sbi	縊
-sv;	縋
-smg	縒	yシ	hyサ	差の部首は工《ｇ》
-sx;	縛
-skr	縞
-spa	縟
-slr	縡
-swl	縢
-sna	縦
-s;f	縫
-sn;	縮
-sna	縱
-s/m	縲
 s,r	縵	yマン	hyバン
-s/s	縷
-syq	縹	票の部首は示《ｑ》
-s/.	縺
-sy/	縻	糸が麻《／》に囲まれている
-ssk	總
-sri	績
-sys	繁
-s;j	繃
-syt	繆	翏の部首は羽《ｔ》	yビュウ	hyリュウ	hyミュウ	hyボク	hyル	hyキュウ
-srs	繊
-sjt	繋	yケイ	i繋繫
-sjt	繫	yケイ	i繋繫
-spi	織
-sru	繕
-sle	繖
-syo	繙	番の部首は田《ｏ》
-s.k	繚
-sfd	繝
-spj	繞
-sne	繡	yシュウ	i繡繍綉
-sne	繍	yシュウ	i繡繍綉
-snw	綉	yシュウ	i繡繍綉
-shs	繦
-sbo	繧
-sdj	繪
-sjk	繭
-ssl	繰
-sc;	繹
-snv	繻
-syx	繽	賓の部首は貝《ｘ》
-s.t	繿
-slm	纂
-sdl	纃
-sjp	纈
-slw	纉
-ssj	續
-srW	纎
-swk	纏
-skk	纐
-swK	纒
-sbp	纓
-slv	纔
-srw	纖
-swo	纛
-s.j	纜
-sfj	缶	yカン	hyフ	i缶缻罐
-sfj	缻	yカン	hyフ	i缶缻罐
-skj	缸
-sjf	缺	缺缼欠𡙇
-sjF	缼	缺缼欠𡙇
-scl	罅
-scv	罌
-s.v	罍
-sxi	罎	yドン	hyタン
-sfl	罐	yカン	hyフ	i缶缻罐
 s,a	网	yモウ	hyボウ
 s,A	罒
 s,.	罔	yモウ	hyボウ
-sfs	罕
-szl	罘
-skl	罟
-syw	罠
-sqk	罧	yシン	林の部首は《木》
-sbu	罨
-sw;	罩
-sla	罪
-sjo	罫
-stk	置
-sxk	罰
-spf	署
-sxl	罵
-syf	罷
-sxv	罸
-s.r	罹
-sjq	羂
-sz;	羃
-s.,	羅
-syg	羆
-sga	羇
-sgs	羈
 s,d	羊
-sha	羌
-syd	美
-sko	羔
-s/a	羚
-svm	羝	yテイ	hyタイ
-sns	羞
-she	羣
-shf	群
-sr;	羨
-sgu	義
-sk:	羮
-sd;	羯
-sgp	羲
-sre	羶
-s/,	羸
-sk;	羹
-szd	辮
-s/D	練
-syS	繁
-spF	署
-spI	𦀗
 s,>	𦉰
 s,D	𦍌
+s.d	絡
+s.f	綠
+s./	綸
+s.a	綾
+s.f	緑
+s.k	繚
+s.t	繿
+s.j	纜
+s.v	罍
+s.r	罹
+s.,	羅
+s/f	累
+s/l	絽	yロ	hyリョ
+s/j	綟
+s/k	綰
+s/d	練
+s/m	縲
+s/s	縷
+s/.	縺
+s/a	羚
+s/,	羸
+s/D	練
+s;d	紡
+s;s	絣
+s;f	縫
+s;j	繃
+sbl	紆
+sb;	紜
+sbj	維
+sbk	緯
+sbi	縊
+sbo	繧
+sbp	纓
+sbu	罨
+scj	緣
+scj	縁
+sck	縅
+sc;	繹
+scl	罅
+scv	罌
+sdj	絵
+sdf	綛
+sdk	緕
+sdj	繪
+sdl	纃
+sd;	羯
+sf;	緘
+sfk	緩
+sfd	繝
+sfj	缶	yカン	hyフ	i缶缻罐
+sfj	缻	yカン	hyフ	i缶缻罐
+sfl	罐	yカン	hyフ	i缶缻罐
+sfs	罕
+sgi	糺
+sgl	糾
+sgj	紀
+sgk	級
+sg;	給
+sgo	綺
+sga	羇
+sgs	羈
+sgu	義
+sgp	羲
+shd	緊
+shs	繦
+sha	羌
+she	羣
+shf	群
+sja	系
+sje	絃
+sjg	絅
+sjd	経
+sjd	經
+sj;	結
+sjv	絢
+sjs	絹
+sjl	継
+sjl	繼
+sji	綣
+sjr	綮
+sjt	繋	yケイ	i繋繫
+sjt	繫	yケイ	i繋繫
+sjk	繭
+sjp	纈
+sjf	缺	缺缼欠𡙇
+sjF	缼	缺缼欠𡙇
+sjo	罫
+sjq	羂
+skd	紅	yコウ	hyク
+ska	紘
+skm	絋
+skv	絎
+sku	絖
+skf	絞
+skn	絳
+sks	綱
+skr	縞
+skk	纐
+skj	缸
+skl	罟
+sko	羔
+sk:	羮
+sk;	羹
+slj	紗
+slf	索
+slk	紮
+sls	細	yサイ
+sld	紺
+sl;	綵
+slr	縡
+sle	繖
+slm	纂
+slw	纉
+slv	纔
+sla	罪
+smd	糸
+sme	絲
+smf	紙
+sms	紫
+smo	緇	yシ	甾の部首は田《ｏ》
+smg	縒	yシ	hyサ	差の部首は工《ｇ》
+snd	純
+snf	終
+sn,	絨
+snk	綬
+snl	綽
+snr	緝
+sna	縦
+sn;	縮
+sna	縱
+sne	繡	yシュウ	i繡繍綉
+sne	繍	yシュウ	i繡繍綉
+snw	綉	yシュウ	i繡繍綉
+snv	繻
+sns	羞
+spd	紹
+spy	絛	yジョウ	hyトウ	i絛縧
+spy	縧	yジョウ	hyトウ	i絛縧
+spu	絮
+sps	緒
+spo	縄
+spo	繩
+spa	縟
+spi	織
+spj	繞
+spf	署
+spF	署
+spI	𦀗
+sqj	紳
+sqf	綏	右部の部首は女(f)
+sql	縉
+sqk	罧	yシン	林の部首は《木》
+sro	素
+srm	紲
+srk	組
+srh	絏
+srj	絶
+srj	絕
+srL	綫
+srl	線
+srp	緤
+sri	績
+srs	繊
+sru	繕
+srW	纎
+srw	纖
+sr;	羨
+sre	羶
+ssj	続
+ss;	綜
+ssk	総
+ssk	總
+ssl	繰
+ssj	續
+stj	着
+stm	紂
+stu	紐
+sti	紬
+sto	紿
+stp	綢
+stl	綻
+st;	緻
+stk	置
+svk	紵
+svl	綴
+svj	締
+sv;	縋
+svm	羝	yテイ	hyタイ
+swj	統
+swi	綯
+swl	縢
+swk	纏
+swK	纒
+swo	纛
+sw;	罩
+sxj	納	yノウ
+sxc	緞	yドン	hyダン
+sx;	縛
+sxi	罎	yドン	hyタン
+sxk	罰
+sxl	罵
+sxv	罸
+syr	紊
+syl	紕	右部に比《ｌ》がある
+sya	絆
+sy;	緋	右部に非《；》がある
+syi	緡
+syp	緲	眇の部首は目《ｐ》	yビョウ	hyミョウ
+syq	縹	票の部首は示《ｑ》
+sy/	縻	糸が麻《／》に囲まれている
+sys	繁
+syt	繆	翏の部首は羽《ｔ》	yビュウ	hyリュウ	hyミュウ	hyボク	hyル	hyキュウ
+syo	繙	番の部首は田《ｏ》
+syx	繽	賓の部首は貝《ｘ》
+syw	罠
+syf	罷
+syg	羆
+syd	美
+syS	繁
+szj	紛
+szk	編
+szl	罘
+sz;	羃
+szd	辮

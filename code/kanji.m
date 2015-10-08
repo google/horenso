@@ -1,359 +1,359 @@
-mqm	水
-mq<	氵	yスイ	hyさんずい
-myf	氷	冰氷
-mbm	永
-mqM	氺
-myw	氾
-mvz	汀
-mnf	汁
-mgm	求
-myd	汎
-mra	汐
-mla	汕
-mfm	汗
-mc,	汚
-mc,	汙
-mc,	污
-mpo	汝
-mpt	漳
-mkq	汞
-mka	江
-mtm	池
-mtz	涿
-mxe	汢	yぬた	右部に土《ｅ》がある
-mx;	瀼	yノウ	hyジョウ	hyドウ
-mzj	汨	yベキ	hyミャク	hyコツ	右部に日《ｊ》がある
-mcg	汪
-msm	汰
-mg/	汲
-mz,	汳
-mjf	決
-mg.	汽
-mzv	汾
-mqf	沁
-mgw	沂
 m,f	沃
-mvm	沈
-mxz	沌
-mkr	沍
 m,w	沐	yモク	hyボク
-m;f	沒
-mw.	沓
-mt,	沖
-mlf	沙
-mm.	沚
-mxk	沛
-m;f	没
-mt.	沢
-mt.	澤
-m/A	沪	yロ	hyリョ
 m,v	沫
-mre	沮	yソ	hyショ
-msf	沱
-mc/	河
-mzm	沸
 m,d	油
-mw/	沺
-mmf	治
-mps	沼
-mke	沽
-mwc	沾	yテン	hyチョウ	占の部首は卜《ｃ》
-mc.	沿
-mhf	況
-mr;	泄	yセツ	hyエイ
-mn;	泅
-mr,	泉
-mxm	泊
-mys	泌
-mck	泓
-m;d	法
-mm/	泗
-m;g	泙	平の部首は干《ｇ》
-myr	泛
-mrl	泝
-m;s	泡
-mxc	波
-mg,	泣
-mv,	泥
-mt/	注
-myg	泯
-mtk	泰
-mca	泱
-mb,	泳
-mnD	泻
 m,s	洋
-m/x	洌
-mlw	洒	yサイ	hyセ	hyシャ	西の部首は襾《ｗ》
-mr/	洗
-mnv	洙
-m.,	洛
-mwm	洞
-mbk	洟
-mr<	洤
-mq.	津
-mb/	洩
-mkd	洪
-mhv	洫	下部に血《ｖ》がある
-mne	洲	駲酬洲州
-mpi	洳	yジョ	hyニョ
-mng	洵
-mhs	洶
-mkj	洸
-mdf	活
-mkc	洽
-mxv	派
-m.f	流
-mpf	浄
-mpf	淨
-mr.	浅
-mr.	淺
-mrk	浙
-mnr	浚
-mya	浜
-mf.	浣
-mkm	浤
-m;a	浦
-mkk	浩
-m/d	浪
-m.j	浬
-mzc	浮
 m,a	浴
-mda	海
-mq/	浸
-mpe	浹
-mqx	涁	klx->杉 mqx->涁 hyx->彬 (mqt->滲の異字体なのでシフト化しても構いません)
-mxj	涅	i涅𣵀	右上に日《ｊ》がある
-mxj	𣵀	i涅𣵀	右上に日《ｊ》がある
-mjg	涇	yケイ	hyキョウ	右部に巛《ｇ》と工《ｇ》がある
-mpd	消
 m,c	涌
-mri	涎
-mj;	涓
-mvk	涕
+m,z	渝
+m,q	游
+m,x	湎	yメン	hyベン
+m,.	湧
+m,m	満
+m,t	溟
+m,r	溶
+m,/	滅
+m,m	滿
+m,e	漫
+m,j	漾
+m,b	濛
+m,g	瀁
+m.,	洛
+m.f	流
+m.j	浬
+m.d	涼
+m./	淋
+m.q	淕
+m.w	淪
+m.e	溂
+m.r	溜
+m.m	漁	hyギョ	yリョウ
+m.z	漓
+m.v	澑
+m.s	濫
+m.x	瀏
+m.a	瀨
+m.a	瀬
+m.c	瀾
+m/A	沪	yロ	hyリョ
+m/x	洌
+m/d	浪
 m/f	涙
 m/f	淚
 m/r	泪
-mwf	涛	i涛濤	寿の部首は寸《ｆ》
-mwf	濤	i涛濤
-mxL	涜
-mdm	涯
-mcm	液
-mf/	涵
-mkn	涸
-m.d	涼
-mwa	淀
-mmg	淄		右上に巛《ｇ》がある
-mrn	淅
-mk;	淆
-mga	淇
-m./	淋
-mpj	淌	yショウ	hyトウ
-mns	淑
-mqq	淒
-m.q	淕
-mwq	淘
-ms,	淙
-mpr	淞
-mtl	淡
-mcn	淤	yオ	hyヨ
-mfd	淦
-m.w	淪
-mb.	淫
-mlm	淬
 m/j	淮
-mq,	深
-mnw	淳
-mcj	淵
-mld	混
-mcl	淹
-mwe	添
-mqr	清
-md,	渇
-mls	済
-mls	濟
-mpa	渉
-mpa	涉
-mcJ	渊
-mnl	渋	i渋澀澁	右上に止《ｌ》がある
-mnl	澀	i渋澀澁
-mnk	澁	i渋澀澁
-mjd	渓
-mcu	渕
-mqE	渗
-mfs	渙
-mpq	渚	yショ
-mjs	減
-m,z	渝
-mvl	渟
-mha	渠
-mwr	渡
-mlr	渣
+m/.	湾
+m/.	灣
+m/,	滝	yロウ	hyソウ
+m/,	瀧	yロウ	hyソウ
+m/v	滷
+m/m	漉
+m/s	漏
+m/k	漣	yレン
+m/q	潦
+m/w	澪
+m/e	濂
+m/a	濾	yロ	hyリョ
+m/z	瀘
+m/c	瀝
+m/l	瀲
+m;f	沒
+m;f	没
+m;d	法
+m;g	泙	平の部首は干《ｇ》
+m;s	泡
+m;a	浦
 m;l	渤
+m;k	滂
+m;m	澎
+m;e	濮
+mbm	永
+mb,	泳
+mbk	洟
+mb/	洩
+mb.	淫
 mbl	渥
+mb;	渭
+mbc	湮
+mbx	溢
+mbz	潁
+mba	瀛
+mc,	汚
+mc,	汙
+mc,	污
+mcg	汪
+mc/	河
+mc.	沿
+mck	泓
+mca	泱
+mcm	液
+mcn	淤	yオ	hyヨ
+mcj	淵
+mcl	淹
+mcJ	渊
+mcu	渕
 mcv	渦
 mcx	温	i温溫
 mcx	溫	i温溫
-mrd	渫
-msd	測
-mb;	渭
 mcb	渮
-mks	港
-m,q	游
-myq	渺
-ml;	渾
-mxb	湃
-ms.	湊
-mta	湍
-m,x	湎	yメン	hyベン
-mkf	湖
-mpw	湘
-mtq	湛
-mkt	湟
-m,.	湧
-mnq	湫	秋の部首は禾《ｑ》	yシュウ	hyショウ
-mbc	湮
-mw,	湯
 mcs	湲	yエン	hyカン	hyゲン
-mrr	湶
-m/.	湾
-m/.	灣
+mcz	演
+mcc	澳	yオウ	hyイク
+mdf	活
+mda	海
+mdm	涯
+md,	渇
+md.	滑
+mdp	滙	yカイ	匯滙	hyワイ
+md/	漑
+mds	潰
+md;	濶
+mdA	海
+mfm	汗
+mf.	浣
+mf/	涵
+mfd	淦
+mfs	渙
+mf,	漢
+mfa	潅
+mfk	澗
+mfl	澣
+mf;	瀚
+mff	灌
+mf<	漢
+mgm	求
+mg/	汲
+mg.	汽
+mgw	沂
+mg,	泣
+mga	淇
+mgq	滊	愾滊餼
+mhf	況
+mhv	洫	下部に血《ｖ》がある
+mhs	洶
+mha	渠
+mhe	澆	土《ｅ》は三つある
+mjf	決
+mjg	涇	yケイ	hyキョウ	右部に巛《ｇ》と工《ｇ》がある
+mj;	涓
+mjd	渓
+mjs	減
+mja	源
+mje	溪
+mjk	潔
+mjl	激
+mkq	汞
+mka	江
+mkr	沍
+mke	沽
+mkd	洪
+mkj	洸
+mkc	洽
+mkm	浤
+mkk	浩
+mkn	涸
+mk;	淆
+mks	港
+mkf	湖
+mkt	湟
+mkw	溘
+mkl	溝
+mkv	滉
+mkz	滬
+mkx	滸
+mk/	濠
+mla	汕
+mlf	沙
+mlw	洒	yサイ	hyセ	hyシャ	西の部首は襾《ｗ》
+mlm	淬
+mld	混
+mls	済
+mls	濟
+mlr	渣
+ml;	渾
+mle	溷
+mlq	滾
+mlv	潸
+mm.	沚
+mmf	治
+mm/	泗
+mmg	淄		右上に巛《ｇ》がある
 mms	湿
 mms	溼
 mms	濕
-m,m	満
-m.e	溂
-mxP	溌	yハツ	発の部首は癶《ｐ》
-mwd	溏
-mja	源
+mmd	滋
+mmr	滓	yシ	hyサイ
+mma	漆
+mm,	漬
+mnf	汁
+mn;	泅
+mnD	泻
+mnv	洙
+mne	洲	駲酬洲州
+mng	洵
+mnr	浚
+mns	淑
+mnw	淳
+mnl	渋	i渋澀澁	右上に止《ｌ》がある
+mnl	澀	i渋澀澁
+mnk	澁	i渋澀澁
+mnq	湫	秋の部首は禾《ｑ》	yシュウ	hyショウ
 mnc	準	i準凖
 mnc	凖	i準凖	b氵	hb冫
-mkw	溘
-m.r	溜
-mkl	溝
-m,t	溟
-mbx	溢
-mz.	溥	yフ	hyホ
-mje	溪
-mrh	溯
 mnt	溲	yシュ	hyソウ	右上に臼《ｔ》がある
-m,r	溶
-mle	溷
-mv.	溺
+mna	潤
+mnx	濡
+mnz	濬
+mnd	瀉
+mn/	灑	麗の部首は鹿《／》	yシャ	hyサイ	hyセ
+mpo	汝
+mpt	漳
+mps	沼
+mpi	洳	yジョ	hyニョ
+mpf	浄
+mpf	淨
+mpe	浹
+mpd	消
+mpj	淌	yショウ	hyトウ
+mpr	淞
+mpa	渉
+mpa	涉
+mpq	渚	yショ
+mpw	湘
 mpg	溽	yジョク	hyニク
-m;k	滂
-ms/	滄
-m,/	滅
-mkv	滉
-mgq	滊	愾滊餼
-mmd	滋
-mvs	滌
-md.	滑
-mmr	滓	yシ	hyサイ
-mwp	滔
-mwp	㴞
-mwl	滕
-mdp	滙	yカイ	匯滙	hyワイ
-m/,	滝	yロウ	hyソウ
-m/,	瀧	yロウ	hyソウ
-mt;	滞
-mt;	滯
-mkz	滬
-mqe	滲
-mv/	滴
-m/v	滷
-mkx	滸
-mlq	滾
-m,m	滿
-m.m	漁	hyギョ	yリョウ
-mye	漂
-mma	漆
-m/m	漉
-m/s	漏
-md/	漑
-m.z	漓
-mcz	演
-msl	漕
-mx,	漠
-mf,	漢
-m/k	漣	yレン
-m,e	漫
-mm,	漬
-ms;	漱
-mv;	漲
-mrw	漸
-m,j	漾
 mpz	漿
-mbz	潁
-mfa	潅
-mxp	潑	yハツ	發の部首は癶《ｐ》
-mjk	潔
-myc	潘
+mpv	瀟
+mpQ	渚	yショ
+mqm	水
+mq<	氵	yスイ	hyさんずい
+mqM	氺
+mqf	沁
+mq.	津
+mq/	浸
+mqx	涁	klx->杉 mqx->涁 hyx->彬 (mqt->滲の異字体なのでシフト化しても構いません)
+mqq	淒
+mq,	深
+mqr	清
+mqE	渗
+mqe	滲
+mqt	潯
+mql	瀋
+mq;	瀞	yセイ	hyジョウ
+mra	汐
+mre	沮	yソ	hyショ
+mr;	泄	yセツ	hyエイ
+mr,	泉
+mrl	泝
+mr/	洗
+mr<	洤
+mr.	浅
+mr.	淺
+mrk	浙
+mri	涎
+mrn	淅
+mrd	渫
+mrr	湶
+mrh	溯
+mrw	漸
 mrj	潛
 mrm	潜
 mrq	潟
-mna	潤
-m/q	潦
-mto	潭
-mvx	潮
-mqt	潯
-mds	潰
-mvj	潴
-mlv	潸
 mrp	潺	yセン	hyサン
-mwg	潼
+mrJ	濳
+mrs	濺
+msm	汰
+msf	沱
+ms,	淙
+msd	測
+ms.	湊
+ms/	滄
+msl	漕
+ms;	漱
+msk	澡
+mtm	池
+mtz	涿
+mt,	沖
+mt.	沢
+mt.	澤
+mt/	注
+mtk	泰
+mtl	淡
+mta	湍
+mtq	湛
+mt;	滞
+mt;	滯
+mto	潭
+mtp	澹
+mte	濁
+mtw	濯
+mts	灘
+mvz	汀
+mvm	沈
+mv,	泥
+mvk	涕
+mvl	渟
+mv.	溺
+mvs	滌
+mv/	滴
+mv;	漲
+mvx	潮
+mvj	潴
 mva	澂
 mvc	澄
-mhe	澆	土《ｅ》は三つある
-m;m	澎
-m.v	澑
-mfk	澗
-msk	澡
-mfl	澣
-m/w	澪
-mwt	澱
-mcc	澳	yオウ	hyイク
-mtp	澹
-mjl	激
-mte	濁
-m/e	濂
-mx.	濃
-mz/	濆
-myx	濔	yビ	hyミ	hyデイ	hyナイ
-mxo	濘
-m,b	濛
-mk/	濠
-mnx	濡
-m.s	濫
-mnz	濬
-m;e	濮
-mtw	濯
-mya	濱
-mrJ	濳
-md;	濶
-mrs	濺
-m/a	濾	yロ	hyリョ
-m,g	瀁
-mxl	瀆
-mnd	瀉
-mql	瀋
-m.x	瀏
-mxi	瀑
-myz	瀕
-m/z	瀘
-mf;	瀚
-mba	瀛
-m/c	瀝
-mq;	瀞	yセイ	hyジョウ
-mpv	瀟
 mvd	瀦
-m.a	瀨
-m.a	瀬
+mw.	沓
+mw/	沺
+mwc	沾	yテン	hyチョウ	占の部首は卜《ｃ》
+mwm	洞
+mwf	涛	i涛濤	寿の部首は寸《ｆ》
+mwf	濤	i涛濤
+mwa	淀
+mwq	淘
+mwe	添
+mwr	渡
+mw,	湯
+mwd	溏
+mwp	滔
+mwp	㴞
+mwl	滕
+mwg	潼
+mwt	澱
+mxe	汢	yぬた	右部に土《ｅ》がある
+mx;	瀼	yノウ	hyジョウ	hyドウ
+mxz	沌
+mxk	沛
+mxm	泊
+mxc	波
+mxv	派
+mxj	涅	i涅𣵀	右上に日《ｊ》がある
+mxj	𣵀	i涅𣵀	右上に日《ｊ》がある
+mxL	涜
+mxb	湃
+mxP	溌	yハツ	発の部首は癶《ｐ》
+mx,	漠
+mxp	潑	yハツ	發の部首は癶《ｐ》
+mx.	濃
+mxo	濘
+mxl	瀆
+mxi	瀑
+myf	氷	冰氷
+myw	氾
+myd	汎
+mys	泌
+myr	泛
+myg	泯
+mya	浜
+myq	渺
+mye	漂
+myc	潘
+myx	濔	yビ	hyミ	hyデイ	hyナイ
+mya	濱
+myz	瀕
 myt	瀰
-m/l	瀲
-m.c	瀾
-mff	灌
-mn/	灑	麗の部首は鹿《／》	yシャ	hyサイ	hyセ
-mts	灘
-mdA	海
-mpQ	渚	yショ
-mf<	漢
+mzj	汨	yベキ	hyミャク	hyコツ	右部に日《ｊ》がある
+mz,	汳
+mzv	汾
+mzm	沸
+mzc	浮
+mz.	溥	yフ	hyホ
+mz/	濆

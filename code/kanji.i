@@ -1,284 +1,284 @@
+i,/	扼	yヤク	hyアク
+i,f	抑
+i,d	抹
+i,r	捫
+i,w	揄
+i,q	揖	yユウ	hyシュウ
+i,s	揚
+i,e	揶
+i,a	揺
+i,a	搖
+i,m	摩
+i,v	摸
+i,.	擁
+i.e	戮
+i.f	拉
+i.d	掠
+i.w	撩
+i.r	擂
+i.a	擽
+i.s	攬
+i/d	或	yワク
+i/f	戻
+i/f	戾
+i/a	挊	弄挊挵
+i/A	挵	弄挊挵
+i/e	捩
+i/s	撈
+i/v	攣
+i/r	攆	Pnian3	yレン	輦はjis x 0213に入っていて、その読み方がレン、ピンインも同じくnian3なので攆の音読みもレンとして見なそう
+i;q	戊
+i;d	房
+i;v	抔
+i;r	抛
+i;f	抱
+i;l	拇	母の部首は毋《ｌ》
+i;a	捕
+i;e	捧
+i;s	撲
+ibo	按
+ibp	挧	yウ	hyク
+ibi	挨
+ibu	握
 ico	戈
 icl	戉	yエツ
-i;q	戊
+icu	我
+ich	找	yカ
+icv	押
+icp	拗	b扌	yオウ	hyヨウ	hb力	力を部首とするのは誤り
+icx	捐
+icj	掖
+icz	掩
+ic;	掾
+ici	援
+idu	戒
+ida	戛
+ida	戞
+ido	拐
+idi	拡
+idi	擴
+idf	括
+idr	挌
+idp	掛	yカイ	hyカ	hyケ
+idh	掴
+idh	摑
+ids	揩
+idj	攪
+idj	撹
+idw	擱
+idq	攫	i爴攫
+idq	爴	i爴攫	b扌	hb爪
+ifs	戡
+ifo	扞
+ifi	拑
+ifp	捍
+ifd	揀
+ifu	換
+ifa	撼
+igo	戯
+igo	戲
+igu	技
+igd	拮	yキツ	hyケツ	hyカツ	吉の部首は口《ｄ》
+iga	掎
+igq	掬
+igw	揆
+igi	揮
+igp	擬
+ihw	抂
+ihf	拒
+ihd	拠
+ihi	拱
+iha	挙	挙擧舉
+ihs	挟
+iho	挾
+ihe	据
+ihq	掀
+ihr	掘
+ih;	擒
+ihd	據
+ihA	擧	挙擧舉
+ije	戟
+ijj	擎
+iji	抉
+ijf	拳
+ijo	挂
+ijp	挈
+ijw	捲
+ijd	掲	i揭掲
+ijd	揭	i揭掲
+ijr	搴
+ijs	携	i携攜擕
+ijs	攜	i携攜擕
+ijx	擕	i携攜擕
+ija	撃
+ija	擊
+ikf	戸
+ikf	戶
+ike	扈
+ik;	扛
+ikl	扣
+ikd	抗
+iks	拘
+ika	拷
+ikj	控
+ikr	搆
+ikt	摎	yコウ	hyキョウ	hyキュウ	hyリュウ	hyル	hyク	翏の部首は羽《ｔ》
+ilf	才
+ilr	扎
+ilw	扠
+ilv	扨
+ild	拶
+ils	挫
+ila	採
+ilx	搓
+ili	搾
+ilt	摧
+il;	撒
+ilj	撮
+ilz	撰
+ile	擦
+ilq	攅
+ilq	攢
+il/	𢦏
+imd	持
+imf	指
+ima	揣
+ims	摯
 ino	戌
 ini	戍
 ine	戎
-iqw	成
-icu	我
-idu	戒
-irh	戔	yセン	hyサン
+inf	手
+inF	扌
+ind	拾
+ins	捨
+ina	授
+inp	揉
+in;	搦
 ipn	戕	yショウ	左部に爿《ｎ》がある
-i/d	或	yワク
+ipf	所
+ipd	承
+ipa	抄
+ipr	抒
+ips	招
+ipi	拭	yショク	hyシキ
+ipe	拯
+ipo	捷
+ipu	掌
+ipw	摺
+ipq	擾
+ipj	攘
+iqw	成
+iqu	抻
+iqe	振
+iqo	捶
+iqp	掣
+iqr	推
+iqf	撕
+iqj	擠
+irh	戔	yセン	hyサン
 irj	戚
-ida	戛
-ida	戞
-ije	戟
-ijj	擎
-ifs	戡
 iru	戦
 iru	戰
 irt	截
-i.e	戮
-igo	戯
-igo	戲
+ire	扇
+iro	折
+irq	拙
+iri	接
+irw	措
+ira	揃
+irp	摂
+irp	攝
+ir;	擅
+irs	擶
+isi	打
+isu	扱	yソウ
+ist	抓
+isr	拏
+isv	拵
+isj	拿
+isp	挿
+isa	捉
+iso	捜
+iso	搜
+isd	掃
+is;	掫
+isL	掻	i搔掻
+ise	插
+isf	損
+isl	搔	i搔掻
+ish	搶	yソウ	hyショウ
+isy	操
 it;	戳
 itq	戴
-ikf	戸
-ikf	戶
-i/f	戻
-i/f	戾
-i;d	房
-ipf	所
-izl	扁
-ire	扇
-ike	扈
-iya	扉
-inf	手
-inF	扌
-ilf	才
-ilr	扎
-isi	打
-izu	払
-izu	拂
 ita	托
-ik;	扛
-ifo	扞
-ilw	扠
-ikl	扣
-ilv	扨
-izo	扮
-isu	扱	yソウ
-izi	扶
-iyf	批
-i,/	扼	yヤク	hyアク
-ich	找	yカ
-ipd	承
-igu	技
-ihw	抂
-izc	抃
-ipa	抄
-iji	抉
-ixo	把
-i,f	抑
-ipr	抒
-ist	抓
-i;v	抔
-iwi	投
-iwj	抖	右部の部首は斗(j)
-ikd	抗
-iro	折
-i;r	抛
-ixi	抜	i抜拔
-ixi	拔	i抜拔
 iti	択
-iyd	披
 itl	抬
-i;f	抱
-ivu	抵
-i,d	抹
-iqu	抻
-icv	押
 itj	抽
 ito	担	i担擔
 ito	擔	i担擔
 ith	拆
-i;l	拇	母の部首は毋《ｌ》
-ix;	拈	yネン	hyデン
-i.f	拉
-izv	拊
-iyr	拌
-ixp	拍	yハク
-isr	拏
-ido	拐
-ifi	拑
-ihf	拒
 itp	拓
-icp	拗	b扌	yオウ	hyヨウ	hb力	力を部首とするのは誤り
-iks	拘
-irq	拙
-ips	招
-ixu	拝	i拝拜
-ixu	拜	i拝拜
-ihd	拠
-idi	拡
-idi	擴
-idf	括
-ipi	拭	yショク	hyシキ
-igd	拮	yキツ	hyケツ	hyカツ	吉の部首は口《ｄ》
-ipe	拯
-ihi	拱
-ijf	拳
-isv	拵
-ild	拶
-ika	拷
-ind	拾
-isj	拿
-imd	持
-ijo	挂
-imf	指
-ijp	挈
-ibo	按
-i/a	挊	弄挊挵
-idr	挌
-ivi	挑
-iha	挙	挙擧舉
-ihs	挟
-ibp	挧	yウ	hyク
-ibi	挨
-ils	挫
-iqe	振
-i/A	挵	弄挊挵
-ivz	挺
-iyw	挽
-iho	挾
-isp	挿
-isa	捉
-ixb	捌
-ifp	捍
-ixh	捏	yネツ	hyデツ
-icx	捐
-i;a	捕
-ivo	捗	yチョク	hyチキ
-iso	捜
-iso	搜
-i;e	捧
-ins	捨
-i/e	捩
-i,r	捫
-ihe	据
-ijw	捲
-iqo	捶
-ipo	捷
-ixy	捺
-ixc	捻
-ihq	掀
-isd	掃
-ina	授
-iwe	掉
-ipu	掌
-iga	掎
-iwr	掏
-ixv	排
-icj	掖
-ihr	掘
-idp	掛	yカイ	hyカ	hyケ
-iwf	掟	右部の部首は宀(f)
-i.d	掠
-ila	採
 itu	探
-iqp	掣
-iri	接
-ikj	控
-iqr	推
-icz	掩
-irw	措
-is;	掫
-igq	掬
-ijd	掲	i揭掲
-ijd	揭	i揭掲
-idh	掴
-idh	摑
-ixt	掵
-isL	掻	i搔掻
-ic;	掾
-ifd	揀
-ira	揃
-i,w	揄
-igw	揆
-inp	揉
-iys	描
-ivp	提
-ise	插
-i,q	揖	yユウ	hyシュウ
-i,s	揚
-ifu	換
-ibu	握
-ima	揣
-ids	揩
-igi	揮
-ici	援
-i,e	揶
-i,a	揺
-ikr	搆
-isf	損
-ixm	搏
-ilx	搓
-isl	搔	i搔掻
-i,a	搖
-iwg	搗	右部の部首は山(g)
-in;	搦
-iwt	搨	右部に羽(t)があるから
-iye	搬
-iwu	搭	右部の部首は艸(u)
-ijr	搴
-ish	搶	yソウ	hyショウ
-ijs	携	i携攜擕
-ijs	攜	i携攜擕
-ijx	擕	i携攜擕
-ili	搾
-irp	摂
-irp	攝
-ikt	摎	yコウ	hyキョウ	hyキュウ	hyリュウ	hyル	hyク	翏の部首は羽《ｔ》
-ivc	摘
-ilt	摧
-i,m	摩
-ims	摯
 ite	摶
-i,v	摸
-ipw	摺
-ija	撃
-ija	擊
-izb	撇	yヘツ
-i/s	撈
-il;	撒
-iwy	撓
-iqf	撕
-ixz	撚
-iwq	撞	yドウ	hyシュ	童の部首は立(q)
-ivx	撤
-ix/	撥
-i.w	撩
-iz;	撫
-ixn	播
-ilj	撮
-ilz	撰
-i;s	撲
-idj	攪
-idj	撹
 its	撻
-ifa	撼
-i,.	擁
-i.r	擂
-ir;	擅
 iti	擇
-isy	操
-ih;	擒
-ixa	擘
-ihd	據
-iqj	擠
 ity	擡
+itd	攤
+ivu	抵
+ivi	挑
+ivz	挺
+ivo	捗	yチョク	hyチキ
+ivp	提
+ivc	摘
+ivx	撤
 ivj	擢
+iv;	擲
+iwi	投
+iwj	抖	右部の部首は斗(j)
+iwe	掉
+iwr	掏
+iwf	掟	右部の部首は宀(f)
+iwg	搗	右部の部首は山(g)
+iwt	搨	右部に羽(t)があるから
+iwu	搭	右部の部首は艸(u)
+iwy	撓
+iwq	撞	yドウ	hyシュ	童の部首は立(q)
 iwo	擣	i擣𢭏
 iwo	𢭏	i擣𢭏
-ile	擦
-ihA	擧	挙擧舉
-igp	擬
-iyq	擯
-idw	擱
-iv;	擲
-irs	擶
+ixo	把
+ixi	抜	i抜拔
+ixi	拔	i抜拔
+ix;	拈	yネン	hyデン
+ixp	拍	yハク
+ixu	拝	i拝拜
+ixu	拜	i拝拜
+ixb	捌
+ixh	捏	yネツ	hyデツ
+ixy	捺
+ixc	捻
+ixv	排
+ixt	掵
+ixm	搏
+ixz	撚
+ix/	撥
+ixn	播
+ixa	擘
 ixx	擺
-i.a	擽
-ipq	擾
+iya	扉
+iyf	批
+iyd	披
+iyr	拌
+iyw	挽
+iys	描
+iye	搬
+iyq	擯
 iyv	攀
-ilq	攅
-ilq	攢
-ipj	攘
-i/v	攣
-itd	攤
-idq	攫	i爴攫
-idq	爴	i爴攫	b扌	hb爪
-i.s	攬
-il/	𢦏
-i/r	攆	Pnian3	yレン	輦はjis x 0213に入っていて、その読み方がレン、ピンインも同じくnian3なので攆の音読みもレンとして見なそう
+izl	扁
+izu	払
+izu	拂
+izo	扮
+izi	扶
+izc	抃
+izv	拊
+izb	撇	yヘツ
+iz;	撫

@@ -1,181 +1,181 @@
-rsP	䉤	yソウ	hyス	hyシュ
-rwe	劄	yトウ	hyサツ	hyチョウ	i劄箚
-rwe	箚	yトウ	hyサツ	hyチョウ	i劄箚
-rtl	竹
-rmr	竺	yジク	hyチク	hyトク
-rfl	竿
-rbj	笂
-rjr	笄
-rxl	笆
-rgj	笈
-rs;	笊
-rnQ	笋
-rlw	笏
-rpr	笑
-rra	笘
-rpq	笙	yショウ	hyソウ	hyセイ
-rvj	笛
-rtm	笞
+r,n	簗	yやな	i簗𥱋
+r,n	𥱋	yやな	i簗𥱋
+r,e	籥
+r,m	籾
+r,r	粍
 r.r	笠
-rmd	笥	yシ	hyス	司の部首は口《ｄ》
-rzl	符
-r;k	笨	本の部首は木《ｋ》
-rtj	第
-rck	笳
-ryw	笵
-rme	笶
-rlq	笹
-rre	筅
-ryr	筆
-rdj	筈
-rwj	等
-rhr	筋
-rrw	筌
-rnq	筍
-rxi	筏
-rhw	筐
-rti	筑
-rwl	筒
-rwk	答
-rlr	策
-rsK	筝
-rhi	筥
-rje	筧
-rqi	筬	下部の成の部首は戈(i)
-rqe	筮
-rlk	筰
-rho	筴
-rc;	筵
-rhW	筺
-rzo	箆
-rcj	箇
-rrl	箋
-rke	箍
-rsk	箏
-rsi	箒
-rxo	箔
-rgk	箕
-rle	算
-rh;	箘
-rzp	箙
-rhq	箜	空の部首は穴《ｑ》	yク	hyコウ
-rfi	箝
-rhp	箟
-rfk	管
-rto	箪
-rto	簞
-rri	箭
-rsj	箱	yソウ	hyショウ
-rqu	箴
-rvk	箸
-rrk	節
-rkq	篁
-rye	範
-rwi	篆
-rzm	篇
-rtk	築
-rhl	篋
-rkl	篌
-rfo	篏
-rk;	篝
-rpi	篠	yショウ	i篠筱筿
-rpi	筱	yショウ	i篠筱筿
-rpk	筿	yショウ	i篠筱筿
-rxk	篤
 r.q	篥
-rz,	篦
-rm,	篩
+r./	籃
+r.j	籟
+r.k	籬
+r.,	粒
+r.w	粮
+r.e	粱
+r.m	糧
 r/m	篭
 r/m	籠
 r/z	籙	yロク
-ryp	篳
-rci	篶
-r;j	篷
-rli	簀
-rso	簇
 r/q	簍
+r/e	簾
+r/,	粐
+r/w	糲
+r;k	笨	本の部首は木《ｋ》
+r;j	篷
+r;r	簿
+r;u	糢	yボ	hyモ	莫の部首は艹《ｕ》
+rbj	笂
+rck	笳
+rc;	筵
+rcj	箇
+rci	篶
+rco	簷
+rcl	粵
+rcl	粤
+rdj	筈
+rfl	竿
+rfi	箝
+rfk	管
+rfo	篏
+rfj	簡
+rgj	笈
+rgk	箕
+rgl	簣
+rhr	筋
+rhw	筐
+rhi	筥
+rho	筴
+rhW	筺
+rh;	箘
+rhq	箜	空の部首は穴《ｑ》	yク	hyコウ
+rhp	箟
+rhl	篋
+rhe	粁
+rha	粂	久の部首は丿《ａ》
+rjr	笄
+rje	筧
+rke	箍
+rkq	篁
+rkl	篌
+rk;	篝
+rk/	簧
+rkr	粳
+rkj	糀
+rkw	糊
+rka	糠
+rlw	笏
+rlq	笹
+rlr	策
+rlk	筰
+rle	算
+rli	簀
 rlu	簑	簑簔蓑
 rl;	簒
 rl;	篡
 rlm	簓	yささら
 rlU	簔	簑簔蓑
-r,n	簗	yやな	i簗𥱋
-r,n	𥱋	yやな	i簗𥱋
-rww	簟	yテン	hyタン	覃の部首は覀《ｗ》
-rfj	簡
-rgl	簣
-rk/	簧
-rqp	簪
+rlj	粲
+rmr	竺	yジク	hyチク	hyトク
+rmd	笥	yシ	hyス	司の部首は口《ｄ》
+rme	笶
+rm,	篩
+rmw	粢
+rmq	粫
+rnQ	笋
+rnq	筍
+rnr	粥
+rna	糅
+rpr	笑
+rpq	笙	yショウ	hyソウ	hyセイ
+rpi	篠	yショウ	i篠筱筿
+rpi	筱	yショウ	i篠筱筿
+rpk	筿	yショウ	i篠筱筿
 rpw	簫
-rxm	簱	yはた
-rco	簷
-rxu	簸
+rpe	粧
+rpu	扔	Preng1	yジョウ	hyニョウ
+rqi	筬	下部の成の部首は戈(i)
+rqe	筮
+rqu	箴
+rqp	簪
+rqj	粋
+rq;	粭
+rqw	粹
+rqk	精
+rqr	糂	yジン	hyサン	hyソン
+rqo	糘
+rra	笘
+rre	筅
+rrw	筌
+rrl	箋
+rri	箭
+rrk	節
 rru	簽
-r/e	簾
-r;r	簿
-rtp	籀
-r./	籃
-rt;	籌	i籌筹
-rt;	筹	i籌筹
 rr;	籍
-rx,	籏	yはた
-rwo	籐
-rsp	籔	yソウ	hyス	hyシュ
 rrp	籖
 rrp	籤
-rwO	籘
-r.j	籟
-r,e	籥
-r.k	籬
-rzj	米
-rvl	籵
-r,m	籾
-rhe	粁
-rha	粂	久の部首は丿《ａ》
-rya	粃
-rzk	粉
-rqj	粋
-r,r	粍
-r/,	粐
-r.,	粒
-rx;	粕
 rrj	粗
-rxj	粘
-rsm	粟	yゾク
-rwr	粡
-rmw	粢
-rcl	粵
-rcl	粤
-rnr	粥
-rpe	粧
-rzi	粨
-rmq	粫
-rq;	粭
-r.w	粮
-r.e	粱
-rlj	粲
-rkr	粳
-rqw	粹
-rsr	粽
-rqk	精
-rkj	糀
-rqr	糂	yジン	hyサン	hyソン
-rna	糅
-rkw	糊
 rro	糎
-ryq	糒
-rw;	糖
-rqo	糘
-ry;	糜
-rz/	糞
+rrK	節
+rsP	䉤	yソウ	hyス	hyシュ
+rs;	笊
+rsK	筝
+rsk	箏
+rsi	箒
+rsj	箱	yソウ	hyショウ
+rso	簇
+rsp	籔	yソウ	hyス	hyシュ
+rsm	粟	yゾク
+rsr	粽
 rsl	糟	yソウ
-rka	糠
-r;u	糢	yボ	hyモ	莫の部首は艹《ｕ》
-r.m	糧
 rse	糯
-r/w	糲
+rtl	竹
+rtm	笞
+rtj	第
+rti	筑
+rto	箪
+rto	簞
+rtk	築
+rtp	籀
+rt;	籌	i籌筹
+rt;	筹	i籌筹
+rvj	笛
+rvk	箸
+rvl	籵
 rv;	糴
 rvi	糶
-rrK	節
+rwe	劄	yトウ	hyサツ	hyチョウ	i劄箚
+rwe	箚	yトウ	hyサツ	hyチョウ	i劄箚
+rwj	等
+rwl	筒
+rwk	答
+rwi	篆
+rww	簟	yテン	hyタン	覃の部首は覀《ｗ》
+rwo	籐
+rwO	籘
+rwr	粡
+rw;	糖
+rxl	笆
+rxi	筏
+rxo	箔
+rxk	篤
+rxm	簱	yはた
+rxu	簸
+rx,	籏	yはた
+rx;	粕
+rxj	粘
+ryw	笵
+ryr	筆
+rye	範
+ryp	篳
+rya	粃
+ryq	糒
+ry;	糜
+rzl	符
+rzo	箆
+rzp	箙
+rzm	篇
+rz,	篦
+rzj	米
+rzk	粉
+rzi	粨
+rz/	糞
 rzu	𥹢
-rpu	扔	Preng1	yジョウ	hyニョウ
