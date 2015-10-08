@@ -26,7 +26,7 @@ binmode STDERR, ':utf8';
 binmode STDOUT, ':utf8';
 
 my $lang = $ENV{CHKN_LANG} // 'jpn';
-my $summarize_unassigned = !!$ENV{UNASSIGNED};
+my $stats_mode = !!$ENV{CHKN_STATS};
 
 my %rad_to_key = (
     一 => 'a',
@@ -318,7 +318,7 @@ sub read_codes {
             my $priority = $kanji_to_priority{$value};
             next if !defined($priority) and $codes_file =~ m#/kanji\.#;
 
-            if ($summarize_unassigned) {
+            if ($stats_mode) {
                 if ($codes_file =~ m#/kanji\.unassigned$#) {
                     my $pri_array = $unassigned_by_priority{$priority} //= [];
                     push @$pri_array, $value;
@@ -412,7 +412,7 @@ sub read_codes {
         die sprintf("%X", ord($ji)) if not defined $code_by_kanji{$ji};
     }
 
-    if ($summarize_unassigned) {
+    if ($stats_mode) {
         my $total_unassigned = 0;
         for my $level (reverse sort keys %unassigned_by_priority) {
             my $array = $unassigned_by_priority{$level};
