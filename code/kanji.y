@@ -204,10 +204,10 @@ yzg	辟	yヘキ
 yzl	辧
 yzl	辨
 yzu	辯
-yzx	辺
-yzx	邊
+yzx	辺	i辺邊邉
+yzx	邊	i辺邊邉
+yzs	邉	i辺邊邉
 yzc	返
 yzp	遍
-yzk	邉
 yzo	郛
 yzv	部
