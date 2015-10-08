@@ -319,7 +319,9 @@ sub read_codes {
             next if !defined($priority) and $codes_file =~ m#/kanji\.#;
 
             if ($stats_mode) {
-                if ($codes_file =~ m#/kanji\.unassigned$#) {
+                if (length($key) > 3) {
+                    # コードが３文字以上だと入力できないので、
+                    # 未割り当てとして見なす
                     my $pri_array = $unassigned_by_priority{$priority} //= [];
                     push @$pri_array, $value;
                 } elsif ($codes_file =~ m#/kanji.[^/]+$#) {
