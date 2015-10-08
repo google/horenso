@@ -673,24 +673,26 @@ BUSHU_CHART
         push @entered_text, shift(@uncommitted);
     }
 
-    my $maybe_code = join q{}, @uncommitted;
-    if ($codes{$maybe_code}) {
-        push @entered_text, $codes{$maybe_code};
+    for (my $i = 0; $i < 2; $i++) {
+        my $maybe_code = join q{}, @uncommitted;
+        if ($codes{$maybe_code}) {
+            push @entered_text, $codes{$maybe_code};
 
-        if (length($maybe_code) == 3) {
-            my @chars = split q{}, $maybe_code;
-            my %keyboard = (
-                $chars[0] => '1 ',
-                $chars[1] => '2 ',
-                $chars[2] => guide_ji($maybe_code),
-            );
-            print_keyboard \%keyboard;
+            if (length($maybe_code) == 3) {
+                my @chars = split q{}, $maybe_code;
+                my %keyboard = (
+                    $chars[0] => '1 ',
+                    $chars[1] => '2 ',
+                    $chars[2] => guide_ji($maybe_code),
+                );
+                print_keyboard \%keyboard;
+            }
+            @uncommitted = ();
         }
-        @uncommitted = ();
-    }
 
-    while (@uncommitted >= 3) {
-        push @entered_text, shift(@uncommitted);
+        while (@uncommitted >= 3) {
+            push @entered_text, shift(@uncommitted);
+        }
     }
 
     my %keyboard = ();
