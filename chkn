@@ -427,6 +427,41 @@ sub read_codes {
         print "unassigned: $total_unassigned\n";
         printf "assigned: $total_assigned (%.1f%%)\n",
             ($total_assigned * 100 / ($total_assigned + $total_unassigned));
+        print "\n";
+
+        # 部首＋読みの750個の組み合わせそれぞれに該当する漢字数を計算する
+        my %lcase_count;
+        my %ucase_count;
+        my @prefixes;
+        for my $first_key (@kanji_keys) {
+            for my $second_key (@kanji_keys) {
+                next if $second_key =~ m/[aiueo]/;
+                my $prefix = "$first_key$second_key";
+                my $lcase_occupied_count = 0;
+                my $ucase_occupied_count = 0;
+                for my $third_key (@kanji_keys) {
+                    my $lcase_code = $prefix . $third_key;
+                    my $ucase_code = $prefix . shift_key($third_key);
+                    if (defined $codes{$lcase_code}) {
+                        $lcase_occupied_count++;
+                    }
+                    if (defined $codes{$ucase_code}) {
+                        $ucase_occupied_count++;
+                    }
+                }
+                $lcase_count{$prefix} = $lcase_occupied_count;
+                $ucase_count{$prefix} = $ucase_occupied_count;
+                push @prefixes, $prefix;
+            }
+        }
+        @prefixes = sort { $lcase_count{$b} <=> $lcase_count{$a} } @prefixes;
+        printf "prefix code# codE#\n";
+        for my $prefix (@prefixes) {
+            my $lcase= $lcase_count{$prefix} // 0;
+            my $ucase= $ucase_count{$prefix} // 0;
+            printf "%s     %5d %5d\n", $prefix, $lcase, $ucase;
+        }
+        print "\n";
         exit 0;
     }
 }
