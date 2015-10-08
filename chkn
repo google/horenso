@@ -427,7 +427,6 @@ sub read_codes {
         print "unassigned: $total_unassigned\n";
         printf "assigned: $total_assigned (%.1f%%)\n",
             ($total_assigned * 100 / ($total_assigned + $total_unassigned));
-        print "\n";
 
         # 部首＋読みの750個の組み合わせそれぞれに該当する漢字数を計算する
         my %lcase_count;
@@ -444,9 +443,13 @@ sub read_codes {
                     my $ucase_code = $prefix . shift_key($third_key);
                     if (defined $codes{$lcase_code}) {
                         $lcase_occupied_count++;
-                    }
-                    if (defined $codes{$ucase_code}) {
-                        $ucase_occupied_count++;
+                        if (defined $codes{$ucase_code}) {
+                            $ucase_occupied_count++;
+                        }
+                    } elsif (defined $codes{$ucase_code}) {
+                        print "${lcase_code}に該当する漢字がないのに、";
+                        print "${ucase_code}に「$codes{$ucase_code}」が";
+                        print "割り当てられている。\n";
                     }
                 }
                 $lcase_count{$prefix} = $lcase_occupied_count;
@@ -455,7 +458,7 @@ sub read_codes {
             }
         }
         @prefixes = sort { $lcase_count{$b} <=> $lcase_count{$a} } @prefixes;
-        printf "prefix code# codE#\n";
+        printf "\nprefix code# codE#\n";
         for my $prefix (@prefixes) {
             my $lcase= $lcase_count{$prefix} // 0;
             my $ucase= $ucase_count{$prefix} // 0;
