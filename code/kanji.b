@@ -58,6 +58,7 @@ bco	伽	yカ	hyキャ
 bwu	佃
 btu	但
 bv;	佇
+bvp	仃
 bbk	位
 bvl	低
 bnc	住
@@ -94,7 +95,8 @@ b.a	侖	yリン	hyロン
 bsm	侘
 bhc	供
 bbl	依	yイ
-bhb	侠
+bhb	侠	i侠俠
+bhb	俠	i侠俠
 bcj	価
 bcj	價
 bqm	侭
