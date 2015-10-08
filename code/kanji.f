@@ -184,6 +184,7 @@ ffp	寒
 fhs	寓
 fpw	寔
 ffs	寛
+ffs	寬
 fqj	寝
 fqj	寢
 fxu	寞	莫の部首は艸《ｕ》
@@ -194,7 +195,6 @@ f.,	寥
 fxl	寧
 fls	寨
 fq;	審
-ffS	寬
 f.f	寮
 ff,	寰
 f;k	寳

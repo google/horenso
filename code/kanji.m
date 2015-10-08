@@ -21,6 +21,7 @@ mka	江
 mtm	池
 mtz	涿
 mxe	汢	yぬた	右部に土《ｅ》がある
+mx;	瀼	yノウ	hyジョウ	hyドウ
 mzj	汨	yベキ	hyミャク	hyコツ	右部に日《ｊ》がある
 mcg	汪
 msm	汰
@@ -105,6 +106,7 @@ m.f	流
 mpf	浄
 mpf	淨
 mr.	浅
+mr.	淺
 mrk	浙
 mnr	浚
 mya	浜
@@ -164,7 +166,6 @@ mnw	淳
 mcj	淵
 mld	混
 mcl	淹
-mr>	淺
 mwe	添
 mqr	清
 md,	渇
@@ -249,6 +250,7 @@ mvs	滌
 md.	滑
 mmr	滓	yシ	hyサイ
 mwp	滔
+mwp	㴞
 mwl	滕
 mdp	滙	yカイ	匯滙	hyワイ
 m/,	滝	yロウ	hyソウ

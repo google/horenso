@@ -40,6 +40,7 @@ ilf	才
 ilr	扎
 isi	打
 izu	払
+izu	拂
 ita	托
 ik;	扛
 ifo	扞
@@ -79,7 +80,6 @@ i,d	抹
 iqu	抻
 icv	押
 itj	抽
-izU	拂
 ito	担	i担擔
 ito	擔	i担擔
 ith	拆
