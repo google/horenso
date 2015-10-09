@@ -417,13 +417,60 @@ sub read_codes {
     if ($stats_mode) {
         my $total_unassigned = 0;
         for my $level (reverse sort keys %unassigned_by_priority) {
+            my $dim = 2;
             my $array = $unassigned_by_priority{$level};
             printf "pri %d(%d unassigned):\n", $level, scalar(@$array);
-            $total_unassigned += scalar(@$array);
-            for my $kanji (@$array) {
-                print $kanji;
+            while ($dim * $dim * 3 < @$array * 4) {
+                $dim++;
             }
-            print "\n\n";
+            my @img;
+            for (my $i = 0; $i < ($dim * $dim); $i++) {
+                push @img, q{　};
+            }
+            $total_unassigned += @$array;
+            for my $kanji (sort @$array) {
+                my $hash = ord($kanji);
+                my $x = 0;
+                my $y = 0;
+                for (my $i = 0; $i < 7; $i++) {
+                    $y <<= 1;
+                    $y |= $hash & 1;
+                    $hash >>= 1;
+                    $x <<= 1;
+                    $x |= $hash & 1;
+                    $hash >>= 1;
+                }
+                $x *= ($dim - 1);
+                $y *= ($dim - 1);
+                {
+                    use integer;
+                    $x /= 127;
+                    $y /= 127;
+                }
+                while ($img[$x + ($y * $dim)] ne q{　}) {
+                    if ($y & 1) {
+                        if (--$x < 0) {
+                            $x = 0;
+                            $y++;
+                        }
+                    } elsif (++$x >= $dim) {
+                        $x = $dim - 1;
+                        $y++;
+                    }
+                    if ($y >= $dim) {
+                        $y = 0;
+                        $x = 0;
+                    }
+                }
+                $img[$x + ($y * $dim)] = $kanji;
+            }
+            for (my $y = 0; $y < $dim; $y++) {
+                for (my $x = 0; $x < $dim; $x++) {
+                    print $img[$x + ($y * $dim)];
+                }
+                print "\n";
+            }
+            print "\n";
         }
         print "合計漢字数\n";
         print "unassigned: $total_unassigned\n";
