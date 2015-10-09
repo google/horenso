@@ -45,7 +45,8 @@ dbm	哇
 dbj	員
 dbp	唖
 dby	啊
-db;	営	営營
+db;	営	i営營
+db;	營	i営營	bツ	hb火
 dbu	嗚	hyオ	yウ
 dbn	噎
 db,	噫
