@@ -114,7 +114,8 @@ wlk	讃
 wlj	讒
 wlk	讚
 wle	谷
-wme	視
+wme	視	i視視
+wme	視	i視視
 wm;	覗
 wml	觜
 wmr	詞
@@ -126,7 +127,7 @@ wm/	諮
 wmP	謚	yシ	益の部首は皿《ｐ》
 wmq	識
 wmf	豕
-wmE	視
+wms	豉
 wna	詢
 wnw	諄
 wnr	諏
@@ -408,7 +409,6 @@ _08C3E	谾
 _08C43	豃
 _08C45	豅
 _08C47	豇
-_08C49	豉
 _08C4B	豋
 _08C4D	豍
 _08C4F	豏
