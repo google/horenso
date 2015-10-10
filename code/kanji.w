@@ -200,7 +200,8 @@ wwk	討
 wwe	諂
 wwl	謄
 wwj	豆
-wx;	覇	霸覇
+wx;	覇	i霸覇
+wx;	霸	i霸覇	b覀	hb雨
 wxi	訥
 wxj	認
 wxk	読
