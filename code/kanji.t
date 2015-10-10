@@ -201,9 +201,10 @@ tvl	聴
 tvl	聽
 tvo	肇
 tv;	脹
-tvj	腸
-tvu	膓
+tvj	腸	i腸膓
+tvj	膓	i腸膓
 tvk	艇
+tvp	翟	yテキ	hyジャク	hyタク
 twi	耨
 twe	肚	右部は土(e)
 twj	胴
@@ -263,7 +264,6 @@ _07FD0	翐
 _07FD1	翑
 _07FDB	翛
 _07FDC	翜
-_07FDF	翟
 _07FE2	翢
 _07FE3	翣
 _07FE5	翥
