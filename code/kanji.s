@@ -47,6 +47,7 @@ sbi	縊
 sbo	繧
 sbp	纓
 sbu	罨
+sbn	縈	yエイ	hyヨウ	b糸	hb火
 scj	緣
 scj	縁
 sck	縅
@@ -163,7 +164,8 @@ spF	署
 spI	𦀗
 sqj	紳
 sqf	綏	右部の部首は女(f)
-sql	縉
+sql	縉	i縉縉
+sql	縉	i縉縉
 sqk	罧	yシン	林の部首は《木》
 sro	素
 srm	紲
@@ -328,7 +330,6 @@ _07DF7	緷
 _07DF9	緹
 _07DFA	緺
 _07E03	縃
-_07E08	縈
 _07E0C	縌
 _07E0E	縎
 _07E0F	縏
