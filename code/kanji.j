@@ -36,14 +36,15 @@ j;a	暴
 j;k	朋
 j;s	望
 jbo	斡	yアツ
-jbl	映
+jbl	映	i映暎
+jbl	暎	i映暎
 jbz	晏
 jbp	暈
-jba	暎
 jbk	暗
 jbj	曖
 jb;	曳
 jb:	曵
+jbi	昀	yイン
 jcj	於
 jck	旺
 jcv	易	yエキ
@@ -272,7 +273,6 @@ _065F3	旳
 _065F4	旴
 _065F9	旹
 _065FC	旼
-_06600	昀
 _06604	昄
 _06608	昈
 _06609	昉
