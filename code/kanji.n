@@ -110,6 +110,7 @@ nkd	狐
 nka	狡
 nkr	猴
 nkt	烤	yコウ
+nkq	烘	yコウ	hyク
 nla	災
 nlw	炸	yサク
 nln	焜
@@ -251,7 +252,6 @@ _070CA	烊
 _070D1	烑
 _070D3	烓
 _070D4	烔
-_070D8	烘
 _070DC	烜
 _070EC	烬
 _070EF	烯
