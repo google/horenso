@@ -116,6 +116,7 @@ my %rad_to_key = (
     足 => 'x',
     𧾷 => 'x',
     身 => 'x',
+    辶 => 'y',
     酉 => 'y',
     阜 => ';',
     隹 => ';',
@@ -272,7 +273,11 @@ sub guide_ji {
         # 次常用漢字を赤く描画する
         return "\e[31m$raw_ji\e[39m$padding";
     } elsif ($priority == 3) {
+        # もっと優先度の低い字は緑
         return "\e[32m$raw_ji\e[39m$padding";
+    } elsif ($priority == 2) {
+        # 次は黄色
+        return "\e[33m$raw_ji\e[39m$padding"
     } else {
         return "$raw_ji$padding";
     }

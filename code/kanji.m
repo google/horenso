@@ -80,7 +80,7 @@ mbz	潁
 mba	瀛
 mc,	汚
 mc,	汙
-mc,	污
+mci	污
 mcg	汪
 mc/	河
 mc.	沿
@@ -178,9 +178,9 @@ mm.	沚
 mmf	治
 mm/	泗
 mmg	淄		右上に巛《ｇ》がある
-mms	湿
-mms	溼
-mms	濕
+mms	湿	i湿濕溼
+mmw	溼	i湿濕溼
+mms	濕	i湿濕溼
 mmd	滋
 mmr	滓	yシ	hyサイ
 mma	漆

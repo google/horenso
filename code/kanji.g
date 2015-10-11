@@ -233,7 +233,8 @@ gxo	帛
 gxk	年
 gxj	廃
 gxj	廢
-gxz	廼	迺廼	yナイ	hyダイ
+gxz	廼	i迺廼	yナイ	hyダイ
+gxz	迺	i迺廼	yナイ	hyダイ	b廴	hb辶
 gyp	尾
 gyo	屁	屁𥧔
 gyd	岷

@@ -190,7 +190,6 @@ ywI	都
 yxp	農
 yxo	迚
 yxv	迫
-yxz	迺	迺廼	yナイ	hyダイ
 yx;	遁
 yxb	遯
 yxg	邈
