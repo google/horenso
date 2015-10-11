@@ -128,9 +128,10 @@ qro	竊
 qrw	竰
 qrJ	祖
 qsk	稍
-qsj	窓	窓牕
-qsm	窗
-qsM	窻
+qsj	窓	i窓牕窗窻
+qsj	窗	i窓牕窗窻
+qsm	窻	i窓牕窗窻
+qsm	牕	i窓牕窗窻
 qs;	竃
 qs:	竈
 qtl	秩
