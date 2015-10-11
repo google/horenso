@@ -81,7 +81,8 @@ hdy	悝	yカイ	hyリ	忄を取り除くと里《ｙ》が残る
 hdh	愕
 hdj	愨
 hdq	愾	愾滊餼	yガイ	hyキ	hyケ
-hdo	慨
+hdo	慨	i慨慨
+hdo	慨	i慨慨
 hdw	懈	yカイ	hyケ	解の部首は角《ｗ》
 hdp	懐
 hdp	懷
@@ -243,7 +244,8 @@ hsr	惻
 hsk	愡
 hsp	愴
 hsi	慥
-hs;	憎
+hs;	憎	i憎憎
+hs;	憎	i憎憎
 hso	懆
 hsl	懦
 htq	弾	i弾彈
@@ -547,3 +549,7 @@ _06201	戁
 _06203	戃
 _06204	戄
 _06207	戇
+_223AD	𢎭
+_226F3	𢛳
+_2285B	𢡛
+_228AB	𢢫
