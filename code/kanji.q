@@ -170,7 +170,6 @@ qyo	𥧔	屁𥧔
 qzl	祓
 qzj	福
 qzk	秉
-qz;	竝
 qzi	竡
 qzJ	福
 _04105	䄅
