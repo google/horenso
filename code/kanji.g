@@ -82,8 +82,6 @@ ggs	嶬
 ggo	巍
 ggk	希
 ggl	幾
-ggp	廏
-ggd	廐
 gg;	弃
 ggU	﨑	i嵜﨑崎㟢
 ghg	局
@@ -480,7 +478,6 @@ _05EB3	庳
 _05EB4	庴
 _05EB9	庹
 _05EBE	庾
-_05EC4	廄
 _05EC5	廅
 _05EC6	廆
 _05EC7	廇
