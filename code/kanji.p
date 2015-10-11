@@ -64,12 +64,13 @@ pga	瞶
 pgp	碕
 pgu	磯
 pgz	礒
-php	皸
-phw	皹
+php	皸	i皸皹
+php	皹	i皸皹
 phe	瞿
 phd	矜
 phs	矩
 phf	矯
+pho	眶	yキョウ	hyコウ
 pjs	盻
 pjd	県
 pja	眩
@@ -261,7 +262,6 @@ _07732	眲
 _07733	眳
 _07734	眴
 _07735	眵
-_07736	眶
 _07739	眹
 _0773D	眽
 _0773E	眾
