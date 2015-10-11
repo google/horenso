@@ -88,9 +88,9 @@ dga	危
 dgj	却
 dgj	卻
 dgq	厩	i厩廏廐廄
-dgq	廄	i厩廏廐廄
-dgz	廏	i厩廏廐廄
-dgz	廐	i厩廏廐廄
+dgq	廄	i厩廏廐廄	b厂	hb广
+dgz	廐	i厩廏廐廄	b厂	hb广
+dgz	廏	i厩廏廐廄	b厂	hb广
 dge	吃
 dgd	吉
 dgh	吸
