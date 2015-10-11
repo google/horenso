@@ -40,6 +40,8 @@ rfj	簡
 rgj	笈
 rgk	箕
 rgl	簣
+rg;	簋	i簋𣪘
+rg;	𣪘	i簋𣪘	b竹	hb殳
 rhr	筋
 rhw	筐
 rhi	筥
@@ -269,7 +271,6 @@ _07C02	簂
 _07C03	簃
 _07C05	簅
 _07C09	簉
-_07C0B	簋
 _07C0C	簌
 _07C0E	簎
 _07C0F	簏
