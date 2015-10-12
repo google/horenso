@@ -113,6 +113,7 @@ ijs	攜	i携攜擕
 ijx	擕	i携攜擕
 ija	撃
 ija	擊
+ijb	撿
 ikf	戸
 ikf	戶
 ike	扈
@@ -502,7 +503,6 @@ _064AC	撬
 _064B3	撳
 _064BD	撽
 _064BE	撾
-_064BF	撿
 _064C9	擉
 _064CB	擋
 _064CC	擌

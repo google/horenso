@@ -147,7 +147,7 @@ wpj	誦
 wpa	諚
 wpo	諸
 wpd	謖
-wpW	證
+wps	證
 wpr	譲
 wpr	讓
 wpe	象	b豕	yショウ	hyゾウ
