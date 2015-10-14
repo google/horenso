@@ -272,7 +272,6 @@ cyV	卑
 czi	兵
 czu	冕
 czv	冖	yベキ
-czl	冨	冨富
 czo	冪
 czc	分
 czg	刎

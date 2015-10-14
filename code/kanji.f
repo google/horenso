@@ -224,7 +224,8 @@ fzi	嬖
 fzd	孚
 fzs	孵
 fz;	宀	yベン	hyメン
-fzl	富	冨富
+fzl	富	i冨富
+fzl	冨	i冨富	b宀	hb冖
 fzk	封
 _036CF	㛏
 _0376B	㝫
