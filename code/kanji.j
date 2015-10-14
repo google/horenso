@@ -104,7 +104,9 @@ jl;	昏
 jld	昨
 jlr	晒
 jlk	暫
-jla	最	最冣㝡	漢字源による部首：曰《ｊ》
+jla	最	i最冣㝡	漢字源による部首：曰《ｊ》	b曰
+jla	㝡	i最冣㝡	b曰	hb宀
+jlz	冣	i最冣㝡	b曰	hb冖	yサイ	hyシュ
 jlg	朔	右部の屰の部首は屮《ｇ》
 jms	支
 jme	斯

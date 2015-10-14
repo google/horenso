@@ -155,7 +155,6 @@ clc	克
 clv	冊
 clV	册
 cl;	再
-cla	冣	最冣㝡	yサイ	hyシュ
 clb	刪
 clj	刷
 clk	刻
