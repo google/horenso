@@ -92,7 +92,7 @@ yla	酸
 yle	醋
 ymf	辞	i辤辞辭
 ymf	辭	i辤辞辭
-ymv	辤	辤辞辭 [辤]は異体字なのでコードをシフトに移動しても構いません
+ymv	辤	i辤辞辭
 ymS	迩
 yms	邇
 yna	述
