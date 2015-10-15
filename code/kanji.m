@@ -104,7 +104,6 @@ mda	海
 mdm	涯
 md,	渇
 md.	滑
-mdp	滙	yカイ	匯滙	hyワイ
 md/	漑
 mds	潰
 md;	濶

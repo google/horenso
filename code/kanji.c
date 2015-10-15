@@ -68,7 +68,8 @@ cdo	剴
 cdm	劃
 cdu	劼
 cdk	劾
-cdp	匯	yカイ	匯滙	hyワイ
+cdp	匯	yカイ	i匯滙	hyワイ
+cdp	滙	yカイ	i匯滙	hyワイ	b匚	hb氵
 cdf	囘
 cfk	冠
 cfu	凵
@@ -212,7 +213,8 @@ cs/	剿	yソウ
 cs;	勦
 csp	匆	i匆匇
 csp	匇	i匆匇
-csu	匝	yソウ	匝帀
+csu	匝	yソウ	i匝帀
+csu	帀	yソウ	i匝帀	b匚	hb巾
 csc	卅
 csm	卆
 csj	卒
@@ -256,7 +258,8 @@ cx;	匿
 cxj	南
 cxi	博	yハク	i愽博
 cxi	愽	yハク	i愽博	b十	hb忄
-cxm	嚢	囊嚢
+cxm	嚢	i囊嚢
+cxm	囊	i囊嚢	b八	hb口
 cya	冫
 cyi	凭
 cyz	判

@@ -308,7 +308,6 @@ dx;	喃
 dxv	噸
 dxo	噺
 dxu	嚀	yネイ	hyニョウ
-dxm	囊	囊嚢
 dxa	𠫓	yトツ	ムを取り除くと亠《ａ》が残る
 dxp	啪	Ppa1	yハク	j拍
 dxh	吧

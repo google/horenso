@@ -190,7 +190,6 @@ gsj	層
 gsa	岔	yタ	hyサ
 gs;	崢
 gso	巽
-gsu	帀	yソウ	匝帀
 gta	岱
 gtl	嵶
 gtk	帙
