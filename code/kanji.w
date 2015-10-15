@@ -152,7 +152,7 @@ wpr	譲
 wpr	讓
 wpe	象	b豕	yショウ	hyゾウ
 wpO	諸
-wqj	西	東西南北
+wqj	西
 wql	親
 wqo	訊
 wq;	診

@@ -319,7 +319,7 @@ kvw	欟	yつき	hyカン	観の部首は見《ｗ》	i欟𣠤
 kvw	𣠤	yつき	hyカン	観の部首は見《ｗ》	i欟𣠤
 kwa	朷
 kw/	杜
-kwj	東	東西南北
+kwj	東
 kwr	桃
 kwe	桐
 kwh	檔	i檔档

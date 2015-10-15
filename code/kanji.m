@@ -337,7 +337,8 @@ mx.	濃
 mxo	濘
 mxl	瀆
 mxi	瀑
-myf	氷	冰氷
+myf	氷	i冰氷
+myf	冰	i冰氷
 myw	氾
 myd	汎
 mys	泌

@@ -39,7 +39,7 @@ c;k	包
 c;o	匍	甫の部首は用《ｏ》
 c;z	匏	yホウ
 c;g	匐
-c;j	北	東西南北
+c;j	北
 c;m	匚
 c;x	卜
 cA	关	b八
@@ -98,10 +98,10 @@ chb	凶
 cho	劬
 chs	勖	yキョク
 chs	勗	yキョク
-chx	勛	[勲勳]の異体字なので、シフト可
 chl	勤
-chz	勲
-chZ	勳
+chz	勲	i勲勳勛
+chz	勛	i勲勳勛
+chq	勳	i勲勳勛
 ch/	匈
 chi	匡
 cha	区
@@ -253,12 +253,11 @@ cxu	剝
 cxU	剥
 cxv	匂
 cx;	匿
-cxj	南	東西南北
+cxj	南
 cxi	博	yハク	i愽博
 cxi	愽	yハク	i愽博	b十	hb忄
 cxm	嚢	囊嚢
 cya	冫
-cyf	冰	冰氷
 cyi	凭
 cyz	判
 cyo	剽
