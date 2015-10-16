@@ -97,7 +97,8 @@ tkd	肓
 tkg	肛
 tkj	股
 tke	肯
-tku	肱	肱厷
+tku	肱	i肱厷
+tku	厷	i肱厷	b肉	hb厶
 tk/	肴
 tkh	胛
 tkq	胡

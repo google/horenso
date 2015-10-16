@@ -117,8 +117,6 @@ jns	斜
 jnk	斫
 jnf	旬
 jnd	春
-jpE	敍	敘敍叙
-jpe	敘	敘敍叙
 jpq	敞
 jpr	昃	yショク	hyシキ	hyソク
 jpa	昇

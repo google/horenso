@@ -140,7 +140,6 @@ dk/	㗅
 dkA	卬	yゴウ
 dkj	厚	i厚㫗
 dkj	㫗	i厚㫗	b厂	hb日
-dkU	厷	肱厷
 dka	口
 dk;	古
 dkc	叩
@@ -218,8 +217,9 @@ dn/	咒
 dnz	售
 dnc	啾
 dnt	嚼
-dpr	厰
-dpe	叙	敘敍叙
+dpe	叙	i敘敍叙
+dpc	敍	i敘敍叙	b又	hb攴
+dpe	敘	i敘敍叙	b又	hb攵
 dpa	召
 dpd	咲
 dpj	哨

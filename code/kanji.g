@@ -169,7 +169,8 @@ gpu	序
 gph	庠
 gpj	庶
 gpd	廂
-gpe	廠
+gpe	廠	i廠厰
+gpe	厰	i廠厰	b广	hb厂
 gpw	弉
 gqk	尽	i盡尽
 gqk	盡	i盡尽	b尸	hb皿
