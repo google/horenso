@@ -22,8 +22,9 @@ d.,	嚠
 d.r	啦	Pla1	yラ	j拉
 d.w	囉	yラ
 d/u	厲	部首の厂を取り除くと、萬が残り、その部首が艸〈u〉
-d/D	咊	和咊龢	yワ	hyカ	hyオ
-d/d	和	和咊龢	yワ	hyカ	hyオ
+d/d	咊	i和咊龢	yワ	hyカ	hyオ
+d/d	和	i和咊龢	yワ	hyカ	hyオ
+d/c	龢	i和咊龢	yワ	hyカ	hyオ	b口	hb龠
 d/.	咾
 d/,	哢
 d/m	唳
