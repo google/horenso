@@ -138,7 +138,8 @@ dje	囈
 djr	囓	齧𪘂囓
 dk/	㗅
 dkA	卬	yゴウ
-dkj	厚	厚㫗
+dkj	厚	i厚㫗
+dkj	㫗	i厚㫗	b厂	hb日
 dkU	厷	肱厷
 dka	口
 dk;	古
@@ -176,7 +177,7 @@ dkz	噛
 dkv	嚆
 dk,	嚮
 dk.	囂
-dkJ	嚎	Phao2	yゴウ	j豪
+dkK	嚎	Phao2	yゴウ	j豪
 dlf	参
 dlf	參
 dla	叉	yサ	hyシャ
@@ -272,7 +273,8 @@ dsk	巢	i巣巢	果の部首は木《ｋ》	bツ	hb巛
 dsp	嘈	yソウ
 dte	単	i単單
 dte	單	i単單
-dt;	厨	厨廚	yチュウ
+dt;	厨	i厨廚	yチュウ
+dt;	廚	i厨廚	yチュウ	b厂	hb广
 dta	台
 dth	啄
 dtl	啅

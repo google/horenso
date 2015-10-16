@@ -195,7 +195,6 @@ gtl	嵶
 gtk	帙
 gtj	帯
 gtj	帶
-gt;	廚	厨廚	yチュウ
 gvu	帖	yチョウ	hyジョウ
 gvx	帝
 gvj	帳

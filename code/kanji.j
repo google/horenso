@@ -80,7 +80,6 @@ jjd	敬
 jjs	景
 jja	暄
 jjf	月
-jkj	㫗	厚㫗
 jka	攷
 jkd	攻
 jkl	故
