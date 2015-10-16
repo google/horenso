@@ -107,7 +107,7 @@ ynn	邪	左部に牙《ｎ》がある	yジャ	hyヤ
 ynb	酋
 ynr	酌
 ynq	酒
-yne	酬	駲酬洲州
+yne	酬
 ynx	醇
 ync	醜
 yns	釈

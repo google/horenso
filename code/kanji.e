@@ -224,7 +224,8 @@ ezo	埠
 ezj	塀
 ezp	墳
 ezk	壁
-ez;	変	変變
+ez;	変	i変變
+ez;	變	i変變	b夊	hb言
 ezm	复	yフク
 ezf	夫
 ezz	奮

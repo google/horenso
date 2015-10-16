@@ -155,7 +155,6 @@ tqg	脣
 tqj	腎
 tqu	腥
 tqt	膵
-tq.	膸	膸髄髓
 tqi	臍
 tql	臣
 tq/	臻

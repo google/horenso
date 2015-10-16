@@ -155,7 +155,7 @@ gmf	廝
 gna	尺
 gno	岫	由の部首は田《ｏ》	yシュウ
 gn,	峻
-gne	州	駲酬洲州
+gne	州
 gng	巡
 gnw	帚	yシュウ	hyソウ	hyス	i帚菷
 gnw	菷	yシュウ	hyソウ	hyス	i帚菷	b巾	hb艹

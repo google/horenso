@@ -81,7 +81,7 @@ hda	悔
 hdy	悝	yカイ	hyリ	忄を取り除くと里《ｙ》が残る
 hdh	愕
 hdj	愨
-hdq	愾	愾滊餼	yガイ	hyキ	hyケ
+hdq	愾	yガイ	hyキ	hyケ
 hdo	慨	i慨慨
 hdo	慨	i慨慨
 hdw	懈	yカイ	hyケ	解の部首は角《ｗ》

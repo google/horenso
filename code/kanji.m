@@ -126,7 +126,7 @@ mg.	汽
 mgw	沂
 mg,	泣
 mga	淇
-mgq	滊	愾滊餼
+mgq	滊
 mhf	況
 mhv	洫	下部に血《ｖ》がある
 mhs	洶
@@ -188,7 +188,7 @@ mnf	汁
 mn;	泅
 mnD	泻
 mnv	洙
-mne	洲	駲酬洲州
+mne	洲
 mng	洵
 mnr	浚
 mns	淑
