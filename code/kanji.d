@@ -102,13 +102,13 @@ dgd	吉
 dgh	吸
 dgk	咎
 dgo	唏
-dgs	喜	喜囍歖
+dgs	喜
+dgS	囍
 dgw	喟
 dgi	喫
 dgl	嗅
 dgp	噐
 dg;	器
-dgS	囍	喜囍歖
 dg:	器
 dgu	嘻	yキ
 dhf	去

@@ -39,7 +39,7 @@ lfk	歡
 lf;	歛	yカン	hyレン
 lgi	欷
 lgl	欺
-lgs	歖	喜囍歖
+lgs	歖
 lgu	歙
 lg;	毀
 lgp	毅
