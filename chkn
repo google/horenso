@@ -272,26 +272,26 @@ sub char_width {
     return $total;
 }
 
-sub guide_ji {
+my @pri_colors;
+{
+    # 色のコードとエスケープコードは
+    # https://en.wikipedia.org/wiki/ANSI_escape_code
+    # を参考に
+    my $theme = $ENV{CHKN_COLOR_THEME} // q{};
+    @pri_colors =
+        $theme eq q{bright_bg} ? ("\e[34m", "\e[31m", "\e[32m", "\e[33m") :
+        $theme eq q{off}       ? (                                      ) :
+        $theme eq q{}          ? ("\e[93m", "\e[96m", "\e[95m", "\e[91m") :
+        die "Unknown value for CHKN_COLOR_THEME: $theme";
+}
+
+sub guide_ji  {
     my ($key) = @_;
     my $raw_ji = $codes{$key};
     my $padding = q{ } x (2 - char_width $raw_ji);
     my $priority = $kanji_to_priority{$raw_ji} // 0;
-    if ($priority == 5) {
-        # 常用漢字を青く描画する
-        return "\e[34m$raw_ji\e[39m$padding";
-    } elsif ($priority == 4) {
-        # 次常用漢字を赤く描画する
-        return "\e[31m$raw_ji\e[39m$padding";
-    } elsif ($priority == 3) {
-        # もっと優先度の低い字は緑
-        return "\e[32m$raw_ji\e[39m$padding";
-    } elsif ($priority == 2) {
-        # 次は黄色
-        return "\e[33m$raw_ji\e[39m$padding"
-    } else {
-        return "$raw_ji$padding";
-    }
+    my $pri_color = $pri_colors[5 - $priority] // q{};
+    return "$pri_color$raw_ji\e[39m$padding";
 }
 
 if (!@codes_files) {
@@ -654,7 +654,7 @@ while (1) {
     erase_to_eol;
 
     my $key = read_key_chord;
-    if ($key eq "\x1b" . 'h') {
+    if ($key eq "\eh") {
         my $prefix = join q{}, @uncommitted;
         print "\n";
         my $suggestions = $suggestions{$prefix} // [];
@@ -663,7 +663,7 @@ while (1) {
         }
         read_key_chord;
         next;
-    } elsif ($key eq "\x1b" . 'b') {
+    } elsif ($key eq "\eb") {
         print <<"BUSHU_CHART";
 
 鍵  部首
@@ -702,6 +702,8 @@ z 【八画】金
 BUSHU_CHART
         read_key_chord;
         next;
+    } elsif ($key eq "\eq") {
+        last;
     }
     next if length($key) == 2;
     if (ord($key) < 0x20 && $key ne "\n") {
@@ -774,3 +776,5 @@ BUSHU_CHART
         print_keyboard \%keyboard;
     }
 }
+
+ReadMode 1;
