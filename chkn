@@ -318,6 +318,7 @@ sub read_codes {
     %codes = ();
     %suggestions = ();
     my %unassigned_by_priority;
+    my %total_by_priority;
     my $total_assigned;
 
     for my $codes_file (@codes_files) {
@@ -337,13 +338,14 @@ sub read_codes {
             my $priority = $kanji_to_priority{$value};
             next if !defined($priority) and $codes_file =~ m#/kanji\.#;
 
-            if ($stats_mode) {
+            if ($stats_mode && $codes_file =~ m#/kanji.[^/]+$#) {
+                $total_by_priority{$priority}++;
                 if (length($key) > 3) {
                     # コードが３文字以上だと入力できないので、
                     # 未割り当てとして見なす
                     my $pri_array = $unassigned_by_priority{$priority} //= [];
                     push @$pri_array, $value;
-                } elsif ($codes_file =~ m#/kanji.[^/]+$#) {
+                } else {
                     $total_assigned++;
                 }
             }
@@ -438,7 +440,11 @@ sub read_codes {
         for my $level (reverse sort keys %unassigned_by_priority) {
             my $dim = 2;
             my $array = $unassigned_by_priority{$level};
-            printf "pri %d(%d unassigned):\n", $level, scalar(@$array);
+            my $n = @$array;
+            my $d = $total_by_priority{$level};
+            printf "pri %d(%d/%d unassigned, %.2f%% assigned):\n", $level,
+                $n, $d,
+                100 - $n / $d * 100;
             while ($dim * $dim * 3 < @$array * 4) {
                 $dim++;
             }
