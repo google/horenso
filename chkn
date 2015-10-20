@@ -441,11 +441,11 @@ sub read_codes {
         for my $level (reverse sort keys %unassigned_by_priority) {
             my $dim = 2;
             my $array = $unassigned_by_priority{$level};
-            my $n = @$array;
-            my $d = $total_by_priority{$level};
-            printf "pri %d(%d/%d unassigned, %.2f%% assigned):\n", $level,
-                $n, $d,
-                100 - $n / $d * 100;
+            my $u = @$array;
+            my $a = $total_by_priority{$level} - $u;
+            printf "pri %d - %d assigned (%.2f%%), %d unassigned, %d total:\n",
+                $level, $a, $a / ($a + $u) * 100, $u, $a + $u;
+
             while ($dim * $dim * 3 < @$array * 4) {
                 $dim++;
             }
