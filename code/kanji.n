@@ -86,7 +86,8 @@ nha	狹
 njq	炯
 nj;	烱
 njr	煢
-njv	熒	部首：火	yケイ
+njv	熒	b火	yケイ	hyエイ
+njV	𤇾	《熒》の略体
 nja	牽
 njf	犬
 njF	犭
@@ -96,7 +97,6 @@ njs	献
 njs	獻
 njw	獗
 njd	玄
-njV	𤇾	《熒》の略体
 nks	炬
 nkl	烋
 nke	煌
