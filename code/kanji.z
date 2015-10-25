@@ -131,8 +131,10 @@ ztl	鐸
 ztj	鑄
 zv;	釘
 zvj	釣
-zvk	鉄
-zvK	銕
+zvk	鉄	i鉄鐵鐡銕
+zvk	鐵	i鉄鐵鐡銕
+zvm	鐡	i鉄鐵鐡銕
+zvm	銕	i鉄鐵鐡銕
 zvz	銚	yチョウ	hyヨウ	hyジョウ
 zvc	錣
 zvi	鍖
@@ -140,8 +142,6 @@ zvu	鎚
 zvL	鎭
 zvl	鎮
 zvx	鏑
-zvm	鐡
-zvm	鐵
 zwk	釖
 zwl	鈿
 zwj	銅
