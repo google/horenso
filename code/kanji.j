@@ -204,7 +204,7 @@ jzn	斧	斧𨨞	右上に父《ｎ》がある
 jzl	无
 jzv	普
 jzd	暼
-jzc	服	服𠬝
+jzc	服
 _03AD6	㫖
 _03AEA	㫪
 _03B0E	㬎

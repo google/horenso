@@ -328,7 +328,7 @@ dz;	吻
 dzk	咐	yブ	hyホ
 dzi	嘸
 dzj	噴
-dzc	𠬝	服𠬝	部首：又 yフク
+dzc	𠬝	b又	yフク
 dzg	噼	Ppi1	yヘキ	j辟
 _0355D	㕝
 _0355E	㕞
