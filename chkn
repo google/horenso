@@ -543,6 +543,26 @@ sub read_codes {
         exit 0;
     }
 
+    for my $key (keys %codes) {
+        next if $key !~ m/^(.)i$/;
+        my $first_key = $1;
+        my $first_kana = $codes{$key};
+        # TODO: 日本キーボード配列に対応させる
+        my %number_substs = qw{
+            7 ゃ
+            & ゃう
+            8 ゅ
+            * ゅう
+            9 ょ
+            ) ょう
+        };
+        while (my ($number, $kana) = each %number_substs) {
+            my $new_key = $first_key . $number;
+            next if defined $codes{$new_key};
+            $codes{$new_key} = $codes{$key} . $kana;
+        }
+    }
+
     # ２文字コードの前に数字を入れてかなを効率良く入力できるようにする
     for my $key (keys %codes) {
         next if length($key) != 2;
