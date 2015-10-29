@@ -192,6 +192,7 @@ xwp	躔
 xwj	転
 xwj	轉
 xwo	輾
+xwk	躺	yトウ	Ptang3
 xxc	貊
 xxm	貘
 xxk	貝
@@ -420,7 +421,6 @@ _08EAE	躮
 _08EB3	躳
 _08EB5	躵
 _08EB6	躶
-_08EBA	躺
 _08EBB	躻
 _08EBD	躽
 _08ECF	軏
