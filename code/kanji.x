@@ -137,7 +137,7 @@ xrk	践	i践踐
 xrk	踐	i践踐
 xri	蹐
 xr,	蹟
-xrm	蹠
+xrm	蹠	yセキ	hyショ	hyシャク	Pzhi2
 xsL	戝	yゾク	i賊戝	hyザイ	hb戈
 xsl	賊	yゾク	i賊戝
 xsu	賍
