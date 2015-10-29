@@ -554,7 +554,7 @@ sub read_codes {
             8 ゅ
             * ゅう
             9 ょ
-            ) ょう
+            ( ょう
         };
         while (my ($number, $kana) = each %number_substs) {
             my $new_key = $first_key . $number;
