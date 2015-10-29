@@ -543,6 +543,26 @@ sub read_codes {
         exit 0;
     }
 
+    # ２文字コードの前に数字を入れてかなを効率良く入力できるようにする
+    for my $key (keys %codes) {
+        next if length($key) != 2;
+        my %number_substs = qw(
+            1 っ
+            2 い
+            3 あ
+            4 う
+            5 え
+            6 お
+            0 ん
+        );
+        while (my ($number, $kana) = each %number_substs) {
+            my $new_key = $number . $key;
+            $new_key =~ s/;//;
+            next if defined $codes{$new_key};
+            $codes{$new_key} = $kana . $codes{$key};
+        }
+    }
+
     # カタカナのコードをひらがなのコードから自動生成する
     # 尚、CAPSLOCKがオンでも一般の漢字を入力できるようにする
     for my $key (keys %codes) {
