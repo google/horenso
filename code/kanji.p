@@ -89,7 +89,6 @@ pkn	皎	yコウ	hyキョウ	i晈皎
 pkn	晈	yコウ	hyキョウ	i晈皎	b白	hb日
 pkp	皐
 pkr	皓
-pka	皷	皷鼓
 pkj	盍
 pkm	盒
 pkv	睾

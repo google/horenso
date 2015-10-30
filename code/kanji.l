@@ -59,8 +59,8 @@ lls	歳	yサイ	hyセイ
 lls	歲	yサイ	hyセイ
 lld	残
 lld	殘
-llf	殺	殺殺煞
-llF	殺	殺殺煞
+llf	殺	i殺殺煞
+llf	殺	i殺殺煞
 lmd	次
 lma	止
 lmk	此

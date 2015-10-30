@@ -114,7 +114,7 @@ nkq	烘	yコウ	hyク
 nla	災
 nlw	炸	yサク
 nln	焜
-nlf	煞	殺殺煞
+nlf	煞	i殺殺煞
 nl;	燦
 nlr	爨
 nlg	犀	部首の牛のほかには、尸《ｇ》がある	yサイ	hyセイ
