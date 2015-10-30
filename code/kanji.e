@@ -49,7 +49,7 @@ ebi	壹
 ebh	夷	大を取り除くと弓《ｈ》が残る
 ebu	圯	yイ
 eci	囮
-ecc	園	園薗
+ecc	園	i園薗
 ecu	垣
 ecp	堝
 ecv	堰
@@ -85,7 +85,7 @@ efj	奐
 ega	圻
 egl	基
 egw	埼
-egj	奇	奇竒
+egj	奇	i奇竒
 eh;	圄	yギョ	hyゴ
 ehs	圉
 ehb	𡑭	yくれ	hyカイ
@@ -107,7 +107,7 @@ ejw	夐	yケイ	hyキョウ
 ejs	奎
 eje	契	yケイ	hyセツ
 ejr	奚
-ejf	𡙇	缺缼欠𡙇
+ejf	𡙇	i缺缼欠𡙇
 eke	固
 ekq	坑
 ekj	垢
@@ -148,8 +148,9 @@ eps	墅
 epo	壌
 epo	壤
 epe	奘
-epi	奨	奨奬獎
-epI	奬	奨奬獎
+epi	奨	i奨奬獎
+epi	獎	i奨奬獎	b大	hb犬
+epk	奬	i奨奬獎
 eqe	図	yズ
 eqe	圖	yズ
 eqm	垂

@@ -157,7 +157,6 @@ npf	状
 npf	狀
 npw	猖
 npr	猩	yショウ	hyセイ
-npi	獎	奨奬獎
 npe	獐
 nqw	炊
 nqn	燧

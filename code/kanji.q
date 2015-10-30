@@ -44,7 +44,7 @@ qg;	究
 qgi	穹
 qgl	窮
 qgn	窺
-qgj	竒	奇竒	漢字源による部首：立《ｑ》
+qgj	竒	i奇竒	漢字源による部首	b立
 qgK	祈
 qhw	禁
 qhk	禦

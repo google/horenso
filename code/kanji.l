@@ -51,7 +51,7 @@ lg,	炁	i炁気氣	b气	yキ	hyケ	hb灬	hb旡
 lhf	欣	yキン	hyゴン
 lhd	欽
 lhs	歔
-ljf	欠	缺缼欠𡙇
+ljf	欠	i缺缼欠𡙇
 ljd	歇
 ljs	歉
 lkf	毫
