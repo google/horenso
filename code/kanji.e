@@ -8,6 +8,7 @@ e,f	夜
 e,r	夢
 e,q	夭
 e,R	梦
+e,a	埜	i野埜	yヤ	hyショ	hb里	b土
 e.m	埒	yラチ	hyラツ	hyレツ
 e.M	埓	yラチ	hyラツ	hyレツ
 e/a	囹

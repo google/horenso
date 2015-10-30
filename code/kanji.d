@@ -137,7 +137,7 @@ djf	啓	i啓啟
 djf	啟	i啓啟
 djl	喧
 dje	囈
-djr	囓	齧𪘂囓
+djr	囓	i齧𪘂囓	b口	hb歯
 dk/	㗅
 dkA	卬	yゴウ
 dkj	厚	i厚㫗
