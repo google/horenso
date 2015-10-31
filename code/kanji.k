@@ -165,9 +165,9 @@ kjk	検	i検檢
 kjk	檢	i検檢
 kj/	椦
 kjl	権
+kjl	權
 kjs	檄
 kje	檠
-kjr	權
 kkl	杞
 kk;	杠
 kkr	杭
