@@ -124,8 +124,8 @@ qr;	禪
 qrl	租
 qrk	積
 qri	穿
-qrq	窃
-qro	竊
+qrq	窃	i窃竊
+qrq	竊	i窃竊
 qrw	竰
 qrJ	祖
 qsk	稍
