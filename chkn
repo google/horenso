@@ -25,6 +25,7 @@ use Term::ReadKey;
 binmode STDERR, ':utf8';
 binmode STDOUT, ':utf8';
 
+my $max_pri = 5;
 my $lang = $ENV{CHKN_LANG} // 'jpn';
 my $stats_mode = !!$ENV{CHKN_STATS};
 
@@ -214,9 +215,9 @@ sub erase_to_eol {
 
 # 漢字の優先度マッピング
 # 使用頻度と似た概念
-#  5 - 最も高い優先度
-#  4 - やや低い
-#  3 - もっと低い
+#  $max_pri   - 最も高い優先度
+#  $max_pri-1 - やや低い
+#  $max_pri-2 - もっと低い
 # など..
 #  ..
 #  マップに無い - この漢字を使わない
@@ -224,7 +225,7 @@ my %kanji_to_priority;
 {
     open my $priority, '<', "$FindBin::Bin/priority/$lang";
     binmode $priority, ':utf8';
-    my $priority_level = 5;
+    my $priority_level = $max_pri;
     while (my $line = <$priority>) {
         next if $line =~ m/^#/;
         chomp $line;
@@ -297,7 +298,7 @@ sub guide_ji  {
     my $raw_ji = $codes{$key};
     my $padding = q{ } x (2 - char_width $raw_ji);
     my $priority = $kanji_to_priority{$raw_ji} // 0;
-    my $pri_color = $pri_colors[5 - $priority] // q{};
+    my $pri_color = $pri_colors[$max_pri - $priority] // q{};
     return "$pri_color$raw_ji\e[39m$padding";
 }
 
@@ -522,12 +523,17 @@ sub read_codes {
                 for my $third_key (@kanji_keys) {
                     my $lcase_code = $prefix . $third_key;
                     my $ucase_code = $prefix . shift_key($third_key);
+                    my $ucase_kanji = $codes{$ucase_code};
+                    if (defined $ucase_kanji &&
+                            $kanji_to_priority{$ucase_kanji} == $max_pri) {
+                        print "$ucase_code\t$ucase_kanji # 最高優先度\n";
+                    }
                     if (defined $codes{$lcase_code}) {
                         $lcase_occupied_count++;
                         if (defined $codes{$ucase_code}) {
                             $ucase_occupied_count++;
                         }
-                    } elsif (defined $codes{$ucase_code}) {
+                    } elsif (defined $ucase_kanji) {
                         print "${lcase_code}に該当する漢字がないのに、";
                         print "${ucase_code}に「$codes{$ucase_code}」が";
                         print "割り当てられている。\n";
