@@ -126,8 +126,8 @@ xq;	躋
 xqj	身
 xqi	軫
 xrl	責
-xrU	賎
-xru	賤
+xru	賎	i賤賎
+xru	賤	i賤賎
 xr.	贍
 xrj	赤
 xrz	跖

@@ -208,10 +208,10 @@ iso	捜
 iso	搜
 isd	掃
 is;	掫
-isL	掻	i搔掻
+isl	搔	i搔掻
+isl	掻	i搔掻
 ise	插
 isf	損
-isl	搔	i搔掻
 ish	搶	yソウ	hyショウ
 isy	操
 isg	拕	yタ	Ptuo1	i拖拕

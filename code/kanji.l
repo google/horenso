@@ -89,7 +89,7 @@ lxj	毒
 lyd	殍
 lya	殯
 lyf	比
-lyS	毗
+lys	毗
 lys	毘
 lzc	武
 lz;	殕

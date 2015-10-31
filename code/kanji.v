@@ -127,8 +127,8 @@ vkx	衡
 vka	袴
 vk;	袷	yコウ
 vkd	蠔
-vlv	蚕
-vlV	蠶
+vlv	蚕	i蚕蠶
+vlv	蠶	i蚕蠶
 vlj	衫
 vlc	袞
 vlk	裁

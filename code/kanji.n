@@ -177,7 +177,7 @@ nsr	爽
 nss	牂	yソウ	右部に羊《ｓ》がある
 ns/	猝
 nsa	率	b玄	hb十	hb亠	hb幺	yソツ	hyリツ	hyシュツ	hyスイ
-nsF	爫	yソウ	hyつめかんむり
+nsh	爫	yソウ	hyつめかんむり
 nsj	牠
 ntn	炭
 ntl	煖

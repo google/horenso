@@ -163,11 +163,11 @@ qxi	稔	yネン	hyジン
 qxo	稗
 qxj	突
 qxJ	突
-qyQ	祕
 qye	票
 qyw	秒
 qyr	秕
-qyq	秘
+qyq	秘	i秘祕
+qyq	祕	i秘祕
 qyo	𥧔	屁𥧔
 qzl	祓
 qzj	福

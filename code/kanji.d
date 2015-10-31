@@ -124,8 +124,8 @@ dhc	呴	yク
 dhv	呿	yキョ
 dho	喬
 dhe	喰
-dhS	嘘
-dhs	噓
+dhs	嘘	i噓嘘
+dhs	噓	i噓嘘
 dhi	噤
 djk	卿	yケイ	hyキョウ
 djd	原

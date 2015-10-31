@@ -251,8 +251,8 @@ cxk	内	yナイ	hyダイ
 cxk	內
 cxo	凪
 cxl	凸
-cxu	剝
-cxU	剥
+cxu	剝	i剝剥
+cxu	剥	i剝剥
 cxv	匂
 cx;	匿
 cxj	南

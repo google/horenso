@@ -59,8 +59,8 @@ wd/	豁
 wdi	豈	yガイ	hyキ	hyケ
 wfj	観
 wfj	觀
-wfK	諌
-wfk	諫
+wfk	諌	i諫諌
+wfk	諫	i諫諌
 wfl	讙
 wge	覊
 wgk	規
