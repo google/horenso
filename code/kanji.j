@@ -83,7 +83,6 @@ jjf	月
 jka	攷
 jkd	攻
 jkl	故
-jkq	效
 jkz	敖
 jk;	敲
 jk/	昂

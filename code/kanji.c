@@ -10,7 +10,6 @@ c,z	勈	i勇勈
 c,c	務
 c,.	勿	yモチ	hyブツ
 c,/	匁
-c.c	凉
 c.x	凌
 c.Z	凛
 c.z	凜
@@ -60,6 +59,7 @@ cc;	化
 ccx	卦
 ccl	卡	yカ	hyソウ
 ccu	兗	yエン
+cci	划	yカ	hyゲ
 cdi	凱
 cdj	刈
 cd;	刮
@@ -70,7 +70,6 @@ cdu	劼
 cdk	劾
 cdp	匯	yカイ	i匯滙	hyワイ
 cdp	滙	yカイ	i匯滙	hyワイ	b匚	hb氵
-cdf	囘
 cfk	冠
 cfu	凵
 cfi	函
@@ -116,7 +115,6 @@ cjv	兼
 cjd	冂	yケイ
 cjD	冋	yケイ
 cjs	冏
-cjg	决
 cjz	刑
 cji	刔
 cjl	券
@@ -137,18 +135,18 @@ ckz	光	i光炗
 ckz	炗	i光炗	b儿	hb火
 ckc	公
 ckm	冓
-ck/	冦
 ckb	冱
 cks	冴
 ck.	凅
 ckn	凩
 ckf	凰
-cka	刧
 ckg	刳
 ck;	剛
 ckx	功
-ckp	劫
-ckl	効
+ckp	劫	i劫刧
+ckp	刧	i劫刧
+ckl	効	i効效
+ckl	效	i効效	b力	hb攵
 ckj	勾
 ckh	匣
 ckv	午
@@ -198,7 +196,8 @@ cr;	先
 crp	冉	yゼン	hyネン
 crk	切
 cri	刋	yセン
-cru	刹	yセツ	hyセチ	hyサツ
+cru	刹	yセツ	hyセチ	hyサツ	i刹剎
+cru	剎	yセツ	hyセチ	hyサツ	i刹剎
 crl	前
 crm	剪
 cr,	勣
@@ -208,6 +207,7 @@ csi	兌	i兌兊
 csi	兊	i兌兊
 csk	則
 cso	剏
+cso	刱
 csl	創
 cs/	剿	yソウ
 cs;	勦
@@ -216,8 +216,8 @@ csp	匇	i匆匇
 csu	匝	yソウ	i匝帀
 csu	帀	yソウ	i匝帀	b匚	hb巾
 csc	卅
-csm	卆
-csj	卒
+csj	卆	i卒卆
+csj	卒	i卒卆
 ctl	冑
 ctk	冲
 ct;	凧	yたこ
@@ -312,20 +312,17 @@ _051F3	凳
 _051F4	凴
 _05209	刉
 _0520C	刌
-_05212	划
 _05213	刓
 _05215	刕
 _05216	刖
 _0521C	刜
 _0521E	刞
 _05228	刨
-_05231	刱
 _05232	刲
 _05235	刵
 _05241	剁
 _05246	剆
 _05249	剉
-_0524E	剎
 _05252	剒
 _05255	剕
 _05257	剗

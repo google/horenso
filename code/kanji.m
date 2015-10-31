@@ -21,15 +21,16 @@ m,g	瀁
 m.,	洛
 m.f	流
 m.j	浬
-m.d	涼
+m.d	涼	i涼凉
+m.d	凉	i涼凉	b氵	hb冫
 m./	淋
 m.q	淕
 m.w	淪
 m.e	溂
-m.r	溜
+m.r	溜	i溜澑
+m.r	澑	i溜澑
 m.m	漁	hyギョ	yリョウ
 m.z	漓
-m.v	澑
 m.s	濫
 m.x	瀏
 m.a	瀨
@@ -38,15 +39,15 @@ m.c	瀾
 m/A	沪	yロ	hyリョ
 m/x	洌
 m/d	浪
-m/f	涙
-m/f	淚
-m/r	泪
+m/f	涙	i泪涙淚
+m/f	淚	i泪涙淚
 m/j	淮
 m/.	湾
 m/.	灣
 m/,	滝	yロウ	hyソウ
 m/,	瀧	yロウ	hyソウ
 m/v	滷
+m/V	泪	i泪涙淚
 m/m	漉
 m/s	漏
 m/k	漣	yレン
@@ -132,13 +133,14 @@ mhv	洫	下部に血《ｖ》がある
 mhs	洶
 mha	渠
 mhe	澆	土《ｅ》は三つある
-mjf	決
+mjf	決	i決决
+mjf	决	i決决	b氵	hb冫
 mjg	涇	yケイ	hyキョウ	右部に巛《ｇ》と工《ｇ》がある
 mj;	涓
-mjd	渓
+mjd	渓	i渓溪
+mjd	溪	i渓溪
 mjs	減
 mja	源
-mje	溪
 mjk	潔
 mjl	激
 mkq	汞

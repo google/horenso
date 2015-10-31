@@ -65,7 +65,8 @@ ech	奕
 eck	奥
 eck	奧
 ec,	坷	yカ
-ed;	回
+ed;	回	i回囘
+ed;	囘	i回囘	b囗	hb冂
 edh	垓
 eds	垳
 edf	埆
