@@ -98,8 +98,8 @@ sjt	繋	yケイ	i繋繫
 sjt	繫	yケイ	i繋繫
 sjk	繭
 sjp	纈
-sjf	缺	缺缼欠𡙇
-sjF	缼	缺缼欠𡙇
+sjf	缺	i缺缼欠𡙇
+sjf	缼	i缺缼欠𡙇
 sjo	罫
 sjq	羂
 skd	紅	yコウ	hyク

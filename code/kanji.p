@@ -89,7 +89,6 @@ pkn	皎	yコウ	hyキョウ	i晈皎
 pkn	晈	yコウ	hyキョウ	i晈皎	b白	hb日
 pkp	皐
 pkr	皓
-pka	皷	皷鼓
 pkj	盍
 pkm	盒
 pkv	睾
@@ -142,6 +141,7 @@ prw	磚
 pre	磧
 pro	礎
 psp	相	yソウ	hyショウ
+psu	眨	yソウ	hyショウ	Pzha3
 pti	眈
 pty	矗	yチク
 pto	知
@@ -254,7 +254,6 @@ _0771A	眚
 _0771D	眝
 _07722	眢
 _07723	眣
-_07728	眨
 _0772D	眭
 _0772F	眯
 _07731	眱

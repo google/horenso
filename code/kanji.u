@@ -74,8 +74,9 @@ ubd	薀
 ubx	藹
 ubk	蘊
 ubw	𦹥	yイン	𦹥蔭䕃𨼲
-ucz	艶
-ucZ	艷
+ucz	艶	i艶豔艷
+ucz	豔	i艶豔艷	b色	hb豆
+uca	艷	i艶豔艷
 ucv	花
 uci	芽
 uc;	苑
@@ -89,8 +90,10 @@ ucp	華
 ucj	萪	yカ
 uck	葭
 uch	蓊
-ucc	薗	園薗
-udi	艾
+ucc	薗	i園薗
+uD	𦰩
+udi	艾	i艾𦫿
+udi	𦫿	i艾𦫿
 udo	芥
 udp	苅
 uds	茖
@@ -126,15 +129,15 @@ uhs	薫	i薫薰
 uhs	薰	i薫薰
 uhl	藕
 uje	芫
-ujf	芸
+ujf	藝	i芸藝
+ujf	芸	i芸藝
 ujd	茎
+ujd	莖
 ujs	荊
-ujk	莖
 ujl	萱
 ujw	蒹
 uja	蕨
 ujr	薊
-ujF	藝
 uj;	蘖
 uka	苟
 ukr	茣
@@ -153,10 +156,11 @@ ulf	菜
 uli	蒜
 ulr	蒟
 ulu	蓑	簑簔蓑
-ule	蓙
+ule	蓙	yござ	hyザ
 ulw	蔡
 ulv	薩
 ulj	蘸	yサン	hyセン
+ulb	芩	yゴン	hyキン
 umf	芝
 umd	茨
 ums	茲
@@ -330,7 +334,6 @@ _082A3	芣
 _082A4	芤
 _082A7	芧
 _082A8	芨
-_082A9	芩
 _082AE	芮
 _082B0	芰
 _082B2	芲
@@ -711,8 +714,6 @@ _0864B	虋
 _0864C	虌
 _0FA1F	﨟
 _0FA20	蘒
-_26AFF	𦫿
-_26C29	𦰩
 _26C73	𦱳
 _26CDD	𦳝
 _26E40	𦹀

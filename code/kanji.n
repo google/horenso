@@ -42,18 +42,18 @@ nbx	熨
 nba	燠
 nbZ	爲
 nbl	猗
-nco	㷔	焔焰㷔熖燄
+nco	㷔	i焔焰㷔熖燄
+ncl	焔	i焔焰㷔熖燄
+ncl	焰	i焔焰㷔熖燄
+ncO	熖	i焔焰㷔熖燄
+ncp	燄	i焔焰㷔熖燄
 ncv	火
 ncV	灬	yカ	hyれんが
 ncx	炎
 nc;	烟
 nck	焉
-ncl	焔	焔焰㷔熖燄
-ncl	焰	焔焰㷔熖燄
 ncs	焱
 ncz	煙
-ncO	熖	焔焰㷔熖燄
-ncp	燄	焔焰㷔熖燄
 nca	燕
 nc,	爰
 ncn	牙
@@ -86,7 +86,8 @@ nha	狹
 njq	炯
 nj;	烱
 njr	煢
-njv	熒	部首：火	yケイ
+njv	熒	b火	yケイ	hyエイ
+njV	𤇾	《熒》の略体
 nja	牽
 njf	犬
 njF	犭
@@ -96,7 +97,6 @@ njs	献
 njs	獻
 njw	獗
 njd	玄
-njV	𤇾	《熒》の略体
 nks	炬
 nkl	烋
 nke	煌
@@ -114,7 +114,7 @@ nkq	烘	yコウ	hyク
 nla	災
 nlw	炸	yサク
 nln	焜
-nlf	煞	殺殺煞
+nlf	煞	i殺殺煞
 nl;	燦
 nlr	爨
 nlg	犀	部首の牛のほかには、尸《ｇ》がある	yサイ	hyセイ
@@ -157,7 +157,6 @@ npf	状
 npf	狀
 npw	猖
 npr	猩	yショウ	hyセイ
-npi	獎	奨奬獎
 npe	獐
 nqw	炊
 nqn	燧
@@ -178,7 +177,7 @@ nsr	爽
 nss	牂	yソウ	右部に羊《ｓ》がある
 ns/	猝
 nsa	率	b玄	hb十	hb亠	hb幺	yソツ	hyリツ	hyシュツ	hyスイ
-nsF	爫	yソウ	hyつめかんむり
+nsh	爫	yソウ	hyつめかんむり
 nsj	牠
 ntn	炭
 ntl	煖

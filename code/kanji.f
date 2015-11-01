@@ -99,7 +99,8 @@ fka	孔
 fkf	孝
 fkj	孤
 fkl	宏
-fke	寇
+fke	寇	i寇冦
+fke	冦	i寇冦	b宀	hb冖
 fkp	寤
 fld	妻
 flk	婚

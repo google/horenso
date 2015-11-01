@@ -25,6 +25,7 @@ use Term::ReadKey;
 binmode STDERR, ':utf8';
 binmode STDOUT, ':utf8';
 
+my $max_pri = 5;
 my $lang = $ENV{CHKN_LANG} // 'jpn';
 my $stats_mode = !!$ENV{CHKN_STATS};
 
@@ -38,9 +39,11 @@ my %rad_to_key = (
     亻 => 'b',
     入 => 'c',
     八 => 'c',
+    冂 => 'c',
     冖 => 'c',
     冫 => 'c',
     几 => 'c',
+    刀 => 'c',
     力 => 'c',
     十 => 'c',
     卜 => 'c',
@@ -93,6 +96,7 @@ my %rad_to_key = (
     爪 => 'n',
     父 => 'n',
     爻 => 'n',
+    犬 => 'n',
     玄 => 'n',
     玉 => 'o',
     田 => 'o',
@@ -120,6 +124,8 @@ my %rad_to_key = (
     艹 => 'u',
     虍 => 'v',
     言 => 'w',
+    豆 => 'w',
+    豕 => 'w',
     豸 => 'x',
     貝 => 'x',
     足 => 'x',
@@ -127,6 +133,7 @@ my %rad_to_key = (
     身 => 'x',
     辶 => 'y',
     酉 => 'y',
+    里 => 'y',
     門 => ';',
     阜 => ';',
     隹 => ';',
@@ -143,6 +150,8 @@ my %rad_to_key = (
     黑 => '/',
     龜 => '/',
     龠 => '/',
+    歯 => '/',
+    齒 => '/',
 );
 
 my @yomiken = (
@@ -207,9 +216,9 @@ sub erase_to_eol {
 
 # 漢字の優先度マッピング
 # 使用頻度と似た概念
-#  5 - 最も高い優先度
-#  4 - やや低い
-#  3 - もっと低い
+#  $max_pri   - 最も高い優先度
+#  $max_pri-1 - やや低い
+#  $max_pri-2 - もっと低い
 # など..
 #  ..
 #  マップに無い - この漢字を使わない
@@ -217,7 +226,7 @@ my %kanji_to_priority;
 {
     open my $priority, '<', "$FindBin::Bin/priority/$lang";
     binmode $priority, ':utf8';
-    my $priority_level = 5;
+    my $priority_level = $max_pri;
     while (my $line = <$priority>) {
         next if $line =~ m/^#/;
         chomp $line;
@@ -290,7 +299,7 @@ sub guide_ji  {
     my $raw_ji = $codes{$key};
     my $padding = q{ } x (2 - char_width $raw_ji);
     my $priority = $kanji_to_priority{$raw_ji} // 0;
-    my $pri_color = $pri_colors[5 - $priority] // q{};
+    my $pri_color = $pri_colors[$max_pri - $priority] // q{};
     return "$pri_color$raw_ji\e[39m$padding";
 }
 
@@ -318,6 +327,7 @@ sub read_codes {
     %codes = ();
     %suggestions = ();
     my %unassigned_by_priority;
+    my %total_by_priority;
     my $total_assigned;
 
     for my $codes_file (@codes_files) {
@@ -337,13 +347,14 @@ sub read_codes {
             my $priority = $kanji_to_priority{$value};
             next if !defined($priority) and $codes_file =~ m#/kanji\.#;
 
-            if ($stats_mode) {
+            if ($stats_mode && $codes_file =~ m#/kanji.[^/]+$#) {
+                $total_by_priority{$priority}++;
                 if (length($key) > 3) {
                     # コードが３文字以上だと入力できないので、
                     # 未割り当てとして見なす
                     my $pri_array = $unassigned_by_priority{$priority} //= [];
                     push @$pri_array, $value;
-                } elsif ($codes_file =~ m#/kanji.[^/]+$#) {
+                } else {
                     $total_assigned++;
                 }
             }
@@ -438,7 +449,11 @@ sub read_codes {
         for my $level (reverse sort keys %unassigned_by_priority) {
             my $dim = 2;
             my $array = $unassigned_by_priority{$level};
-            printf "pri %d(%d unassigned):\n", $level, scalar(@$array);
+            my $u = @$array;
+            my $a = $total_by_priority{$level} - $u;
+            printf "pri %d - %d assigned (%.2f%%), %d unassigned, %d total:\n",
+                $level, $a, $a / ($a + $u) * 100, $u, $a + $u;
+
             while ($dim * $dim * 3 < @$array * 4) {
                 $dim++;
             }
@@ -509,12 +524,17 @@ sub read_codes {
                 for my $third_key (@kanji_keys) {
                     my $lcase_code = $prefix . $third_key;
                     my $ucase_code = $prefix . shift_key($third_key);
+                    my $ucase_kanji = $codes{$ucase_code};
+                    if (defined $ucase_kanji &&
+                            $kanji_to_priority{$ucase_kanji} == $max_pri) {
+                        print "$ucase_code\t$ucase_kanji # 最高優先度\n";
+                    }
                     if (defined $codes{$lcase_code}) {
                         $lcase_occupied_count++;
                         if (defined $codes{$ucase_code}) {
                             $ucase_occupied_count++;
                         }
-                    } elsif (defined $codes{$ucase_code}) {
+                    } elsif (defined $ucase_kanji) {
                         print "${lcase_code}に該当する漢字がないのに、";
                         print "${ucase_code}に「$codes{$ucase_code}」が";
                         print "割り当てられている。\n";
@@ -534,6 +554,58 @@ sub read_codes {
         }
         print "\n";
         exit 0;
+    }
+
+    for my $key (keys %codes) {
+        next if $key !~ m/^(.)i$/;
+        my $first_key = $1;
+        my $first_kana = $codes{$key};
+        # TODO: 日本キーボード配列に対応させる
+        my %number_substs = qw{
+            7 ゃ
+            & ゃう
+            8 ゅ
+            * ゅう
+            9 ょ
+            ( ょう
+        };
+        while (my ($number, $kana) = each %number_substs) {
+            my $new_key = $first_key . $number;
+            next if defined $codes{$new_key};
+            $codes{$new_key} = $codes{$key} . $kana;
+        }
+    }
+
+    # ２文字コードの前に数字を入れてかなを効率良く入力できるようにする
+    for my $key (keys %codes) {
+        next if length($key) != 2;
+        my %number_substs = qw(
+            1 っ
+            2 い
+            3 あ
+            4 う
+            5 え
+            6 お
+            0 ん
+        );
+        while (my ($number, $kana) = each %number_substs) {
+            my $new_key = $number . $key;
+            $new_key =~ s/;//;
+            next if defined $codes{$new_key};
+            $codes{$new_key} = $kana . $codes{$key};
+        }
+    }
+
+    # カタカナのコードをひらがなのコードから自動生成する
+    # 尚、CAPSLOCKがオンでも一般の漢字を入力できるようにする
+    for my $key (keys %codes) {
+        next if $key =~ /[A-Z]/;
+        my $ukey = $key;
+        $ukey =~ tr/a-z/A-Z/;
+        next if defined $codes{$ukey};
+        my $uvalue = $codes{$key};
+        $uvalue =~ tr/ぁ-ゖ/ァ-ヶ/;
+        $codes{$ukey} = $uvalue;
     }
 }
 read_codes;

@@ -59,8 +59,8 @@ wd/	豁
 wdi	豈	yガイ	hyキ	hyケ
 wfj	観
 wfj	觀
-wfK	諌
-wfk	諫
+wfk	諌	i諫諌
+wfk	諫	i諫諌
 wfl	讙
 wge	覊
 wgk	規
@@ -412,7 +412,6 @@ _08C47	豇
 _08C4B	豋
 _08C4D	豍
 _08C4F	豏
-_08C54	豔
 _08C57	豗
 _08C5C	豜
 _08C5D	豝

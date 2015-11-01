@@ -24,8 +24,8 @@ k,,	檬	yモウ	hyボウ
 k,.	櫁
 k.k	朸
 k.j	李
-k./	来	来來徠
-k./	來	来來徠	漢字源による部首：木《ｋ》
+k./	来	i来來
+k./	來	i来來	漢字源による部首	b木	hb人
 k.f	林
 k.d	柳
 k.q	栗
@@ -165,9 +165,9 @@ kjk	検	i検檢
 kjk	檢	i検檢
 kj/	椦
 kjl	権
+kjl	權
 kjs	檄
 kje	檠
-kjr	權
 kkl	杞
 kk;	杠
 kkr	杭

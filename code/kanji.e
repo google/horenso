@@ -1,7 +1,6 @@
 e,/	囿
 e,;	圸
 e,w	埋
-e,a	埜	野埜	yヤ	hyショ
 e,j	墹
 e,m	壅
 e,.	壗
@@ -9,6 +8,7 @@ e,f	夜
 e,r	夢
 e,q	夭
 e,R	梦
+e,a	埜	i野埜	yヤ	hyショ	hb里	b土
 e.m	埒	yラチ	hyラツ	hyレツ
 e.M	埓	yラチ	hyラツ	hyレツ
 e/a	囹
@@ -49,7 +49,7 @@ ebi	壹
 ebh	夷	大を取り除くと弓《ｈ》が残る
 ebu	圯	yイ
 eci	囮
-ecc	園	園薗
+ecc	園	i園薗
 ecu	垣
 ecp	堝
 ecv	堰
@@ -65,7 +65,8 @@ ech	奕
 eck	奥
 eck	奧
 ec,	坷	yカ
-ed;	回
+ed;	回	i回囘
+ed;	囘	i回囘	b囗	hb冂
 edh	垓
 eds	垳
 edf	埆
@@ -85,7 +86,7 @@ efj	奐
 ega	圻
 egl	基
 egw	埼
-egj	奇	奇竒
+egj	奇	i奇竒
 eh;	圄	yギョ	hyゴ
 ehs	圉
 ehb	𡑭	yくれ	hyカイ
@@ -107,16 +108,17 @@ ejw	夐	yケイ	hyキョウ
 ejs	奎
 eje	契	yケイ	hyセツ
 ejr	奚
-ejf	𡙇	缺缼欠𡙇
+ejf	𡙇	i缺缼欠𡙇
 eke	固
 ekq	坑
 ekj	垢
 ekw	堽
 ekr	壕
 ekf	壙
-ekL	壷
-ekl	壺
+ekl	壷	i壺壷
+ekl	壺	i壺壷
 eka	夸
+ekd	夠
 elr	困
 eli	国
 eli	國
@@ -147,8 +149,9 @@ eps	墅
 epo	壌
 epo	壤
 epe	奘
-epi	奨	奨奬獎
-epI	奬	奨奬獎
+epi	奨	i奨奬獎
+epi	獎	i奨奬獎	b大	hb犬
+epk	奬	i奨奬獎
 eqe	図	yズ
 eqe	圖	yズ
 eqm	垂
@@ -388,7 +391,6 @@ _0590E	夎
 _05912	夒
 _05914	夔
 _05917	夗
-_05920	夠
 _05924	夤
 _0592F	夯
 _0593D	夽

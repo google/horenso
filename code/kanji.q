@@ -44,7 +44,7 @@ qg;	究
 qgi	穹
 qgl	窮
 qgn	窺
-qgj	竒	奇竒	漢字源による部首：立《ｑ》
+qgj	竒	i奇竒	漢字源による部首	b立
 qgK	祈
 qhw	禁
 qhk	禦
@@ -124,8 +124,8 @@ qr;	禪
 qrl	租
 qrk	積
 qri	穿
-qrq	窃
-qro	竊
+qrq	窃	i窃竊
+qrq	竊	i窃竊
 qrw	竰
 qrJ	祖
 qsk	稍
@@ -163,11 +163,11 @@ qxi	稔	yネン	hyジン
 qxo	稗
 qxj	突
 qxJ	突
-qyQ	祕
 qye	票
 qyw	秒
 qyr	秕
-qyq	秘
+qyq	秘	i秘祕
+qyq	祕	i秘祕
 qyo	𥧔	屁𥧔
 qzl	祓
 qzj	福

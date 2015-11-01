@@ -51,7 +51,7 @@ lg,	炁	i炁気氣	b气	yキ	hyケ	hb灬	hb旡
 lhf	欣	yキン	hyゴン
 lhd	欽
 lhs	歔
-ljf	欠	缺缼欠𡙇
+ljf	欠	i缺缼欠𡙇
 ljd	歇
 ljs	歉
 lkf	毫
@@ -59,8 +59,8 @@ lls	歳	yサイ	hyセイ
 lls	歲	yサイ	hyセイ
 lld	残
 lld	殘
-llf	殺	殺殺煞
-llF	殺	殺殺煞
+llf	殺	i殺殺煞
+llf	殺	i殺殺煞
 lmd	次
 lma	止
 lmk	此
@@ -89,7 +89,7 @@ lxj	毒
 lyd	殍
 lya	殯
 lyf	比
-lyS	毗
+lys	毗
 lys	毘
 lzc	武
 lz;	殕

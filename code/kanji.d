@@ -30,6 +30,7 @@ d/,	哢
 d/m	唳
 d/s	啝	yワ	hyカ
 d/a	嗹
+d/f	另	yレイ	hyリョウ
 d;a	卯	漢字源による部首：卩《ｄ》
 d;f	厖
 d;k	呆	下部が木《ｋ》
@@ -123,8 +124,8 @@ dhc	呴	yク
 dhv	呿	yキョ
 dho	喬
 dhe	喰
-dhS	嘘
-dhs	噓
+dhs	嘘	i噓嘘
+dhs	噓	i噓嘘
 dhi	噤
 djk	卿	yケイ	hyキョウ
 djd	原
@@ -136,7 +137,7 @@ djf	啓	i啓啟
 djf	啟	i啓啟
 djl	喧
 dje	囈
-djr	囓	齧𪘂囓
+djr	囓	i齧𪘂囓	b口	hb歯
 dk/	㗅
 dkA	卬	yゴウ
 dkj	厚	i厚㫗
@@ -228,12 +229,12 @@ dpo	唱
 dps	商
 dpi	喞	yショク	hyソク
 dph	嗇
-dpf	嘗	天辺に小《ｆ》らしいものがある	漢字源による部首：口
+dpf	嘗	天辺に小《ｆ》らしいものがある	漢字源による部首	b口
+dpf	甞	天辺に小《ｆ》らしいものがある	漢字源による部首	b口
 dpw	嘯
 dpu	嘱
 dpt	囁	右部に耳《ｔ》が三つある
 dpk	囑
-dpF	甞	天辺に小《ｆ》らしいものがある	漢字源による部首：口
 dql	吹
 dqk	呻
 dq;	哂
@@ -327,7 +328,7 @@ dz;	吻
 dzk	咐	yブ	hyホ
 dzi	嘸
 dzj	噴
-dzc	𠬝	服𠬝	部首：又 yフク
+dzc	𠬝	b又	yフク
 dzg	噼	Ppi1	yヘキ	j辟
 _0355D	㕝
 _0355E	㕞
@@ -354,7 +355,6 @@ _053B9	厹
 _053C0	叀
 _053D5	叕
 _053DA	叚
-_053E6	另
 _053F4	叴
 _053F5	叵
 _053FB	叻
