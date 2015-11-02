@@ -130,7 +130,8 @@ mgw	沂
 mg,	泣
 mga	淇
 mgq	滊
-mhf	況
+mhf	況	i況况
+mhf	况	i況况	b氵	hb冫
 mhv	洫	下部に血《ｖ》がある
 mhs	洶
 mha	渠
