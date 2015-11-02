@@ -177,8 +177,8 @@ yvd	酊
 yvk	酲
 yvy	重	yチョウ	hyジュウ
 ywg	辿	部首の辶の取り除くと山(g)が残る
-ywe	迯
-ywr	逃
+ywr	迯	i逃迯
+ywr	逃	i逃迯
 ywq	透
 ywy	途
 ywt	逗
