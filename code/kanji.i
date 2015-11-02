@@ -90,15 +90,16 @@ ihw	抂
 ihf	拒
 ihd	拠
 ihi	拱
-iha	挙	挙擧舉
-ihs	挟
-iho	挾
+iha	挙	i挙擧舉
+iha	舉	i挙擧舉	b手	hb臼
+ihz	擧	i挙擧舉
+ihs	挟	i挟挾
+ihs	挾	i挟挾
 ihe	据
 ihq	掀
 ihr	掘
 ih;	擒
 ihd	據
-ihA	擧	挙擧舉
 ije	戟
 ijj	擎
 iji	抉

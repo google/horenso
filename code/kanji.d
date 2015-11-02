@@ -152,6 +152,7 @@ dkf	后
 dks	向
 dkx	吭
 dkm	吼
+dkM	啌	yコウ
 dko	吽	yゴウ	hyグ	hyウン
 dki	吾
 dkh	呉
@@ -167,12 +168,12 @@ dkt	哈
 dkw	哮
 dkb	哽
 dku	唔
-dkp	啌	yコウ
 dkk	喉
 dkR	嗑	《咬》と意味が似ているけれど、異体字関係ではない	yコウ
 dky	嗷
 dkW	嘐	yコウ	哮の異体字ではない
-dkM	嘷	意読 ほえる	《吼》と意味は似ているけど、異体字関係ではない
+dkp	嘷	i嘷嗥	意読 ほえる
+dkp	嗥	i嘷嗥
 dkz	嚙
 dkz	噛
 dkv	嚆
@@ -498,7 +499,6 @@ _055DB	嗛
 _055DD	嗝
 _055E1	嗡
 _055E2	嗢
-_055E5	嗥
 _055E6	嗦
 _055E7	嗧
 _055E8	嗨

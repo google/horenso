@@ -81,8 +81,8 @@ nhe	熏
 nhr	燻
 nhf	狂
 nhs	狗	yク	hyコウ
-nhd	狭
-nha	狹
+nhd	狭	i狭狹
+nhd	狹	i狭狹
 njq	炯
 nj;	烱
 njr	煢

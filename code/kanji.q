@@ -129,7 +129,7 @@ qrq	竊	i窃竊
 qrw	竰
 qrJ	祖
 qsk	稍
-qsj	窓	i窓牕窗窻
+qsj	窓	i窓牕窗窻	b空	hb宀	hb心
 qsj	窗	i窓牕窗窻
 qsm	窻	i窓牕窗窻
 qsm	牕	i窓牕窗窻
