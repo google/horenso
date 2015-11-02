@@ -178,7 +178,8 @@ hla	懇
 hlR	懴
 hlr	懺
 hma	式
-hmw	弑
+hmw	弑	i弑弒
+hmw	弒	i弑弒
 hmg	弛	yシ	hyチ
 hml	徙	右上に止《ｌ》がある
 hmd	志
@@ -336,7 +337,6 @@ hzh	憮
 _03917	㤗
 _0391A	㤚
 _05F0E	弎
-_05F12	弒
 _05F1A	弚
 _05F1C	弜
 _05F1D	弝
