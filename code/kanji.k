@@ -357,6 +357,7 @@ kxb	檗
 kxm	檸
 kxh	𣏕	yハイ
 kxy	𣏟	yハイ
+kx;	柰	b木
 kya	杪
 kyf	板
 kys	枇

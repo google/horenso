@@ -217,8 +217,7 @@ exj	壜	yドン	hyタン	i壜罈
 exj	罈	yドン	hyタン	b土	hb缶	i壜罈
 exi	売	i売賣
 exi	賣	i売賣	b士	hb貝
-ex;	奈	i柰奈
-ex;	柰	i柰奈	b大	hb木
+ex;	奈
 exu	壩	yハ	hyヘ
 eya	坂
 eyp	埤	yヒ	hyヘイ	hyハイ
