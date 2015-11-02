@@ -162,6 +162,7 @@ eqi	声
 eqi	聲	b士	hb耳
 eqa	夊
 eqj	圳	yシン	hyセン
+eqk	囟	yシン	Pxin4
 erk	塑
 erj	夕
 esk	埣	yソツ	hyサイ	hyスイ
@@ -176,6 +177,7 @@ esa	多
 esd	夛
 esj	奏	b大	hb禾	yソウ
 esK	𡉻	yソツ	hyサイ	hyスイ
+esu	囪	Pcong1	yソウ
 etl	団
 etl	團
 etk	地
@@ -236,12 +238,10 @@ _0364A	㙊
 _03696	㚖
 _03699	㚙
 _056DD	囝
-_056DF	囟
 _056E1	囡
 _056E4	囤
 _056E7	囧
 _056E8	囨
-_056EA	囪
 _056EB	囫
 _056F6	囶
 _056F7	囷
