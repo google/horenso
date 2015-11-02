@@ -103,7 +103,8 @@ xm.	趾
 xmb	躾
 xmv	軸
 xmg	輜
-xml	轜
+xml	轜	i轜輀
+xml	輀	i轜輀
 xnc	赦
 xnl	赭
 xnv	趣
@@ -444,7 +445,6 @@ _08EF7	軷
 _08EF9	軹
 _08EFA	軺
 _08EFF	軿
-_08F00	輀
 _08F01	輁
 _08F02	輂
 _08F06	輆
