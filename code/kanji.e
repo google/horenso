@@ -173,8 +173,8 @@ esf	増
 esf	增
 ese	壮
 ese	壯
-esa	多
-esd	夛
+esa	多	i多夛
+esa	夛	i多夛
 esj	奏	b大	hb禾	yソウ
 esK	𡉻	yソツ	hyサイ	hyスイ
 esu	囪	Pcong1	yソウ
