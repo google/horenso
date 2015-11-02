@@ -147,7 +147,8 @@ vnc	蛇	yジャ	hyダ
 vn.	螽
 vnk	蟀
 vn;	蠢
-vnz	衆
+vnz	衆	i衆眾
+vnz	眾	i衆眾
 vnx	術
 vnv	袖
 vns	褶	yシュウ	hyショウ	hyチョウ
