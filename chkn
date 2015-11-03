@@ -341,10 +341,12 @@ sub read_codes {
             chomp $line;
 
             my ($key, $value, @notes) = split m/\t/, $line;
+            my $is_kantaiji = grep { $_ eq 'ktj' } @notes;
             if (!defined $value) {
                 print STDERR "Could not process code: $line\n";
                 die;
             }
+            next if $is_kantaiji && $lang ne 'cht';
 
             my $priority = $kanji_to_priority{$value};
             next if !defined($priority) and $codes_file =~ m#/kanji\.#;
