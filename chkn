@@ -440,12 +440,18 @@ sub read_codes {
         }
     }
 
-    # コードファイルに入っていないか設定言語のＬノートが付いていないのに、常用
-    # されている漢字があれば、コードファイルを直す必要がある。コードを割り当て
-    # るか、Lノートを追加しよう。
+    # コードファイルに入っていないのに、常用されている漢字があれば、コード
+    # ファイルを直す必要がある。コードを割り当てよう。
     my %code_by_kanji = reverse %codes;
+    my @missing;
     for my $ji (keys %kanji_to_priority) {
-        die sprintf("%X", ord($ji)) if not defined $code_by_kanji{$ji};
+        if (not defined $code_by_kanji{$ji}) {
+            push @missing, $ji;
+        }
+    }
+    if (@missing) {
+        print join(q{}, @missing) . "\n";
+        die 'Characters missing from code file.';
     }
 
     if ($stats_mode) {
