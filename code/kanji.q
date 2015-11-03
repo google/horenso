@@ -19,9 +19,9 @@ q/w	窶	yロウ	hyク
 q;j	穆
 qbk	禹
 qbj	移
-qbl	穎	穎頴
+qbl	穎	i穎頴
+qbl	頴	i穎頴	漢字源による部首	hb頁	大漢和辞典による部首	b禾
 qb;	穢
-qbL	頴	穎頴	漢字源による部首：頁《，》	大漢和辞典による部首：禾《ｑ》
 qck	禍
 qci	禾
 qcj	科
