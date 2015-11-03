@@ -22,8 +22,8 @@ i.s	攬
 i/d	或	yワク
 i/f	戻
 i/f	戾
-i/a	挊	弄挊挵
-i/A	挵	弄挊挵
+i/a	挊	i弄挊挵
+i/a	挵	i弄挊挵
 i/e	捩
 i/s	撈
 i/v	攣

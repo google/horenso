@@ -199,7 +199,7 @@ jz;	敝
 jzk	敷
 jzf	斃
 jzx	文
-jzn	斧	斧𨨞	右上に父《ｎ》がある
+jzn	斧	i斧𨨞	右上に父《ｎ》がある
 jzl	无
 jzv	普
 jzd	暼
