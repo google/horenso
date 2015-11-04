@@ -394,6 +394,8 @@ mwl	滕
 mwg	潼
 mwt	澱
 MWT	淀	ktj
+mwb	涂
+mwb	凃	b氵	hb冫
 mxe	汢	yぬた	右部に土《ｅ》がある
 mx;	瀼	yノウ	hyジョウ	hyドウ
 mxz	沌
@@ -540,7 +542,6 @@ _06D7A	浺
 _06D7C	浼
 _06D7F	浿
 _06D80	涀
-_06D82	涂
 _06D86	涆
 _06D8A	涊
 _06D8D	涍
