@@ -17,8 +17,6 @@ X,J	舆	ktj
 x.m	貍
 x.x	賚
 X.X	赉	ktj
-x.v	賴
-X.V	赖	ktj
 x.g	踉	yリョウ	hyロウ
 x.z	躙	i躙躪
 x.z	躪	i躙躪
