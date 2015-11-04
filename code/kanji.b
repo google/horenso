@@ -1,6 +1,5 @@
 b,/	佑
-b,.	余	i余餘
-B,.	余	ktj
+b,a	余	i余餘
 b,x	佯
 b,c	侑
 b,n	俑
