@@ -233,7 +233,7 @@ my %kanji_to_priority;
         next if $line =~ m/^#/;
         chomp $line;
         for my $kanji (split q{}, $line) {
-            $kanji_to_priority{$kanji} = $priority_level;
+            $kanji_to_priority{$kanji} //= $priority_level;
         }
         $priority_level--;
     }
