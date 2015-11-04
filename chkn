@@ -654,6 +654,9 @@ sub print_keyboard_row {
         }
         my $key_value = $keyboard_ref->{$key_name} || q{  };
         my $shift_value = $keyboard_ref->{shift_key $key_name} || q{│ };
+        if ($shift_value eq $key_value) {
+            $shift_value = '々';
+        }
         if (char_width($key_value) > 2) {
             $key_value = q{..};
         }
