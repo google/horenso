@@ -12,11 +12,13 @@ k,n	棉
 k,u	椛	yもみじ	hyかば	花の部首は艹《ｕ》
 k,r	椰
 k,q	楊
+K,Q	杨	ktj
 k,h	楡
 k,t	榁
 k,x	榕
 k,d	様
 k,d	樣
+K,D	样	ktj
 k,z	樒
 k,s	模
 k,;	橸	yまさ
@@ -26,6 +28,7 @@ k.k	朸
 k.j	李
 k./	来	i来來
 k./	來	i来來	漢字源による部首	b木	hb人
+K./	来	ktj
 k.f	林
 k.d	柳
 k.q	栗
@@ -38,9 +41,12 @@ k.z	楞	yリョウ	hyロウ
 k.b	榴	yリュウ	hyル
 k.x	櫑
 k.a	欄	i欄欄
+K.A	栏	ktj
 k.a	欄	i欄欄
 k.c	欒
+K.C	栾	ktj
 k.v	欖
+K.V	榄	ktj
 k/f	枠
 k/Q	枦
 k/a	柆
@@ -48,16 +54,23 @@ k/e	椀
 k/l	楝
 k/d	楼
 k/d	樓
+K/D	楼	ktj
 k/c	櫔	yレイ	hyライ	hyとち	hyマン	hyバン
 k/k	榔
 k/v	櫳
+K/V	栊	ktj
 k/v	槞
 k/R	檪
 k/j	櫓
+K/J	橹	ktj
 k/w	櫚	yロ	hyリョ
+K/W	榈	ktj
 k/r	櫟
+K/R	栎	ktj
 k/q	櫨
+K/Q	栌	ktj
 k/z	櫪
+K/Z	枥	ktj
 k/x	櫺
 k;f	木
 k;d	本
@@ -72,16 +85,20 @@ k;w	楙
 k;q	榜
 k;v	樮
 k;c	樸
+K;C	朴	ktj
 kb;	杁	yいり	hyえぶり
 kbl	栄
 kbl	榮
+KBL	荣	ktj
 kbk	案
 kba	桙
 kbj	椅
 kb/	椏	yア
+KB/	桠	ktj
 kbz	楹
 kbu	欝
 kbu	鬱	b木	hb鬯
+KBU	郁	ktj
 kb.	荣
 kc;	枉
 kcj	果
@@ -90,14 +107,19 @@ kcx	枷
 kcz	柯
 kcv	桜
 kcv	櫻
+KCV	樱	ktj
 kcm	榎
 kc.	榲
+KC.	榅	ktj
 kcl	横
 kcl	橫
+KCL	横	ktj
 kc/	樺
+KC/	桦	ktj
 kcp	檍	yオク	hyヨク
 kco	檐
 kcu	櫞
+KCU	橼	ktj
 kdr	枴
 kdl	核
 kda	格	yカク	hyキャク	hyコウ
@@ -105,16 +127,21 @@ kdv	桷
 kds	械
 kdp	椁
 kdp	槨
+KDP	椁	ktj
 kdj	楷
 kdk	楽
 kdk	樂
+KDK	乐	ktj
 kdf	概
 kdq	槐
 kdw	槝	yかし
 kdm	槶	yカイ	hyケ
+KDM	椢	ktj
 kdm	椢	yカイ	hyケ
 kd;	樫
+KD;	㭴	ktj
 kdo	檜
+KDO	桧	ktj
 kdo	桧
 kfa	杆
 kfo	柑	yカン	木を取り除くと甘《ｏ》が残る
@@ -122,39 +149,49 @@ kfd	柬
 kfu	栞
 kfi	桓
 kfm	桿
+KFM	杆	ktj
 kfk	棺
 kfj	榦	i榦幹
 kfl	樌
 kfs	橄
 kf;	檻
+KF;	槛	ktj
 kgj	机
 kgk	朽
 kgm	枳
 kgo	柩
 kgd	桔	吉の部首は口《ｄ》
 kg;	棄
+KG;	弃	ktj
 kgq	棊
 kgl	棋
 kga	椈
 kgw	榿	yキ	豈の部首は豆《ｗ》
+KGW	桤	ktj
 kg.	槻
 kgp	樛
 kgz	橘
 kgu	機
+KGU	机	ktj
 kg/	櫃
+KG/	柜	ktj
 kha	杏	yキョウ
 khr	枸
 khw	栩
 khe	框
 kh;	桾
 khl	梟
+KHL	枭	ktj
 khg	棘
 khv	椚
 khc	椡	yくぬぎ	到の部首は刂《ｃ》
 khf	業
+KHF	业	ktj
 khd	極	yキョク	hyゴク
+KHD	极	ktj
 kht	槿
 khs	橋
+KHS	桥	ktj
 kho	橿	右部に田《ｏ》が２つある
 khk	欅
 kja	杰
@@ -163,9 +200,11 @@ kj;	桀
 kjf	桂
 kjk	検	i検檢
 kjk	檢	i検檢
+KJK	检	ktj
 kj/	椦
 kjl	権
 kjl	權
+KJL	权	ktj
 kjs	檄
 kje	檠
 kkl	杞
@@ -181,10 +220,12 @@ kkw	桍
 kka	梗
 kkc	梧
 kkx	棡
+KKX	㭎	ktj
 kkm	椌
 kkn	楜
 kk/	槁
 kkj	構
+KKJ	构	ktj
 kkq	槓
 kkz	槹
 kko	檎	yゴ	hyゴン	hyキン
@@ -195,12 +236,14 @@ kli	柞
 klh	柤
 kln	柴
 kls	柵
+KLS	栅	ktj
 kld	査
 kld	查
 klj	根
 klk	栽
 kl;	桟
 kl;	棧
+KL;	栈	ktj
 klp	梏
 klq	梭
 klu	梱
@@ -211,6 +254,7 @@ klw	榾
 klz	槊
 kly	槎
 kl,	槧
+KL,	椠	ktj
 klm	槲
 kl/	樶
 kms	朿
@@ -220,9 +264,11 @@ kmd	柿
 kma	桎
 kmr	梓
 kme	梔
+KME	栀	ktj
 kmw	椣
 kmc	橲	yじさ	hyずさ
 kmq	櫛
+KMQ	栉	ktj
 knS	㈱
 knk	朮	yジュツ	hyチュツ
 knf	朱
@@ -238,12 +284,14 @@ kng	楫
 knw	楯
 knx	楸
 kna	樹
+KNA	树	ktj
 kn:	𣏐	yシャク	hyヒョウ
 kpv	㮤
 kpD	㯰
 kps	杖
 kpa	条	i条條	yジョウ	hyチョウ
 kpa	條	i条條	yジョウ	hyチョウ
+KPA	条	ktj
 kpe	杵
 kpf	松
 kpc	枩	公の部首は八《ｃ》
@@ -253,19 +301,23 @@ kpC	梥	公の部首は八《ｃ》
 kpd	植
 kpq	椒
 kpw	樅
+KPW	枞	ktj
 kpt	樟
 kpg	樵
 kpz	橡
 kpj	檣
+KPJ	樯	ktj
 kqe	杦	yすぎ
 kqj	枢
 kqw	栖
 kqk	森
 kqr	棲
+KQR	栖	ktj
 kqd	椙	yすぎ
 kq;	榛
 kqh	榱
 kqj	樞
+KQJ	枢	ktj
 kql	橇	yゼイ	hyサイ	hyキョウ	毳の部首は毛《ｌ》
 kr;	析
 krk	染
@@ -286,12 +338,15 @@ ksk	桑
 ksr	梍	yソウ
 kso	梛
 ks/	棗
+KS/	枣	ktj
 ksm	楕
 ksu	槍
+KSU	枪	ktj
 ksl	槽
 ksp	樔
 ks;	樽
 ks.	橢
+KS.	椭	ktj
 ktg	杶	yチュン	屯の部首は屮《ｇ》
 ktj	柝
 ktk	柱
@@ -315,19 +370,24 @@ kvn	楴
 kvd	槌
 kvp	樗
 kv.	樢	yチョウ	hyボク	hyモク	右部に鳥《．》がある
+KV.	㭤	ktj
 kvw	欟	yつき	hyカン	観の部首は見《ｗ》	i欟𣠤
 kvw	𣠤	yつき	hyカン	観の部首は見《ｗ》	i欟𣠤
 kwa	朷
 kw/	杜
 kwj	東
+KWJ	东	ktj
 kwr	桃
 kwe	桐
 kwh	檔	i檔档
+KWH	档	ktj
 kwh	档	i檔档
 kwy	桶	yトウ	hyツウ	hyヨウ
 kw;	梼	i梼檮
 kw;	檮	i梼檮
+KW;	梼	ktj
 kwk	棟
+KWK	栋	ktj
 kwm	棠
 kwl	棹
 kwp	椽
@@ -336,10 +396,12 @@ kwG	槇
 kwg	槙
 kwf	樋
 kwi	橈
+KWI	桡	ktj
 kwt	橙
 kwq	橦	yトウ	hyショウ	hyズウ	hyヅウ	hyシュ	hyショウ	童の部首は立《ｑ》
 kw.	櫂
 kwo	樁	yトウ	hyショウ	hyシュ
+KWO	桩	ktj
 kxj	杯
 kxz	杷
 kxl	柏
@@ -355,6 +417,7 @@ kxp	楠
 kxg	楳
 kxb	檗
 kxm	檸
+KXM	柠	ktj
 kxh	𣏕	yハイ
 kxy	𣏟	yハイ
 kx;	柰	b木
@@ -368,7 +431,9 @@ kyv	榧
 kyq	槃
 kyz	樊
 kyd	標
+KYD	标	ktj
 kyt	檳
+KYT	槟	ktj
 kzg	枌	yフン
 kzc	枹	yフ	hyホウ
 kzx	柄	yヘイ	hyヒョウ	i柄棅
@@ -378,6 +443,7 @@ kzj	桴
 kzk	梺
 kz;	棻
 kzl	楓
+KZL	枫	ktj
 kzf	榑
 kzd	榠
 _03B6D	㭭
@@ -406,8 +472,10 @@ _06757	杗
 _0675D	杝
 _0676C	杬
 _06774	杴
+_06774_s	锨	ktj
 _0677B	杻
 _06781	极
+_06781_s	极	ktj
 _06784	构
 _06786	枆
 _0678D	枍
@@ -482,6 +550,7 @@ _06890	梐
 _06892	梒
 _06896	梖
 _06898	梘
+_06898_s	枧	ktj
 _06899	梙
 _0689A	梚
 _0689C	梜
@@ -493,6 +562,7 @@ _068AB	梫
 _068AC	梬
 _068AE	梮
 _068B2	梲
+_068B2_s	棁	ktj
 _068B4	梴
 _068BB	梻
 _068C3	棃
@@ -502,6 +572,7 @@ _068CF	棏
 _068D0	棐
 _068D3	棓
 _068D6	棖
+_068D6_s	枨	ktj
 _068D9	棙
 _068DC	棜
 _068E4	棤
@@ -516,6 +587,7 @@ _068F1	棱
 _068F3	棳
 _068F5	棵
 _068F6	棶
+_068F6_s	梾	ktj
 _068F7	棷
 _068F8	棸
 _068FC	棼
@@ -549,6 +621,7 @@ _06964	楤
 _06965	楥
 _06966	楦
 _06968	楨
+_06968_s	桢	ktj
 _06969	楩
 _0696C	楬
 _06970	楰
@@ -589,6 +662,7 @@ _069D6	槖
 _069E2	槢
 _069E3	槣
 _069E4	槤
+_069E4_s	梿	ktj
 _069E5	槥
 _069E9	槩
 _069EA	槪
@@ -597,6 +671,7 @@ _069EE	槮
 _069EF	槯
 _069F1	槱
 _069F3	槳
+_069F3_s	桨	ktj
 _069F4	槴
 _069F5	槵
 _069F7	槷
@@ -615,10 +690,12 @@ _06A28	樨
 _06A30	樰
 _06A32	樲
 _06A33	樳
+_06A33_s	桪	ktj
 _06A34	樴
 _06A3B	樻
 _06A3E	樾
 _06A3F	樿
+_06A3F_s	椫	ktj
 _06A40	橀
 _06A41	橁
 _06A45	橅
@@ -642,9 +719,11 @@ _06A76	橶
 _06A7A	橺
 _06A7E	橾
 _06A81	檁
+_06A81_s	檩	ktj
 _06A83	檃
 _06A87	檇
 _06A89	檉
+_06A89_s	柽	ktj
 _06A8B	檋
 _06A91	檑
 _06A93	檓
@@ -654,10 +733,12 @@ _06A9B	檛
 _06A9D	檝
 _06A9E	檞
 _06A9F	檟
+_06A9F_s	槚	ktj
 _06AA1	檡
 _06AA5	檥
 _06AAB	檫
 _06AAF	檯
+_06AAF_s	台	ktj
 _06AB9	檹
 _06ABD	檽
 _06AC5	櫅
@@ -668,17 +749,24 @@ _06AD0	櫐
 _06AD9	櫙
 _06ADC	櫜
 _06ADD	櫝
+_06ADD_s	椟	ktj
 _06AE0	櫠
 _06AE1	櫡
 _06AE4	櫤
 _06AE5	櫥
+_06AE5_s	橱	ktj
 _06AE7	櫧
+_06AE7_s	槠	ktj
 _06AEB	櫫
+_06AEB_s	橥	ktj
 _06AEC	櫬
+_06AEC_s	榇	ktj
 _06AF0	櫰
 _06AF1	櫱
+_06AF1_s	蘖	ktj
 _06AF2	櫲
 _06AF8	櫸
+_06AF8_s	榉	ktj
 _06AF9	櫹
 _06AFC	櫼
 _06AFD	櫽
@@ -687,9 +775,11 @@ _06B03	欃
 _06B08	欈
 _06B0B	欋
 _06B0F	欏
+_06B0F_s	椤	ktj
 _06B10	欐
 _06B11	欑
 _06B17	欗
 _06B18	欘
 _06B1B	欛
 _06B1E	欞
+_06B1E_s	棂	ktj

@@ -6,19 +6,28 @@ r,r	粍
 r.r	笠
 r.q	篥
 r./	籃
+R./	篮	ktj
 r.j	籟
+R.J	籁	ktj
 r.k	籬
+R.K	篱	ktj
 r.,	粒
 r.w	粮
 r.e	粱
 r.m	糧
+R.M	粮	ktj
 r/m	篭
 r/m	籠
+R/M	笼	ktj
 r/z	籙	yロク
+R/Z	箓	ktj
 r/q	簍
+R/Q	篓	ktj
 r/e	簾
+R/E	帘	ktj
 r/,	粐
 r/w	糲
+R/W	粝	ktj
 r;k	笨	本の部首は木《ｋ》
 r;j	篷
 r;r	簿
@@ -30,6 +39,7 @@ rcj	箇
 rci	篶
 rco	簷
 rcl	粵
+RCL	粤	ktj
 rcl	粤
 rdj	筈
 rfl	竿
@@ -37,24 +47,29 @@ rfi	箝
 rfk	管
 rfo	篏
 rfj	簡
+RFJ	简	ktj
 rgj	笈
 rgk	箕
 rgl	簣
+RGL	篑	ktj
 rg;	簋	i簋𣪘
 rg;	𣪘	i簋𣪘	b竹	hb殳
 rhr	筋
 rhw	筐
 rhi	筥
 rho	筴
+RHO	䇲	ktj
 rhW	筺
 rh;	箘
 rhq	箜	空の部首は穴《ｑ》	yク	hyコウ
 rhp	箟
 rhl	篋
+RHL	箧	ktj
 rhe	粁
 rha	粂	久の部首は丿《ａ》
 rjr	笄
 rje	筧
+RJE	笕	ktj
 rke	箍
 rkq	篁
 rkl	篌
@@ -70,6 +85,7 @@ rlr	策
 rlk	筰
 rle	算
 rli	簀
+RLI	箦	ktj
 rlu	簑	簑簔蓑
 rl;	簒
 rl;	篡
@@ -80,10 +96,12 @@ rmr	竺	yジク	hyチク	hyトク
 rmd	笥	yシ	hyス	司の部首は口《ｄ》
 rme	笶
 rm,	篩
+RM,	筛	ktj
 rmw	粢
 rmq	粫
 rnQ	笋
 rnq	筍
+RNQ	笋	ktj
 rnr	粥
 rna	糅
 rpr	笑
@@ -92,6 +110,7 @@ rpi	篠	yショウ	i篠筱筿
 rpi	筱	yショウ	i篠筱筿
 rpk	筿	yショウ	i篠筱筿
 rpw	簫
+RPW	箫	ktj
 rpe	粧
 rpu	扔	Preng1	yジョウ	hyニョウ
 rqi	筬	下部の成の部首は戈(i)
@@ -108,9 +127,12 @@ rra	笘
 rre	筅
 rrw	筌
 rrl	箋
+RRL	笺	ktj
 rri	箭
 rrk	節
+RRK	节	ktj
 rru	簽
+RRU	签	ktj
 rr;	籍
 rrp	籖
 rrp	籤
@@ -121,10 +143,12 @@ rsP	䉤	yソウ	hyス	hyシュ
 rs;	笊
 rsK	筝
 rsk	箏
+RSK	筝	ktj
 rsi	箒
 rsj	箱	yソウ	hyショウ
 rso	簇
 rsp	籔	yソウ	hyス	hyシュ
+RSP	䉤	ktj
 rsm	粟	yゾク
 rsr	粽
 rsl	糟	yソウ
@@ -135,15 +159,20 @@ rtj	第
 rti	筑
 rto	箪
 rto	簞
+RTO	箪	ktj
 rtk	築
+RTK	筑	ktj
 rtp	籀
 rt;	籌	i籌筹
+RT;	筹	ktj
 rt;	筹	i籌筹
 rvj	笛
 rvk	箸
 rvl	籵
 rv;	糴
+RV;	籴	ktj
 rvi	糶
+RVI	粜	ktj
 rwe	劄	yトウ	hyサツ	hyチョウ	i劄箚
 rwe	箚	yトウ	hyサツ	hyチョウ	i劄箚
 rwj	等
@@ -159,6 +188,7 @@ rxl	笆
 rxi	筏
 rxo	箔
 rxk	篤
+RXK	笃	ktj
 rxm	簱	yはた
 rxu	簸
 rx,	籏	yはた
@@ -166,8 +196,11 @@ rx;	粕
 rxj	粘
 ryw	笵
 ryr	筆
+RYR	笔	ktj
 rye	範
+RYE	范	ktj
 ryp	篳
+RYP	筚	ktj
 rya	粃
 ryq	糒
 ry;	糜
@@ -180,6 +213,7 @@ rzj	米
 rzk	粉
 rzi	粨
 rz/	糞
+RZ/	粪	ktj
 rzu	𥹢
 _041E6	䇦
 _041EE	䇮
@@ -246,6 +280,7 @@ _07BC5	篅
 _07BCA	篊
 _07BCE	篎
 _07BD4	篔
+_07BD4_s	筼	ktj
 _07BD5	篕
 _07BD6	篖
 _07BD7	篗
@@ -288,6 +323,7 @@ _07C2D	簭
 _07C33	簳
 _07C36	簶
 _07C39	簹
+_07C39_s	筜	ktj
 _07C3B	簻
 _07C3C	簼
 _07C45	籅
@@ -297,15 +333,19 @@ _07C4A	籊
 _07C51	籑
 _07C57	籗
 _07C5B	籛
+_07C5B_s	篯	ktj
 _07C5C	籜
+_07C5C_s	箨	ktj
 _07C5E	籞
 _07C61	籡
 _07C63	籣
 _07C66	籦
 _07C67	籧
 _07C69	籩
+_07C69_s	笾	ktj
 _07C6D	籭
 _07C6E	籮
+_07C6E_s	箩	ktj
 _07C6F	籯
 _07C70	籰
 _07C72	籲
@@ -335,6 +375,7 @@ _07CD5	糕
 _07CD7	糗
 _07CD9	糙
 _07CDD	糝
+_07CDD_s	糁	ktj
 _07CE6	糦
 _07CEA	糪
 _07CEB	糫

@@ -3,12 +3,15 @@ y,f	迷
 y,v	逾
 y,d	遊
 y,w	遙
+Y,W	遥	ktj
 y,w	遥
 y,t	邀
 y,z	邁	yマイ	hyバイ
+Y,Z	迈	ktj
 y,e	邑	yユウ
 y,g	邕	b邑	yヨウ	上部に巛《ｇ》がある
 y,s	郵
+Y,S	邮	ktj
 y,r	酉
 y,c	酩
 y,q	釉
@@ -16,13 +19,17 @@ y,a	野	i野埜	yヤ	hyショ
 y,E	阝	漢字源：「阝は邑の変形」とされている	yユウ	hyこざとへん
 y.a	辣
 y.,	遼
+Y.,	辽	ktj
 y.w	邏
+Y.W	逻	ktj
 y.s	酪
 y.m	醂
 y.f	里
 y.d	量
 y.k	釐
+Y.K	厘	ktj
 y/d	連
+Y/D	连	ktj
 y/f	郎
 y/a	醪
 y/s	醴
@@ -34,25 +41,32 @@ ybs	迂
 ybd	逶
 yby	逸
 ybo	運
+YBO	运	ktj
 ybc	遏
 ybp	違
+YBP	违	ktj
 ybl	遖
 yba	遺	yイ
+YBA	遗	ktj
 ybz	郁
 ybx	郢
 yb;	酳	yイン
 ybY	逸
 ybj	醞	yウン	Pyun4
+YBJ	酝	ktj
 ycz	迦
 ycv	過
+YCV	过	ktj
 ycx	遐
 ycy	遠
+YCY	远	ktj
 yda	迴
 yds	邂
 ydf	郭
 ydp	鄂
 ydy	醢
 yfy	還
+YFY	还	ktj
 yfd	邯
 yfs	酣
 ygy	迄
@@ -66,12 +80,15 @@ yhr	遽
 yhd	郡
 yhs	郷
 yhk	鄴	yギョウ	業の部首は木《ｋ》
+YHK	邺	ktj
 yhe	醵
 yhw	醺
 yhi	釁
+YHI	衅	ktj
 yjf	迎
 yjs	迥
 yj;	逕
+YJ;	迳	ktj
 yjd	遣
 yja	郤
 yje	醯
@@ -92,12 +109,15 @@ yla	酸
 yle	醋
 ymf	辞	i辤辞辭
 ymf	辭	i辤辞辭
+YMF	辞	ktj
 ymv	辤	i辤辞辭
 ymS	迩
 yms	邇
+YMS	迩	ktj
 yna	述
 ynT	逎
 yng	這	yシャ	hyゲン
+YNG	这	ktj
 ynz	逡
 ynf	週
 ynt	遒
@@ -110,37 +130,46 @@ ynq	酒
 yne	酬
 ynx	醇
 ync	醜
+YNC	丑	ktj
 yns	釈
 yns	釋
+YNS	释	ktj
 ypf	辱
 ypy	逍
 ypc	遶	yジョウ	hyニョウ	尭の部首は几《ｃ》
 ypa	邵
 yps	醤
 yps	醬
+YPS	酱	ktj
 ypd	醸
 ypd	釀
+YPD	酿	ktj
 yqe	辛
 yqy	辰	字全体が部首になっている為、三鍵目がy
 yqf	辷
 yqw	迅
 yqr	逝
 yq;	進
+YQ;	进	ktj
 yqo	遂
 yqt	邃
 yqd	鄒
+YQD	邹	ktj
 yqi	酔
 yqu	醉
 yqp	醒
 yrq	迹
 yrw	遡
 yry	遷
+YRY	迁	ktj
 yre	選
+YRE	选	ktj
 yrp	酥
 ysf	送
 ysp	速
 ysd	造
 ysy	遜
+YSY	逊	ktj
 ysa	遭
 ys;	邨
 yts	辵	i辵辶辶	yチャク	hyシン
@@ -153,8 +182,11 @@ yti	逮
 ytO	逹
 ytq	遅
 ytq	遲
+YTQ	迟	ktj
 yto	達
+YTO	达	ktj
 ytd	鄲
+YTD	郸	ktj
 yt;	酎
 ytk	酖
 yty	醍	yダイ	hyテイ
@@ -170,9 +202,12 @@ yvi	通
 yvv	逞
 yvh	遉
 yvo	遞
+YVO	递	ktj
 yvp	適
+YVP	适	ktj
 yvc	邸
 yvl	鄭
+YVL	郑	ktj
 yvd	酊
 yvk	酲
 yvy	重	yチョウ	hyジュウ
@@ -185,9 +220,11 @@ ywt	逗
 ywp	道
 ywi	都
 ywf	鄧
+YWF	邓	ktj
 ywo	酘
 ywI	都
 yxp	農
+YXP	农	ktj
 yxo	迚
 yxv	迫
 yx;	遁
@@ -204,14 +241,17 @@ yzg	辟	yヘキ
 yzl	辧
 yzl	辨
 yzu	辯
+YZU	辩	ktj
 yzx	辺	i辺邊邉
 yzx	邊	i辺邊邉
+YZX	边	ktj
 yzs	邉	i辺邊邉
 yzc	返
 yzp	遍
 yzo	郛
 yzv	部
 yzy	辦	yベン	hyハン
+YZY	办	ktj
 _048B5	䢵
 _08FB4	辴
 _08FC1	迁
@@ -263,6 +303,7 @@ _0908B	邋
 _0908C	邌
 _0908D	邍
 _09090	邐
+_09090_s	逦	ktj
 _09094	邔
 _09097	邗
 _09098	邘
@@ -299,6 +340,7 @@ _090DC	郜
 _090DD	郝
 _090DE	郞
 _090DF	郟
+_090DF_s	郏	ktj
 _090E0	郠
 _090E3	郣
 _090E5	郥
@@ -323,9 +365,11 @@ _09103	鄃
 _09104	鄄
 _09105	鄅
 _09106	鄆
+_09106_s	郓	ktj
 _09107	鄇
 _09108	鄈
 _09109	鄉
+_09109_s	乡	ktj
 _0910B	鄋
 _0910D	鄍
 _0910E	鄎
@@ -333,8 +377,10 @@ _0910F	鄏
 _09110	鄐
 _09111	鄑
 _09114	鄔
+_09114_s	邬	ktj
 _09115	鄕
 _09116	鄖
+_09116_s	郧	ktj
 _09117	鄗
 _09118	鄘
 _0911A	鄚
@@ -360,10 +406,12 @@ _09131	鄱
 _09133	鄳
 _09135	鄵
 _09136	鄶
+_09136_s	郐	ktj
 _09137	鄷
 _09138	鄸
 _09139	鄹
 _0913A	鄺
+_0913A_s	邝	ktj
 _0913B	鄻
 _0913D	鄽
 _0913E	鄾
@@ -374,7 +422,9 @@ _09144	酄
 _09145	酅
 _09146	酆
 _09147	酇
+_09147_s	酂	ktj
 _09148	酈
+_09148_s	郦	ktj
 _0914F	酏
 _09150	酐
 _09153	酓
@@ -411,6 +461,7 @@ _091AD	醭
 _091AE	醮
 _091B0	醰
 _091B1	醱
+_091B1_s	酦	ktj
 _091B2	醲
 _091B3	醳
 _091B6	醶
@@ -421,8 +472,10 @@ _091BD	醽
 _091BE	醾
 _091C2	釂
 _091C3	釃
+_091C3_s	酾	ktj
 _091C4	釄
 _091C5	釅
+_091C5_s	酽	ktj
 _0FA24	﨤
 _2840C	𨐌
 _28455	𨑕

@@ -6,20 +6,25 @@ u,x	莠
 u,q	萢
 u,.	萸
 u,f	葉
+U,F	叶	ktj
 u,c	葯
 u,r	蒙	yモウ	hyボウ
 u,t	蓉
 u,v	蔓	yマン	hyバン
 u,w	蕕
+U,W	莸	ktj
 u,z	蕷
+U,Z	蓣	ktj
 u,d	薬
 u,d	藥
+U,D	药	ktj
 u.f	良
 u.a	苙
 u.m	莅
 u.j	莉	yリ	hyレイ
 u.,	莱
 u.,	萊
+U.,	莱	ktj
 u.k	菱
 u.w	菻
 u.d	落
@@ -28,22 +33,30 @@ u.t	蓼	yリョウ	hyロク	翏の部首は羽《ｔ》
 u.r	蔆
 u.c	蕾
 u.s	藍
+U.S	蓝	ktj
 u.z	藺
+U.Z	蔺	ktj
 u.g	藾
 u.v	蘭
+U.V	兰	ktj
 u.q	蘿
+U.Q	萝	ktj
 u/V	芦
 u/s	苓
 u/c	荔	艹の下に力《ｃ》がある	yレイ	hyリ	i荔茘
 u/c	茘	艹の下に刀《ｃ》がある	yレイ	hyリ	i荔茘
 u/f	莨
 u/d	萵	咼の部首は口《ｄ》
+U/D	莴	ktj
 u/r	蓮
+U/R	莲	ktj
 u/x	蕗	路の部首は足《ｘ》
 u/q	薐	稜の部首は禾《ｑ》
 u/a	藜
 u/v	蘆
+U/V	芦	ktj
 u//	蘢	艹の下に龍《／》がある
+U//	茏	ktj
 u;a	芒	亡の部首は亠《ａ》
 u;f	芳
 u;c	苞	包の部首は勹《ｃ》
@@ -68,15 +81,21 @@ uba	茵
 ub;	菴
 ubo	萎
 ubl	葦
+UBL	苇	ktj
 ubc	蔚
 ubs	蔭	yイン	𦹥蔭䕃𨼲
+UBS	荫	ktj
 ubd	薀
+UBD	蕰	ktj
 ubx	藹
+UBX	蔼	ktj
 ubk	蘊
+UBK	蕴	ktj
 ubw	𦹥	yイン	𦹥蔭䕃𨼲
 ucz	艶	i艶豔艷
 ucz	豔	i艶豔艷	b色	hb豆
 uca	艷	i艶豔艷
+UCA	艳	ktj
 ucv	花
 uci	芽
 uc;	苑
@@ -87,6 +106,7 @@ ucg	莚
 ucb	莪
 ucx	菓
 ucp	華
+UCP	华	ktj
 ucj	萪	yカ
 uck	葭
 uch	蓊
@@ -101,13 +121,16 @@ uda	萼
 udu	葛
 ud;	蒦	艹の下に隹《；》がある	yカク	hyワク
 udf	蓋	i蓋葢盖
+UDF	盖	ktj
 udf	葢	i蓋葢盖
 udg	盖	i蓋葢盖	b艹	hb皿
 udl	蕚
 udr	薈
+UDR	荟	ktj
 udk	薤
 udv	蘰
 ufi	艱
+UFI	艰	ktj
 ufa	莞
 ufo	莟
 ufu	菅
@@ -119,25 +142,32 @@ uha	芹
 uhr	苣
 uhf	苦
 uhe	莢
+UHE	荚	ktj
 uhd	菌
 uhw	菫
 uhi	葷
+UHI	荤	ktj
 uhp	蕀
 uho	蕎
+UHO	荞	ktj
 uh;	薑
 uhs	薫	i薫薰
 uhs	薰	i薫薰
 uhl	藕
 uje	芫
 ujf	藝	i芸藝
+UJF	艺	ktj
 ujf	芸	i芸藝
 ujd	茎
 ujd	莖
+UJD	茎	ktj
 ujs	荊
+UJS	荆	ktj
 ujl	萱
 ujw	蒹
 uja	蕨
 ujr	薊
+UJR	蓟	ktj
 uj;	蘖
 uka	苟
 ukr	茣
@@ -159,13 +189,16 @@ ulu	蓑	簑簔蓑
 ule	蓙	yござ	hyザ
 ulw	蔡
 ulv	薩
+ULV	萨	ktj
 ulj	蘸	yサン	hyセン
 ulb	芩	yゴン	hyキン
 umf	芝
 umd	茨
 ums	茲
+UMS	兹	ktj
 uma	葹
 umr	蒔
+UMR	莳	ktj
 ume	蓍
 und	芍
 unf	若
@@ -178,6 +211,7 @@ unp	蒐
 unc	蒻
 une	蓚	yシュウ	hyチョウ
 unq	蓴
+UNQ	莼	ktj
 unz	蓿
 ung	蔗	yシャ	hyショ	庶の部首は广《ｇ》
 unv	蕣
@@ -190,15 +224,19 @@ upr	莇	yショ
 upo	菖
 upj	蒋	i蒋蔣
 upj	蔣	i蒋蔣
+UPJ	蒋	ktj
 upf	蒸
 upq	蓐
 upi	蕉
 upu	蕘
+UPU	荛	ktj
 ups	蕭
+UPS	萧	ktj
 upw	薯
 upe	藷
 uqw	芯
 uqu	芻	i芻蒭	yスウ	hyシュ
+UQU	刍	ktj
 uqu	蒭	i芻蒭	yスウ	hyシュ
 uqr	荏
 uqf	菁
@@ -208,11 +246,13 @@ uqp	萋
 uqj	蓁
 uqd	蔘
 uqt	蕁
+UQT	荨	ktj
 uql	蕈
 uqk	蕊
 uqy	蕋
 uqe	薪
 uq/	薺	艸の下は齊と云う部首、その部首の該当するキーは／
+UQ/	荠	ktj
 uqh	蘂
 uq;	莘
 ure	苒
@@ -224,27 +264,35 @@ url	蓆
 urq	蔬
 urw	薛
 uru	薦
+URU	荐	ktj
 urp	蘇
+URP	苏	ktj
 urP	蘓
 ur;	蘚
+UR;	藓	ktj
 usF	䒑
 uss	艸
 usW	艹
 usf	草
 usd	荘	i荘莊㽵	yソウ	hyショウ
 usd	莊	i荘莊㽵	yソウ	hyショウ
+USD	庄	ktj
 usc	㽵	i荘莊㽵	yソウ	hyショウ	b艹	hb疒
 us;	荼	yタ	hyト	hyズ	hyヅ	hyジャ	hyヂヤ
 uso	葬
 usa	葱
 usa	蔥
+USA	葱	ktj
 usp	蒼
+USP	苍	ktj
 usr	蔟
 usu	蔵
 usu	藏
 usv	薔	yゾウ	hyショク	hyシキ	hyば	「ば」はウソ読み
+USV	蔷	ktj
 use	薮
 use	藪
+USE	薮	ktj
 usi	藻
 usS	艹
 usw	艹	UCS互換
@@ -254,13 +302,17 @@ utp	葮
 uti	蓄
 utq	薹
 uvi	苧
+UVI	苎	ktj
 uvo	荻
 uvp	萇
+UVP	苌	ktj
 uvu	著	i著著
+UVU	着	ktj
 uvu	著	i著著
 uvz	蔕	yテイ	hyタイ	i蔕蒂
 uvz	蒂	yテイ	hyタイ	i蔕蒂
 uvx	蔦
+UVX	茑	ktj
 uva	薙
 uwq	苳
 uwr	荅
@@ -270,6 +322,7 @@ uwp	菟
 uwo	萄
 uwe	董	yトウ	hyツウ
 uwi	蕩
+UWI	荡	ktj
 uwu	藤
 uwI	蘯
 uxi	芭
@@ -291,6 +344,7 @@ uye	蕃
 uyv	薇	yビ	hyミ	hyら	「ら」はウソ読み
 uyd	藩
 uyq	蘋
+UYQ	苹	ktj
 uzv	芙
 uzu	芬
 uzo	苹
@@ -302,6 +356,7 @@ uzx	蔑
 uz;	蔔
 uzc	蔽
 uzf	蕪
+UZF	芜	ktj
 uzd	薜
 _044B3	䒳
 _044BE	䒾
@@ -417,6 +472,7 @@ _083A3	莣
 _083A4	莤
 _083A5	莥
 _083A7	莧
+_083A7_s	苋	ktj
 _083A9	莩
 _083BF	莿
 _083C0	菀
@@ -464,6 +520,7 @@ _0842F	萯
 _08430	萰
 _08432	萲
 _08434	萴
+_08434_s	荝	ktj
 _08437	萷
 _08439	萹
 _0843A	萺
@@ -480,6 +537,7 @@ _0844D	葍
 _0844F	葏
 _08451	葑
 _08452	葒
+_08452_s	荭	ktj
 _08456	葖
 _08459	葙
 _0845A	葚
@@ -507,6 +565,7 @@ _0849A	蒚
 _0849B	蒛
 _0849D	蒝
 _0849E	蒞
+_0849E_s	莅	ktj
 _084A0	蒠
 _084A2	蒢
 _084A4	蒤
@@ -524,6 +583,7 @@ _084B6	蒶
 _084BA	蒺
 _084BE	蒾
 _084C0	蓀
+_084C0_s	荪	ktj
 _084C2	蓂
 _084C7	蓇
 _084CC	蓌
@@ -537,6 +597,7 @@ _084E9	蓩
 _084EA	蓪
 _084EB	蓫
 _084EF	蓯
+_084EF_s	苁	ktj
 _084F0	蓰
 _084F1	蓱
 _084F2	蓲
@@ -547,6 +608,7 @@ _084F9	蓹
 _084FA	蓺
 _084FB	蓻
 _084FD	蓽
+_084FD_s	荜	ktj
 _084FE	蓾
 _08502	蔂
 _08507	蔇
@@ -563,6 +625,7 @@ _0851B	蔛
 _0851C	蔜
 _0851D	蔝
 _0851E	蔞
+_0851E_s	蒌	ktj
 _08520	蔠
 _08524	蔤
 _08527	蔧
@@ -581,11 +644,13 @@ _0853E	蔾
 _08544	蕄
 _08545	蕅
 _08546	蕆
+_08546_s	蒇	ktj
 _08547	蕇
 _0854D	蕍
 _0854F	蕏
 _08551	蕑
 _08553	蕓
+_08553_s	芸	ktj
 _08556	蕖
 _08559	蕙
 _0855B	蕛
@@ -594,6 +659,7 @@ _0855E	蕞
 _08560	蕠
 _08561	蕡
 _08562	蕢
+_08562_s	蒉	ktj
 _08564	蕤
 _08566	蕦
 _08567	蕧
@@ -615,6 +681,7 @@ _08586	薆
 _08589	薉
 _0858B	薋
 _0858C	薌
+_0858C_s	芗	ktj
 _0858D	薍
 _0858E	薎
 _0858F	薏
@@ -625,6 +692,7 @@ _0859A	薚
 _0859D	薝
 _0859E	薞
 _0859F	薟
+_0859F_s	莶	ktj
 _085A0	薠
 _085A1	薡
 _085A2	薢
@@ -633,7 +701,9 @@ _085A7	薧
 _085AD	薭
 _085B1	薱
 _085B3	薳
+_085B3_s	䓕	ktj
 _085B4	薴
+_085B4_s	苧	ktj
 _085B5	薵
 _085B6	薶
 _085B7	薷
@@ -650,6 +720,7 @@ _085C8	藈
 _085CA	藊
 _085CB	藋
 _085CE	藎
+_085CE_s	荩	ktj
 _085D1	藑
 _085D2	藒
 _085D7	藗
@@ -668,11 +739,13 @@ _085F0	藰
 _085F1	藱
 _085F2	藲
 _085F6	藶
+_085F6_s	苈	ktj
 _085F8	藸
 _085FF	藿
 _08600	蘀
 _08601	蘁
 _08604	蘄
+_08604_s	蕲	ktj
 _08605	蘅
 _08609	蘉
 _0860C	蘌
@@ -684,6 +757,7 @@ _08619	蘙
 _0861B	蘛
 _0861C	蘜
 _0861E	蘞
+_0861E_s	蔹	ktj
 _0861F	蘟
 _08620	蘠
 _08621	蘡
@@ -702,12 +776,14 @@ _08634	蘴
 _08635	蘵
 _08639	蘹
 _0863A	蘺
+_0863A_s	蓠	ktj
 _0863B	蘻
 _0863C	蘼
 _0863E	蘾
 _08641	虁
 _08643	虃
 _08646	虆
+_08646_s	蔂	ktj
 _08647	虇
 _08648	虈
 _0864B	虋

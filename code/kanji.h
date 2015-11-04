@@ -1,12 +1,14 @@
 h,j	弋
 h,d	弥	yミ	hyビ
 h,d	彌	yミ	hyビ
+H,D	弥	ktj
 h,f	役
 h,w	徭
 h,r	恙
 h,e	悒
 h,s	悠
 h,z	悶
+H,Z	闷	ktj
 h,c	愈	兪の部首は入《ｃ》
 h,a	愉
 h,q	慂
@@ -14,22 +16,32 @@ h,.	慢
 h,v	慵
 h,l	慾	欲の部首は欠《ｌ》
 h,/	憂
+H,/	忧	ktj
 h,t	懣
+H,T	懑	ktj
 h.a	律
 h./	徠
+H./	徕	ktj
 h.,	悋
 h.f	悧
 h.s	慄
+H.S	栗	ktj
 h.d	慮
+H.D	虑	ktj
 h.r	懍
+H.R	懔	ktj
 h.e	懶
+H.E	懒	ktj
 h/L	弯
 h/l	彎
+H/L	弯	ktj
 h/d	怜
 h/a	恋
 h/a	戀
+H/A	恋	ktj
 h/s	惑
 h/k	憐
+H/K	怜	ktj
 h/f	惋	yワン	hyエン
 h;h	弸
 h;o	彭
@@ -43,6 +55,7 @@ h;r	懋
 hbc	引
 hbg	㥯	yイン	hyオン
 hbo	彙
+HBO	汇	ktj
 hb?	彜
 hb/	彝
 hbp	影
@@ -51,11 +64,14 @@ hbb	恁	任の部首が人《ｂ》
 hbk	恚
 hb;	悪	yアク
 hb;	惡	yアク
+HB;	恶	ktj
 hbj	惟	yイ
 hbi	意
 hbz	愛
+HBZ	爱	ktj
 hbl	慇	殷の部首は殳《ｌ》
 hbs	慍
+HBS	愠	ktj
 hbx	慰
 hbn	懿
 hcj	彁	yカ	hyセイ	yk
@@ -63,15 +79,19 @@ hcx	往
 hco	徃	右部に生《ｏ》がある
 hcv	応	yオウ	hyヨウ	i応應
 hcv	應	yオウ	hyヨウ	i応應
+HCV	应	ktj
 hck	怏	yオウ	yヨウ
 hcz	怨
 hcp	恩
 hcl	悁
 hci	悦	i悦悅
 hci	悅	i悦悅
+HCI	悦	ktj
 hc;	憶
+HC;	忆	ktj
 hca	懊
 hcg	懌
+HCG	怿	ktj
 hdk	徊
 hdf	快
 hds	怪
@@ -82,18 +102,22 @@ hda	悔
 hdy	悝	yカイ	hyリ	忄を取り除くと里《ｙ》が残る
 hdh	愕
 hdj	愨
+HDJ	悫	ktj
 hdq	愾	yガイ	hyキ	hyケ
+HDQ	忾	ktj
 hdo	慨	i慨慨
 hdo	慨	i慨慨
 hdw	懈	yカイ	hyケ	解の部首は角《ｗ》
 hdp	懐
 hdp	懷
+HDP	怀	ktj
 hdA	悔
 hfg	忓	yカン	忄を取り除くと干《ｇ》が残る
 hfo	悍
 hfd	患
 hfs	感
 hfa	慣
+HFA	惯	ktj
 hfh	憾
 hfp	懽
 hga	弓
@@ -109,6 +133,7 @@ hgs	媿	yキ	i媿愧	b忄	hb女
 hgW	憘	yキ
 hgw	憙
 hhs	強
+HHS	强	ktj
 hhi	彊
 hhk	御
 hhw	徼
@@ -123,41 +148,53 @@ hhl	愚
 hhq	憖
 hhr	懃
 hhg	懼
+HHG	惧	ktj
 hhv	愜	yキョウ
+HHV	惬	ktj
 hjd	弦
 hjw	彑
 hjf	形
 hjg	彥	b彡	hb立	yゲン	hyひこ
+HJG	彦	ktj
 hjg	彦	b彡	hb立	yゲン	hyひこ
 hjr	径
 hjr	徑
+HJR	径	ktj
 hjs	恵
 hjs	惠
 hjc	惓
 hjo	愃
 hjp	愆
 hji	愿
+HJI	愿	ktj
 hjt	慊
 hjz	慧
 hjx	慳	yケン	hyカン
+HJX	悭	ktj
 hja	慶
+HJA	庆	ktj
 hjv	憇
 hjl	憩
 hjk	憬
 hj;	憲
+HJ;	宪	ktj
 hje	懸
+HJE	悬	ktj
 hk;	弘
 hkf	弧
 hkd	後
+HKD	后	ktj
 hkp	徨
 hkr	忤
 hk/	怐	yコウ	hyク
 hke	怙
 hkq	恆
+HKQ	恒	ktj
 hko	恍
 hks	恒
 hkw	恰
 hkb	悞	yゴ	hyグ
+HKB	悮	ktj
 hka	悟
 hkj	惶
 hkl	慌
@@ -172,17 +209,23 @@ hlw	悃
 hle	惚
 hls	惨
 hls	慘
+HLS	惨	ktj
 hlv	慙
 hlv	慚
+HLV	惭	ktj
 hla	懇
+HLA	恳	ktj
 hlR	懴
 hlr	懺
+HLR	忏	ktj
 hma	式
 hmw	弑	i弑弒
 hmw	弒	i弑弒
+HMW	弑	ktj
 hmg	弛	yシ	hyチ
 hml	徙	右上に止《ｌ》がある
 hmd	志
+HMD	志	ktj
 hmq	忸
 hmf	思
 hmr	怩
@@ -194,6 +237,7 @@ hnf	弱
 hnk	徇
 hnd	従	i从従從
 hnd	從	i从従從
+HND	从	ktj
 hnc	从	i从従從	b彳	hb人
 hns	循
 hn;	恂
@@ -213,14 +257,17 @@ hpo	悚
 hps	情
 hpc	惝	yショウ
 hpe	慫
+HPE	怂	ktj
 hpq	慯
 hpt	慴	yショウ	習の部首は羽《ｔ》
 hpr	憔
 hpf	憧	yショウ	hyドウ
 hpu	懾
+HPU	慑	ktj
 hqW	㣺
 hq;	彗
 hqr	征
+HQR	征	ktj
 hqw	心
 hqE	忄	yシン
 hqd	忱
@@ -246,8 +293,10 @@ hse	惣
 hsh	惰
 hsf	想
 hsr	惻
+HSR	恻	ktj
 hsk	愡
 hsp	愴
+HSP	怆	ktj
 hsi	慥
 hs;	憎	i憎憎
 hs;	憎	i憎憎
@@ -255,37 +304,47 @@ hso	懆
 hsl	懦
 htq	弾	i弾彈
 htq	彈	i弾彈
+HTQ	弹	ktj
 htk	彖	yタン
 hth	待
 hte	忠
 htu	怛
 hto	怠
 htw	恥	b心	hb耳
+HTW	耻	ktj
 htw	耻	b心	hb耳
 hti	惆
 htn	惔	yタン	炎の部首は火《ｎ》
 htp	態
+HTP	态	ktj
 htj	慱	yタン
 ht;	憚	i憚惮	yタン
+HT;	惮	ktj
 ht;	惮	i憚惮	yタン
 htl	憺	yタン
 hvc	弔
 hva	弖
 hvx	弟
 hvz	張
+HVZ	张	ktj
 hvi	彫
 hvs	彳
 hvo	徴
 hvo	徵
+HVO	徵	ktj
 hv;	徹
+HV;	彻	ktj
 hvk	悌
 hvj	悵
+HVJ	怅	ktj
 hvd	懲
+HVD	惩	ktj
 hvd	懲
 hvh	惕	yテキ	hyチャク
 hwj	弩
 hwh	当	i当當	b彑	hb小
 hwh	當	i当當	b彑	hb田	hb小
+HWH	当	ktj
 hwr	徒
 hwq	忝
 hwf	怒
@@ -293,6 +352,7 @@ hwk	恫
 hwl	恬
 hwe	悼
 hw;	慟
+HW;	恸	ktj
 hwp	彤	yトウ
 hxg	得
 hx;	徘
@@ -304,12 +364,15 @@ hxu	怕
 hxo	悖
 hxh	悩
 hxh	惱
+HXH	恼	ktj
 hxp	悳	直の部首は目《ｐ》
 hxl	慝
 hxk	憊
+HXK	惫	ktj
 hxy	憹	yノウ	hyドウ	農の部首は辰《ｙ》
 hxj	弐	i弐貳貮
 hxj	貳	i弐貳貮
+HXJ	贰	ktj
 hxm	貮	i弐貳貮
 hyr	弭
 hyp	弼
@@ -324,16 +387,21 @@ hyf	悲
 hyc	愍
 hyw	慓
 hye	憑
+HYE	凭	ktj
 hyq	憫
+HYQ	悯	ktj
 hzp	弗
 hzf	彿
 hzc	復
+HZC	复	ktj
 hzi	忿
 hzx	怖
 hzo	怫
 hz;	愎	yフク	hyヒョク
 hzd	憤
+HZD	愤	ktj
 hzh	憮
+HZH	怃	ktj
 _03917	㤗
 _0391A	㤚
 _05F0E	弎
@@ -347,6 +415,7 @@ _05F24	弤
 _05F28	弨
 _05F2E	弮
 _05F33	弳
+_05F33_s	弪	ktj
 _05F34	弴
 _05F36	弶
 _05F3D	弽
@@ -365,6 +434,7 @@ _05F63	彣
 _05F67	彧
 _05F6F	彯
 _05F72	彲
+_05F72_s	彨	ktj
 _05F74	彴
 _05F78	彸
 _05F7D	彽
@@ -463,6 +533,7 @@ _060E2	惢
 _060E4	惤
 _060E6	惦
 _060F2	惲
+_060F2_s	恽	ktj
 _060F5	惵
 _060F8	惸
 _060FC	惼
@@ -484,6 +555,7 @@ _06130	愰
 _06132	愲
 _06136	愶
 _06137	愷
+_06137_s	恺	ktj
 _0613A	愺
 _06141	慁
 _06145	慅
@@ -505,6 +577,7 @@ _06189	憉
 _0618B	憋
 _0618D	憍
 _06192	憒
+_06192_s	愦	ktj
 _06193	憓
 _06197	憗
 _0619B	憛
@@ -532,11 +605,13 @@ _061D8	懘
 _061DD	懝
 _061DE	懞
 _061DF	懟
+_061DF_s	怼	ktj
 _061E0	懠
 _061E4	懤
 _061E5	懥
 _061E7	懧
 _061E8	懨
+_061E8_s	恹	ktj
 _061EA	懪
 _061EB	懫
 _061ED	懭
@@ -549,6 +624,7 @@ _06201	戁
 _06203	戃
 _06204	戄
 _06207	戇
+_06207_s	戆	ktj
 _223AD	𢎭
 _226F3	𢛳
 _2285B	𢡛

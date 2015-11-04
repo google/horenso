@@ -1,213 +1,342 @@
 ,,f	預
+,,F	预	ktj
 ,,s	飫
+,,S	饫	ktj
 ,,m	養	i养養
-,,m	养	i养養	b食	hb羊
+,,M	养	i养養	b食	hb羊
 ,,a	饅
+,,A	馒	ktj
 ,,.	餘	i余餘
+,,._s	馀	ktj
 ,.f	領
+,.F	领	ktj
 ,.d	頼
 ,.a	餾
+,.A	馏	ktj
 ,.s	駱
+,.S	骆	ktj
 ,.m	騾
+,.M	骡	ktj
 ,.;	驪
+,.;_s	骊	ktj
 ,.,	鬣
 ,/f	類
+,/F	类	ktj
 ,/s	顱
+,/S	颅	ktj
 ,/a	驢	yロ	hyリョ
+,/A	驴	ktj
 ,/d	髏
+,/D	髅	ktj
 ,/F	類
 ,;f	飽
+,;F	饱	ktj
 ,;r	餔	yホ	hyフ
+,;R	𫗦	ktj
 ,;d	髣
 ,;s	髦
 ,;a	髱
 ,b/	頤
+,B/	颐	ktj
 ,bM	飮	yイン
 ,bm	飲	yイン
+,BM	饮	ktj
 ,b,	飴	yイ
+,B,	饴	ktj
 ,bx	餡	yアン	hyカン
+,BX	馅	ktj
 ,bz	饂
 ,ba	饐
 ,b.	駰	右部にある因の部首は囗（ｅ）
+,B.	骃	ktj
 ,c.	顆
+,C.	颗	ktj
 ,c/	颪
 ,cv	餓
+,CV	饿	ktj
 ,cm	駅
 ,c,	駕
+,C,	驾	ktj
 ,cm	驛
+,CM	驿	ktj
 ,df	額
+,DF	额	ktj
 ,d,	顎
+,D,	颚	ktj
 ,da	馘
 ,d.	駭
+,D.	骇	ktj
 ,dm	骸
 ,ds	骼
 ,fm	頑
+,FM	顽	ktj
 ,f.	頷
+,F.	颔	ktj
 ,fd	顔
 ,fd	顏
+,FD	颜	ktj
 ,fs	願
+,FS	𫖸	ktj
 ,f;	顴	yカン	hyケン	雚の部首は隹《；》
+,F;	颧	ktj
 ,f,	館	i舘館
+,F,	馆	ktj
 ,f,	舘	i舘館	b食	hb舌
 ,f/	駻
+,F/	𫘣	ktj
 ,fq	驩
 ,fa	骭
 ,fw	鬟
 ,ge	鬮	yギュウ	hyク	i䦰鬮䰗
+,GE	阄	ktj
 ,ge	䰗	yギュウ	hyク	i䦰鬮䰗
 ,gr	䦰	yギュウ	hyク	i䦰鬮䰗	b鬥	hb門
 ,gm	飢
+,GM	饥	ktj
 ,gq	餼
+,GQ	饩	ktj
 ,gd	餽
 ,ga	饋
+,GA	馈	ktj
 ,gs	饑
 ,g.	馗
 ,g,	騎
+,G,	骑	ktj
 ,g/	騏
+,G/	骐	ktj
 ,gw	驥
+,GW	骥	ktj
 ,hs	頰	i頰頬
+,HS	颊	ktj
 ,hs	頬	i頰頬
 ,hv	颶
+,HV	飓	ktj
 ,hw	餃	yギョウ	hyコウ
+,HW	饺	ktj
 ,hx	饉
+,HX	馑	ktj
 ,h;	饗
+,H;	飨	ktj
 ,hr	馭
+,HR	驭	ktj
 ,hf	駆
 ,hf	驅
+,HF	驱	ktj
 ,he	駈
 ,hd	駒
+,HD	驹	ktj
 ,hz	驍
+,HZ	骁	ktj
 ,ht	驕
+,HT	骄	ktj
 ,ha	驚
+,HA	惊	ktj
 ,hq	髷
 ,hg	頊	yギョク	hyゴク	hb玉
+,HG	顼	ktj
 ,js	頁
+,JS	页	ktj
 ,ja	頃
+,JA	顷	ktj
 ,jr	頡	yケツ	hyキツ	hyカツ
+,JR	颉	ktj
 ,je	頸
+,JE	颈	ktj
 ,je	頚
 ,jf	顕
 ,jf	顯
+,JF	显	ktj
 ,jv	馨
 ,jd	験
 ,jd	驗
+,JD	验	ktj
 ,jc	騫
+,JC	骞	ktj
 ,jw	髻
 ,jq	鬩
+,JQ	阋	ktj
 ,ks	項
+,KS	项	ktj
 ,kj	頏
+,KJ	颃	ktj
 ,ka	顧
+,KA	顾	ktj
 ,kw	餬
 ,kf	香
 ,kd	高
 ,ke	鬨
 ,la	顋
 ,ls	颯
+,LS	飒	ktj
 ,ld	餐
 ,l,	驂
+,L,	骖	ktj
 ,lf	骨
 ,mf	飼
+,MF	饲	ktj
 ,md	餌
+,MD	饵	ktj
 ,ma	駛
+,MA	驶	ktj
 ,ms	駟
+,MS	驷	ktj
 ,mr	騭	yシツ	i隲騭
+,MR	骘	ktj
 ,mr	隲	yシツ	i隲騭	b馬	hb阜
 ,m,	髭
 ,nd	順
+,ND	顺	ktj
 ,nf	首
 ,ng	馴	右部に川《ｇ》がある
+,NG	驯	ktj
 ,ne	駲
 ,ns	駿
+,NS	骏	ktj
 ,nr	驟
+,NR	骤	ktj
 ,na	鬚
+,NA	须	ktj
 ,ps	頌
+,PS	颂	ktj
 ,pw	顳
+,PW	颞	ktj
 ,pf	食
 ,pF	飠
+,PF	饣	ktj
 ,pd	飾	yショク	hyシキ	i飾餝
+,PD	饰	ktj
 ,pa	餉
+,PA	饷	ktj
 ,pD	餝	yショク	hyシキ	i飾餝
 ,pe	饒
+,PE	饶	ktj
 ,pz	饟
 ,pv	驤
+,PV	骧	ktj
 ,pr	鬆
+,PR	松	ktj
 ,pA	𩙿
 ,pE	𩜙
 ,q,	須	yス	hyシュ
+,Q,	须	ktj
 ,qr	駸
+,QR	骎	ktj
 ,qw	騅
+,QW	骓	ktj
 ,q.	髄	i膸髄髓
 ,q.	髓	i膸髄髓
 ,ql	膸	i膸髄髓	b骨	hb肉
 ,rw	顫
+,RW	颤	ktj
 ,r,	餞
+,R,	饯	ktj
 ,re	饌
+,RE	馔	ktj
 ,rm	髯
 ,sm	駄
 ,sm	馱
+,SM	驮	ktj
 ,su	髒	葬の部首は艹《ｕ》
+,SU	脏	ktj
 ,sf	駝
+,SF	驼	ktj
 ,sd	騒
 ,sd	騷
+,SD	骚	ktj
 ,s,	髞
 ,sq	飡	yソン	i飧飱飡
 ,sa	飧	yソン	i飧飱飡
 ,sa	飱	yソン	i飧飱飡
 ,tw	頽
 ,t,	題
+,T,	题	ktj
 ,t/	颱
+,T/	台	ktj
 ,ta	餒
+,TA	馁	ktj
 ,tq	餤
 ,t.	馳
+,T.	驰	ktj
 ,tm	駐
+,TM	驻	ktj
 ,te	駘
+,TE	骀	ktj
 ,tn	騨
 ,vm	頂
+,VM	顶	ktj
 ,v,	飭
+,V,	饬	ktj
 ,vx	餮
 ,vc	騁
+,VC	骋	ktj
 ,v.	髢
 ,v/	髫
 ,wm	頭
+,WM	头	ktj
 ,w/	顚
 ,w/	顛
+,W/	颠	ktj
 ,wf	饕
 ,w,	駑
+,W,	驽	ktj
 ,we	騰
+,WE	腾	ktj
 ,wr	骰
 ,xv	頓
+,XV	顿	ktj
 ,x;	頗
+,X;	颇	ktj
 ,x,	飩
+,X,	饨	ktj
 ,xc	馬
+,XC	马	ktj
 ,x.	駁
+,X.	驳	ktj
 ,xa	駮	yハク	hyホク	交の部首は亠《ａ》
 ,x/	驀
+,X/	蓦	ktj
 ,xz	髑
 ,xm	髪
 ,xm	髮
+,XM	发	ktj
 ,ys	頒
+,YS	颁	ktj
 ,ya	頻
+,YA	频	ktj
 ,yb	顰
+,YB	颦	ktj
 ,yg	飃
 ,yc	飄
+,YC	飘	ktj
 ,yz	飆
+,YZ	飙	ktj
 ,yf	飛
+,YF	飞	ktj
 ,yd	飯
+,YD	饭	ktj
 ,ye	馮
+,YE	冯	ktj
 ,yx	驃
+,YX	骠	ktj
 ,yp	驫	yヒュウ
+,YP	骉	ktj
 ,yv	髀
 ,yr	髟
 ,yt	鬘
 ,yq	鬢
+,YQ	鬓	ktj
 ,yA	頻
 ,zm	風
+,ZM	风	ktj
 ,zx	餅
+,ZX	饼	ktj
 ,zX	餠
 ,ze	馥	yフク	hyヒョク	复の部首は夊《ｅ》
 ,zc	馼
 ,z.	駢
+,Z.	骈	ktj
 ,z/	騙
+,Z/	骗	ktj
 ,zv	髴
 _04ABC	䪼
 _04B3B	䬻
@@ -217,25 +346,31 @@ _04BD2	䯒
 _04BE8	䯨
 _09804	頄
 _09807	頇
+_09807_s	顸	ktj
 _0980D	頍
 _0980E	頎
+_0980E_s	颀	ktj
 _09814	頔
 _09816	頖
 _0981C	頜
+_0981C_s	颌	ktj
 _0981D	頝
 _0981E	頞
 _09820	頠
 _09823	頣
 _09825	頥
 _09826	頦
+_09826_s	颏	ktj
 _09828	頨
 _09829	頩
 _0982B	頫
 _0982F	頯
 _09832	頲
+_09832_s	颋	ktj
 _09833	頳
 _09835	頵
 _09839	頹
+_09839_s	颓	ktj
 _09841	顁
 _09844	顄
 _09845	顅
@@ -246,48 +381,68 @@ _0984A	顊
 _09850	顐
 _09851	顑
 _09852	顒
+_09852_s	颙	ktj
 _09853	顓
+_09853_s	颛	ktj
 _09856	顖
 _09857	顗
 _09859	顙
+_09859_s	颡	ktj
 _0985C	顜
 _0985D	顝
 _0985F	顟
 _09860	顠
 _09862	顢
+_09862_s	颟	ktj
 _09863	顣
 _09864	顤
 _09865	顥
+_09865_s	颢	ktj
 _09866	顦
 _09869	顩
 _0986A	顪
 _0986C	顬
+_0986C_s	颥	ktj
 _09872	顲
 _098AB	颫
 _098AC	颬
 _098AD	颭
+_098AD_s	飐	ktj
 _098AE	颮
+_098AE_s	飑	ktj
 _098B0	颰
+_098B0_s	𩙥	ktj
 _098B2	颲
 _098B3	颳
+_098B3_s	刮	ktj
 _098B7	颷
+_098B7_s	𩙪	ktj
 _098B8	颸
+_098B8_s	飔	ktj
 _098BA	颺
+_098BA_s	飏	ktj
 _098BB	颻
+_098BB_s	飖	ktj
 _098BC	颼
+_098BC_s	飕	ktj
 _098BD	颽
 _098BE	颾
+_098BE_s	𩙫	ktj
 _098BF	颿
 _098C1	飁
 _098C2	飂
 _098C7	飇
 _098C8	飈
+_098C8_s	飚	ktj
 _098C9	飉
 _098CB	飋
 _098CC	飌
 _098E3	飣
+_098E3_s	饤	ktj
 _098E5	飥
+_098E5_s	饦	ktj
 _098EA	飪
+_098EA_s	饪	ktj
 _098F0	飰
 _098F3	飳
 _098F6	飶
@@ -296,41 +451,59 @@ _09900	餀
 _09902	餂
 _09908	餈
 _09911	餑
+_09911_s	饽	ktj
 _09915	餕
+_09915_s	馂	ktj
 _09916	餖
+_09916_s	饾	ktj
 _09917	餗
+_09917_s	𫗧	ktj
 _0991A	餚
+_0991A_s	肴	ktj
 _0991B	餛
+_0991B_s	馄	ktj
 _0991C	餜
+_0991C_s	馃	ktj
 _0991F	餟
 _09925	餥
 _09927	餧
 _0992A	餪
 _0992B	餫
 _0992D	餭
+_0992D_s	𫗮	ktj
 _0992F	餯
 _09930	餰
 _09931	餱
+_09931_s	糇	ktj
 _09932	餲
 _09933	餳
+_09933_s	饧	ktj
 _09935	餵
 _0993A	餺
+_0993A_s	馎	ktj
 _0993B	餻
 _0993F	餿
+_0993F_s	馊	ktj
 _09940	饀
 _09941	饁
+_09941_s	馌	ktj
 _09943	饃
+_09943_s	馍	ktj
 _09946	饆
 _09947	饇
 _09948	饈
+_09948_s	馐	ktj
 _0994D	饍
 _0994E	饎
 _09954	饔
 _09958	饘
+_09958_s	𫗴	ktj
 _09959	饙
 _0995B	饛
 _0995C	饜
+_0995C_s	餍	ktj
 _0995E	饞
+_0995E_s	馋	ktj
 _09960	饠
 _09961	饡
 _0999D	馝
@@ -342,30 +515,37 @@ _099B0	馰
 _099B2	馲
 _099B5	馵
 _099B9	馹
+_099B9_s	驲	ktj
 _099BA	馺
 _099BB	馻
 _099BD	馽
 _099BF	馿
 _099C2	駂
 _099C3	駃
+_099C3_s	𫘝	ktj
 _099C9	駉
 _099CD	駍
 _099CE	駎
+_099CE_s	𩧨	ktj
 _099CF	駏
 _099D3	駓
 _099D4	駔
+_099D4_s	驵	ktj
 _099D6	駖
 _099D9	駙
+_099D9_s	驸	ktj
 _099DC	駜
 _099DE	駞
 _099E3	駣
 _099E4	駤
 _099E5	駥
 _099E9	駩
+_099E9_s	𩧴	ktj
 _099EA	駪
 _099EC	駬
 _099F4	駴
 _099F6	駶
+_099F6_s	𩧺	ktj
 _099F7	駷
 _099F9	駹
 _099FA	駺
@@ -373,49 +553,67 @@ _099FC	駼
 _099FD	駽
 _099FE	駾
 _09A02	騂
+_09A02_s	骍	ktj
 _09A03	騃
+_09A03_s	𫘤	ktj
 _09A04	騄
 _09A07	騇
 _09A09	騉
 _09A0A	騊
 _09A0B	騋
 _09A0D	騍
+_09A0D_s	骒	ktj
 _09A11	騑
 _09A15	騕
 _09A16	騖
+_09A16_s	骛	ktj
 _09A1A	騚
+_09A1A_s	𩨊	ktj
 _09A1B	騛
 _09A1C	騜
 _09A1D	騝
+_09A1D_s	𩨃	ktj
 _09A1E	騞
 _09A20	騠
+_09A20_s	𫘨	ktj
 _09A22	騢
 _09A23	騣
 _09A24	騤
+_09A24_s	骙	ktj
 _09A25	騥
 _09A27	騧
+_09A27_s	䯄	ktj
 _09A29	騩
 _09A2A	騪
+_09A2A_s	𩨄	ktj
 _09A2C	騬
 _09A2E	騮
+_09A2E_s	骝	ktj
 _09A31	騱
 _09A32	騲
 _09A34	騴
 _09A35	騵
 _09A36	騶
+_09A36_s	驺	ktj
 _09A38	騸
+_09A38_s	骟	ktj
 _09A39	騹
 _09A3A	騺
 _09A3D	騽
 _09A41	驁
+_09A41_s	骜	ktj
 _09A44	驄
+_09A44_s	骢	ktj
 _09A46	驆
 _09A48	驈
 _09A49	驉
 _09A4A	驊
+_09A4A_s	骅	ktj
 _09A4C	驌
+_09A4C_s	骕	ktj
 _09A4E	驎
 _09A4F	驏
+_09A4F_s	骣	ktj
 _09A52	驒
 _09A53	驓
 _09A54	驔
@@ -424,9 +622,11 @@ _09A58	驘
 _09A5E	驞
 _09A60	驠
 _09A66	驦
+_09A66_s	骦	ktj
 _09A68	驨
 _09AAB	骫
 _09AAF	骯
+_09AAF_s	肮	ktj
 _09AB4	骴
 _09AB6	骶
 _09AB7	骷
@@ -443,7 +643,9 @@ _09ACD	髍
 _09ACE	髎
 _09AD0	髐
 _09AD5	髕
+_09AD5_s	髌	ktj
 _09AD6	髖
+_09AD6_s	髋	ktj
 _09ADC	髜
 _09AE0	髠
 _09AE1	髡
@@ -469,6 +671,7 @@ _09B0A	鬊
 _09B0B	鬋
 _09B0C	鬌
 _09B0D	鬍
+_09B0D_s	胡	ktj
 _09B0E	鬎
 _09B10	鬐
 _09B12	鬒

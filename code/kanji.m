@@ -13,7 +13,9 @@ m,m	満
 m,t	溟
 m,r	溶
 m,/	滅
+M,/	灭	ktj
 m,m	滿
+M,M	满	ktj
 m,e	漫
 m,j	漾
 m,b	濛
@@ -22,45 +24,62 @@ m.,	洛
 m.f	流
 m.j	浬
 m.d	涼	i涼凉
+M.D	凉	ktj
 m.d	凉	i涼凉	b氵	hb冫
 m./	淋
 m.q	淕
 m.w	淪
+M.W	沦	ktj
 m.e	溂
 m.r	溜	i溜澑
 m.r	澑	i溜澑
 m.m	漁	hyギョ	yリョウ
+M.M	渔	ktj
 m.z	漓
 m.s	濫
+M.S	滥	ktj
 m.x	瀏
+M.X	浏	ktj
 m.a	瀨
+M.A	濑	ktj
 m.a	瀬
 m.c	瀾
+M.C	澜	ktj
 m.k	灤	yラン
+M.K	滦	ktj
 m/A	沪	yロ	hyリョ
 m/x	洌
 m/d	浪
 m/f	涙	i泪涙淚
 m/f	淚	i泪涙淚
+M/F	泪	ktj
 m/j	淮
 m/.	湾
 m/.	灣
+M/.	湾	ktj
 m/,	滝	yロウ	hyソウ
 m/,	瀧	yロウ	hyソウ
+M/,	泷	ktj
 m/v	滷
 m/V	泪	i泪涙淚
 m/m	漉
 m/s	漏
 m/k	漣	yレン
+M/K	涟	ktj
 m/q	潦
 m/w	澪
 m/e	濂
 m/a	濾	yロ	hyリョ
+M/A	滤	ktj
 m/z	瀘
+M/Z	泸	ktj
 m/c	瀝
+M/C	沥	ktj
 m/l	瀲
+M/L	潋	ktj
 m/r	澧	yレイ	hyライ
 m;f	沒
+M;F	没	ktj
 m;f	没
 m;d	法
 m;g	泙	平の部首は干《ｇ》
@@ -80,6 +99,7 @@ mb;	渭
 mbc	湮
 mbx	溢
 mbz	潁
+MBZ	颍	ktj
 mba	瀛
 mc,	汚
 mc,	汙
@@ -92,12 +112,15 @@ mca	泱
 mcm	液
 mcn	淤	yオ	hyヨ
 mcj	淵
+MCJ	渊	ktj
 mcl	淹
 mcJ	渊
 mcu	渕
 mcv	渦
+MCV	涡	ktj
 mcx	温	i温溫
 mcx	溫	i温溫
+MCX	温	ktj
 mcb	渮
 mcs	湲	yエン	hyカン	hyゲン
 mcz	演
@@ -109,6 +132,7 @@ md,	渇
 md.	滑
 md/	漑
 mds	潰
+MDS	溃	ktj
 md;	濶
 mdA	海
 mfm	汗
@@ -116,9 +140,12 @@ mf.	浣
 mf/	涵
 mfd	淦
 mfs	渙
+MFS	涣	ktj
 mf,	漢
+MF,	汉	ktj
 mfa	潅
 mfk	澗
+MFK	涧	ktj
 mfl	澣
 mf;	瀚
 mff	灌
@@ -131,20 +158,27 @@ mg,	泣
 mga	淇
 mgq	滊
 mhf	況	i況况
+MHF	况	ktj
 mhf	况	i況况	b氵	hb冫
 mhv	洫	下部に血《ｖ》がある
 mhs	洶
+MHS	汹	ktj
 mha	渠
 mhe	澆	土《ｅ》は三つある
+MHE	浇	ktj
 mjf	決	i決决
+MJF	决	ktj
 mjf	决	i決决	b氵	hb冫
 mjg	涇	yケイ	hyキョウ	右部に巛《ｇ》と工《ｇ》がある
+MJG	泾	ktj
 mj;	涓
 mjd	渓	i渓溪
 mjd	溪	i渓溪
 mjs	減
+MJS	减	ktj
 mja	源
 mjk	潔
+MJK	洁	ktj
 mjl	激
 mkq	汞
 mka	江
@@ -162,9 +196,12 @@ mkf	湖
 mkt	湟
 mkw	溘
 mkl	溝
+MKL	沟	ktj
 mkv	滉
 mkz	滬
+MKZ	沪	ktj
 mkx	滸
+MKX	浒	ktj
 mk/	濠
 mla	汕
 mlf	沙
@@ -173,10 +210,13 @@ mlm	淬
 mld	混
 mls	済
 mls	濟
+MLS	济	ktj
 mlr	渣
 ml;	渾
+ML;	浑	ktj
 mle	溷
 mlq	滾
+MLQ	滚	ktj
 mlv	潸
 mm.	沚
 mmf	治
@@ -185,10 +225,12 @@ mmg	淄		右上に巛《ｇ》がある
 mms	湿	i湿濕溼
 mmw	溼	i湿濕溼
 mms	濕	i湿濕溼
+MMS	湿	ktj
 mmd	滋
 mmr	滓	yシ	hyサイ
 mma	漆
 mm,	漬
+MM,	渍	ktj
 mnf	汁
 mn;	泅
 mnD	泻
@@ -200,16 +242,21 @@ mns	淑
 mnw	淳
 mnl	渋	i渋澀澁	右上に止《ｌ》がある
 mnl	澀	i渋澀澁
+MNL	涩	ktj
 mnk	澁	i渋澀澁
 mnq	湫	秋の部首は禾《ｑ》	yシュウ	hyショウ
 mnc	準	i準凖
+MNC	准	ktj
 mnc	凖	i準凖	b氵	hb冫
 mnt	溲	yシュ	hyソウ	右上に臼《ｔ》がある
 mna	潤
+MNA	润	ktj
 mnx	濡
 mnz	濬
 mnd	瀉
+MND	泻	ktj
 mn/	灑	麗の部首は鹿《／》	yシャ	hyサイ	hyセ
+MN/	洒	ktj
 mpo	汝
 mpt	漳
 mps	沼
@@ -217,6 +264,7 @@ mpi	洳	yジョ	hyニョ
 mpf	浄
 mpf	淨
 mpe	浹
+MPE	浃	ktj
 mpd	消
 mpj	淌	yショウ	hyトウ
 mpr	淞
@@ -226,7 +274,9 @@ mpq	渚	yショ
 mpw	湘
 mpg	溽	yジョク	hyニク
 mpz	漿
+MPZ	浆	ktj
 mpv	瀟
+MPV	潇	ktj
 mpQ	渚	yショ
 mqm	水
 mq<	氵	yスイ	hyさんずい
@@ -240,8 +290,11 @@ mq,	深
 mqr	清
 mqE	渗
 mqe	滲
+MQE	渗	ktj
 mqt	潯
+MQT	浔	ktj
 mql	瀋
+MQL	沈	ktj
 mq;	瀞	yセイ	hyジョウ
 mra	汐
 mre	沮	yソ	hyショ
@@ -252,6 +305,7 @@ mr/	洗
 mr<	洤
 mr.	浅
 mr.	淺
+MR.	浅	ktj
 mrk	浙
 mri	涎
 mrn	淅
@@ -259,26 +313,34 @@ mrd	渫
 mrr	湶
 mrh	溯
 mrw	漸
+MRW	渐	ktj
 mrj	潛
+MRJ	潜	ktj
 mrm	潜
 mrq	潟
 mrp	潺	yセン	hyサン
 mrJ	濳
 mrs	濺
+MRS	溅	ktj
 msm	汰
 msf	沱
 ms,	淙
 msd	測
+MSD	测	ktj
 ms.	湊
+MS.	凑	ktj
 ms/	滄
+MS/	沧	ktj
 msl	漕
 ms;	漱
 msk	澡
 mtm	池
 mtz	涿
 mt,	沖
+MT,	冲	ktj
 mt.	沢
 mt.	澤
+MT.	泽	ktj
 mt/	注
 mtk	泰
 mtl	淡
@@ -286,11 +348,14 @@ mta	湍
 mtq	湛
 mt;	滞
 mt;	滯
+MT;	滞	ktj
 mto	潭
 mtp	澹
 mte	濁
+MTE	浊	ktj
 mtw	濯
 mts	灘
+MTS	滩	ktj
 mvz	汀
 mvm	沈
 mv,	泥
@@ -298,13 +363,16 @@ mvk	涕
 mvl	渟
 mv.	溺
 mvs	滌
+MVS	涤	ktj
 mv/	滴
 mv;	漲
+MV;	涨	ktj
 mvx	潮
 mvj	潴
 mva	澂
 mvc	澄
 mvd	瀦
+MVD	潴	ktj
 mvn	澈	yテツ
 mw.	沓
 mw/	沺
@@ -312,17 +380,20 @@ mwc	沾	yテン	hyチョウ	占の部首は卜《ｃ》
 mwm	洞
 mwf	涛	i涛濤	寿の部首は寸《ｆ》
 mwf	濤	i涛濤
+MWF	涛	ktj
 mwa	淀
 mwq	淘
 mwe	添
 mwr	渡
 mw,	湯
+MW,	汤	ktj
 mwd	溏
 mwp	滔
 mwp	㴞
 mwl	滕
 mwg	潼
 mwt	澱
+MWT	淀	ktj
 mxe	汢	yぬた	右部に土《ｅ》がある
 mx;	瀼	yノウ	hyジョウ	hyドウ
 mxz	沌
@@ -337,9 +408,13 @@ mxb	湃
 mxP	溌	yハツ	発の部首は癶《ｐ》
 mx,	漠
 mxp	潑	yハツ	發の部首は癶《ｐ》
+MXP	泼	ktj
 mx.	濃
+MX.	浓	ktj
 mxo	濘
+MXO	泞	ktj
 mxl	瀆
+MXL	渎	ktj
 mxi	瀑
 myf	氷	i冰氷
 myf	冰	i冰氷
@@ -354,8 +429,11 @@ mye	漂
 myc	潘
 myx	濔	yビ	hyミ	hyデイ	hyナイ
 mya	濱
+MYA	滨	ktj
 myz	瀕
+MYZ	濒	ktj
 myt	瀰
+MYT	㳽	ktj
 mzj	汨	yベキ	hyミャク	hyコツ	右部に日《ｊ》がある
 mz,	汳
 mzv	汾
@@ -363,6 +441,7 @@ mzm	沸
 mzc	浮
 mz.	溥	yフ	hyホ
 mz/	濆
+MZ/	𣸣	ktj
 _03CC3	㳃
 _03CD2	㳒
 _03D11	㴑
@@ -494,18 +573,21 @@ _06DDF	淟
 _06DE0	淠
 _06DE2	淢
 _06DE5	淥
+_06DE5_s	渌	ktj
 _06DE9	淩
 _06DED	淭
 _06DEF	淯
 _06DF0	淰
 _06DF4	淴
 _06DF6	淶
+_06DF6_s	涞	ktj
 _06DFC	淼
 _06E00	渀
 _06E03	渃
 _06E1C	渜
 _06E1E	渞
 _06E22	渢
+_06E22_s	沨	ktj
 _06E27	渧
 _06E28	渨
 _06E30	渰
@@ -537,6 +619,7 @@ _06E57	湗
 _06E5C	湜
 _06E5D	湝
 _06E5E	湞
+_06E5E_s	浈	ktj
 _06E60	湠
 _06E61	湡
 _06E62	湢
@@ -547,6 +630,7 @@ _06E71	湱
 _06E73	湳
 _06E74	湴
 _06E88	溈
+_06E88_s	沩	ktj
 _06E89	溉
 _06E93	溓
 _06E94	溔
@@ -569,6 +653,7 @@ _06EC7	滇
 _06EC8	滈
 _06ECD	滍
 _06ECE	滎
+_06ECE_s	荥	ktj
 _06ECF	滏
 _06ED2	滒
 _06ED6	滖
@@ -580,10 +665,12 @@ _06EF1	滱
 _06EF5	滵
 _06EF9	滹
 _06EFB	滻
+_06EFB_s	浐	ktj
 _06F03	漃
 _06F05	漅
 _06F07	漇
 _06F0A	漊
+_06F0A_s	溇	ktj
 _06F0C	漌
 _06F0E	漎
 _06F10	漐
@@ -591,6 +678,7 @@ _06F12	漒
 _06F18	漘
 _06F19	漙
 _06F1A	漚
+_06F1A_s	沤	ktj
 _06F25	漥
 _06F26	漦
 _06F27	漧
@@ -601,6 +689,7 @@ _06F2E	漮
 _06F2F	漯
 _06F30	漰
 _06F35	漵
+_06F35_s	溆	ktj
 _06F36	漶
 _06F37	漷
 _06F3B	漻
@@ -628,7 +717,9 @@ _06F76	潶
 _06F7D	潽
 _06F7E	潾
 _06F85	澅
+_06F85_s	𣶩	ktj
 _06F87	澇
+_06F87_s	涝	ktj
 _06F89	澉
 _06F8C	澌
 _06F8D	澍
@@ -641,12 +732,16 @@ _06F98	澘
 _06F9E	澞
 _06F9F	澟
 _06FA0	澠
+_06FA0_s	渑	ktj
 _06FA5	澥
 _06FA6	澦
+_06FA6_s	滪	ktj
 _06FA8	澨
 _06FA9	澩
+_06FA9_s	泶	ktj
 _06FAD	澭
 _06FAE	澮
+_06FAE_s	浍	ktj
 _06FAF	澯
 _06FB4	澴
 _06FB5	澵
@@ -654,7 +749,9 @@ _06FB6	澶
 _06FBC	澼
 _06FBD	澽
 _06FBE	澾
+_06FBE_s	㳠	ktj
 _06FC4	濄
+_06FC4_s	㳡	ktj
 _06FC7	濇
 _06FC8	濈
 _06FC9	濉
@@ -664,23 +761,29 @@ _06FCC	濌
 _06FCE	濎
 _06FDA	濚
 _06FDC	濜
+_06FDC_s	浕	ktj
 _06FDE	濞
 _06FE3	濣
 _06FE6	濦
 _06FE7	濧
+_06FE7_s	㳔	ktj
 _06FE9	濩
 _06FED	濭
 _06FF0	濰
+_06FF0_s	潍	ktj
 _06FF4	濴
 _06FF5	濵
 _06FF9	濹
 _06FFB	濻
 _06FFC	濼
+_06FFC_s	泺	ktj
 _06FFF	濿
 _07000	瀀
 _07004	瀄
 _07005	瀅
+_07005_s	滢	ktj
 _07007	瀇
+_07007_s	㲿	ktj
 _0700A	瀊
 _0700C	瀌
 _0700D	瀍
@@ -689,6 +792,7 @@ _07014	瀔
 _07016	瀖
 _07019	瀙
 _07020	瀠
+_07020_s	潆	ktj
 _07021	瀡
 _07022	瀢
 _07023	瀣
@@ -705,7 +809,9 @@ _0703A	瀺
 _0703F	瀿
 _07042	灂
 _07043	灃
+_07043_s	沣	ktj
 _07044	灄
+_07044_s	滠	ktj
 _07047	灇
 _07048	灈
 _07049	灉
@@ -714,13 +820,16 @@ _0704B	灋
 _0704E	灎
 _07054	灔
 _07055	灕
+_07055_s	漓	ktj
 _07056	灖
 _07057	灗
 _0705B	灛
 _0705D	灝
+_0705D_s	灏	ktj
 _0705E	灞
 _0705F	灟
 _07061	灡
+_07061_s	㳕	ktj
 _07065	灥
 _07068	灨
 _07069	灩

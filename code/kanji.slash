@@ -1,8 +1,10 @@
 /,x	麪	yメン	i麺麪麵
 /,s	麵	yメン	i麺麪麵
+/,S	面	ktj
 /,s	麺	yメン	i麺麪麵
 /,f	麻
 /,w	麼	yマ
+/,W	么	ktj
 /,W	麽	yマ
 /,r	麿	yまろ
 /,d	黙	yモク	hyボク
@@ -12,34 +14,46 @@
 /,/	龠
 /.f	竜	b龍	hb立
 /.f	龍
+/.F	龙	ktj
 /.,	麟
 /.k	𪎌	b麥	yライ	来の部首は木《ｋ》
 //a	鹿
 //f	麓
 //,	麗
+//,_s	丽	ktj
 //m	黎
 //s	齡
+//S	龄	ktj
 //s	齢
 /;f	麭
 /;d	黽
+/;D	黾	ktj
 /;g	龐	b龍	hb广
+/;G	庞	ktj
 /b.	黯
 /b,	齷
+/B,	龌	ktj
 /cm	黶	yエン
+/CM	黡	ktj
 /df	黠
 /dm	齶
+/DM	腭	ktj
 /fj	鼾
 /f/	龕
+/F/	龛	ktj
 /gm	亀	漢字源による部首：龜《／》
 /g/	麒
 /g,	麹
 /g.	麾
 /gm	龜
+/GM	龟	ktj
 /ha	麌
 /hs	麕	i麕麇
 /hs	麇	i麕麇
 /hd	齦
+/HD	龈	ktj
 /hf	齲
+/HF	龋	ktj
 /he	𪐷	b黑	hb玄	yくろ	hyゲン	国字？
 /jd	麑
 /jf	黔
@@ -48,37 +62,49 @@
 /jr	𪘂	i齧𪘂囓
 /kf	黄
 /kf	黃
+/KF	黄	ktj
 /kd	黌
+/KD	黉	ktj
 /kj	鼇	i鼇鰲	yゴウ	敖の部首は攵《ｊ》
 /kj	鰲	i鼇鰲	yゴウ	敖の部首は攵《ｊ》	b龜	hb魚
+/KJ	鳌	ktj
 /ka	鼓	i皷鼓
 /ka	皷	i皷鼓	b鼓	hb皮
 /ks	齬	yゴ	hyグ	hyギョ
+/KS	龉	ktj
 /kS	𪘚	yゴ	hyグ	hyギョ
 /kr	齩	yコウ	hyギョウ
 /ld	斎
 /ld	齋
+/LD	斋	ktj
 /lf	黒
 /lf	黑
 /ls	齪	yサク	hyセク
+/LS	龊	ktj
 /mf	歯	b齒	hb止
 /mf	齒
+/MF	齿	ktj
 /nd	麈
 /na	麝
 /ns	齣
 /pf	黍
 /qj	斉	i斉齊亝斊
 /qj	齊	i斉齊亝斊
+/QJ	齐	ktj
 /qu	亝	i斉齊亝斊	b齊	hb二
 /qu	斊	i斉齊亝斊	b齊	hb文
 /qw	齎
+/QW	赍	ktj
 /q;	齏	i韲虀齏	b齊
+/Q;	齑	ktj
 /q/	虀	i韲虀齏	b齊	hb艹
 /q/	韲	i韲虀齏	b齊	hb韭
 /qe	齔
+/QE	龀	ktj
 /re	麁
 /r/	鼠	i鼡鼠	yソ
 /rw	齟
+/RW	龃	ktj
 /rW	𪗱
 /ta	黐
 /tw	黛
@@ -86,15 +112,19 @@
 /te	黹
 /v.	鼎	鼎𣇄
 /vm	齠
+/VM	龆	ktj
 /wr	鼕
 /x.	麥
+/X.	麦	ktj
 /x.	麦
 /xm	黏
 /xc	黴
 /x,	黷
+/X,	黩	ktj
 /yd	麋
 /yf	鼻
 /z,	麩
+/Z,	麸	ktj
 /zk	麬
 /z<	麸
 /zm	黻
@@ -120,6 +150,7 @@ _09EA1	麡
 _09EA4	麤
 _09EA7	麧
 _09EA8	麨
+_09EA8_s	𪎊	ktj
 _09EAE	麮
 _09EAF	麯
 _09EB0	麰
@@ -141,16 +172,19 @@ _09EED	黭
 _09EEE	黮
 _09EF0	黰
 _09EF2	黲
+_09EF2_s	黪	ktj
 _09EF3	黳
 _09EF5	黵
 _09EFA	黺
 _09EFF	黿
+_09EFF_s	鼋	ktj
 _09F00	鼀
 _09F01	鼁
 _09F02	鼂
 _09F03	鼃
 _09F06	鼆
 _09F09	鼉
+_09F09_s	鼍	ktj
 _09F0A	鼊
 _09F0F	鼏
 _09F10	鼐
@@ -177,6 +211,7 @@ _09F31	鼱
 _09F32	鼲
 _09F33	鼳
 _09F34	鼴
+_09F34_s	鼹	ktj
 _09F35	鼵
 _09F36	鼶
 _09F37	鼷
@@ -196,11 +231,14 @@ _09F4C	齌
 _09F4D	齍
 _09F53	齓
 _09F55	齕
+_09F55_s	龁	ktj
 _09F56	齖
 _09F57	齗
+_09F57_s	龂	ktj
 _09F58	齘
 _09F5B	齛
 _09F5C	齜
+_09F5C_s	龇	ktj
 _09F5D	齝
 _09F5E	齞
 _09F64	齤
@@ -220,5 +258,6 @@ _09F7B	齻
 _09F7E	齾
 _09F92	龒
 _09F94	龔
+_09F94_s	龚	ktj
 _09F97	龗
 _09FA4	龤

@@ -1,29 +1,38 @@
 ;/w	灵	i䨩霊靈灵㚑	b雨
 n,d	無
+N,D	无	ktj
 n,/	煬
+N,/	炀	ktj
 n,a	熊
 n,r	熔
 n,e	燿
 n,m	爺
+N,M	爷	ktj
 n,w	犹	yユウ
 n,f	猛
 n,s	猶
+N,S	犹	ktj
 n,.	猷
 n.s	烙
 n.e	燎
 n.w	燐
 n.r	燗
 n.q	爛
+N.Q	烂	ktj
 n.a	犂
 n.a	犁
 n./	犖
+N./	荦	ktj
 n.d	狸
 n.f	猟
 n.f	獵
+N.F	猎	ktj
 n/a	炉
 n/d	烈
 n/k	煉	東の部首は木《ｋ》
+N/K	炼	ktj
 n/a	爐
+N/A	炉	ktj
 n/f	牢	上部に宀《ｆ》がある
 n/n	狼
 n/e	猥
@@ -37,7 +46,9 @@ n;e	牡	右部に土《ｅ》がある
 n;f	牧
 n;n	犇
 nbz	為
+NBZ	为	ktj
 nbn	烏
+NBN	乌	ktj
 nbx	熨
 nba	燠
 nbZ	爲
@@ -54,6 +65,7 @@ nc;	烟
 nck	焉
 ncs	焱
 ncz	煙
+NCZ	烟	ktj
 nca	燕
 nc,	爰
 ncn	牙
@@ -62,8 +74,11 @@ nda	灰
 nds	狢
 nd;	猾
 ndl	獪
+NDL	狯	ktj
 ndf	獲
+NDF	获	ktj
 nfn	煥
+NFN	焕	ktj
 nfa	狠
 nga	灸
 ngL	焈
@@ -75,6 +90,7 @@ ngw	燬
 ngn	牛
 ng/	犠
 ng/	犧
+NG/	牺	ktj
 nhS	㺃
 nh;	煦
 nhe	熏
@@ -83,18 +99,23 @@ nhf	狂
 nhs	狗	yク	hyコウ
 nhd	狭	i狭狹
 nhd	狹	i狭狹
+NHD	狭	ktj
 njq	炯
 nj;	烱
 njr	煢
+NJR	茕	ktj
 njv	熒	b火	yケイ	hyエイ
+NJV	荧	ktj
 njV	𤇾	《熒》の略体
 nja	牽
+NJA	牵	ktj
 njf	犬
 njF	犭
 njl	狷
 nje	猊
 njs	献
 njs	獻
+NJS	献	ktj
 njw	獗
 njd	玄
 nks	炬
@@ -112,21 +133,27 @@ nkr	猴
 nkt	烤	yコウ
 nkq	烘	yコウ	hyク
 nla	災
+NLA	灾	ktj
 nlw	炸	yサク
 nln	焜
 nlf	煞	i殺殺煞
 nl;	燦
+NL;	灿	ktj
 nlr	爨
 nlg	犀	部首の牛のほかには、尸《ｇ》がある	yサイ	hyセイ
 nle	犲
 nlk	猜
 nls	獄
+NLS	狱	ktj
 nld	采	漢字源による部首：爪《ｎ》
 nmf	熾
+NMF	炽	ktj
 nmk	爾	i爾尓尒
+NMK	尔	ktj
 nmi	尒	i爾尓尒	b爻	hb小
 nmi	尓	i爾尓尒	b爻	hb小
 nmd	獅
+NMD	狮	ktj
 nne	倏	倏倐	漢字源による部首：犬《ｎ》	右上に夂《ｅ》がある
 nnE	倐	倏倐	漢字源による部首：火《ｎ》	右上に夂《ｅ》がある
 nnr	灼
@@ -135,32 +162,39 @@ nnx	煑
 nns	煮
 nna	熟
 nnk	爍	樂の部首は木《ｋ》
+NNK	烁	ktj
 nnw	爵	爪の下に覀《ｗ》がある
 nn;	狃
 nnf	狩	右部に宀《ｆ》＋寸《ｆ》がある
 nnd	獣	左部にツ《ｄ》＋口《ｄ》がある
 nnd	獸
+NND	兽	ktj
 nnS	煮
 npO	丬
 npv	烝
 npa	焦
 nps	焼
 nps	燒
+NPS	烧	ktj
 npd	照
 npq	燭	yショク
+NPQ	烛	ktj
 npz	燮
 npo	爿
 npk	牀	yショウ	hyソウ	右部に木《ｋ》がある
 npt	牆	i墻牆
+NPT	墙	ktj
 npt	墻	i墻牆	b爿	hb土
 npf	状
 npf	狀
+NPF	状	ktj
 npw	猖
 npr	猩	yショウ	hyセイ
 npe	獐
 nqw	炊
 nqn	燧
 nqr	燼
+NQR	烬	ktj
 nqe	牲
 nrn	然
 nre	煎
@@ -185,6 +219,7 @@ nt;	燵
 nta	狆	中の部首は丨《ａ》
 nt/	猯
 ntq	獺
+NTQ	獭	ktj
 nvn	牒
 nvx	牴
 nvc	狄
@@ -192,11 +227,15 @@ nvz	猪
 nvZ	猪
 nwn	灯
 nwn	燈
+NWN	灯	ktj
 nw;	点	i点點	（セミコロン）に点が入っているから
 nw;	點	i点點	b灬	hb黑	（セミコロン）に点が入っているから
+NW;	点	ktj
 nw/	獰
+NW/	狞	ktj
 nxg	煤
 nxk	熱
+NXK	热	ktj
 nxl	燃
 nxi	燉
 nx;	爆
@@ -204,14 +243,19 @@ nx.	爬
 nxh	爸	yバ
 nx/	牌
 nxp	牘
+NXP	牍	ktj
 nxv	特
 nxo	犢
+NXO	犊	ktj
 nx,	狛
 nxc	独
 nxc	獨
+NXC	独	ktj
 nxx	狽	yバイ	右部に貝《ｘ》がある
+NXX	狈	ktj
 nxb	獏
 nys	煩
+NYS	烦	ktj
 nyw	燔
 nyd	版
 nyr	牝
@@ -219,6 +263,7 @@ nyf	犯
 nye	狒
 nya	猫	i猫貓	にゃあ！
 nya	貓	i猫貓	b犭	hb豸
+NYA	猫	ktj
 nz.	炳
 nz/	焚
 nzx	父
@@ -255,6 +300,7 @@ _070EC	烬
 _070EF	烯
 _070F0	烰
 _070F4	烴
+_070F4_s	烃	ktj
 _070F7	烷
 _070FA	烺
 _070FB	烻
@@ -279,6 +325,7 @@ _07147	煇
 _0714A	煊
 _07150	煐
 _07152	煒
+_07152_s	炜	ktj
 _07153	煓
 _07154	煔
 _0715C	煜
@@ -290,8 +337,10 @@ _07172	煲
 _07180	熀
 _07182	熂
 _07185	熅
+_07185_s	煴	ktj
 _07187	熇
 _07189	熉
+_07189_s	𤈶	ktj
 _07190	熐
 _0719A	熚
 _0719B	熛
@@ -300,12 +349,14 @@ _071AE	熮
 _071AF	熯
 _071B0	熰
 _071B2	熲
+_071B2_s	颎	ktj
 _071B3	熳
 _071B8	熸
 _071BA	熺
 _071BF	熿
 _071C0	燀
 _071C1	燁
+_071C1_s	烨	ktj
 _071C2	燂
 _071C5	燅
 _071CA	燊
@@ -313,10 +364,14 @@ _071CB	燋
 _071D3	燓
 _071D6	燖
 _071D9	燙
+_071D9_s	烫	ktj
 _071DC	燜
+_071DC_s	焖	ktj
 _071E1	燡
 _071F4	燴
+_071F4_s	烩	ktj
 _071FE	燾
+_071FE_s	焘	ktj
 _07200	爀
 _07201	爁
 _07202	爂
@@ -418,6 +473,7 @@ _07312	猒
 _07313	猓
 _07318	猘
 _07319	猙
+_07319_s	狰	ktj
 _07322	猢
 _07323	猣
 _07326	猦
@@ -433,6 +489,7 @@ _07335	猵
 _07339	猹
 _0733A	猺
 _0733B	猻
+_0733B_s	狲	ktj
 _0733C	猼
 _0733D	猽
 _07340	獀
@@ -455,19 +512,26 @@ _07366	獦
 _07367	獧
 _07369	獩
 _0736B	獫
+_0736B_s	猃	ktj
 _0736C	獬
 _0736E	獮
+_0736E_s	狝	ktj
 _0736F	獯
 _07371	獱
+_07371_s	㺍	ktj
 _07373	獳
 _07376	獶
 _07377	獷
+_07377_s	犷	ktj
 _0737C	獼
+_0737C_s	猕	ktj
 _0737D	獽
 _0737E	獾
 _0737F	獿
 _07380	玀
+_07380_s	猡	ktj
 _07381	玁
+_07381_s	𤞤	ktj
 _07382	玂
 _07383	玃
 _07385	玅
