@@ -205,6 +205,7 @@ qyw	秒
 qyr	秕
 qyq	秘	i秘祕
 qyq	祕	i秘祕
+QYQ	秘	ktj
 qyo	𥧔	屁𥧔
 qzl	祓
 qzj	福

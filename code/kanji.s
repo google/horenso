@@ -312,6 +312,8 @@ svj	締
 SVJ	缔	ktj
 sv;	縋
 SV;	缒	ktj
+svp	綞
+SVP	缍	ktj
 svm	羝	yテイ	hyタイ
 swj	統
 SWJ	统	ktj
@@ -445,8 +447,6 @@ _07D94	綔
 _07D96	綖
 _07D97	綗
 _07D9D	綝
-_07D9E	綞
-_07D9E_s	缍	ktj
 _07DA6	綦
 _07DA7	綧
 _07DAA	綪

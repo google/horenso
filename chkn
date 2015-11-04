@@ -611,9 +611,8 @@ sub read_codes {
     # カタカナのコードをひらがなのコードから自動生成する
     # 尚、CAPSLOCKがオンでも一般の漢字を入力できるようにする
     for my $key (keys %codes) {
-        next if $key =~ /[A-Z]/;
         my $ukey = $key;
-        $ukey =~ tr/a-z/A-Z/;
+        $ukey =~ tr/a-zA-Z/A-Za-z/;
         next if defined $codes{$ukey};
         my $uvalue = $codes{$key};
         $uvalue =~ tr/ぁ-ゖ/ァ-ヶ/;

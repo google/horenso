@@ -188,10 +188,10 @@ hkp	徨
 hkr	忤
 hk/	怐	yコウ	hyク
 hke	怙
-hkq	恆
-HKQ	恒	ktj
 hko	恍
 hks	恒
+hks	恆
+HKS	恒	ktj
 hkw	恰
 hkb	悞	yゴ	hyグ
 HKB	悮	ktj
