@@ -15,8 +15,8 @@
 ..f	鯉
 ..F	鲤	ktj
 ..d	鰡
-..,	鱗
-..,_s	鳞	ktj
+..e	鱗
+..E	鳞	ktj
 ..a	鷯
 ..A	鹩	ktj
 ..m	鸞
@@ -25,14 +25,15 @@
 ./d	魯
 ./D	鲁	ktj
 ./a	鰊
-./,	鱧
-./,_s	鳢	ktj
+./A	𬶠	ktj
+./w	鱧
+./W	鳢	ktj
 ./m	鱸
 ./M	鲈	ktj
 ./s	鴒
 ./S	鸰	ktj
-./.	鷺
-./._s	鹭	ktj
+./r	鷺
+./R	鹭	ktj
 ./f	鹵
 ./F	卤	ktj
 .;d	魴
