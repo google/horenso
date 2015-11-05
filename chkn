@@ -225,6 +225,12 @@ sub erase_to_eol {
 #  ..
 #  マップに無い - この漢字を使わない
 my %kanji_to_priority;
+sub write_priority {
+    my ($ji, $pri) = @_;
+    if (($kanji_to_priority{$ji} // -1) < $pri) {
+        $kanji_to_priority{$ji} = $pri;
+    }
+}
 {
     open my $priority, '<', "$FindBin::Bin/priority/$lang";
     binmode $priority, ':utf8';
@@ -233,7 +239,7 @@ my %kanji_to_priority;
         next if $line =~ m/^#/;
         chomp $line;
         for my $kanji (split q{}, $line) {
-            $kanji_to_priority{$kanji} //= $priority_level;
+            write_priority $kanji, $priority_level;
         }
         $priority_level--;
     }
@@ -331,6 +337,7 @@ sub read_codes {
     my %unassigned_by_priority;
     my %total_by_priority;
     my $total_assigned;
+    my $prev_value;
 
     for my $codes_file (@codes_files) {
         open my $codes, $codes_file
@@ -346,7 +353,10 @@ sub read_codes {
                 print STDERR "Could not process code: $line\n";
                 die;
             }
-            next if $is_kantaiji && $lang ne 'cht';
+            if ($is_kantaiji) {
+                next if $lang ne 'cht';
+                write_priority($value, $kanji_to_priority{$prev_value} - 1);
+            }
 
             my $priority = $kanji_to_priority{$value};
             next if !defined($priority) and $codes_file =~ m#/kanji\.#;
@@ -383,6 +393,7 @@ sub read_codes {
 
             die "Duplicate code: $key" if defined $codes{$key};
             $codes{$key} = $value;
+            $prev_value = $value;
 
             # hbかhyの注がある場合は%suggestionsのマップを拡張する
 
