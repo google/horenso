@@ -2,8 +2,7 @@ f,m	妖
 f,/	妙
 f,.	妹
 f,w	姚
-f,,	媽	yモ	hyボ	右部に馬《，》がある。
-F,,	妈	ktj
+f,,	媽	yモ	hyボ	右部に馬《，》がある。	ktj妈
 f,a	孕	乃の部首は丿《ａ》
 f,;	孟
 f,q	宥
@@ -15,8 +14,7 @@ f.d	婪
 f.s	嬾
 f.,	寥
 f.f	寮
-f/f	婁
-F/F	娄	ktj
+f/f	婁	ktj娄
 f/s	嫘	yルイ	hyライ
 f;a	妄	yボウ	hyモウ	亡の部首は亠《ａ》
 f;f	妨
@@ -24,8 +22,7 @@ f;l	姆	yボ	hyモ	母の部首は毋《ｌ》
 f;t	姥	yボ	hyモ	hyうば	老の部首は耂《ｔ》
 f;s	孛	yボツ	hyハイ
 f;j	宝
-f;j	寶
-F;J	宝	ktj
+f;j	寶	ktj宝
 f;k	寳
 f;d	尨
 fbk	委
@@ -35,10 +32,8 @@ fbj	威
 fbm	娃	yアイ
 fbx	婀
 fbu	婬
-fbz	嫗	yウ	hyオウ
-FBZ	妪	ktj
-fbp	嬰
-FBP	婴	ktj
+fbz	嫗	yウ	hyオウ	ktj妪
+fbp	嬰	ktj婴
 fb;	宇	yウ	i㝢宇𡧃
 fb:	𡧃	yウ	i㝢宇𡧃
 fb/	㝢	yウ	i㝢宇𡧃
@@ -49,11 +44,9 @@ fcm	姶	yオウ
 fci	娥
 fcp	婉
 fcl	媛
-fco	媼
-FCO	媪	ktj
+fco	媼	ktj媪
 fcx	嫁
-fcc	媧
-FCC	娲	ktj
+fcc	媧	ktj娲
 fcb	嫣
 fck	宛
 fc;	宴
@@ -63,24 +56,20 @@ fcz	寡
 fc,	尢
 fdk	嬶
 fdf	学
-fdf	學
-FDF	学	ktj
+fdf	學	ktj学
 fds	斈	b子
 fdl	孩
 fdj	害
 ffa	奸
-ffj	姦
-FFJ	奸	ktj
+ffj	姦	ktj奸
 ffy	嫺
-ffy	嫻
-FFY	娴	ktj
+ffy	嫻	ktj娴
 ffd	完
 ffh	官
 ffm	宦
 ffp	寒
 ffs	寛
-ffs	寬
-FFS	宽	ktj
+ffs	寬	ktj宽
 ff,	寰
 fgp	妓
 fgi	姫
@@ -89,12 +78,10 @@ fg;	嬉
 fgo	季
 fgj	宜
 fgl	客
-fgk	宮
-FGK	宫	ktj
+fgk	宮	ktj宫
 fgu	寄
 fhf	姜
-fhd	嬌
-FHD	娇	ktj
+fhd	嬌	ktj娇
 fhs	寓
 fjd	妍
 fje	娟	yケン	hyエン
@@ -105,8 +92,7 @@ fj;	孽	yゲツ
 fkd	好
 fko	姑
 fks	娯
-fks	娛
-FKS	娱	ktj
+fks	娛	ktj娱
 fkr	媾
 fk;	嫦
 fka	孔
@@ -134,8 +120,7 @@ fme	字
 fmr	孜
 fm;	孳
 fmq	実
-fmq	實
-FMQ	实	ktj
+fmq	實	ktj实
 fm/	室
 fmd	寺
 fnr	妁
@@ -150,8 +135,7 @@ fne	宗
 fnd	宿
 fn/	寂
 fnw	寿	i寿壽	b寸
-fnw	壽	i寿壽	b寸	hb士
-FNW	寿	ktj
+fnw	壽	i寿壽	b寸	hb士	ktj寿
 fnf	射
 fns	就
 fpA	♀
@@ -167,8 +151,7 @@ fpy	嬲	yジョウ	hyニョウ
 fpk	宵
 fpw	寔
 fps	将
-fps	將
-FPS	将	ktj
+fps	將	ktj将
 fpf	小
 fpd	少
 fpi	尚
@@ -179,34 +162,27 @@ fqq	聟	i婿聟壻	b女	hb耳
 fqa	壻	i婿聟壻	b女	hb土
 fql	宸
 fqj	寝
-fqj	寢
-FQJ	寝	ktj
-fq;	審
-FQ;	审	ktj
+fqj	寢	ktj寝
+fq;	審	ktj审
 fqw	寸
-fqk	尋
-FQK	寻	ktj
+fqk	尋	ktj寻
 frl	姐	yソ
-fro	嬋
-FRO	婵	ktj
+fro	嬋	ktj婵
 fr;	孅
 frw	孱
 fre	宣
 frk	専
-frk	專
-FRK	专	ktj
+frk	專	ktj专
 frj	尖
 fri	尠
-fsu	妝
-FSU	妆	ktj
+fsu	妝	ktj妆
 fsh	她
 fsj	妥
 fso	娜
 fsl	嫂
 fsi	孀
 fsd	存
-fsk	孫
-FSK	孙	ktj
+fsk	孫	ktj孙
 fs;	它
 fsa	宋
 fsf	尊
@@ -215,12 +191,10 @@ ftl	嫡
 fta	宅
 ftk	宙
 ftj	対
-ftj	對
-FTJ	对	ktj
+ftj	對	ktj对
 fvj	姪
 fva	定
-fvk	寵
-FVK	宠	ktj
+fvk	寵	ktj宠
 fvl	娣	yテイ
 fv;	婷	yテイ
 fwk	奴
@@ -229,8 +203,7 @@ fwd	妒
 fwu	嫐	yドウ	hyノウ
 fwi	孥
 fwl	宕
-fwe	導
-FWE	导	ktj
+fwe	導	ktj导
 fxh	奶	yナイ	hyダイ
 fxj	妊
 fxo	嬭	yナイ	hyダイ	hyデイ
@@ -241,21 +214,18 @@ fxk	媒
 fxi	嫩
 fxz	宍
 fxu	寞	莫の部首は艸《ｕ》
-fxl	寧
-FXL	宁	ktj
+fxl	寧	ktj宁
 fyf	妃
 fye	妣
 fyi	婢
 fyo	媚
 fys	嫖
-fyd	嬪
-FYD	嫔	ktj
+fyd	嬪	ktj嫔
 fya	寐
 fyg	娓	yビ
 fzu	娉
 fzg	娩
-fzj	婦
-FZJ	妇	ktj
+fzj	婦	ktj妇
 fzi	嬖
 fzd	孚
 fzs	孵
@@ -268,8 +238,7 @@ _0376B	㝫
 _0376C	㝬
 _03775	㝵
 _05975	奵
-_0597C	奼
-_0597C_s	姹	ktj
+_0597C	奼	ktj姹
 _05980	妀
 _0598B	妋
 _0598E	妎
@@ -290,8 +259,7 @@ _059C1	姁
 _059C3	姃
 _059C8	姈
 _059CC	姌
-_059CD	姍
-_059CD_s	姗	ktj
+_059CD	姍	ktj姗
 _059CE	姎
 _059CF	姏
 _059D8	姘
@@ -329,8 +297,7 @@ _05A60	婠
 _05A64	婤
 _05A65	婥
 _05A67	婧
-_05A6D	婭
-_05A6D_s	娅	ktj
+_05A6D	婭	ktj娅
 _05A78	婸
 _05A7A	婺
 _05A7C	婼
@@ -348,10 +315,8 @@ _05AA5	媥
 _05AA6	媦
 _05AAC	媬
 _05AAE	媮
-_05AAF	媯
-_05AAF_s	妫	ktj
-_05AB0	媰
-_05AB0_s	㛀	ktj
+_05AAF	媯	ktj妫
+_05AB0	媰	ktj㛀
 _05AB1	媱
 _05AB2	媲
 _05AB3	媳
@@ -376,42 +341,32 @@ _05AEE	嫮
 _05AF0	嫰
 _05AF3	嫳
 _05AF4	嫴
-_05AF5	嫵
-_05AF5_s	妩	ktj
+_05AF5	嫵	ktj妩
 _05AF6	嫶
 _05AF7	嫷
 _05AFD	嫽
-_05AFF	嫿
-_05AFF_s	婳	ktj
+_05AFF	嫿	ktj婳
 _05B00	嬀
-_05B03	嬃
-_05B03_s	媭	ktj
-_05B08	嬈
-_05B08_s	娆	ktj
+_05B03	嬃	ktj媭
+_05B08	嬈	ktj娆
 _05B10	嬐
 _05B13	嬓
 _05B14	嬔
 _05B17	嬗
-_05B19	嬙
-_05B19_s	嫱	ktj
+_05B19	嬙	ktj嫱
 _05B1B	嬛
 _05B1D	嬝
-_05B21	嬡
-_05B21_s	嫒	ktj
-_05B24	嬤
-_05B24_s	嬷	ktj
+_05B21	嬡	ktj嫒
+_05B24	嬤	ktj嬷
 _05B25	嬥
 _05B34	嬴
-_05B38	嬸
-_05B38_s	婶	ktj
+_05B38	嬸	ktj婶
 _05B3D	嬽
 _05B3F	嬿
 _05B41	孁
 _05B48	孈
-_05B4B	孋
-_05B4B_s	㛤	ktj
-_05B4C	孌
-_05B4C_s	娈	ktj
+_05B4B	孋	ktj㛤
+_05B4C	孌	ktj娈
 _05B52	孒
 _05B53	孓
 _05B56	孖
@@ -421,8 +376,7 @@ _05B6C	孬
 _05B6F	孯
 _05B72	孲
 _05B77	孷
-_05B7F	孿
-_05B7F_s	孪	ktj
+_05B7F	孿	ktj孪
 _05B81	宁
 _05B84	宄
 _05B8E	宎
@@ -456,5 +410,4 @@ _05C2B	尫
 _05C2C	尬
 _05C30	尰
 _05C33	尳
-_05C37	尷
-_05C37_s	尴	ktj
+_05C37	尷	ktj尴

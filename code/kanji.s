@@ -1,193 +1,128 @@
 s,<	㓁
-s,f	約
-S,F	约	ktj
-s,/	紋
-S,/	纹	ktj
-s,,	網
-S,,	网	ktj
-s,s	綿	yメン	hyベン	i綿緜
-S,S	绵	ktj
+s,f	約	ktj约
+s,/	紋	ktj纹
+s,,	網	ktj网
+s,s	綿	yメン	hyベン	i綿緜	ktj绵
 s,s	緜	yメン	hyベン	i綿緜
-s,;	緬	右部に面《；》がある
-S,;	缅	ktj
-s,r	縵	yマン	hyバン
-S,R	缦	ktj
+s,;	緬	右部に面《；》がある	ktj缅
+s,r	縵	yマン	hyバン	ktj缦
 s,a	网	yモウ	hyボウ
 s,A	罒
 s,.	罔	yモウ	hyボウ
 s,d	羊
 s,>	𦉰
 s,D	𦍌
-s.d	絡
-S.D	络	ktj
-s.f	綠
-S.F	绿	ktj
-s./	綸
-S./	纶	ktj
-s.a	綾
-S.A	绫	ktj
+s.d	絡	ktj络
+s.f	綠	ktj绿
+s./	綸	ktj纶
+s.a	綾	ktj绫
 s.f	緑
-s.k	繚
-S.K	缭	ktj
-s.t	繿
-S.T	䍀	ktj
-s.j	纜
-S.J	缆	ktj
+s.k	繚	ktj缭
+s.t	繿	ktj䍀
+s.j	纜	ktj缆
 s.v	罍
 s.r	罹
-s.,	羅
-S.,	罗	ktj
+s.,	羅	ktj罗
 s/f	累
 s/l	絽	yロ	hyリョ
 s/j	綟
-s/k	綰
-S/K	绾	ktj
-s/d	練
-S/D	练	ktj
-s/m	縲
-S/M	缧	ktj
-s/s	縷
-S/S	缕	ktj
-s/.	縺
-S/.	𦈐	ktj
+s/k	綰	ktj绾
+s/d	練	ktj练
+s/m	縲	ktj缧
+s/s	縷	ktj缕
+s/.	縺	ktj𦈐
 s/a	羚
 s/,	羸
 s/D	練
-s;d	紡
-S;D	纺	ktj
+s;d	紡	ktj纺
 s;s	絣
-s;f	縫
-S;F	缝	ktj
-s;j	繃
-S;J	绷	ktj
-s;k	綁	yホウ
-S;K	绑	ktj
-sbl	紆
-SBL	纡	ktj
-sb;	紜
-SB;	纭	ktj
-sbj	維
-SBJ	维	ktj
-sbk	緯
-SBK	纬	ktj
-sbi	縊
-SBI	缢	ktj
+s;f	縫	ktj缝
+s;j	繃	ktj绷
+s;k	綁	yホウ	ktj绑
+sbl	紆	ktj纡
+sb;	紜	ktj纭
+sbj	維	ktj维
+sbk	緯	ktj纬
+sbi	縊	ktj缢
 sbo	繧
-sbp	纓
-SBP	缨	ktj
+sbp	纓	ktj缨
 sbu	罨
-sbn	縈	yエイ	hyヨウ	b糸	hb火
-SBN	萦	ktj
-scj	緣
-SCJ	缘	ktj
+sbn	縈	yエイ	hyヨウ	b糸	hb火	ktj萦
+scj	緣	ktj缘
 scj	縁
 sck	縅
-sc;	繹
-SC;	绎	ktj
+sc;	繹	ktj绎
 scl	罅
-scv	罌
-SCV	罂	ktj
+scv	罌	ktj罂
 sdj	絵
 sdf	綛
 sdk	緕
-sdj	繪
-SDJ	绘	ktj
+sdj	繪	ktj绘
 sdl	纃
 sd;	羯
-sf;	緘
-SF;	缄	ktj
-sfk	緩
-SFK	缓	ktj
+sf;	緘	ktj缄
+sfk	緩	ktj缓
 sfd	繝
 sfj	缶	yカン	hyフ	i缶缻罐
 sfj	缻	yカン	hyフ	i缶缻罐
 sfl	罐	yカン	hyフ	i缶缻罐
 sfs	罕
 sgi	糺
-sgl	糾
-SGL	纠	ktj
-sgj	紀
-SGJ	纪	ktj
-sgk	級
-SGK	级	ktj
-sg;	給
-SG;	给	ktj
-sgo	綺
-SGO	绮	ktj
+sgl	糾	ktj纠
+sgj	紀	ktj纪
+sgk	級	ktj级
+sg;	給	ktj给
+sgo	綺	ktj绮
 sga	羇
-sgs	羈
-SGS	羁	ktj
-sgu	義
-SGU	义	ktj
+sgs	羈	ktj羁
+sgu	義	ktj义
 sgp	羲
-shd	緊
-SHD	紧	ktj
+shd	緊	ktj紧
 shs	繦
 sha	羌
 she	羣
 shf	群
 sja	系
 sje	絃
-sjg	絅
-SJG	䌹	ktj
+sjg	絅	ktj䌹
 sjd	経
-sjd	經
-SJD	经	ktj
-sj;	結
-SJ;	结	ktj
-sjv	絢
-SJV	绚	ktj
-sjs	絹
-SJS	绢	ktj
+sjd	經	ktj经
+sj;	結	ktj结
+sjv	絢	ktj绚
+sjs	絹	ktj绢
 sjl	継
-sjl	繼
-SJL	继	ktj
-sji	綣
-SJI	绻	ktj
+sjl	繼	ktj继
+sji	綣	ktj绻
 sjr	綮
 sjt	繋	yケイ	i繋繫
-sjt	繫	yケイ	i繋繫
-SJT	系	ktj
-sjk	繭
-SJK	茧	ktj
-sjp	纈
-SJP	缬	ktj
+sjt	繫	yケイ	i繋繫	ktj系
+sjk	繭	ktj茧
+sjp	纈	ktj缬
 sjf	缺	i缺缼欠𡙇
 sjf	缼	i缺缼欠𡙇
 sjo	罫
 sjq	羂
-skd	紅	yコウ	hyク
-SKD	红	ktj
-ska	紘
-SKA	纮	ktj
+skd	紅	yコウ	hyク	ktj红
+ska	紘	ktj纮
 skm	絋
-skv	絎
-SKV	绗	ktj
+skv	絎	ktj绗
 sku	絖
-skf	絞
-SKF	绞	ktj
-skn	絳
-SKN	绛	ktj
-sks	綱
-SKS	纲	ktj
-skr	縞
-SKR	缟	ktj
+skf	絞	ktj绞
+skn	絳	ktj绛
+sks	綱	ktj纲
+skr	縞	ktj缟
 skk	纐
 skj	缸
 skl	罟
 sko	羔
 sk:	羮
 sk;	羹
-slj	紗
-SLJ	纱	ktj
+slj	紗	ktj纱
 slf	索
 slk	紮
-sls	細	yサイ
-SLS	细	ktj
-sld	紺
-SLD	绀	ktj
-sl;	綵
-SL;	䌽	ktj
+sls	細	yサイ	ktj细
+sld	紺	ktj绀
+sl;	綵	ktj䌽
 slr	縡
 sle	繖
 slm	纂
@@ -195,183 +130,116 @@ slw	纉
 slv	纔
 sla	罪
 smd	糸
-sme	絲
-SME	丝	ktj
-smf	紙
-SMF	纸	ktj
+sme	絲	ktj丝
+smf	紙	ktj纸
 sms	紫
-smo	緇	yシ	甾の部首は田《ｏ》
-SMO	缁	ktj
+smo	緇	yシ	甾の部首は田《ｏ》	ktj缁
 smg	縒	yシ	hyサ	差の部首は工《ｇ》
-snd	純
-SND	纯	ktj
-snf	終
-SNF	终	ktj
-sn,	絨
-SN,	绒	ktj
-snk	綬
-SNK	绶	ktj
-snl	綽
-SNL	绰	ktj
-snr	緝
-SNR	缉	ktj
+snd	純	ktj纯
+snf	終	ktj终
+sn,	絨	ktj绒
+snk	綬	ktj绶
+snl	綽	ktj绰
+snr	緝	ktj缉
 sna	縦
-sn;	縮
-SN;	缩	ktj
-sna	縱
-SNA	纵	ktj
-sne	繡	yシュウ	i繡繍綉
-SNE	绣	ktj
+sn;	縮	ktj缩
+sna	縱	ktj纵
+sne	繡	yシュウ	i繡繍綉	ktj绣
 sne	繍	yシュウ	i繡繍綉
 snw	綉	yシュウ	i繡繍綉
-snv	繻
-SNV	𦈡	ktj
+snv	繻	ktj𦈡
 sns	羞
-spd	紹
-SPD	绍	ktj
-spy	絛	yジョウ	hyトウ	i絛縧
-SPY	绦	ktj
+spd	紹	ktj绍
+spy	絛	yジョウ	hyトウ	i絛縧	ktj绦
 spy	縧	yジョウ	hyトウ	i絛縧
 spu	絮
-sps	緒
-SPS	绪	ktj
+sps	緒	ktj绪
 spo	縄
-spo	繩
-SPO	绳	ktj
-spa	縟
-SPA	缛	ktj
-spi	織
-SPI	织	ktj
-spj	繞
-SPJ	绕	ktj
+spo	繩	ktj绳
+spa	縟	ktj缛
+spi	織	ktj织
+spj	繞	ktj绕
 spf	署
 spF	署
 spI	𦀗
-sqj	紳
-SQJ	绅	ktj
-sqf	綏	右部の部首は女(f)
-SQF	绥	ktj
-sql	縉	i縉縉
-SQL	缙	ktj
+sqj	紳	ktj绅
+sqf	綏	右部の部首は女(f)	ktj绥
+sql	縉	i縉縉	ktj缙
 sql	縉	i縉縉
 sqk	罧	yシン	林の部首は《木》
 sro	素
-srm	紲
-SRM	绁	ktj
-srk	組
-SRK	组	ktj
+srm	紲	ktj绁
+srk	組	ktj组
 srh	絏
 srj	絶
-srj	絕
-SRJ	绝	ktj
+srj	絕	ktj绝
 srL	綫
-srl	線
-SRL	线	ktj
+srl	線	ktj线
 srp	緤
-sri	績
-SRI	绩	ktj
+sri	績	ktj绩
 srs	繊
-sru	繕
-SRU	缮	ktj
+sru	繕	ktj缮
 srW	纎
-srw	纖
-SRW	纤	ktj
+srw	纖	ktj纤
 sr;	羨
 sre	羶
 ssj	続
-ss;	綜
-SS;	综	ktj
+ss;	綜	ktj综
 ssk	総
-ssk	總
-SSK	总	ktj
-ssl	繰
-SSL	缲	ktj
-ssj	續
-SSJ	续	ktj
+ssk	總	ktj总
+ssl	繰	ktj缲
+ssj	續	ktj续
 stj	着
-stm	紂
-STM	纣	ktj
-stu	紐
-STU	纽	ktj
-sti	紬
-STI	䌷	ktj
-sto	紿
-STO	绐	ktj
-stp	綢
-STP	绸	ktj
-stl	綻
-STL	绽	ktj
-st;	緻
-ST;	致	ktj
+stm	紂	ktj纣
+stu	紐	ktj纽
+sti	紬	ktj䌷
+sto	紿	ktj绐
+stp	綢	ktj绸
+stl	綻	ktj绽
+st;	緻	ktj致
 stk	置
-svk	紵
-SVK	纻	ktj
-svl	綴
-SVL	缀	ktj
-svj	締
-SVJ	缔	ktj
-sv;	縋
-SV;	缒	ktj
-svp	綞
-SVP	缍	ktj
+svk	紵	ktj纻
+svl	綴	ktj缀
+svj	締	ktj缔
+sv;	縋	ktj缒
+svp	綞	ktj缍
 svm	羝	yテイ	hyタイ
-swj	統
-SWJ	统	ktj
-swi	綯
-SWI	绹	ktj
+swj	統	ktj统
+swi	綯	ktj绹
 swl	縢
-swk	纏
-SWK	缠	ktj
+swk	纏	ktj缠
 swK	纒
 swo	纛
 sw;	罩
-sxj	納	yノウ
-SXJ	纳	ktj
-sxc	緞	yドン	hyダン
-SXC	缎	ktj
-sx;	縛
-SX;	缚	ktj
+sxj	納	yノウ	ktj纳
+sxc	緞	yドン	hyダン	ktj缎
+sx;	縛	ktj缚
 sxi	罎	yドン	hyタン
-sxk	罰
-SXK	罚	ktj
-sxl	罵
-SXL	骂	ktj
+sxk	罰	ktj罚
+sxl	罵	ktj骂
 sxv	罸
 syr	紊
-syl	紕	右部に比《ｌ》がある
-SYL	纰	ktj
-sya	絆
-SYA	绊	ktj
-sy;	緋	右部に非《；》がある
-SY;	绯	ktj
-syi	緡
-SYI	缗	ktj
-syp	緲	眇の部首は目《ｐ》	yビョウ	hyミョウ
-SYP	缈	ktj
-syq	縹	票の部首は示《ｑ》
-SYQ	缥	ktj
+syl	紕	右部に比《ｌ》がある	ktj纰
+sya	絆	ktj绊
+sy;	緋	右部に非《；》がある	ktj绯
+syi	緡	ktj缗
+syp	緲	眇の部首は目《ｐ》	yビョウ	hyミョウ	ktj缈
+syq	縹	票の部首は示《ｑ》	ktj缥
 sy/	縻	糸が麻《／》に囲まれている
 sys	繁
-syt	繆	翏の部首は羽《ｔ》	yビュウ	hyリュウ	hyミュウ	hyボク	hyル	hyキュウ
-SYT	缪	ktj
+syt	繆	翏の部首は羽《ｔ》	yビュウ	hyリュウ	hyミュウ	hyボク	hyル	hyキュウ	ktj缪
 syo	繙	番の部首は田《ｏ》
-syx	繽	賓の部首は貝《ｘ》
-SYX	缤	ktj
+syx	繽	賓の部首は貝《ｘ》	ktj缤
 syw	罠
-syf	罷
-SYF	罢	ktj
-syg	羆
-SYG	罴	ktj
+syf	罷	ktj罢
+syg	羆	ktj罴
 syd	美
 syS	繁
-szj	紛
-SZJ	纷	ktj
-szk	編
-SZK	编	ktj
+szj	紛	ktj纷
+szk	編	ktj编
 szl	罘
 sz;	羃
-szd	辮
-SZD	辫	ktj
+szd	辮	ktj辫
 _042C6	䋆
 _042D6	䋖
 _042DD	䋝
@@ -379,35 +247,26 @@ _04302	䌂
 _0432B	䌫
 _04343	䍃
 _07D03	紃
-_07D07	紇
-_07D07_s	纥	ktj
-_07D08	紈
-_07D08_s	纨	ktj
-_07D09	紉
-_07D09_s	纫	ktj
+_07D07	紇	ktj纥
+_07D08	紈	ktj纨
+_07D09	紉	ktj纫
 _07D0E	紎
 _07D11	紑
 _07D12	紒
-_07D13	紓
-_07D13_s	纾	ktj
-_07D16	紖
-_07D16_s	纼	ktj
-_07D1D	紝
-_07D1D_s	纴	ktj
+_07D13	紓	ktj纾
+_07D16	紖	ktj纼
+_07D1D	紝	ktj纴
 _07D1E	紞
 _07D1F	紟
 _07D23	紣
 _07D29	紩
-_07D31	紱
-_07D31_s	绂	ktj
+_07D31	紱	ktj绂
 _07D36	紶
 _07D38	紸
-_07D3C	紼
-_07D3C_s	绋	ktj
+_07D3C	紼	ktj绋
 _07D3D	紽
 _07D3E	紾
-_07D40	絀
-_07D40_s	绌	ktj
+_07D40	絀	ktj绌
 _07D41	絁
 _07D47	絇
 _07D48	絈
@@ -421,25 +280,18 @@ _07D6A	絪
 _07D6B	絫
 _07D6D	絭
 _07D6F	絯
-_07D70	絰
-_07D70_s	绖	ktj
-_07D7A	絺
-_07D7A_s	𫄨	ktj
+_07D70	絰	ktj绖
+_07D7A	絺	ktj𫄨
 _07D7B	絻
 _07D7C	絼
 _07D7F	絿
-_07D80	綀
-_07D80_s	𦈌	ktj
-_07D83	綃
-_07D83_s	绡	ktj
+_07D80	綀	ktj𦈌
+_07D83	綃	ktj绡
 _07D85	綅
-_07D86	綆
-_07D86_s	绠	ktj
-_07D88	綈
-_07D88_s	绨	ktj
+_07D86	綆	ktj绠
+_07D88	綈	ktj绨
 _07D8B	綋
-_07D8C	綌
-_07D8C_s	绤	ktj
+_07D8C	綌	ktj绤
 _07D8D	綍
 _07D8E	綎
 _07D91	綑
@@ -452,126 +304,93 @@ _07DA7	綧
 _07DAA	綪
 _07DB6	綶
 _07DB7	綷
-_07DB9	綹
-_07DB9_s	绺	ktj
+_07DB9	綹	ktj绺
 _07DBC	綼
 _07DC0	緀
 _07DC1	緁
 _07DC2	緂
-_07DC4	緄
-_07DC4_s	绲	ktj
+_07DC4	緄	ktj绲
 _07DC5	緅
 _07DC6	緆
 _07DCC	緌
 _07DCE	緎
 _07DD6	緖
-_07DD7	緗
-_07DD7_s	缃	ktj
-_07DD9	緙
-_07DD9_s	缂	ktj
+_07DD7	緗	ktj缃
+_07DD9	緙	ktj缂
 _07DDB	緛
-_07DE6	緦
-_07DE6_s	缌	ktj
+_07DE6	緦	ktj缌
 _07DE7	緧
 _07DEA	緪
-_07DF0	緰
-_07DF0_s	𦈕	ktj
-_07DF1	緱
-_07DF1_s	缑	ktj
+_07DF0	緰	ktj𦈕
+_07DF1	緱	ktj缑
 _07DF3	緳
-_07DF6	緶
-_07DF6_s	缏	ktj
-_07DF7	緷
-_07DF7_s	𦈉	ktj
-_07DF9	緹
-_07DF9_s	缇	ktj
+_07DF6	緶	ktj缏
+_07DF7	緷	ktj𦈉
+_07DF9	緹	ktj缇
 _07DFA	緺
 _07E03	縃
 _07E0C	縌
-_07E0E	縎
-_07E0E_s	𦈔	ktj
+_07E0E	縎	ktj𦈔
 _07E0F	縏
-_07E10	縐
-_07E10_s	绉	ktj
-_07E11	縑
-_07E11_s	缣	ktj
+_07E10	縐	ktj绉
+_07E11	縑	ktj缣
 _07E13	縓
-_07E15	縕
-_07E15_s	缊	ktj
-_07E17	縗
-_07E17_s	缞	ktj
+_07E15	縕	ktj缊
+_07E17	縗	ktj缞
 _07E1A	縚
 _07E1C	縜
-_07E1D	縝
-_07E1D_s	缜	ktj
+_07E1D	縝	ktj缜
 _07E20	縠
 _07E28	縨
 _07E29	縩
 _07E2A	縪
-_07E2C	縬
-_07E2C_s	𦈚	ktj
-_07E2D	縭
-_07E2D_s	缡	ktj
+_07E2C	縬	ktj𦈚
+_07E2D	縭	ktj缡
 _07E30	縰
-_07E33	縳
-_07E33_s	䌸	ktj
+_07E33	縳	ktj䌸
 _07E34	縴
-_07E36	縶
-_07E36_s	絷	ktj
+_07E36	縶	ktj絷
 _07E38	縸
 _07E3C	縼
 _07E3F	縿
 _07E40	繀
 _07E42	繂
 _07E44	繄
-_07E45	繅
-_07E45_s	缫	ktj
+_07E45	繅	ktj缫
 _07E47	繇
 _07E48	繈
 _07E49	繉
 _07E4C	繌
 _07E50	繐
 _07E51	繑
-_07E52	繒
-_07E52_s	缯	ktj
+_07E52	繒	ktj缯
 _07E58	繘
 _07E5C	繜
-_07E5F	繟
-_07E5F_s	𦈎	ktj
+_07E5F	繟	ktj𦈎
 _07E60	繠
-_07E62	繢
-_07E62_s	缋	ktj
+_07E62	繢	ktj缋
 _07E63	繣
-_07E6F	繯
-_07E6F_s	缳	ktj
+_07E6F	繯	ktj缳
 _07E72	繲
-_07E73	繳
-_07E73_s	缴	ktj
+_07E73	繳	ktj缴
 _07E74	繴
 _07E75	繵
 _07E76	繶
 _07E77	繷
-_07E78	繸
-_07E78_s	䍁	ktj
+_07E78	繸	ktj䍁
 _07E7A	繺
-_07E7E	繾
-_07E7E_s	缱	ktj
+_07E7E	繾	ktj缱
 _07E80	纀
-_07E81	纁
-_07E81_s	𫄸	ktj
+_07E81	纁	ktj𫄸
 _07E86	纆
-_07E87	纇
-_07E87_s	颣	ktj
-_07E8A	纊
-_07E8A_s	纩	ktj
+_07E87	纇	ktj颣
+_07E8A	纊	ktj纩
 _07E8B	纋
-_07E8D	纍
-_07E8D_s	累	ktj
+_07E8D	纍	ktj累
 _07E91	纑
 _07E95	纕
 _07E97	纗
-_07E98	纘
-_07E98_s	缵	ktj
+_07E98	纘	ktj缵
 _07E9A	纚
 _07F39	缹
 _07F3E	缾
@@ -602,8 +421,7 @@ _07F7D	罽
 _07F7E	罾
 _07F7F	罿
 _07F89	羉
-_07F8B	羋
-_07F8B_s	芈	ktj
+_07F8B	羋	ktj芈
 _07F8D	羍
 _07F90	羐
 _07F91	羑
@@ -616,8 +434,7 @@ _07F9C	羜
 _07FA0	羠
 _07FA1	羡
 _07FA2	羢
-_07FA5	羥
-_07FA5_s	羟	ktj
+_07FA5	羥	ktj羟
 _07FA6	羦
 _07FA7	羧
 _07FAC	羬

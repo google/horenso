@@ -1,361 +1,224 @@
-z,x	銘
-Z,X	铭	ktj
-z,c	鎔
-Z,C	镕	ktj
-z,v	鏝
-Z,V	镘	ktj
+z,x	銘	ktj铭
+z,c	鎔	ktj镕
+z,v	鏝	ktj镘
 z,m	鑓
-z,z	鑰
-Z,Z	钥	ktj
-z.,	鉚
-Z.,	铆	ktj
-z.m	鍄	yりょう
-Z.M	𨱉	ktj
-z..	鏐
-Z..	镠	ktj
-z.x	鐐
-Z.X	镣	ktj
+z,z	鑰	ktj钥
+z.,	鉚	ktj铆
+z.m	鍄	yりょう	ktj𨱉
+z..	鏐	ktj镠
+z.x	鐐	ktj镣
 z.h	鑢	yリョ	hyロ	慮の部首は心《ｈ》
-z.c	鑼
-Z.C	锣	ktj
-z.v	鑾
-Z.V	銮	ktj
+z.c	鑼	ktj锣
+z.v	鑾	ktj銮
 z/c	鈩
-z/.	鈴
-Z/.	铃	ktj
+z/.	鈴	ktj铃
 z/,	錬
 z/m	録
-z/m	錄
-Z/M	录	ktj
+z/m	錄	ktj录
 z/,	鍊
 z/x	鎌
-z/v	鏈
-Z/V	链	ktj
-z/z	鏤
-Z/Z	镂	ktj
-z/k	鑞
-Z/K	镴	ktj
+z/v	鏈	ktj链
+z/z	鏤	ktj镂
+z/k	鑞	ktj镴
 z/c	鑪
-z;x	鉋
-Z;X	铇	ktj
+z;x	鉋	ktj铇
 z;c	鉾
-z;z	鋒
-Z;Z	锋	ktj
-z;v	鋩
-Z;V	铓	ktj
-z;o	鋪	yホ	hyフ	甫の部首は用《ｏ》
-Z;O	铺	ktj
+z;z	鋒	ktj锋
+z;v	鋩	ktj铓
+z;o	鋪	yホ	hyフ	甫の部首は用《ｏ》	ktj铺
 zbj	鋭
-zbj	銳
-ZBJ	锐	ktj
-zbk	錏
-ZBK	铔	ktj
-zbl	鎰
-ZBL	镒	ktj
+zbj	銳	ktj锐
+zbk	錏	ktj铔
+zbl	鎰	ktj镒
 zbh	鐚	yア	惡の部首は心《ｈ》
-zcj	鉛
-ZCJ	铅	ktj
-zcl	鉞
-ZCL	钺	ktj
+zcj	鉛	ktj铅
+zcl	鉞	ktj钺
 zcz	鋺
-zck	鍋
-ZCK	锅	ktj
+zck	鍋	ktj锅
 zcu	鍜
 zci	鏖
 zdj	錺
-zdk	鍔
-ZDK	锷	ktj
-zdl	鎧
-ZDL	铠	ktj
+zdk	鍔	ktj锷
+zdl	鎧	ktj铠
 zd;	鎹
-zdf	钁
-ZDF	镢	ktj
-zfk	銜
-ZFK	衔	ktj
-zfl	鐶
-ZFL	镮	ktj
+zdf	钁	ktj镢
+zfk	銜	ktj衔
+zfl	鐶	ktj镮
 zfj	鑑
-zf;	鑒
-ZF;	鉴	ktj
+zf;	鑒	ktj鉴
 zfi	鑵
-zfo	鍰	yカン	hyゲン
-ZFO	锾	ktj
+zfo	鍰	yカン	hyゲン	ktj锾
 zhx	金
 zho	釿
-zhi	鈞
-ZHI	钧	ktj
-zh;	鉅
-ZH;	钜	ktj
-zhc	銀
-ZHC	银	ktj
-zhk	鋏
-ZHK	铗	ktj
-zhl	鋸
-ZHL	锯	ktj
-zhv	錦
-ZHV	锦	ktj
-zhz	鏡
-ZHZ	镜	ktj
+zhi	鈞	ktj钧
+zh;	鉅	ktj钜
+zhc	銀	ktj银
+zhk	鋏	ktj铗
+zhl	鋸	ktj锯
+zhv	錦	ktj锦
+zhz	鏡	ktj镜
 zjc	釼
-zjz	鉉
-ZJZ	铉	ktj
-zjv	鉗	yケン	hyカン
-ZJV	钳	ktj
-zjx	鍵
-ZJX	键	ktj
+zjz	鉉	ktj铉
+zjv	鉗	yケン	hyカン	ktj钳
+zjx	鍵	ktj键
 zkz	釦
 zkj	鈎
-zkl	鈷
-ZKL	钴	ktj
-zk;	鉤
-ZK;	钩	ktj
+zkl	鈷	ktj钴
+zk;	鉤	ktj钩
 zkv	鉱
-zkx	鋼
-ZKX	钢	ktj
-zkc	錮
-ZKC	锢	ktj
-zkb	鍠
-ZKB	锽	ktj
-zkg	鎬
-ZKG	镐	ktj
-zkf	鏗
-ZKF	铿	ktj
+zkx	鋼	ktj钢
+zkc	錮	ktj锢
+zkb	鍠	ktj锽
+zkg	鎬	ktj镐
+zkf	鏗	ktj铿
 zkV	鑛
-zko	鉀	yコウ	hyキョウ
-ZKO	钾	ktj
-zka	鉸	yコウ	hyキョウ
-ZKA	铰	ktj
+zko	鉀	yコウ	hyキョウ	ktj钾
+zka	鉸	yコウ	hyキョウ	ktj铰
 zlv	釛
-zlz	釵
-ZLZ	钗	ktj
-zlx	錯
-ZLX	错	ktj
-zlc	鎖
-ZLC	锁	ktj
-zlk	鏨
-ZLK	錾	ktj
+zlz	釵	ktj钗
+zlx	錯	ktj错
+zlc	鎖	ktj锁
+zlk	鏨	ktj錾
 zlJ	鑚
-zlj	鑽
-ZLJ	钻	ktj
-zl;	鑿
-ZL;	凿	ktj
+zlj	鑽	ktj钻
+zl;	鑿	ktj凿
 zmx	釶
-zmc	錙
-ZMC	锱	ktj
-znc	鉈
-ZNC	铊	ktj
-znx	銃
-ZNX	铳	ktj
-znv	銖
-ZNV	铢	ktj
+zmc	錙	ktj锱
+znc	鉈	ktj铊
+znx	銃	ktj铳
+znv	銖	ktj铢
 znz	銹
 znZ	鏥
-zn;	鑠
-ZN;	铄	ktj
-zpv	鈔
-ZPV	钞	ktj
-zpo	銷
-ZPO	销	ktj
-zpz	鋤
-ZPZ	锄	ktj
-zpx	錠
-ZPX	锭	ktj
-zpu	鍬	yショウ	hyシュウ	i鍬鍫
-ZPU	锹	ktj
+zn;	鑠	ktj铄
+zpv	鈔	ktj钞
+zpo	銷	ktj销
+zpz	鋤	ktj锄
+zpx	錠	ktj锭
+zpu	鍬	yショウ	hyシュウ	i鍬鍫	ktj锹
 zpu	鍫	yショウ	hyシュウ	i鍬鍫
-zpj	鍾
-ZPJ	锺	ktj
-zpf	鏘	yショウ	hyソウ	将の部首は寸《ｆ》	i鏘𨪙
-ZPF	锵	ktj
+zpj	鍾	ktj锺
+zpf	鏘	yショウ	hyソウ	将の部首は寸《ｆ》	i鏘𨪙	ktj锵
 zpf	𨪙	yショウ	hyソウ	将の部首は寸《ｆ》	i鏘𨪙
-zpc	鐘
-ZPC	钟	ktj
-zpt	鑷	yジョウ	hyニョウ	右部に耳《ｔ》がある
-ZPT	镊	ktj
-zpi	鑲	yジョウ	hyニョウ	hyソウ
-ZPI	镶	ktj
-zqj	針
-ZQJ	针	ktj
-zqk	鉦
-ZQK	钲	ktj
-zq;	錆	yセイ	hyショウ	右部に青《；》がある
-ZQ;	锖	ktj
-zql	錐
-ZQL	锥	ktj
-zqo	錘	yスイ	hyツイ
-ZQO	锤	ktj
+zpc	鐘	ktj钟
+zpt	鑷	yジョウ	hyニョウ	右部に耳《ｔ》がある	ktj镊
+zpi	鑲	yジョウ	hyニョウ	hyソウ	ktj镶
+zqj	針	ktj针
+zqk	鉦	ktj钲
+zq;	錆	yセイ	hyショウ	右部に青《；》がある	ktj锖
+zql	錐	ktj锥
+zqo	錘	yスイ	hyツイ	ktj锤
 zqi	鍼
-zrk	釧
-ZRK	钏	ktj
+zrk	釧	ktj钏
 zrl	鉐
-zr;	銑
-ZR;	铣	ktj
-zre	銓
-ZRE	铨	ktj
-zri	銛
-ZRI	铦	ktj
+zr;	銑	ktj铣
+zre	銓	ktj铨
+zri	銛	ktj铦
 zrj	銭
-zrj	錢
-ZRJ	钱	ktj
-zro	錫
-ZRO	锡	ktj
-zru	鐫
-ZRU	镌	ktj
-zsj	錚
-ZSJ	铮	ktj
+zrj	錢	ktj钱
+zro	錫	ktj锡
+zru	鐫	ktj镌
+zsj	錚	ktj铮
 zsk	鎗
-zs;	鏃
-ZS;	镞	ktj
-zt;	鈕
-ZT;	钮	ktj
+zs;	鏃	ktj镞
+zt;	鈕	ktj钮
 ztl	鈬
 ztj	鋳
-ztk	鍛
-ZTK	锻	ktj
-ztu	鍮
-ZTU	𨱎	ktj
-zto	鐓
-ZTO	镦	ktj
-zti	鐔	yタン	hyドン	hyシン
-ZTI	镡	ktj
-ztl	鐸
-ZTL	铎	ktj
-ztj	鑄
-ZTJ	铸	ktj
-zv;	釘
-ZV;	钉	ktj
-zvj	釣
-ZVJ	钓	ktj
+ztk	鍛	ktj锻
+ztu	鍮	ktj𨱎
+zto	鐓	ktj镦
+zti	鐔	yタン	hyドン	hyシン	ktj镡
+ztl	鐸	ktj铎
+ztj	鑄	ktj铸
+zv;	釘	ktj钉
+zvj	釣	ktj钓
 zvk	鉄	i鉄鐵鐡銕
-zvk	鐵	i鉄鐵鐡銕
-ZVK	铁	ktj
+zvk	鐵	i鉄鐵鐡銕	ktj铁
 zvm	鐡	i鉄鐵鐡銕
 zvm	銕	i鉄鐵鐡銕
-zvz	銚	yチョウ	hyヨウ	hyジョウ
-ZVZ	铫	ktj
+zvz	銚	yチョウ	hyヨウ	hyジョウ	ktj铫
 zvc	錣
 zvi	鍖
 zvu	鎚
 zvL	鎭
-zvl	鎮
-ZVL	镇	ktj
-zvx	鏑
-ZVX	镝	ktj
+zvl	鎮	ktj镇
+zvx	鏑	ktj镝
 zwk	釖
-zwl	鈿
-ZWL	钿	ktj
-zwj	銅
-ZWJ	铜	ktj
-zw;	鍍
-ZW;	镀	ktj
-zwi	鐃
-ZWI	铙	ktj
-zwu	鐙
-ZWU	镫	ktj
-zwo	鐺
-ZWO	铛	ktj
+zwl	鈿	ktj钿
+zwj	銅	ktj铜
+zw;	鍍	ktj镀
+zwi	鐃	ktj铙
+zwu	鐙	ktj镫
+zwo	鐺	ktj铛
 zxl	釟
-zxj	鈍
-ZXJ	钝	ktj
+zxj	鈍	ktj钝
 zxk	鉢	i鉢缽𥁊
-zxk	缽	i鉢缽𥁊	b金	hb缶
-ZXK	钵	ktj
+zxk	缽	i鉢缽𥁊	b金	hb缶	ktj钵
 zxi	𥁊	i鉢缽𥁊	b金	hb皿
 zxu	錵	yにえ	花の部首は艹《ｕ》
-zxo	鈸
-ZXO	钹	ktj
-zyx	鈑
-ZYX	钣	ktj
+zxo	鈸	ktj钹
+zyx	鈑	ktj钣
 zyc	鋲
-zyv	錨
-ZYV	锚	ktj
+zyv	錨	ktj锚
 zyz	鐇
 zyp	鑁
 zzj	釜	i釜釡	yフ
 zzj	釡	i釜釡	yフ
 zz;	錻
 zzn	𨨞	i斧𨨞	右上に父《ｎ》がある
-_091D4	釔
-_091D4_s	钇	ktj
-_091D5	釕
-_091D5_s	钌	ktj
-_091D7	釗
-_091D7_s	钊	ktj
-_091D9	釙
-_091D9_s	钋	ktj
+_091D4	釔	ktj钇
+_091D5	釕	ktj钌
+_091D7	釗	ktj钊
+_091D9	釙	ktj钋
 _091DA	釚
 _091E2	釢
-_091E4	釤
-_091E4_s	钐	ktj
+_091E4	釤	ktj钐
 _091E5	釥
-_091E9	釩
-_091E9_s	钒	ktj
+_091E9	釩	ktj钒
 _091EC	釬
 _091ED	釭
 _091EE	釮
 _091F1	釱
-_091F3	釳
-_091F3_s	𨰿	ktj
+_091F3	釳	ktj𨰿
 _091F4	釴
 _091F8	釸
-_091F9	釹
-_091F9_s	钕	ktj
+_091F9	釹	ktj钕
 _091FB	釻
 _091FD	釽
-_09200	鈀
-_09200_s	钯	ktj
-_09201	鈁
-_09201_s	钫	ktj
-_09203	鈃
-_09203_s	钘	ktj
+_09200	鈀	ktj钯
+_09201	鈁	ktj钫
+_09203	鈃	ktj钘
 _09206	鈆
-_09207	鈇
-_09207_s	𫓧	ktj
-_09209	鈉
-_09209_s	钠	ktj
+_09207	鈇	ktj𫓧
+_09209	鈉	ktj钠
 _0920A	鈊
 _0920C	鈌
 _0920F	鈏
-_09210	鈐
-_09210_s	钤	ktj
-_09212	鈒
-_09212_s	钑	ktj
+_09210	鈐	ktj钤
+_09212	鈒	ktj钑
 _09216	鈖
 _09217	鈗
 _0921A	鈚
-_09223	鈣
-_09223_s	钙	ktj
-_09225	鈥
-_09225_s	钬	ktj
-_09226	鈦
-_09226_s	钛	ktj
-_0922E	鈮
-_0922E_s	铌	ktj
-_09230	鈰
-_09230_s	铈	ktj
-_09233	鈳
-_09233_s	钶	ktj
+_09223	鈣	ktj钙
+_09225	鈥	ktj钬
+_09226	鈦	ktj钛
+_0922E	鈮	ktj铌
+_09230	鈰	ktj铈
+_09233	鈳	ktj钶
 _09236	鈶
-_09239	鈹
-_09239_s	铍	ktj
-_0923A	鈺
-_0923A_s	钰	ktj
+_09239	鈹	ktj铍
+_0923A	鈺	ktj钰
 _0923C	鈼
-_0923D	鈽
-_0923D_s	钸	ktj
-_0923E	鈾
-_0923E_s	铀	ktj
+_0923D	鈽	ktj钸
+_0923E	鈾	ktj铀
 _09242	鉂
 _09243	鉃
 _09246	鉆
 _09247	鉇
 _0924A	鉊
-_0924D	鉍
-_0924D_s	铋	ktj
+_0924D	鉍	ktj铋
 _0924E	鉎
 _0924F	鉏
-_09251	鉑
-_09251_s	铂	ktj
+_09251	鉑	ktj铂
 _09252	鉒
 _09256	鉖
 _09259	鉙
@@ -364,286 +227,188 @@ _09261	鉡
 _09265	鉥
 _09267	鉧
 _09268	鉨
-_0926C	鉬
-_0926C_s	钼	ktj
-_0926D	鉭
-_0926D_s	钽	ktj
+_0926C	鉬	ktj钼
+_0926D	鉭	ktj钽
 _0926F	鉯
-_09276	鉶
-_09276_s	铏	ktj
+_09276	鉶	ktj铏
 _09279	鉹
-_0927A	鉺
-_0927A_s	铒	ktj
-_0927B	鉻
-_0927B_s	铬	ktj
+_0927A	鉺	ktj铒
+_0927B	鉻	ktj铬
 _0927C	鉼
 _0927D	鉽
-_0927F	鉿
-_0927F_s	铪	ktj
+_0927F	鉿	ktj铪
 _09288	銈
 _09289	銉
-_0928D	銍
-_0928D_s	铚	ktj
+_0928D	銍	ktj铚
 _0928E	銎
 _09294	銔
 _09297	銗
 _09299	銙
 _0929F	銟
-_092A0	銠
-_092A0_s	铑	ktj
-_092A3	銣
-_092A3_s	铷	ktj
+_092A0	銠	ktj铑
+_092A3	銣	ktj铷
 _092A4	銤
-_092A5	銥
-_092A5_s	铱	ktj
-_092A6	銦
-_092A6_s	铟	ktj
+_092A5	銥	ktj铱
+_092A6	銦	ktj铟
 _092A7	銧
-_092A8	銨
-_092A8_s	铵	ktj
-_092AA	銪
-_092AA_s	铕	ktj
-_092AB	銫
-_092AB_s	铯	ktj
-_092AC	銬
-_092AC_s	铐	ktj
+_092A8	銨	ktj铵
+_092AA	銪	ktj铕
+_092AB	銫	ktj铯
+_092AC	銬	ktj铐
 _092B2	銲
-_092B6	銶
-_092B6_s	𨱇	ktj
-_092BB	銻
-_092BB_s	锑	ktj
-_092BC	銼
-_092BC_s	锉	ktj
+_092B6	銶	ktj𨱇
+_092BB	銻	ktj锑
+_092BC	銼	ktj锉
 _092BF	銿
 _092C0	鋀
-_092C1	鋁
-_092C1_s	铝	ktj
+_092C1	鋁	ktj铝
 _092C2	鋂
-_092C3	鋃
-_092C3_s	锒	ktj
+_092C3	鋃	ktj锒
 _092C4	鋄
-_092C5	鋅
-_092C5_s	锌	ktj
+_092C5	鋅	ktj锌
 _092C6	鋆
-_092C7	鋇
-_092C7_s	钡	ktj
+_092C7	鋇	ktj钡
 _092C8	鋈
 _092CA	鋊
 _092CB	鋋
-_092CC	鋌
-_092CC_s	铤	ktj
+_092CC	鋌	ktj铤
 _092CE	鋎
 _092D0	鋐
 _092D3	鋓
 _092D7	鋗
 _092D8	鋘
-_092D9	鋙
-_092D9_s	铻	ktj
-_092DD	鋝
-_092DD_s	锊	ktj
-_092DF	鋟
-_092DF_s	锓	ktj
+_092D9	鋙	ktj铻
+_092DD	鋝	ktj锊
+_092DF	鋟	ktj锓
 _092E0	鋠
-_092E5	鋥
-_092E5_s	锃	ktj
+_092E5	鋥	ktj锃
 _092E7	鋧
-_092E8	鋨
-_092E8_s	锇	ktj
-_092EE	鋮
-_092EE_s	铖	ktj
-_092EF	鋯
-_092EF_s	锆	ktj
-_092F0	鋰
-_092F0_s	锂	ktj
-_092F1	鋱
-_092F1_s	铽	ktj
+_092E8	鋨	ktj锇
+_092EE	鋮	ktj铖
+_092EF	鋯	ktj锆
+_092F0	鋰	ktj锂
+_092F1	鋱	ktj铽
 _092F7	鋷
 _092F9	鋹
 _092FB	鋻
 _092FF	鋿
-_09301	錁
-_09301_s	锞	ktj
-_09302	錂
-_09302_s	𨱋	ktj
-_09308	錈
-_09308_s	锩	ktj
+_09301	錁	ktj锞
+_09302	錂	ktj𨱋
+_09308	錈	ktj锩
 _0930D	錍
 _0930E	錎
 _09311	錑
-_09312	錒
-_09312_s	锕	ktj
-_09315	錕
-_09315_s	锟	ktj
-_0931B	錛
-_0931B_s	锛	ktj
+_09312	錒	ktj锕
+_09315	錕	ktj锟
+_0931B	錛	ktj锛
 _0931D	錝
 _0931E	錞
-_0931F	錟
-_0931F_s	锬	ktj
-_09321	錡
-_09321_s	锜	ktj
+_0931F	錟	ktj锬
+_09321	錡	ktj锜
 _09325	錥
 _09327	錧
-_09329	錩
-_09329_s	锠	ktj
+_09329	錩	ktj锠
 _0932D	錭
-_09333	錳
-_09333_s	锰	ktj
-_09336	錶
-_09336_s	表	ktj
-_09338	錸
-_09338_s	铼	ktj
+_09333	錳	ktj锰
+_09336	錶	ktj表
+_09338	錸	ktj铼
 _0933C	錼
-_09346	鍆
-_09346_s	钔	ktj
-_09347	鍇
-_09347_s	锴	ktj
-_09348	鍈
-_09348_s	锳	ktj
+_09346	鍆	ktj钔
+_09347	鍇	ktj锴
+_09348	鍈	ktj锳
 _09349	鍉
 _0934C	鍌
 _09350	鍐
 _09351	鍑
 _09357	鍗
-_09358	鍘
-_09358_s	铡	ktj
-_0935A	鍚
-_0935A_s	钖	ktj
-_09364	鍤
-_09364_s	锸	ktj
-_09365	鍥
-_09365_s	锲	ktj
+_09358	鍘	ktj铡
+_0935A	鍚	ktj钖
+_09364	鍤	ktj锸
+_09365	鍥	ktj锲
 _0936A	鍪
 _0936D	鍭
 _09371	鍱
 _09373	鍳
-_09376	鍶
-_09376_s	锶	ktj
-_0937A	鍺
-_0937A_s	锗	ktj
-_09382	鎂
-_09382_s	镁	ktj
+_09376	鍶	ktj锶
+_0937A	鍺	ktj锗
+_09382	鎂	ktj镁
 _09383	鎃
 _09388	鎈
 _09389	鎉
-_0938A	鎊
-_0938A_s	镑	ktj
+_0938A	鎊	ktj镑
 _0938B	鎋
 _0938E	鎎
 _0938F	鎏
 _09392	鎒
-_09398	鎘
-_09398_s	镉	ktj
-_0939B	鎛
-_0939B_s	镈	ktj
-_0939D	鎝
-_0939D_s	𨱏	ktj
+_09398	鎘	ktj镉
+_0939B	鎛	ktj镈
+_0939D	鎝	ktj𨱏
 _0939E	鎞
-_093A1	鎡
-_093A1_s	镃	ktj
-_093A2	鎢
-_093A2_s	钨	ktj
-_093A3	鎣
-_093A3_s	蓥	ktj
-_093A6	鎦
-_093A6_s	镏	ktj
-_093A9	鎩
-_093A9_s	铩	ktj
-_093AA	鎪
-_093AA_s	锼	ktj
-_093AF	鎯
-_093AF_s	𨱍	ktj
-_093B3	鎳
-_093B3_s	镍	ktj
-_093B5	鎵
-_093B5_s	镓	ktj
-_093B7	鎷
-_093B7_s	𨰾	ktj
+_093A1	鎡	ktj镃
+_093A2	鎢	ktj钨
+_093A3	鎣	ktj蓥
+_093A6	鎦	ktj镏
+_093A9	鎩	ktj铩
+_093AA	鎪	ktj锼
+_093AF	鎯	ktj𨱍
+_093B3	鎳	ktj镍
+_093B5	鎵	ktj镓
+_093B7	鎷	ktj𨰾
 _093BA	鎺
 _093C1	鏁
 _093C2	鏂
-_093C6	鏆
-_093C6_s	𨱌	ktj
-_093C7	鏇
-_093C7_s	镟	ktj
+_093C6	鏆	ktj𨱌
+_093C7	鏇	ktj镟
 _093CA	鏊
-_093CC	鏌
-_093CC_s	镆	ktj
-_093CD	鏍
-_093CD_s	镙	ktj
+_093CC	鏌	ktj镆
+_093CD	鏍	ktj镙
 _093CF	鏏
 _093D9	鏙
 _093DA	鏚
-_093DC	鏜
-_093DC_s	镗	ktj
-_093DE	鏞
-_093DE_s	镛	ktj
-_093DF	鏟
-_093DF_s	铲	ktj
-_093E2	鏢
-_093E2_s	镖	ktj
-_093E6	鏦
-_093E6_s	𫓩	ktj
+_093DC	鏜	ktj镗
+_093DE	鏞	ktj镛
+_093DF	鏟	ktj铲
+_093E2	鏢	ktj镖
+_093E6	鏦	ktj𫓩
 _093E7	鏧
 _093EC	鏬
 _093F1	鏱
-_093F5	鏵
-_093F5_s	铧	ktj
-_093F7	鏷
-_093F7_s	镤	ktj
-_093F9	鏹
-_093F9_s	镪	ktj
+_093F5	鏵	ktj铧
+_093F7	鏷	ktj镤
+_093F9	鏹	ktj镪
 _093FB	鏻
-_093FD	鏽
-_093FD_s	锈	ktj
+_093FD	鏽	ktj锈
 _093FE	鏾
 _09400	鐀
-_09404	鐄
-_09404_s	𨱑	ktj
+_09404	鐄	ktj𨱑
 _09409	鐉
-_0940B	鐋
-_0940B_s	铴	ktj
-_0940D	鐍
-_0940D_s	𫔎	ktj
-_0940E	鐎
-_0940E_s	𨱓	ktj
-_0940F	鐏
-_0940F_s	𨱔	ktj
+_0940B	鐋	ktj铴
+_0940D	鐍	ktj𫔎
+_0940E	鐎	ktj𨱓
+_0940F	鐏	ktj𨱔
 _09415	鐕
 _09416	鐖
 _09417	鐗
-_09420	鐠
-_09420_s	镨	ktj
-_09428	鐨
-_09428_s	镄	ktj
-_0942E	鐮
-_0942E_s	镰	ktj
-_09432	鐲
-_09432_s	镯	ktj
-_09433	鐳
-_09433_s	镭	ktj
+_09420	鐠	ktj镨
+_09428	鐨	ktj镄
+_0942E	鐮	ktj镰
+_09432	鐲	ktj镯
+_09433	鐳	ktj镭
 _09434	鐴
 _0943B	鐻
-_0943F	鐿
-_0943F_s	镱	ktj
+_0943F	鐿	ktj镱
 _09445	鑅
-_0944A	鑊
-_0944A_s	镬	ktj
+_0944A	鑊	ktj镬
 _0944B	鑋
-_0944C	鑌
-_0944C_s	镔	ktj
+_0944C	鑌	ktj镔
 _09450	鑐
-_09455	鑕
-_09455_s	锧	ktj
-_09463	鑣
-_09463_s	镳	ktj
+_09455	鑕	ktj锧
+_09463	鑣	ktj镳
 _0946B	鑫
-_0946D	鑭
-_0946D_s	镧	ktj
+_0946D	鑭	ktj镧
 _0946E	鑮
 _0946F	鑯
-_09471	鑱
-_09471_s	镵	ktj
+_09471	鑱	ktj镵
 _09474	鑴
 _09480	钀
 _09482	钂

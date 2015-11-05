@@ -15,8 +15,7 @@ _09B5E	魞
 _09B60	魠
 _09B61	魡
 _09B63	魣
-_09B65	魥
-_09B65_s	𩽹	ktj
+_09B65	魥	ktj𩽹
 _09B66	魦
 _09B67	魧
 _09B6B	魫
@@ -26,76 +25,59 @@ _09B72	魲
 _09B73	魳
 _09B75	魵
 _09B76	魶
-_09B77	魷
-_09B77_s	鱿	ktj
+_09B77	魷	ktj鱿
 _09B79	魹
 _09B7B	魻
 _09B7C	魼
 _09B7E	魾
 _09B80	鮀
 _09B82	鮂
-_09B84	鮄
-_09B84_s	𫚒	ktj
+_09B84	鮄	ktj𫚒
 _09B85	鮅
 _09B86	鮆
 _09B87	鮇
-_09B8A	鮊
-_09B8A_s	鲌	ktj
+_09B8A	鮊	ktj鲌
 _09B8F	鮏
-_09B90	鮐
-_09B90_s	鲐	ktj
-_09B9A	鮚
-_09B9A_s	鲒	ktj
+_09B90	鮐	ktj鲐
+_09B9A	鮚	ktj鲒
 _09B9B	鮛
-_09B9E	鮞
-_09B9E_s	鲕	ktj
+_09B9E	鮞	ktj鲕
 _09BA1	鮡
 _09BA4	鮤
 _09BA5	鮥
-_09BA6	鮦
-_09BA6_s	鲖	ktj
+_09BA6	鮦	ktj鲖
 _09BA7	鮧
 _09BAC	鮬
 _09BB1	鮱
 _09BB2	鮲
 _09BB5	鮵
-_09BB8	鮸
-_09BB8_s	𩾃	ktj
+_09BB8	鮸	ktj𩾃
 _09BBE	鮾
 _09BBF	鮿
-_09BC1	鯁
-_09BC1_s	鲠	ktj
+_09BC1	鯁	ktj鲠
 _09BC3	鯃
-_09BC7	鯇
-_09BC7_s	鲩	ktj
+_09BC7	鯇	ktj鲩
 _09BC8	鯈
 _09BCE	鯎
 _09BD3	鯓
-_09BD7	鯗
-_09BD7_s	鲞	ktj
+_09BD7	鯗	ktj鲞
 _09BD8	鯘
-_09BDD	鯝
-_09BDD_s	鲴	ktj
+_09BDD	鯝	ktj鲴
 _09BDE	鯞
 _09BE0	鯠
 _09BE5	鯥
 _09BE6	鯦
-_09BE7	鯧
-_09BE7_s	鲳	ktj
-_09BEA	鯪
-_09BEA_s	鲮	ktj
-_09BEB	鯫
-_09BEB_s	鲰	ktj
+_09BE7	鯧	ktj鲳
+_09BEA	鯪	ktj鲮
+_09BEB	鯫	ktj鲰
 _09BEC	鯬
 _09BEE	鯮
 _09BEF	鯯
 _09BF3	鯳
-_09BF7	鯷
-_09BF7_s	鳀	ktj
+_09BF7	鯷	ktj鳀
 _09BF8	鯸
 _09BFA	鯺
-_09BFD	鯽
-_09BFD_s	鲫	ktj
+_09BFD	鯽	ktj鲫
 _09C00	鰀
 _09C05	鰅
 _09C0B	鰋
@@ -103,97 +85,72 @@ _09C16	鰖
 _09C18	鰘
 _09C19	鰙
 _09C1A	鰚
-_09C1C	鰜
-_09C1C_s	鳒	ktj
+_09C1C	鰜	ktj鳒
 _09C1D	鰝
 _09C22	鰢
-_09C23	鰣
-_09C23_s	鲥	ktj
-_09C27	鰧
-_09C27_s	䲢	ktj
-_09C28	鰨
-_09C28_s	鳎	ktj
-_09C29	鰩
-_09C29_s	鳐	ktj
+_09C23	鰣	ktj鲥
+_09C27	鰧	ktj䲢
+_09C28	鰨	ktj鳎
+_09C29	鰩	ktj鳐
 _09C2A	鰪
 _09C2B	鰫
 _09C2C	鰬
-_09C31	鰱
-_09C31_s	鲢	ktj
-_09C33	鰳
-_09C33_s	鳓	ktj
+_09C31	鰱	ktj鲢
+_09C33	鰳	ktj鳓
 _09C34	鰴
 _09C36	鰶
-_09C37	鰷
-_09C37_s	鲦	ktj
-_09C3C	鰼
-_09C3C_s	鳛	ktj
+_09C37	鰷	ktj鲦
+_09C3C	鰼	ktj鳛
 _09C3F	鰿
 _09C40	鱀
 _09C41	鱁
 _09C44	鱄
-_09C45	鱅
-_09C45_s	鳙	ktj
-_09C49	鱉
-_09C49_s	鳖	ktj
+_09C45	鱅	ktj鳙
+_09C49	鱉	ktj鳖
 _09C4A	鱊
 _09C4B	鱋
 _09C4D	鱍
 _09C4F	鱏
 _09C50	鱐
 _09C53	鱓
-_09C54	鱔
-_09C54_s	鳝	ktj
+_09C54	鱔	ktj鳝
 _09C55	鱕
-_09C56	鱖
-_09C56_s	鳜	ktj
-_09C58	鱘
-_09C58_s	鲟	ktj
+_09C56	鱖	ktj鳜
+_09C58	鱘	ktj鲟
 _09C5B	鱛
 _09C5C	鱜
-_09C5D	鱝
-_09C5D_s	鲼	ktj
+_09C5D	鱝	ktj鲼
 _09C5E	鱞
-_09C5F	鱟
-_09C5F_s	鲎	ktj
+_09C5F	鱟	ktj鲎
 _09C62	鱢
-_09C63	鱣
-_09C63_s	鳣	ktj
+_09C63	鱣	ktj鳣
 _09C65	鱥
 _09C66	鱦
-_09C68	鱨
-_09C68_s	鲿	ktj
+_09C68	鱨	ktj鲿
 _09C69	鱩
 _09C6A	鱪
 _09C6B	鱫
-_09C6D	鱭
-_09C6D_s	鲚	ktj
-_09C6E	鱮
-_09C6E_s	𫚈	ktj
+_09C6D	鱭	ktj鲚
+_09C6E	鱮	ktj𫚈
 _09C70	鱰
 _09C72	鱲
 _09C73	鱳
 _09C74	鱴
 _09C75	鱵
-_09C77	鱷
-_09C77_s	鳄	ktj
+_09C77	鱷	ktj鳄
 _09C79	鱹
-_09C7A	鱺
-_09C7A_s	鲡	ktj
+_09C7A	鱺	ktj鲡
 _09CE6	鳦
 _09CEA	鳪
 _09CED	鳭
 _09CF1	鳱
-_09CF2	鳲
-_09CF2_s	鸤	ktj
+_09CF2	鳲	ktj鸤
 _09CF5	鳵
-_09CF7	鳷
-_09CF7_s	𫛛	ktj
+_09CF7	鳷	ktj𫛛
 _09CF9	鳹
 _09CFA	鳺
 _09CFB	鳻
-_09CFC	鳼
-_09CFC_s	𪉃	ktj
+_09CFC	鳼	ktj𪉃
 _09CFD	鳽
 _09CFF	鳿
 _09D00	鴀
@@ -203,46 +160,35 @@ _09D0B	鴋
 _09D10	鴐
 _09D11	鴑
 _09D14	鴔
-_09D17	鴗
-_09D17_s	𫁡	ktj
+_09D17	鴗	ktj𫁡
 _09D18	鴘
-_09D1D	鴝
-_09D1D_s	鸲	ktj
-_09D1E	鴞
-_09D1E_s	鸮	ktj
+_09D1D	鴝	ktj鸲
+_09D1E	鴞	ktj鸮
 _09D20	鴠
 _09D22	鴢
 _09D25	鴥
 _09D29	鴩
 _09D2E	鴮
-_09D2F	鴯
-_09D2F_s	鸸	ktj
-_09D30	鴰
-_09D30_s	鸹	ktj
+_09D2F	鴯	ktj鸸
+_09D30	鴰	ktj鸹
 _09D31	鴱
-_09D32	鴲
-_09D32_s	𪉆	ktj
+_09D32	鴲	ktj𪉆
 _09D33	鴳
 _09D36	鴶
-_09D37	鴷
-_09D37_s	䴕	ktj
+_09D37	鴷	ktj䴕
 _09D38	鴸
 _09D3D	鴽
 _09D40	鵀
-_09D42	鵂
-_09D42_s	鸺	ktj
-_09D43	鵃
-_09D43_s	鸼	ktj
+_09D42	鵂	ktj鸺
+_09D43	鵃	ktj鸼
 _09D45	鵅
 _09D47	鵇
 _09D4A	鵊
 _09D4B	鵋
 _09D4C	鵌
 _09D4F	鵏
-_09D52	鵒
-_09D52_s	鹆	ktj
-_09D53	鵓
-_09D53_s	鹁	ktj
+_09D52	鵒	ktj鹆
+_09D53	鵓	ktj鹁
 _09D54	鵔
 _09D56	鵖
 _09D57	鵗
@@ -259,8 +205,7 @@ _09D73	鵳
 _09D74	鵴
 _09D75	鵵
 _09D76	鵶
-_09D77	鵷
-_09D77_s	鹓	ktj
+_09D77	鵷	ktj鹓
 _09D78	鵸
 _09D79	鵹
 _09D7B	鵻
@@ -268,26 +213,20 @@ _09D7D	鵽
 _09D80	鶀
 _09D81	鶁
 _09D82	鶂
-_09D84	鶄
-_09D84_s	䴖	ktj
+_09D84	鶄	ktj䴖
 _09D85	鶅
 _09D86	鶆
 _09D88	鶈
-_09D8A	鶊
-_09D8A_s	鹒	ktj
+_09D8A	鶊	ktj鹒
 _09D8B	鶋
 _09D8C	鶌
 _09D8D	鶍
 _09D90	鶐
-_09D92	鶒
-_09D92_s	𫛶	ktj
+_09D92	鶒	ktj𫛶
 _09D94	鶔
-_09D96	鶖
-_09D96_s	鹙	ktj
-_09D97	鶗
-_09D97_s	𫛸	ktj
-_09D98	鶘
-_09D98_s	鹕	ktj
+_09D96	鶖	ktj鹙
+_09D97	鶗	ktj𫛸
+_09D98	鶘	ktj鹕
 _09D99	鶙
 _09D9B	鶛
 _09D9C	鶜
@@ -295,48 +234,38 @@ _09D9D	鶝
 _09D9E	鶞
 _09D9F	鶟
 _09DA0	鶠
-_09DA1	鶡
-_09DA1_s	鹖	ktj
+_09DA1	鶡	ktj鹖
 _09DA2	鶢
 _09DA3	鶣
 _09DA8	鶨
-_09DAA	鶪
-_09DAA_s	䴗	ktj
-_09DAC	鶬
-_09DAC_s	鸧	ktj
+_09DAA	鶪	ktj䴗
+_09DAC	鶬	ktj鸧
 _09DAD	鶭
 _09DB1	鶱
 _09DB5	鶵
 _09DB6	鶶
 _09DB7	鶷
-_09DB9	鶹
-_09DB9_s	鹠	ktj
-_09DBC	鶼
-_09DBC_s	鹣	ktj
+_09DB9	鶹	ktj鹠
+_09DBC	鶼	ktj鹣
 _09DBD	鶽
 _09DBE	鶾
-_09DBF	鶿
-_09DBF_s	鹚	ktj
+_09DBF	鶿	ktj鹚
 _09DC0	鷀
 _09DC3	鷃
 _09DC5	鷅
 _09DC7	鷇
-_09DC8	鷈
-_09DC8_s	䴘	ktj
+_09DC8	鷈	ktj䴘
 _09DC9	鷉
-_09DCA	鷊
-_09DCA_s	鹝	ktj
+_09DCA	鷊	ktj鹝
 _09DCB	鷋
 _09DCE	鷎
 _09DD0	鷐
 _09DD1	鷑
 _09DD2	鷒
 _09DD5	鷕
-_09DD6	鷖
-_09DD6_s	鹥	ktj
+_09DD6	鷖	ktj鹥
 _09DD8	鷘
-_09DDA	鷚
-_09DDA_s	鹨	ktj
+_09DDA	鷚	ktj鹨
 _09DDB	鷛
 _09DDC	鷜
 _09DDE	鷞
@@ -346,12 +275,10 @@ _09DE1	鷡
 _09DE2	鷢
 _09DE3	鷣
 _09DE4	鷤
-_09DE5	鷥
-_09DE5_s	鸶	ktj
+_09DE5	鷥	ktj鸶
 _09DE7	鷧
 _09DE9	鷩
-_09DEB	鷫
-_09DEB_s	鹔	ktj
+_09DEB	鷫	ktj鹔
 _09DEE	鷮
 _09DF0	鷰
 _09DF4	鷴
@@ -360,39 +287,31 @@ _09DF6	鷶
 _09DF7	鷷
 _09DFB	鷻
 _09DFE	鷾
-_09DFF	鷿
-_09DFF_s	䴙	ktj
+_09DFF	鷿	ktj䴙
 _09E00	鸀
 _09E01	鸁
-_09E02	鸂
-_09E02_s	㶉	ktj
+_09E02	鸂	ktj㶉
 _09E03	鸃
 _09E04	鸄
 _09E05	鸅
 _09E06	鸆
-_09E07	鸇
-_09E07_s	鹯	ktj
+_09E07	鸇	ktj鹯
 _09E09	鸉
 _09E0A	鸊
-_09E0B	鸋
-_09E0B_s	𫛢	ktj
+_09E0B	鸋	ktj𫛢
 _09E0D	鸍
-_09E0F	鸏
-_09E0F_s	鹲	ktj
+_09E0F	鸏	ktj鹲
 _09E10	鸐
 _09E11	鸑
 _09E12	鸒
 _09E13	鸓
 _09E14	鸔
-_09E15	鸕
-_09E15_s	鸬	ktj
+_09E15	鸕	ktj鸬
 _09E17	鸗
 _09E19	鸙
 _09E1C	鸜
-_09E1D	鸝
-_09E1D_s	鹂	ktj
-_09E7A	鹺
-_09E7A_s	鹾	ktj
+_09E1D	鸝	ktj鹂
+_09E7A	鹺	ktj鹾
 _09E7B	鹻
 _0FA0F	﨏
 _0FA10	塚

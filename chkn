@@ -337,7 +337,6 @@ sub read_codes {
     my %unassigned_by_priority;
     my %total_by_priority;
     my $total_assigned;
-    my $prev_value;
 
     for my $codes_file (@codes_files) {
         open my $codes, $codes_file
@@ -348,14 +347,9 @@ sub read_codes {
             chomp $line;
 
             my ($key, $value, @notes) = split m/\t/, $line;
-            my $is_kantaiji = grep { $_ eq 'ktj' } @notes;
             if (!defined $value) {
                 print STDERR "Could not process code: $line\n";
                 die;
-            }
-            if ($is_kantaiji) {
-                next if $lang ne 'cht';
-                write_priority($value, $kanji_to_priority{$prev_value} - 1);
             }
 
             my $priority = $kanji_to_priority{$value};
@@ -393,7 +387,16 @@ sub read_codes {
 
             die "Duplicate code: $key" if defined $codes{$key};
             $codes{$key} = $value;
-            $prev_value = $value;
+
+            my ($kantaiji) = grep { $_ =~ m/^ktj/ } @notes;
+            if (defined($kantaiji) && $lang eq 'cht' && length($key) <= 3) {
+                $kantaiji =~ s/^ktj//;
+                write_priority($kantaiji, $priority - 1);
+                my $kantaiji_key = $key;
+                $kantaiji_key =~ tr/a-zA-Z/A-Za-z/;
+                die "$codes_file" if $kantaiji_key eq $key;
+                $codes{$kantaiji_key} = $kantaiji;
+            }
 
             # hbかhyの注がある場合は%suggestionsのマップを拡張する
 

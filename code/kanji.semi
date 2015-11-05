@@ -1,177 +1,131 @@
-;,f	門
-;,F	门	ktj
+;,f	門	ktj门
 ;,w	閖
-;,a	陽
-;,A	阳	ktj
+;,a	陽	ktj阳
 ;,s	雄
 ;,c	雍
-;,m	霧
-;,M	雾	ktj
+;,m	霧	ktj雾
 ;,d	面
-;,v	靨
-;,V	靥	ktj
+;,v	靨	ktj靥
 ;,e	靺
-;.r	閭	yリョ	hyロ
-;.R	闾	ktj
-;.w	闌
-;.W	阑	ktj
+;.r	閭	yリョ	hyロ	ktj闾
+;.w	闌	ktj阑
 ;.s	陵
-;.f	陸
-;.F	陆	ktj
+;.f	陸	ktj陆
 ;.d	隆	i隆隆
 ;.d	隆	i隆隆
-;.m	離
-;.M	离	ktj
+;.m	離	ktj离
 ;.a	雷
 ;.e	霖
 ;.v	霤
-;.q	鄰	i隣鄰	b阜	hb邑
-;.Q	邻	ktj
+;.q	鄰	i隣鄰	b阜	hb邑	ktj邻
 ;.q	隣	i隣鄰
 ;/m	陋
 ;/l	隈
-;/j	隴
-;/J	陇	ktj
+;/j	隴	ktj陇
 ;/d	隷
-;/d	隸
-;/D	隶	ktj
+;/d	隸	ktj隶
 ;/a	零
 ;/s	霊	i䨩霊靈灵㚑
-;/s	靈	i䨩霊靈灵㚑
-;/S	灵	ktj
+;/s	靈	i䨩霊靈灵㚑	ktj灵
 ;/q	䨩	神の部首は礻《ｑ》	i䨩霊靈灵㚑
 ;/w	㚑	i䨩霊靈灵㚑	b雨	hb彑	hb大
 ;/f	露
-;/k	靂
-;/K	雳	ktj
+;/k	靂	ktj雳
 ;;f	防
 ;;d	靤
 ;;c	鞄	yホウ	hyビョウ	hyハク	包の部首は勹《ｃ》
-;bc	閼
-;BC	阏	ktj
-;b.	閾	yイキ	hyヨク	hyキョク	hyコク
-;B.	阈	ktj
+;bc	閼	ktj阏
+;b.	閾	yイキ	hyヨク	hyキョク	hyコク	ktj阈
 ;bz	闇	yアン
 ;bd	阨	yアイ	hyヤク	厄の部首は厂《ｄ》
 ;bK	阴
 ;bi	阿	yア
 ;bk	院
-;bj	陰
-;BJ	阴	ktj
+;bj	陰	ktj阴
 ;bJ	隂
-;b,	隕
-;B,	陨	ktj
+;b,	隕	ktj陨
 ;bm	隘
 ;ba	隠
-;ba	隱
-;BA	隐	ktj
+;ba	隱	ktj隐
 ;bl	雨
-;b;	雲
-;B;	云	ktj
+;b;	雲	ktj云
 ;bp	霙
 ;b/	霪
-;by	靄
-;BY	霭	ktj
+;by	靄	ktj霭
 ;bh	靉
 ;bx	鞋
 ;bn	鞍
-;bo	韋
-;BO	韦	ktj
+;bo	韋	ktj韦
 ;bU	韵	yイン
-;bu	韻	yイン
-;BU	韵	ktj
+;bu	韻	yイン	ktj韵
 ;bs	𨼲	yイン	𦹥蔭䕃𨼲
 ;c;	閲	i閲閱
-;c;	閱	i閲閱
-;C;	阅	ktj
-;cz	閹
-;CZ	阉	ktj
-;cx	閻
-;CX	阎	ktj
+;c;	閱	i閲閱	ktj阅
+;cz	閹	ktj阉
+;cx	閻	ktj阎
 ;ck	雅
 ;cm	霞
 ;cl	靴
 ;cv	鞅
 ;cj	音
-;dl	開
-;DL	开	ktj
-;d;	閣
-;D;	阁	ktj
-;dm	闊
-;DM	阔	ktj
-;df	階
-;DF	阶	ktj
+;dl	開	ktj开
+;d;	閣	ktj阁
+;dm	闊	ktj阔
+;df	階	ktj阶
 ;dj	隔
 ;di	隗
 ;da	霍
 ;dk	革
 ;ds	鞨
-;fa	閑
-;FA	闲	ktj
-;fl	間
-;FL	间	ktj
+;fa	閑	ktj闲
+;fl	間	ktj间
 ;fk	関
-;fk	關
-;FK	关	ktj
+;fk	關	ktj关
 ;fj	陥
 ;fj	陷
 ;fd	雁	雁鳫
 ;fu	雚	yカン	隹と口の上に艹《ｕ》がある
-;f;	韓
-;F;	韩	ktj
+;f;	韓	ktj韩
 ;gk	鞠
 ;gl	鞫
 ;g;	韭	i韮韭
 ;g;	韮	i韮韭	b韭	hb艹	yキュウ	hyク
 ;hs	陜	yキョウ	hyコウ
 ;hd	隅
-;ha	鞏
-;HA	巩	ktj
-;hf	響
-;HF	响	ktj
+;ha	鞏	ktj巩
+;hf	響	ktj响
 ;hF	響
-;jw	閨
-;JW	闺	ktj
-;je	闃
-;JE	阒	ktj
-;jr	闕
-;JR	阙	ktj
+;jw	閨	ktj闺
+;je	闃	ktj阒
+;jr	闕	ktj阙
 ;jq	阮
 ;js	限
 ;ja	険
-;ja	險
-;JA	险	ktj
+;ja	險	ktj险
 ;jd	隙
 ;j;	霓
 ;jl	靹
-;kj	閘
-;KJ	闸	ktj
+;kj	閘	ktj闸
 ;ka	閤
 ;ks	閧
-;k;	闔
-;K;	阖	ktj
+;k;	闔	ktj阖
 ;kf	降
 ;kl	隍
 ;kd	雇	b隹	hb戸
 ;kr	靠
-;la	閂
-;LA	闩	ktj
-;lf	際
-;LF	际	ktj
+;la	閂	ktj闩
+;lf	際	ktj际
 ;ld	雑
-;ld	雜
-;LD	杂	ktj
+;ld	雜	ktj杂
 ;le	靫	yサイ	hyセ	hyシャ
 ;lk	鞐
 ;md	阯
 ;m;	隰
 ;mf	雌
-;n;	閏	yジュン	hyニン	i閏閠
-;N;	闰	ktj
+;n;	閏	yジュン	hyニン	i閏閠	ktj闰
 ;n;	閠	yジュン	hyニン	i閏閠
 ;ns	隼
-;nr	雋	yシュン	hyセン	i雋隽
-;NR	隽	ktj
+;nr	雋	yシュン	hyセン	i雋隽	ktj隽
 ;nr	隽	yシュン	hyセン	i雋隽
 ;na	雀
 ;nf	集
@@ -186,42 +140,31 @@
 ;pw	霎	yショウ	hyソウ
 ;pj	鞘	yショウ	hyソウ
 ;pa	韶
-;qk	陣
-;QK	阵	ktj
+;qk	陣	ktj阵
 ;qo	陬
 ;qr	陲
 ;qu	隋	yズイ
 ;qj	随
-;qj	隨
-;QJ	随	ktj
+;qj	隨	ktj随
 ;qf	隧
 ;qg	隹	スイ
-;qv	雖	左下に虫《ｖ》がある
-;QV	虽	ktj
-;qy	雛
-;QY	雏	ktj
+;qv	雖	左下に虫《ｖ》がある	ktj虽
+;qy	雛	ktj雏
 ;qe	震
-;qn	霽
-;QN	霁	ktj
+;qn	霽	ktj霁
 ;ql	青
 ;qd	靖
 ;qw	静
-;qw	靜
-;QW	静	ktj
+;qw	靜	ktj静
 ;q,	靱	i靭韌靱
 ;qi	靭	i靭韌靱
-;qi	韌	i靭韌靱
-;QI	韧	ktj
-;re	閃
-;RE	闪	ktj
-;rq	闡
-;RQ	阐	ktj
+;qi	韌	i靭韌靱	ktj韧
+;re	閃	ktj闪
+;rq	闡	ktj阐
 ;r;	阡
 ;rl	阻
-;rw	陝
-;RW	陕	ktj
-;rk	隻
-;RK	只	ktj
+;rw	陝	ktj陕
+;rk	隻	ktj只
 ;rj	雪
 ;rm	霰	yセン	hyサン
 ;ri	韆
@@ -229,68 +172,50 @@
 ;sj	陏	yタ
 ;sk	雫
 ;sl	霜
-;tm	闥
-;TM	闼	ktj
-;tl	隊
-;TL	队	ktj
+;tm	闥	ktj闼
+;tl	隊	ktj队
 ;tj	隶
 ;tq	雉	yチ	hyジ	左部に禾《ｑ》がある
 ;ta	靆
 ;tk	靼
-;tu	韃
-;TU	鞑	ktj
-;vl	長
-;VL	长	ktj
+;tu	韃	ktj鞑
+;vl	長	ktj长
 ;vL	镸
 ;vj	閊
-;vm	闖
-;VM	闯	ktj
+;vm	闖	ktj闯
 ;v;	陟
-;vk	陳
-;VK	陈	ktj
+;vk	陳	ktj陈
 ;vx	雕
 ;vc	霆
 ;w.	閙	i鬧閙	yドウ
-;w.	鬧	i鬧閙	yドウ	b門	hb鬥
-;W.	闹	ktj
-;wo	闍
-;WO	阇	ktj
+;w.	鬧	i鬧閙	yドウ	b門	hb鬥	ktj闹
+;wo	闍	ktj阇
 ;wj	闘	i鬥闘鬪鬭	b門
-;wj	鬥	b門	hb鬥	i鬥闘鬪鬭
-;WJ	斗	ktj
+;wj	鬥	b門	hb鬥	i鬥闘鬪鬭	ktj斗
 ;wm	鬪	b門	hb鬥	i鬥闘鬪鬭
 ;wm	鬭	b門	hb鬥	i鬥闘鬪鬭
 ;we	陦	i陦隯
 ;we	隯	i陦隯
 ;wl	陶
-;wk	電
-;WK	电	ktj
+;wk	電	ktj电
 ;w;	霑
-;wq	靦
-;WQ	腼	ktj
+;wq	靦	ktj腼
 ;wi	鞜
 ;wu	鞳
-;wh	韜
-;WH	韬	ktj
-;wr	闐	yテン
-;WR	阗	ktj
-;xk	閥
-;XK	阀	ktj
+;wh	韜	ktj韬
+;wr	闐	yテン	ktj阗
+;xk	閥	ktj阀
 ;xp	陌	百の部首は白《ｐ》
 ;xl	陪
-;xj	難
-;XJ	难	ktj
+;xj	難	ktj难
 ;xc	雹
 ;xm	霈
 ;xi	霾
 ;xz	鞆
 ;xJ	難
-;yi	閔
-;YI	闵	ktj
-;yv	閩	門が虫《ｖ》を囲んでいる	yビン	hyミン
-;YV	闽	ktj
-;yd	阪
-;YD	坂	ktj
+;yi	閔	ktj闵
+;yv	閩	門が虫《ｖ》を囲んでいる	yビン	hyミン	ktj闽
+;yd	阪	ktj坂
 ;yw	陂	yヒ	hyハ
 ;ys	霏
 ;yf	非
@@ -298,8 +223,7 @@
 ;ya	鞁
 ;ye	鞴	yビ	hyフク	hyハイ
 ;zl	閇
-;zj	閉
-;ZJ	闭	ktj
+;zj	閉	ktj闭
 ;zd	闢
 ;zx	阜
 ;zc	附
@@ -316,60 +240,41 @@ _0957A	镺
 _0957B	镻
 _0957C	镼
 _0957D	镽
-_09586	閆
-_09586_s	闫	ktj
-_09588	閈
-_09588_s	闬	ktj
-_0958C	閌
-_0958C_s	闶	ktj
-_0958D	閍
-_0958D_s	𨸂	ktj
-_0958E	閎
-_0958E_s	闳	ktj
+_09586	閆	ktj闫
+_09588	閈	ktj闬
+_0958C	閌	ktj闶
+_0958D	閍	ktj𨸂
+_0958E	閎	ktj闳
 _09592	閒
 _0959C	閜
 _0959E	閞
 _0959F	閟
-_095A1	閡
-_095A1_s	阂	ktj
+_095A1	閡	ktj阂
 _095A6	閦
-_095AB	閫
-_095AB_s	阃	ktj
-_095AC	閬
-_095AC_s	阆	ktj
+_095AB	閫	ktj阃
+_095AC	閬	ktj阆
 _095B4	閴
 _095B5	閵
-_095B6	閶
-_095B6_s	阊	ktj
+_095B6	閶	ktj阊
 _095B7	閷
 _095BA	閺
-_095BD	閽
-_095BD_s	阍	ktj
-_095BF	閿
-_095BF_s	阌	ktj
+_095BD	閽	ktj阍
+_095BF	閿	ktj阌
 _095C0	闀
 _095C5	闅
-_095C6	闆
-_095C6_s	板	ktj
-_095C8	闈
-_095C8_s	闱	ktj
+_095C6	闆	ktj板
+_095C8	闈	ktj闱
 _095C9	闉
-_095CB	闋
-_095CB_s	阕	ktj
+_095CB	闋	ktj阕
 _095D1	闑
-_095D2	闒
-_095D2_s	阘	ktj
-_095D3	闓
-_095D3_s	闿	ktj
+_095D2	闒	ktj阘
+_095D3	闓	ktj闿
 _095DA	闚
 _095DB	闛
-_095DE	闞
-_095DE_s	阚	ktj
+_095DE	闞	ktj阚
 _095DF	闟
-_095E0	闠
-_095E0_s	阓	ktj
-_095E4	闤
-_095E4_s	阛	ktj
+_095E0	闠	ktj阓
+_095E4	闤	ktj阛
 _0961E	阞
 _09620	阠
 _09622	阢
@@ -387,8 +292,7 @@ _0964A	陊
 _09651	陑
 _09653	陓
 _09654	陔
-_09658	陘
-_09658_s	陉	ktj
+_09658	陘	ktj陉
 _09661	陡
 _0966B	陫
 _0966D	陭
@@ -398,8 +302,7 @@ _0967E	陾
 _09683	隃
 _09684	隄
 _09687	隇
-_09689	隉
-_09689_s	陧	ktj
+_09689	隉	ktj陧
 _09691	隑
 _09692	隒
 _09693	隓
@@ -437,8 +340,7 @@ _09710	霐
 _09712	霒
 _09714	霔
 _09720	霠
-_09722	霢
-_09722_s	霡	ktj
+_09722	霢	ktj霡
 _09723	霣
 _09729	霩
 _0972B	霫
@@ -457,8 +359,7 @@ _0974E	靎
 _0974F	靏
 _09755	靕
 _09757	靗
-_0975A	靚
-_0975A_s	靓	ktj
+_0975A	靚	ktj靓
 _0975B	靛
 _0976A	靪
 _0976C	靬
@@ -472,8 +373,7 @@ _09778	靸
 _0977B	靻
 _0977D	靽
 _0977E	靾
-_09780	鞀
-_09780_s	鼗	ktj
+_09780	鞀	ktj鼗
 _09782	鞂
 _09783	鞃
 _09788	鞈
@@ -501,15 +401,12 @@ _097BA	鞺
 _097BB	鞻
 _097BE	鞾
 _097BF	鞿
-_097C1	韁
-_097C1_s	缰	ktj
+_097C1	韁	ktj缰
 _097C4	韄
 _097C5	韅
 _097C7	韇
-_097C9	韉
-_097C9_s	鞯	ktj
-_097CD	韍
-_097CD_s	韨	ktj
+_097C9	韉	ktj鞯
+_097CD	韍	ktj韨
 _097CE	韎
 _097CF	韏
 _097D0	韐
@@ -518,12 +415,10 @@ _097D4	韔
 _097D5	韕
 _097D7	韗
 _097D8	韘
-_097D9	韙
-_097D9_s	韪	ktj
+_097D9	韙	ktj韪
 _097DB	韛
 _097DD	韝
-_097DE	韞
-_097DE_s	韫	ktj
+_097DE	韞	ktj韫
 _097DF	韟
 _097E1	韡
 _097E3	韣

@@ -4,11 +4,9 @@ j,f	明	b日	i明朙
 j,f	朙	b月	i明朙
 j,c	昜
 j,s	昧
-j,.	暘
-J,.	旸	ktj
+j,.	暘	ktj旸
 j,r	暝
-j,/	曄	右部の華の部首は艸（ｕ）
-J,/	晔	ktj
+j,/	曄	右部の華の部首は艸（ｕ）	ktj晔
 j,w	曚	yモウ	hyボウ
 j,d	曜
 j,q	曼	yマン	hyバン
@@ -18,16 +16,13 @@ j.d	料
 j.f	旅
 j.s	旒
 j.a	暸
-j/a	斂
-J/A	敛	ktj
+j/a	斂	ktj敛
 j/d	暦	i暦曆
-j/d	曆	i暦曆
-J/D	历	ktj
+j/d	曆	i暦曆	ktj历
 j/s	朖
 j/f	朗	i朗朗
 j/f	朗	i朗朗
-j/l	朧
-J/L	胧	ktj
+j/l	朧	ktj胧
 j;f	冐	冒冐	漢字源による部首：月《ｊ》
 j;m	攴
 j;M	攵
@@ -44,16 +39,13 @@ jbo	斡	yアツ
 jbl	映	i映暎
 jbl	暎	i映暎
 jbz	晏
-jbp	暈
-JBP	晕	ktj
+jbp	暈	ktj晕
 jbk	暗
-jbj	曖
-JBJ	暧	ktj
+jbj	曖	ktj暧
 jb;	曳
 jb:	曵
 jbi	昀	yイン
-jcj	於
-JCJ	于	ktj
+jcj	於	ktj于
 jck	旺
 jcv	易	yエキ
 jcl	暇
@@ -68,12 +60,10 @@ jgi	旗
 jgu	旡
 jgk	既
 jgj	旧	i旧舊𦾔
-jgj	舊	i旧舊𦾔	b日	hb臼	hb艹	hb隹
-JGJ	旧	ktj
+jgj	舊	i旧舊𦾔	b日	hb臼	hb艹	hb隹	ktj旧
 jgm	𦾔	i旧舊𦾔	b日	hb艹	hb隹
 jgp	晞
-jgq	暉
-JGQ	晖	ktj
+jgq	暉	ktj晖
 jga	曁
 jgs	曦
 jgw	朞
@@ -84,8 +74,7 @@ jha	斤
 jhr	旭
 jhe	昫
 jhs	暁
-jhs	曉
-JHS	晓	ktj
+jhs	曉	ktj晓
 jhd	曲
 jjd	敬
 jjs	景
@@ -103,19 +92,16 @@ jkp	晃
 jks	晄
 jkw	晤
 jkr	晧
-jkv	曠
-JKV	旷	ktj
+jkv	曠	ktj旷
 jkf	更
 jlj	散
 jle	斛
-jls	斬
-JLS	斩	ktj
+jls	斬	ktj斩
 jlf	昆
 jl;	昏
 jld	昨
 jlr	晒
-jlk	暫
-JLK	暂	ktj
+jlk	暫	ktj暂
 jla	最	i最冣㝡	漢字源による部首：曰《ｊ》	b曰
 jla	㝡	i最冣㝡	b曰	hb宀
 jlz	冣	i最冣㝡	b曰	hb冖	yサイ	hyシュ
@@ -125,8 +111,7 @@ jme	斯
 jma	施
 jmd	旨
 jmw	昵
-jmf	時
-JMF	时	ktj
+jmf	時	ktj时
 jns	斜
 jnk	斫
 jnf	旬
@@ -141,23 +126,20 @@ jpd	晶	i晶𣇵
 jpd	𣇵	i晶𣇵
 jps	暑
 jpw	曙
-jpf	書
-JPF	书	ktj
+jpf	書	ktj书
 jpS	暑
 jpv	晌	yショウ
 jqt	㬜	jqg->晋 jqG->晉 jqt->㬜 上部の[至］と云う部首は（ｔ）に当たる [㬜]は異体字なのでシフトでも可
 jql	政
 jqw	数
-jqw	數
-JQW	数	ktj
+jqw	數	ktj数
 jq;	整
 jqf	斟
 jqk	新
 jqp	旌
 jqe	星
 jqi	是
-jqg	晉
-JQG	晋	ktj
+jqg	晉	ktj晋
 jqg	晋
 jq/	晟
 jqo	晨
@@ -177,35 +159,29 @@ jsd	曹
 js;	曽	yソウ	hyソ
 js;	曾	yソウ	hyソ
 jt;	断
-jt;	斷
-JT;	断	ktj
+jt;	斷	ktj断
 jto	旦
 jtk	昼
-jti	晝
-JTI	昼	ktj
+jti	晝	ktj昼
 jtp	智
 jtl	暖
 jtj	替
-jv;	敵
-JV;	敌	ktj
+jv;	敵	ktj敌
 jvc	昶
 jvx	晁
-jvz	暢
-JVZ	畅	ktj
+jvz	暢	ktj畅
 jvj	朕
 jvl	朝
 jv.	𣇄	鼎𣇄
 jwj	斗
 jwv	曩	yドウ	hyノウ	襄の部首は衣《ｖ》
-jxc	敗
-JXC	败	ktj
+jxc	敗	ktj败
 jxt	朒	yニク	hyジク	hyヂク
 jxl	敦
 jxk	旆
 jxj	日
 jx;	暾
-jxv	曇
-JXV	昙	ktj
+jxv	曇	ktj昙
 jxz	曝
 jyf	敏
 jyw	斌
@@ -221,8 +197,7 @@ jyr	朏
 jyF	敏
 jz;	敝
 jzk	敷
-jzf	斃
-JZF	毙	ktj
+jzf	斃	ktj毙
 jzx	文
 jzn	斧	i斧𨨞	右上に父《ｎ》がある
 jzl	无
@@ -259,12 +234,10 @@ _0657F	敿
 _06580	斀
 _06581	斁
 _06584	斄
-_06585	斅
-_06585_s	𢽾	ktj
+_06585	斅	ktj𢽾
 _06592	斒
 _06594	斔
-_06595	斕
-_06595_s	斓	ktj
+_06595	斕	ktj斓
 _06596	斖
 _0659D	斝
 _0659E	斞
@@ -359,15 +332,12 @@ _066C0	曀
 _066C8	曈
 _066CA	曊
 _066CB	曋
-_066CF	曏
-_066CF_s	向	ktj
+_066CF	曏	ktj向
 _066D2	曒
 _066DB	曛
 _066E3	曣
-_066E8	曨
-_066E8_s	昽	ktj
-_066EC	曬
-_066EC_s	晒	ktj
+_066E8	曨	ktj昽
+_066EC	曬	ktj晒
 _066ED	曭
 _066EE	曮
 _066F6	曶

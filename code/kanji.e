@@ -5,8 +5,7 @@ e,j	墹
 e,m	壅
 e,.	壗
 e,f	夜
-e,r	夢
-E,R	梦	ktj
+e,r	夢	ktj梦
 e,q	夭
 e,R	梦
 e,a	埜	i野埜	yヤ	hyショ	hb里	b土
@@ -14,22 +13,17 @@ e.m	埒	yラチ	hyラツ	hyレツ
 e.M	埓	yラチ	hyラツ	hyレツ
 e/a	囹
 e/m	塁
-e/m	壘
-E/M	垒	ktj
-e/w	壟	yロウ	hyリョウ
-E/W	垄	ktj
-e/W	壠	yロウ	hyリョウ
-E/w	垅	ktj
-e/r	奩
-E/R	奁	ktj
+e/m	壘	ktj垒
+e/w	壟	yロウ	hyリョウ	ktj垄
+e/w	壠	yロウ	hyリョウ	ktj垅
+e/r	奩	ktj奁
 e;o	圃	甫の部首は用《ｏ》
 e;i	坊
 e;e	垉
 e;h	埔
 e;w	堋
 e;f	堡	yホウ	hyホ
-e;j	報
-E;J	报	ktj
+e;j	報	ktj报
 e;q	墓
 e;k	墨
 e;r	奉
@@ -39,37 +33,29 @@ eA	𡗗	b大
 ebp	囗	yイ
 ebk	因
 ebj	囲
-ebj	圍
-EBJ	围	ktj
+ebj	圍	ktj围
 ebd	圦
 eb;	圧	yアツ
-eb;	壓	yアツ
-EB;	压	ktj
+eb;	壓	yアツ	ktj压
 ebn	圷
 ebm	埃
 ebl	域
-eba	堊
-EBA	垩	ktj
+eba	堊	ktj垩
 ebs	堙
-eby	塋
-EBY	茔	ktj
+eby	塋	ktj茔
 ebo	塰
 ebi	壱
 ebi	壹
 ebh	夷	大を取り除くと弓《ｈ》が残る
 ebu	圯	yイ
 eci	囮
-ecc	園	i園薗
-ECC	园	ktj
+ecc	園	i園薗	ktj园
 ecu	垣
-ecp	堝
-ECP	埚	ktj
+ecp	堝	ktj埚
 ecv	堰
-eco	塢
-ECO	坞	ktj
+eco	塢	ktj坞
 ecl	塩	i塩鹽
-ecl	鹽	i塩鹽	b土	hb鹵
-ECL	盐	ktj
+ecl	鹽	i塩鹽	b土	hb鹵	ktj盐
 ecm	墺
 ecj	夏
 ec;	夥
@@ -77,8 +63,7 @@ ecx	央
 ecy	奄
 ech	奕
 eck	奥
-eck	奧
-ECK	奥	ktj
+eck	奧	ktj奥
 ec,	坷	yカ
 ed;	回	i回囘
 ed;	囘	i回囘	b囗	hb冂
@@ -86,12 +71,10 @@ edh	垓
 eds	垳
 edf	埆
 edl	堺
-edo	塊
-EDO	块	ktj
+edo	塊	ktj块
 edu	塙
 edj	壊
-edj	壞
-EDJ	坏	ktj
+edj	壞	ktj坏
 edi	壑
 edk	外
 eda	夬	yカイ	hyケ
@@ -99,33 +82,28 @@ efk	圜
 efa	坎
 efl	坩
 efs	堪
-efj	奐
-EFJ	奂	ktj
+efj	奐	ktj奂
 ega	圻
 egl	基
 egw	埼
 egj	奇	i奇竒
 eh;	圄	yギョ	hyゴ
 ehs	圉
-ehb	𡑭	yくれ	hyカイ
-EHB	𡋗	ktj
+ehb	𡑭	yくれ	hyカイ	ktj𡋗
 ehb	𡋗	yくれ	hyカイ
 eha	均
 ehp	垠
 ehe	堀
 ehw	境
 ehr	墟
-ehd	夾	yキョウ	hyコウ
-EHD	夹	ktj
+ehd	夾	yキョウ	hyコウ	ktj夹
 ehf	尭	hb几	i尭堯
-ehf	堯	hb几	i尭堯
-EHF	尧	ktj
+ehf	堯	hb几	i尭堯	ktj尧
 ejk	圏
 ejk	圈
 eja	圭
 ej;	型
-ejl	堅
-EJL	坚	ktj
+ejl	堅	ktj坚
 ejw	夐	yケイ	hyキョウ
 ejs	奎
 eje	契	yケイ	hyセツ
@@ -136,35 +114,26 @@ ekq	坑
 ekj	垢
 ekw	堽
 ekr	壕
-ekf	壙
-EKF	圹	ktj
+ekf	壙	ktj圹
 ekl	壷	i壺壷
-ekl	壺	i壺壷
-EKL	壶	ktj
+ekl	壺	i壺壷	ktj壶
 eka	夸
-ekd	夠
-EKD	够	ktj
+ekd	夠	ktj够
 elr	困
 eli	国
-eli	國
-ELI	国	ktj
+eli	國	ktj国
 els	圀
 ela	在
 elj	坐
 elk	坤
 elw	埖
-elm	塹
-ELM	堑	ktj
-ele	墾
-ELE	垦	ktj
-el;	壼
-EL;	壸	ktj
+elm	塹	ktj堑
+ele	墾	ktj垦
+el;	壼	ktj壸
 emf	四
 em.	址
-emr	執
-EMR	执	ktj
-ema	塒
-EMA	埘	ktj
+emr	執	ktj执
+ema	塒	ktj埘
 emw	士
 em,	失
 en/	囚
@@ -174,28 +143,23 @@ enq	夙
 ene	奢
 epf	城
 epr	埴
-epj	場
-EPJ	场	ktj
+epj	場	ktj场
 epw	塲
 eps	墅
 epo	壌
 epo	壤
 epe	奘
 epi	奨	i奨奬獎
-epi	獎	i奨奬獎	b大	hb犬
-EPI	奖	ktj
+epi	獎	i奨奬獎	b大	hb犬	ktj奖
 epk	奬	i奨奬獎
 eqe	図	yズ
-eqe	圖	yズ
-EQE	图	ktj
+eqe	圖	yズ	ktj图
 eqm	垂
 eqM	埀
-eq/	塵	yジン	hyヂン	土を取り除くと鹿《／》が残る
-EQ/	尘	ktj
+eq/	塵	yジン	hyヂン	土を取り除くと鹿《／》が残る	ktj尘
 eqo	壬
 eqi	声
-eqi	聲	b士	hb耳
-EQI	声	ktj
+eqi	聲	b士	hb耳	ktj声
 eqa	夊
 eqj	圳	yシン	hyセン
 eqk	囟	yシン	Pxin4
@@ -203,49 +167,41 @@ erk	塑
 erj	夕
 esk	埣	yソツ	hyサイ	hyスイ
 es;	堕
-es;	墮
-ES;	堕	ktj
+es;	墮	ktj堕
 esl	塞
 esf	増
 esf	增
 ese	壮
-ese	壯
-ESE	壮	ktj
+ese	壯	ktj壮
 esa	多	i多夛
 esa	夛	i多夛
 esj	奏	b大	hb禾	yソウ
 esK	𡉻	yソツ	hyサイ	hyスイ
-esu	囪	Pcong1	yソウ
-ESU	囱	ktj
+esu	囪	Pcong1	yソウ	ktj囱
 etl	団
-etl	團
-ETL	团	ktj
+etl	團	ktj团
 etk	地
 ete	坦
 eti	垈
 ets	垰
 etu	堆
-et;	壇
-ET;	坛	ktj
+et;	壇	ktj坛
 etq	夂
 eta	大
 etj	太	yタイ	hyタ
-etw	奪
-ETW	夺	ktj
+etw	奪	ktj夺
 eto	坼	yタク
 eva	垤
 evk	堤
 ev;	塚
-evj	墜
-EVJ	坠	ktj
+evj	墜	ktj坠
 evz	墸	yチョ	hyショ
 ewj	土
 ewm	圡
 ewk	堂
 ewi	堵
 ewf	塔
-ewe	塗
-EWE	涂	ktj
+ewe	塗	ktj涂
 ew;	塘
 ewr	塡
 ewr	填
@@ -260,30 +216,24 @@ exp	坡	右部に皮《ｐ》がある
 exo	垪
 exk	培
 exj	壜	yドン	hyタン	i壜罈
-exj	罈	yドン	hyタン	b土	hb缶	i壜罈
-EXJ	坛	ktj
+exj	罈	yドン	hyタン	b土	hb缶	i壜罈	ktj坛
 exi	売	i売賣
-exi	賣	i売賣	b士	hb貝
-EXI	卖	ktj
+exi	賣	i売賣	b士	hb貝	ktj卖
 ex;	奈
-exu	壩	yハ	hyヘ
-EXU	坝	ktj
+exu	壩	yハ	hyヘ	ktj坝
 eya	坂
 eyp	埤	yヒ	hyヘイ	hyハイ
 ezi	坪
 eze	坿
 ezo	埠
 ezj	塀
-ezp	墳
-EZP	坟	ktj
+ezp	墳	ktj坟
 ezk	壁
 ez;	変	i変變
-ez;	變	i変變	b夊	hb言
-EZ;	变	ktj
+ez;	變	i変變	b夊	hb言	ktj变
 ezm	复	yフク
 ezf	夫
-ezz	奮
-EZZ	奋	ktj
+ezz	奮	ktj奋
 _0364A	㙊
 _03696	㚖
 _03699	㚙
@@ -297,13 +247,11 @@ _056F6	囶
 _056F7	囷
 _05701	圁
 _05702	圂
-_05707	圇
-_05707_s	囵	ktj
+_05707	圇	ktj囵
 _0570A	圊
 _0570C	圌
 _05715	圕
-_0571E	圞
-_0571E_s	𪢮	ktj
+_0571E	圞	ktj𪢮
 _05720	圠
 _05723	圣
 _05729	圩
@@ -343,8 +291,7 @@ _0579F	垟
 _057A8	垨
 _057AC	垬
 _057AE	垮
-_057B5	垵
-_057B5_s	埯	ktj
+_057B5	垵	ktj埯
 _057B8	垸
 _057BA	垺
 _057BC	垼
@@ -360,8 +307,7 @@ _057DE	埞
 _057E2	埢
 _057E6	埦
 _057ED	埭
-_057F0	埰
-_057F0_s	采	ktj
+_057F0	埰	ktj采
 _057F3	埳
 _057F5	埵
 _057F6	埶
@@ -388,12 +334,10 @@ _05848	塈
 _05849	塉
 _0584C	塌
 _0584D	塍
-_0584F	塏
-_0584F_s	垲	ktj
+_0584F	塏	ktj垲
 _05853	塓
 _05855	塕
-_05864	塤
-_05864_s	埙	ktj
+_05864	塤	ktj埙
 _05867	塧
 _05868	塨
 _0586D	塭
@@ -406,8 +350,7 @@ _05880	墀
 _05881	墁
 _05886	墆
 _05889	墉
-_0588A	墊
-_0588A_s	垫	ktj
+_0588A	墊	ktj垫
 _0588B	墋
 _0588D	墍
 _0588F	墏
@@ -425,19 +368,16 @@ _058AF	墯
 _058B1	墱
 _058BD	墽
 _058C3	壃
-_058C8	壈
-_058C8_s	𡒄	ktj
+_058C8	壈	ktj𡒄
 _058CD	壍
 _058CE	壎
 _058D2	壒
 _058D4	壔
 _058D6	壖
-_058DA	壚
-_058DA_s	垆	ktj
+_058DA	壚	ktj垆
 _058DB	壛
 _058DD	壝
-_058E2	壢
-_058E2_s	坜	ktj
+_058E2	壢	ktj坜
 _058F3	壳
 _058F4	壴
 _058FE	壾

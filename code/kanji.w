@@ -1,384 +1,228 @@
 w,e	要
-w,t	覦
-W,T	觎	ktj
+w,t	覦	ktj觎
 w,r	訳
-w,r	譯
-W,R	译	ktj
+w,r	譯	ktj译
 w,m	誉	i誉譽
-w,m	譽	i誉譽
-W,M	誉	ktj
-w,w	誘
-W,W	诱	ktj
-w,f	諛
-W,F	谀	ktj
-w,.	諭
-W,.	谕	ktj
-w,q	謎
-W,Q	谜	ktj
+w,m	譽	i誉譽	ktj誉
+w,w	誘	ktj诱
+w,f	諛	ktj谀
+w,.	諭	ktj谕
+w,q	謎	ktj谜
 w,/	謡
-w,/	謠
-W,/	谣	ktj
-w,j	謾	yマン	hyバン	曼の部首は日《ｊ》
-W,J	谩	ktj
+w,/	謠	ktj谣
+w,j	謾	yマン	hyバン	曼の部首は日《ｊ》	ktj谩
 w,s	豫	予豫
 w.e	覧
-w.e	覽
-W.E	览	ktj
+w.e	覽	ktj览
 w.r	詈
-w.,	諒
-W.,	谅	ktj
-w/m	話
-W/M	话	ktj
-w/.	誄
-W/.	诔	ktj
-w/,	論
-W/,	论	ktj
-w;e	訪
-W;E	访	ktj
-w;w	謀
-W;W	谋	ktj
-w;j	謗
-W;J	谤	ktj
-w;u	謨	yボ	hyモ	莫の部首は艹《u》
-W;U	谟	ktj
+w.,	諒	ktj谅
+w/m	話	ktj话
+w/.	誄	ktj诔
+w/,	論	ktj论
+w;e	訪	ktj访
+w;w	謀	ktj谋
+w;j	謗	ktj谤
+w;u	謨	yボ	hyモ	莫の部首は艹《u》	ktj谟
 w;r	豊
-w;r	豐
-W;R	丰	ktj
+w;r	豐	ktj丰
 wbk	襾
 wbK	覀	漢字源では、これは襾の変形とされている
-wb;	詒	yイ	hyタイ
-WB;	诒	ktj
-wbj	詠
-WBJ	咏	ktj
-wbi	諳
-WBI	谙	ktj
-wbu	謂
-WBU	谓	ktj
+wb;	詒	yイ	hyタイ	ktj诒
+wbj	詠	ktj咏
+wbi	諳	ktj谙
+wbu	謂	ktj谓
 wbl	誃	yイ	hyチ	Pchi3
-wcl	訛
-WCL	讹	ktj
-wc;	訝
-WC;	讶	ktj
-wci	訶
-WCI	诃	ktj
-wck	課
-WCK	课	ktj
-wcj	謁
-WCJ	谒	ktj
+wcl	訛	ktj讹
+wc;	訝	ktj讶
+wci	訶	ktj诃
+wck	課	ktj课
+wcj	謁	ktj谒
 wcm	謌
-wc.	謳
-WC.	讴	ktj
+wc.	謳	ktj讴
 wcp	譁
 wc/	譌
-wch	讌
-WCH	䜩	ktj
+wch	讌	ktj䜩
 wcn	谺	yカ	hyケ	右部に牙《ｎ》がある
 wco	豌
 wdw	覈
 wdj	覚
-wdj	覺
-WDJ	觉	ktj
+wdj	覺	ktj觉
 wdl	角
 wdk	解
 wdo	觧
-wd;	該
-WD;	该	ktj
-wdm	詼
-WDM	诙	ktj
-wd,	誡
-WD,	诫	ktj
-wdp	誨
-WDP	诲	ktj
-wdu	諤
-WDU	谔	ktj
-wdf	諧
-WDF	谐	ktj
+wd;	該	ktj该
+wdm	詼	ktj诙
+wd,	誡	ktj诫
+wdp	誨	ktj诲
+wdu	諤	ktj谔
+wdf	諧	ktj谐
 wd/	豁
-wdi	豈	yガイ	hyキ	hyケ
-WDI	岂	ktj
+wdi	豈	yガイ	hyキ	hyケ	ktj岂
 wfj	観
-wfj	觀
-WFJ	观	ktj
+wfj	觀	ktj观
 wfk	諌	i諫諌
-wfk	諫	i諫諌
-WFK	谏	ktj
+wfk	諫	i諫諌	ktj谏
 wfl	讙
 wge	覊
-wgk	規
-WGK	规	ktj
-wga	覬
-WGA	觊	ktj
-wgu	訖
-WGU	讫	ktj
-wgj	記
-WGJ	记	ktj
-wgi	詭
-WGI	诡	ktj
-wgl	詰
-WGL	诘	ktj
-wgo	誼
-WGO	谊	ktj
-wgw	諱
-WGW	讳	ktj
-wgp	謔
-WGP	谑	ktj
-wg.	譏
-WG.	讥	ktj
-wg;	議
-WG;	议	ktj
-whf	覲
-WHF	觐	ktj
-whw	訓
-WHW	训	ktj
-whe	許
-WHE	许	ktj
-whq	誑
-WHQ	诳	ktj
-whr	謹
-WHR	谨	ktj
-wje	見
-WJE	见	ktj
-wjf	覡
-WJF	觋	ktj
+wgk	規	ktj规
+wga	覬	ktj觊
+wgu	訖	ktj讫
+wgj	記	ktj记
+wgi	詭	ktj诡
+wgl	詰	ktj诘
+wgo	誼	ktj谊
+wgw	諱	ktj讳
+wgp	謔	ktj谑
+wg.	譏	ktj讥
+wg;	議	ktj议
+whf	覲	ktj觐
+whw	訓	ktj训
+whe	許	ktj许
+whq	誑	ktj诳
+whr	謹	ktj谨
+wje	見	ktj见
+wjf	覡	ktj觋
 wjr	言
-wjw	計
-WJW	计	ktj
-wj;	訐
-WJ;	讦	ktj
-wjo	訣
-WJO	诀	ktj
-wjq	詣
-WJQ	诣	ktj
+wjw	計	ktj计
+wj;	訐	ktj讦
+wjo	訣	ktj诀
+wjq	詣	ktj诣
 wjg	諠
-wjt	諺
-WJT	谚	ktj
+wjt	諺	ktj谚
 wja	謇
-wjk	謙
-WJK	谦	ktj
+wjk	謙	ktj谦
 wj/	謦
-wjd	譎	yケツ	hyキツ
-WJD	谲	ktj
+wjd	譎	yケツ	hyキツ	ktj谲
 wjl	警
-wji	譴
-WJI	谴	ktj
+wji	譴	ktj谴
 wj.	谿
 wjp	豢
-wk/	覯
-WK/	觏	ktj
+wk/	覯	ktj觏
 wkt	觚
-wk;	訌
-WK;	讧	ktj
-wkf	詁
-WKF	诂	ktj
-wka	詬
-WKA	诟	ktj
-wke	誇
-WKE	夸	ktj
-wkr	語
-WKR	语	ktj
-wkw	誤
-WKW	误	ktj
-wk.	誥
-WK.	诰	ktj
-wkq	講
-WKQ	讲	ktj
-wkl	護
-WKL	护	ktj
+wk;	訌	ktj讧
+wkf	詁	ktj诂
+wka	詬	ktj诟
+wke	誇	ktj夸
+wkr	語	ktj语
+wkw	誤	ktj误
+wk.	誥	ktj诰
+wkq	講	ktj讲
+wkl	護	ktj护
 wkj	豪
-wlr	詐
-WLR	诈	ktj
-wlw	諢
-WLW	诨	ktj
+wlr	詐	ktj诈
+wlw	諢	ktj诨
 wlk	讃
-wlj	讒
-WLJ	谗	ktj
+wlj	讒	ktj谗
 wlk	讚
 wle	谷
-wme	視	i視視
-WME	视	ktj
+wme	視	i視視	ktj视
 wme	視	i視視
 wm;	覗
 wml	觜
-wmr	詞
-WMR	词	ktj
-wm,	試
-WM,	试	ktj
-wmw	詩
-WMW	诗	ktj
-wm.	誌
-WM.	志	ktj
+wmr	詞	ktj词
+wm,	試	ktj试
+wmw	詩	ktj诗
+wm.	誌	ktj志
 wmp	諡	yシ	益の部首は皿《ｐ》
-wm/	諮
-WM/	谘	ktj
-wmP	謚	yシ	益の部首は皿《ｐ》
-WMP	谥	ktj
-wmq	識
-WMQ	识	ktj
+wm/	諮	ktj谘
+wmP	謚	yシ	益の部首は皿《ｐ》	ktj谥
+wmq	識	ktj识
 wmf	豕
 wms	豉
-wna	詢
-WNA	询	ktj
-wnw	諄
-WNW	谆	ktj
-wnr	諏
-WNR	诹	ktj
-wne	謝
-WNE	谢	ktj
-wnk	讎
-WNK	雠	ktj
+wna	詢	ktj询
+wnw	諄	ktj谆
+wnr	諏	ktj诹
+wne	謝	ktj谢
+wnk	讎	ktj雠
 wnl	讐
-wn;	豎
-WN;	竖	ktj
+wn;	豎	ktj竖
 wpi	触
-wpi	觸
-WPI	触	ktj
-wpt	觴
-WPT	觞	ktj
-wpq	訟
-WPQ	讼	ktj
+wpi	觸	ktj触
+wpt	觴	ktj觞
+wpq	訟	ktj讼
 wpw	証
-wpf	詔
-WPF	诏	ktj
-wpu	詳
-WPU	详	ktj
-wpg	誚
-WPG	诮	ktj
-wpj	誦
-WPJ	诵	ktj
+wpf	詔	ktj诏
+wpu	詳	ktj详
+wpg	誚	ktj诮
+wpj	誦	ktj诵
 wpa	諚
-wpo	諸
-WPO	诸	ktj
-wpd	謖
-WPD	谡	ktj
-wps	證
-WPS	证	ktj
+wpo	諸	ktj诸
+wpd	謖	ktj谡
+wps	證	ktj证
 wpr	譲
-wpr	讓
-WPR	让	ktj
+wpr	讓	ktj让
 wpe	象	b豕	yショウ	hyゾウ
 wpO	諸
 wqj	西
-wql	親
-WQL	亲	ktj
-wqo	訊
-WQO	讯	ktj
-wq;	診
-WQ;	诊	ktj
+wql	親	ktj亲
+wqo	訊	ktj讯
+wq;	診	ktj诊
 wqk	誓
-wqr	誠
-WQR	诚	ktj
-wqw	誰
-WQW	谁	ktj
-wqe	請
-WQE	请	ktj
-wqi	譖
-WQI	谮	ktj
+wqr	誠	ktj诚
+wqw	誰	ktj谁
+wqe	請	ktj请
+wqi	譖	ktj谮
 wqI	譛
-wqm	讖
-WQM	谶	ktj
-wrw	設
-WRW	设	ktj
-wrk	訴
-WRK	诉	ktj
-wra	詛
-WRA	诅	ktj
-wrl	詮
-WRL	诠	ktj
+wqm	讖	ktj谶
+wrw	設	ktj设
+wrk	訴	ktj诉
+wra	詛	ktj诅
+wrl	詮	ktj诠
 wru	詹
 wr;	説
-wr;	說
-WR;	说	ktj
-wri	譫	yセン	hyトウ
-WRI	谵	ktj
-wrj	訕	yセン	hyサン
-WRJ	讪	ktj
-wsf	詑	yタ	它の部首は宀《ｆ》
-WSF	𫍟	ktj
+wr;	說	ktj说
+wri	譫	yセン	hyトウ	ktj谵
+wrj	訕	yセン	hyサン	ktj讪
+wsf	詑	yタ	它の部首は宀《ｆ》	ktj𫍟
 ws;	譐	yソン
-wsj	詫
-WSJ	诧	ktj
-wsl	諍
-WSL	诤	ktj
+wsj	詫	ktj诧
+wsl	諍	ktj诤
 wsk	譟	右下に木《ｋ》がある
-wsu	訑
-WSU	𫍙	ktj
+wsu	訑	ktj𫍙
 wti	覃
-wtk	託
-WTK	讬	ktj
-wta	註	主の部首は丶《ａ》
-WTA	注	ktj
-wto	誅
-WTO	诛	ktj
-wtl	誕
-WTL	诞	ktj
-wtj	談
-WTJ	谈	ktj
-wt;	諾
-WT;	诺	ktj
-wtp	謫
-WTP	谪	ktj
-wtw	譚	右上に覀《ｗ》がある
-WTW	谭	ktj
-wv,	覿
-WV,	觌	ktj
+wtk	託	ktj讬
+wta	註	主の部首は丶《ａ》	ktj注
+wto	誅	ktj诛
+wtl	誕	ktj诞
+wtj	談	ktj谈
+wt;	諾	ktj诺
+wtp	謫	ktj谪
+wtw	譚	右上に覀《ｗ》がある	ktj谭
+wv,	覿	ktj觌
 wv;	觝
-wvj	訂
-WVJ	订	ktj
-wvi	詆
-WVI	诋	ktj
+wvj	訂	ktj订
+wvi	詆	ktj诋
 wvo	誂
-wvk	調
-WVK	调	ktj
-wvu	諜
-WVU	谍	ktj
-wvl	諦
-WVL	谛	ktj
-wvm	豬
-WVM	猪	ktj
-ww;	覘
-WW;	觇	ktj
+wvk	調	ktj调
+wvu	諜	ktj谍
+wvl	諦	ktj谛
+wvm	豬	ktj猪
+ww;	覘	ktj觇
 wwr	覩
-wwk	討
-WWK	讨	ktj
-wwe	諂
-WWE	谄	ktj
-wwl	謄
-WWL	誊	ktj
+wwk	討	ktj讨
+wwe	諂	ktj谄
+wwl	謄	ktj誊
 wwj	豆
 wx;	覇	i霸覇
 wx;	霸	i霸覇	b覀	hb雨
-wxi	訥
-WXI	讷	ktj
-wxj	認
-WXJ	认	ktj
+wxi	訥	ktj讷
+wxj	認	ktj认
 wxk	読
-wxk	讀
-WXK	读	ktj
+wxk	讀	ktj读
 wxl	豚	b豕	hb肉	hb月
-wyw	評
-WYW	评	ktj
-wye	誹
-WYE	诽	ktj
-wyr	謐
-WYR	谧	ktj
-wyq	謬
-WYQ	谬	ktj
+wyw	評	ktj评
+wye	誹	ktj诽
+wyr	謐	ktj谧
+wyq	謬	ktj谬
 wyp	譬
-wzk	覆
-WZK	复	ktj
-wzn	覓	yベキ	hyミャク	i覓覔	見の上に爫《ｎ》がある
-WZN	觅	ktj
+wzk	覆	ktj复
+wzn	覓	yベキ	hyミャク	i覓覔	見の上に爫《ｎ》がある	ktj觅
 wzn	覔	yベキ	hyミャク	i覓覔
-wzj	訃
-WZJ	讣	ktj
-wzi	誣
-WZI	诬	ktj
-wzu	諞
-WZU	谝	ktj
-wzo	諷
-WZO	讽	ktj
-wzl	譜
-WZL	谱	ktj
+wzj	訃	ktj讣
+wzi	誣	ktj诬
+wzu	諞	ktj谝
+wzo	諷	ktj讽
+wzl	譜	ktj谱
 _046A1	䚡
 _046AF	䚯
 _0470C	䜌
@@ -398,8 +242,7 @@ _089AD	覭
 _089AE	覮
 _089B0	覰
 _089B6	覶
-_089B7	覷
-_089B7_s	觑	ktj
+_089B7	覷	ktj觑
 _089D3	觓
 _089D4	觔
 _089D5	觕
@@ -420,8 +263,7 @@ _089F0	觰
 _089F1	觱
 _089F2	觲
 _089F3	觳
-_089F6	觶
-_089F6_s	觯	ktj
+_089F6	觶	ktj觯
 _089F7	觷
 _089FA	觺
 _089FB	觻
@@ -432,13 +274,11 @@ _089FF	觿
 _08A04	訄
 _08A07	訇
 _08A0F	訏
-_08A12	訒
-_08A12_s	讱	ktj
+_08A12	訒	ktj讱
 _08A14	訔
 _08A1E	訞
 _08A21	訡
-_08A22	訢
-_08A22_s	䜣	ktj
+_08A22	訢	ktj䜣
 _08A27	訧
 _08A2C	訬
 _08A30	訰
@@ -447,83 +287,61 @@ _08A37	訷
 _08A39	訹
 _08A3E	訾
 _08A3F	訿
-_08A40	詀
-_08A40_s	𧮪	ktj
+_08A40	詀	ktj𧮪
 _08A44	詄
 _08A45	詅
 _08A47	詇
 _08A4D	詍
-_08A4E	詎
-_08A4E_s	讵	ktj
-_08A56	詖
-_08A56_s	诐	ktj
-_08A57	詗
-_08A57_s	诇	ktj
-_08A58	詘
-_08A58_s	诎	ktj
+_08A4E	詎	ktj讵
+_08A56	詖	ktj诐
+_08A57	詗	ktj诇
+_08A58	詘	ktj诎
 _08A59	詙
 _08A5D	詝
-_08A61	詡
-_08A61_s	诩	ktj
-_08A75	詵
-_08A75_s	诜	ktj
+_08A61	詡	ktj诩
+_08A75	詵	ktj诜
 _08A76	詶
 _08A77	詷
 _08A7B	詻
-_08A7F	詿
-_08A7F_s	诖	ktj
-_08A86	誆
-_08A86_s	诓	ktj
+_08A7F	詿	ktj诖
+_08A86	誆	ktj诓
 _08A8B	誋
 _08A90	誐
-_08A92	誒
-_08A92_s	诶	ktj
+_08A92	誒	ktj诶
 _08A99	誙
 _08AA7	誧
 _08AAB	誫
 _08AAE	誮
-_08AB6	誶
-_08AB6_s	谇	ktj
+_08AB6	誶	ktj谇
 _08AB7	誷
 _08AB8	誸
 _08ABB	誻
-_08ABE	誾
-_08ABE_s	訚	ktj
+_08ABE	誾	ktj訚
 _08AC0	諀
 _08AC5	諅
 _08AC6	諆
 _08AC8	諈
-_08AC9	諉
-_08AC9_s	诿	ktj
+_08AC9	諉	ktj诿
 _08AD0	諐
-_08AD1	諑
-_08AD1_s	诼	ktj
+_08AD1	諑	ktj诼
 _08AD3	諓
 _08AD4	諔
 _08AD5	諕
-_08AD7	諗
-_08AD7_s	谂	ktj
-_08ADD	諝
-_08ADD_s	谞	ktj
+_08AD7	諗	ktj谂
+_08ADD	諝	ktj谞
 _08ADF	諟
-_08AF0	諰
-_08AF0_s	𫍰	ktj
+_08AF0	諰	ktj𫍰
 _08AF2	諲
 _08AF4	諴
 _08AF5	諵
-_08AF6	諶
-_08AF6_s	谌	ktj
-_08AFC	諼
-_08AFC_s	谖	ktj
-_08B05	謅
-_08B05_s	诌	ktj
+_08AF6	諶	ktj谌
+_08AFC	諼	ktj谖
+_08B05	謅	ktj诌
 _08B08	謈
-_08B0A	謊
-_08B0A_s	谎	ktj
+_08B0A	謊	ktj谎
 _08B0B	謋
 _08B0D	謍
-_08B0F	謏
-_08B0F_s	𫍲	ktj
+_08B0F	謏	ktj𫍲
 _08B11	謑
 _08B12	謒
 _08B15	謕
@@ -549,15 +367,13 @@ _08B45	譅
 _08B46	譆
 _08B47	譇
 _08B48	譈
-_08B4A	譊
-_08B4A_s	𫍢	ktj
+_08B4A	譊	ktj𫍢
 _08B4B	譋
 _08B51	譑
 _08B53	譓
 _08B54	譔
 _08B55	譕
-_08B59	譙
-_08B59_s	谯	ktj
+_08B59	譙	ktj谯
 _08B5D	譝
 _08B5E	譞
 _08B60	譠
@@ -567,29 +383,23 @@ _08B68	譨
 _08B69	譩
 _08B6A	譪
 _08B76	譶
-_08B78	譸
-_08B78_s	诪	ktj
+_08B78	譸	ktj诪
 _08B79	譹
 _08B7A	譺
 _08B7B	譻
-_08B7E	譾
-_08B7E_s	谫	ktj
+_08B7E	譾	ktj谫
 _08B7F	譿
 _08B81	讁
 _08B82	讂
 _08B84	讄
 _08B86	讆
-_08B8B	讋
-_08B8B_s	詟	ktj
+_08B8B	讋	ktj詟
 _08B94	讔
-_08B95	讕
-_08B95_s	谰	ktj
+_08B95	讕	ktj谰
 _08B98	讘
-_08B9C	讜
-_08B9C_s	谠	ktj
+_08B9C	讜	ktj谠
 _08B9D	讝
-_08B9E	讞
-_08B9E_s	谳	ktj
+_08B9E	讞	ktj谳
 _08B9F	讟
 _08C39	谹
 _08C3B	谻
@@ -618,8 +428,7 @@ _08C71	豱
 _08C72	豲
 _08C73	豳
 _08C75	豵
-_08C76	豶
-_08C76_s	豮	ktj
+_08C76	豶	ktj豮
 _08C77	豷
 _0FA62	謁
 _0FA63	謹

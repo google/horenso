@@ -4,8 +4,7 @@ p,s	盲
 p,e	眛
 p,a	眠
 p,w	瞑
-p,c	瞞	yマン	hyバン	hyボン	i瞞𥈞	㒼の部首は入《ｃ》
-P,C	瞒	ktj
+p,c	瞞	yマン	hyバン	hyボン	i瞞𥈞	㒼の部首は入《ｃ》	ktj瞒
 p,c	𥈞	yマン	hyバン	hyボン	i瞞𥈞	㒼の部首は入《ｃ》
 p,v	矇
 p,f	矛
@@ -13,21 +12,17 @@ p,r	磨
 p.d	瞭
 p.f	硫
 p.s	磊
-p/w	盧
-P/W	卢	ktj
+p/w	盧	ktj卢
 p/d	矮
 p/a	砺
 p/f	碌
 p/s	碗
-p/e	礪
-P/E	砺	ktj
-p/r	礫
-P/R	砾	ktj
+p/e	礪	ktj砺
+p/r	礫	ktj砾
 p;V	㒵	貌皃㒵	漢字源による部首：白《ｐ》
 p;f	冒	冒冐	漢字源による部首：目《ｐ》
 p;v	皃	貌皃㒵
-p;c	皰	包の部首は勹《ｃ》
-P;C	疱	ktj
+p;c	皰	包の部首は勹《ｃ》	ktj疱
 p;d	盆
 p;m	眸
 p;a	睦
@@ -45,8 +40,7 @@ pco	益
 pci	硪	右部に我があり、その部首は戈《ｉ》	yガ
 pcj	𥁕	yオン	異体字の昷だと、上部に日《ｊ》がある
 pdo	皆
-pdr	皚
-PDR	皑	ktj
+pdr	皚	ktj皑
 pdh	睚
 pdt	瞎
 pdz	矍
@@ -54,53 +48,41 @@ pdy	硅	yカク	hyケイ	hyキャク
 pdw	确	右部に角《ｗ》がある
 pdg	硴
 pdu	碍
-pdp	確
-PDP	确	ktj
+pdp	確	ktj确
 pds	磆
-pdf	磑
-PDF	硙	ktj
-pda	礙
-PDA	碍	ktj
+pdf	磑	ktj硙
+pda	礙	ktj碍
 pfp	皖
-pfu	監
-PFU	监	ktj
+pfu	監	ktj监
 pfd	盥
 pfo	看
 pfi	眼
 pfs	瞰
 pgi	癸
 pgc	皀	yキュウ	hyヒョク	hyキョウ	hyコウ	下部に匕《ｃ》がある
-pga	瞶
-PGA	瞆	ktj
+pga	瞶	ktj瞆
 pgp	碕
-pgu	磯
-PGU	矶	ktj
-pgz	礒
-PGZ	𥐟	ktj
-php	皸	i皸皹
-PHP	皲	ktj
+pgu	磯	ktj矶
+pgz	礒	ktj𥐟
+php	皸	i皸皹	ktj皲
 php	皹	i皸皹
 phe	瞿
 phd	矜
 phs	矩
-phf	矯
-PHF	矫	ktj
+phf	矯	ktj矫
 pho	眶	yキョウ	hyコウ
 pjs	盻
 pjd	県
 pja	眩
 pjw	眷
 pjr	睨
-pjp	瞼
-PJP	睑	ktj
+pjp	瞼	ktj睑
 pjf	研
 pjF	硏
-pje	硯
-PJE	砚	ktj
+pje	硯	ktj砚
 pjg	碣
 pjt	磬
-pjd	縣	漢字源による部首：目
-PJD	县	ktj
+pjd	縣	漢字源による部首：目	ktj县
 pkf	皇
 pkq	皋
 pkn	皎	yコウ	hyキョウ	i晈皎
@@ -113,17 +95,13 @@ pkv	睾
 pkz	瞽
 pkg	矼	右部は工《ｇ》
 pkw	砿
-pkb	硤	右部に人《ｂ》がある	yコウ
-PKB	硖	ktj
+pkb	硤	右部に人《ｂ》がある	yコウ	ktj硖
 pkd	硬
 pks	碁
 pke	磺
-pkx	磽
-PKX	硗	ktj
-pkw	礦
-PKW	矿	ktj
-plk	盞
-PLK	盏	ktj
+pkx	磽	ktj硗
+pkw	礦	ktj矿
+plk	盞	ktj盏
 plf	砂
 pld	砕
 pla	砦
@@ -134,23 +112,19 @@ pmf	矢
 pms	砥
 pmd	磁
 pns	皴
-pne	皺	yシュウ	hyスウ
-PNE	皱	ktj
+pne	皺	yシュウ	hyスウ	ktj皱
 pnf	盾
 pnd	瞬
-pnx	硨	右部に車《ｘ》がある	yシャ
-PNX	砗	ktj
+pnx	硨	右部に車《ｘ》がある	yシャ	ktj砗
 pps	睫
-ppa	矚
-PPA	瞩	ktj
+ppa	矚	ktj瞩
 ppf	硝
 ppd	礁
 pqr	盛
 pqw	省
 pqE	眞
 pqe	真
-pqo	眥
-PQO	眦	ktj
+pqo	眥	ktj眦
 pqp	眦
 pqf	睛
 pqu	睡
@@ -161,15 +135,11 @@ prk	皙	yセキ	hyシャク	析の部首は木《ｋ》
 prq	瞻
 prp	石	yセキ	hyシャク
 pri	砠	yソ	hyショ
-pru	碩
-PRU	硕	ktj
+pru	碩	ktj硕
 pra	碵	yセキ	hyひろ
-prw	磚
-PRW	砖	ktj
-pre	磧
-PRE	碛	ktj
-pro	礎
-PRO	础	ktj
+prw	磚	ktj砖
+pre	磧	ktj碛
+pro	礎	ktj础
 psp	相	yソウ	hyショウ
 psu	眨	yソウ	hyショウ	Pzha3
 pti	眈
@@ -187,10 +157,8 @@ pvx	碇
 pvz	碪
 pwu	登
 pwo	盗
-pwo	盜
-PWO	盗	ktj
-pwr	盪
-PWR	荡	ktj
+pwo	盜	ktj盗
+pwr	盪	ktj荡
 pwj	睹
 pwp	瞠
 pwt	瞪	yトウ
@@ -200,8 +168,7 @@ pwe	磴
 pwq	礑
 pxc	癶
 pxi	発	yハツ	hyホツ	i発發
-pxi	發	yハツ	hyホツ	i発發
-PXI	发	ktj
+pxi	發	yハツ	hyホツ	i発發	ktj发
 pxo	白
 pxv	盃
 pxp	督
@@ -211,26 +178,22 @@ pxj	硲
 pxk	碆
 pxb	碚
 pxh	碯	yノウ	hyドウ
-pxz	碼
-PXZ	码	ktj
+pxz	碼	ktj码
 pyd	百
 pya	皮
-pys	盤
-PYS	盘	ktj
+pys	盤	ktj盘
 pyq	眇	yビョウ	hyミョウ
 pyp	眉	部首：目
 pyr	砒
 pyf	碑
 pyw	磐
-pye	礬
-PYE	矾	ktj
+pye	礬	ktj矾
 pzp	皿	yベイ	hyメイ
 pzo	眄
 pzi	睥
 pzv	瞥
 pzu	碧
-_04039	䀹
-_04039_s	𥅴	ktj
+_04039	䀹	ktj𥅴
 _04058	䁘
 _04093	䂓
 _07679	癹
@@ -306,20 +269,16 @@ _07746	睆
 _0774A	睊
 _0774B	睋
 _0774C	睌
-_0774D	睍
-_0774D_s	𪾢	ktj
+_0774D	睍	ktj𪾢
 _0774E	睎
-_0774F	睏
-_0774F_s	困	ktj
+_0774F	睏	ktj困
 _07752	睒
 _07754	睔
 _07755	睕
 _07756	睖
 _07758	睘
-_0775C	睜
-_0775C_s	睁	ktj
-_0775E	睞
-_0775E_s	睐	ktj
+_0775C	睜	ktj睁
+_0775E	睞	ktj睐
 _0775F	睟
 _07760	睠
 _07762	睢
@@ -346,14 +305,12 @@ _0778F	瞏
 _07794	瞔
 _0779A	瞚
 _0779B	瞛
-_0779C	瞜
-_0779C_s	䁖	ktj
+_0779C	瞜	ktj䁖
 _0779D	瞝
 _0779F	瞟
 _077A1	瞡
 _077A2	瞢
-_077A4	瞤
-_077A4_s	𥆧	ktj
+_077A4	瞤	ktj𥆧
 _077A7	瞧
 _077A9	瞩
 _077AB	瞫
@@ -368,8 +325,7 @@ _077CC	矌
 _077CE	矎
 _077CF	矏
 _077D0	矐
-_077D3	矓
-_077D3_s	眬	ktj
+_077D3	矓	ktj眬
 _077D4	矔
 _077D5	矕
 _077D8	矘
@@ -421,8 +377,7 @@ _0784C	硌
 _0784D	硍
 _0784E	硎
 _07852	硒
-_0785C	硜
-_0785C_s	硁	ktj
+_0785C	硜	ktj硁
 _07860	硠
 _07865	硥
 _07869	硩
@@ -443,8 +398,7 @@ _0789F	碟
 _078A4	碤
 _078A8	碨
 _078AB	碫
-_078AD	碭
-_078AD_s	砀	ktj
+_078AD	碭	ktj砀
 _078B2	碲
 _078B3	碳
 _078B4	碴
@@ -459,11 +413,9 @@ _078D5	磕
 _078DB	磛
 _078DD	磝
 _078DE	磞
-_078E0	磠
-_078E0_s	硵	ktj
+_078E0	磠	ktj硵
 _078E1	磡
-_078E3	磣
-_078E3_s	碜	ktj
+_078E3	磣	ktj碜
 _078E4	磤
 _078E5	磥
 _078E6	磦
@@ -494,8 +446,7 @@ _07928	礨
 _0792D	礭
 _0792E	礮
 _07930	礰
-_07931	礱
-_07931_s	砻	ktj
+_07931	礱	ktj砻
 _07934	礴
 _07935	礵
 _25122	𥄢
