@@ -737,8 +737,8 @@ _06A9F_s	槚	ktj
 _06AA1	檡
 _06AA5	檥
 _06AAB	檫
-_06AAF	檯
-_06AAF_s	台	ktj
+ktt	檯
+KTT	枱	ktj
 _06AB9	檹
 _06ABD	檽
 _06AC5	櫅
