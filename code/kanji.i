@@ -255,6 +255,7 @@ iwy	撓	ktj挠
 iwq	撞	yドウ	hyシュ	童の部首は立(q)
 iwo	擣	i擣𢭏	ktj𢭏
 iwo	𢭏	i擣𢭏
+iwh	擋	ktj挡	yトウ	Pdang3	Pdang4
 ixo	把
 ixi	抜	i抜拔
 ixi	拔	i抜拔
@@ -505,7 +506,6 @@ _064B3	撳	ktj揿
 _064BD	撽
 _064BE	撾	ktj挝
 _064C9	擉
-_064CB	擋	ktj挡
 _064CC	擌
 _064CF	擏
 _064D0	擐
