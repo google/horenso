@@ -52,6 +52,7 @@ pdp	確	ktj确
 pds	磆
 pdf	磑	ktj硙
 pda	礙	ktj碍
+pdi	碟	yカツ	hyセチ	Pdie2
 pfp	皖
 pfu	監	ktj监
 pfd	盥
@@ -394,7 +395,6 @@ _07894	碔
 _07898	碘
 _0789D	碝
 _0789E	碞
-_0789F	碟
 _078A4	碤
 _078A8	碨
 _078AB	碫
