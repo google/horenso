@@ -391,7 +391,9 @@ sub read_codes {
             my ($kantaiji) = grep { $_ =~ m/^ktj/ } @notes;
             if (defined($kantaiji) && $lang eq 'cht' && length($key) <= 3) {
                 $kantaiji =~ s/^ktj//;
-                write_priority($kantaiji, $priority - 1);
+                if (!$stats_mode) {
+                    write_priority($kantaiji, $priority - 1);
+                }
                 my $kantaiji_key = $key;
                 $kantaiji_key =~ tr/a-zA-Z/A-Za-z/;
                 die "$codes_file" if $kantaiji_key eq $key;
@@ -550,7 +552,7 @@ sub read_codes {
                     my $ucase_code = $prefix . shift_key($third_key);
                     my $ucase_kanji = $codes{$ucase_code};
                     my $ucase_pri = defined $ucase_kanji
-                        ? $kanji_to_priority{$ucase_kanji}
+                        ? ($kanji_to_priority{$ucase_kanji} // -1)
                         : -1;
                     if ($ucase_pri >= $max_pri - 1) {
                         print "$ucase_code\t$ucase_kanji # 優先度=$ucase_pri\n";
