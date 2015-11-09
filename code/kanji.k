@@ -278,6 +278,7 @@ kre	楔	yセツ	hyカツ	hyケチ	契の部首は大《ｅ》
 kro	楚	下部に疋《ｏ》がある
 krq	槭	yセキ	hyシャク	hyスク	hyサク
 ksa	朶
+ksa	朵
 ksj	村
 ksd	束	部首の木を取り除けば口が残り、その部首のキーはｄ
 ksn	杣
@@ -288,11 +289,11 @@ ksr	梍	yソウ
 kso	梛
 ks/	棗	ktj枣
 ksm	楕
+ksm	橢	ktj椭
 ksu	槍	ktj枪
 ksl	槽
 ksp	樔
 ks;	樽
-ks.	橢	ktj椭
 ktg	杶	yチュン	屯の部首は屮《ｇ》
 ktj	柝
 ktk	柱
@@ -391,7 +392,6 @@ _03BC3	㯃
 _03BCD	㯍
 _03C0F	㰏
 _06733	朳
-_06735	朵
 _06739	朹
 _0673B	朻
 _0673C	朼

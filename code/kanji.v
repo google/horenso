@@ -73,12 +73,13 @@ vd;	蛔
 vdy	蛞
 vdi	蝎
 vdo	蟹
+vdo	蠏
 vdm	蠍
-vdv	蠏
 vdu	蠖	yカク	hyワク	蒦の部首は艹《ｕ》
 vdj	街
 vdl	裃
 vdk	褐
+vdp	蟈	ktj蝈	yカク	hyキャク	Pguo1
 vfj	蚶
 vgj	虐
 vgi	虧	ktj亏
@@ -430,7 +431,6 @@ _087C1	蟁
 _087C2	蟂
 _087C3	蟃
 _087C5	蟅
-_087C8	蟈	ktj蝈
 _087C9	蟉
 _087CA	蟊
 _087CC	蟌
