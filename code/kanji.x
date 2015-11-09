@@ -204,8 +204,8 @@ xxp	跛	右部に皮《ｐ》がある
 xxl	軟	ktj软
 xxz	輩	ktj辈
 xyi	豹	yヒョウ	hyホウ
-xyp	豼
-xyz	貔
+xyp	貔	i豼貔
+xyp	豼	i豼貔
 xyv	貧	ktj贫
 xyc	販	ktj贩
 xyx	費	ktj费
