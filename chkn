@@ -196,6 +196,16 @@ sub shift_key {
     return $key;
 }
 
+sub invert_shift_key {
+    my ($key) = @_;
+    my $orig = $key;
+    $key =~ tr{!@#$%^&*()[A-Z]:<>?}{1-90[a-z];,./};
+    if ($orig eq $key) {
+        $key = shift_key $key;
+    }
+    return $key;
+}
+
 sub term_copy {
     my $copy_tool = $ENV{COPY_TOOL};
     if (!$copy_tool) {
@@ -388,16 +398,20 @@ sub read_codes {
             die "Duplicate code: $key" if defined $codes{$key};
             $codes{$key} = $value;
 
-            my ($kantaiji) = grep { $_ =~ m/^ktj/ } @notes;
-            if (defined($kantaiji) && $lang eq 'cht' && length($key) <= 3) {
-                $kantaiji =~ s/^ktj//;
-                if (!$stats_mode) {
-                    write_priority($kantaiji, $priority - 1);
-                }
+            if ($lang eq 'cht' && length($key) <= 3) {
                 my $kantaiji_key = $key;
                 $kantaiji_key =~ tr/a-zA-Z/A-Za-z/;
-                die "$codes_file" if $kantaiji_key eq $key;
-                $codes{$kantaiji_key} = $kantaiji;
+                for my $note (@notes) {
+                    next if $note !~ m/^ktj(.*)$/;
+                    my $kantaiji = $1;
+                    if (!$stats_mode) {
+                        write_priority($kantaiji, $priority - 1);
+                    }
+                    die "$codes_file" if $kantaiji_key eq $key;
+                    $codes{$kantaiji_key} = $kantaiji;
+                    $kantaiji_key = substr($kantaiji_key, 0, 2) .
+                        invert_shift_key(substr($kantaiji_key, 2, 1));
+                }
             }
 
             # hbかhyの注がある場合は%suggestionsのマップを拡張する
