@@ -1,19 +1,19 @@
 b,/	佑
-b,.	余	i余餘
+b,a	余	i余餘
 b,x	佯
 b,c	侑
 b,n	俑
 b,z	俣
-b,z	俁
-b,b	們
-b,v	傭
-b,m	優
-b.a	侖	yリン	hyロン
-b./	侶
+b,z	俁	ktj俣
+b,b	們	ktj们
+b,v	傭	ktj佣
+b,m	優	ktj优
+b.a	侖	yリン	hyロン	ktj仑
+b./	侶	ktj侣
 b.n	俐
 b.j	俚
-b.x	倆
-b.z	倫
+b.x	倆	ktj俩
+b.z	倫	ktj伦
 b.m	僚
 b.v	儖
 b.c	儡
@@ -22,15 +22,15 @@ b/,	令
 b/m	伶
 b/.	例
 b/c	倭	yワ	hyイ
-b/x	僂
-b/z	儷
+b/x	僂	ktj偻
+b/z	儷	ktj俪
 b/b	佬	yロウ	hyリョウ
 b;B	㒒
 b;d	保	呆の部首は口《ｄ》
 b;k	俸
 b;l	倣
 b;j	傍
-b;b	僕
+b;b	僕	ktj仆
 b;z	儚
 b;a	舗	漢字源による部首：人
 b;a	舖	漢字源による部首：人
@@ -42,8 +42,8 @@ bbk	位
 bbi	佚
 bbl	依	yイ
 bbo	倚
-bb;	偉
-bbp	傴	yウ
+bb;	偉	ktj伟
+bbp	傴	yウ	ktj伛
 bbm	佾	yイチ
 bcv	仮
 bcv	假
@@ -51,56 +51,56 @@ bco	伽	yカ	hyキャ
 bck	何
 bcl	佳
 bcj	価
-bcj	價
+bcj	價	ktj价
 bci	俄
 bcz	俤
 bc;	俺
 bcu	偃
-bch	億	註：意の部首は心（ｈ）
+bch	億	註：意の部首は心（ｈ）	ktj亿
 bdk	介
 bd;	价
 bdj	会	i会會
-bdj	會	i会會	b人	hb曰
+bdj	會	i会會	b人	hb曰	ktj会
 bdl	偕
 bdi	傀
-bdu	儈
+bdu	儈	ktj侩
 bfj	侃
 bgi	仇
 bgj	企
 bgk	伎
 bgl	休
 bgo	佶
-bg;	偽
+bg;	偽	ktj伪
 bgp	僖
-bg:	僞
-bgu	儀
+bg:	僞	ktj伪
+bgu	儀	ktj仪
 bha	仰	yギョウ
 bhc	供
 bhb	侠	i侠俠
-bhb	俠	i侠俠
-bhi	俥
+bhb	俠	i侠俠	ktj侠
+bhi	俥	ktj伡
 bhk	俱
 bhk	倶
 bho	倔
 bhl	倨
 bhz	偶
-bhx	僅
-bhv	僑
-bh;	僥
+bhx	僅	ktj仅
+bhv	僑	ktj侨
+bh;	僥	ktj侥
 bh/	僵
 bjl	件
-bjc	係
-bjo	俔
+bjc	係	ktj系
+bjo	俔	ktj伣
 bja	倦
 bjp	倪
 bjb	倹
-bjb	儉
+bjb	儉	ktj俭
 bjs	偈
 bji	偐	yゲン	hyガン
 bj;	健
-bjx	傑
-bjk	傾
-bjz	儼
+bjx	傑	ktj杰
+bjk	傾	ktj倾
+bjz	儼	ktj俨
 bkz	伉
 bkm	伍
 bkx	估
@@ -108,7 +108,7 @@ bkn	佝
 bka	佼	交の部首は亠《ａ》	yコウ
 bk;	侯	yコウ	hyグ	i矦侯
 bk;	矦	yコウ	hyグ	i矦侯	b亻	hb矢
-bkb	個
+bkb	個	ktj个
 bks	倖
 bkl	候
 bkq	倥	空の部首は穴《ｑ》
@@ -121,9 +121,9 @@ bl;	作
 blf	俒	yコン	完の部首は宀《ｆ》
 bla	倅
 bld	做
-blb	傘
+blb	傘	ktj伞
 blx	催
-blz	債
+blz	債	ktj债
 bmx	仔
 bm,	仕
 bm.	伺
@@ -152,8 +152,8 @@ bnb	舍	漢字源による部首：人
 bpi	仍
 bpo	仗
 bpx	倡
-bpu	傷
-bpz	償
+bpu	傷	ktj伤
+bpz	償	ktj偿
 bpd	倘	yショウ	hyトウ
 bqj	人	yジン	hyニン
 bqK	亻
@@ -164,15 +164,15 @@ bql	伸
 bqm	侭
 bq;	侵
 bqp	信
-bq,	儕
-bqo	儘
+bq,	儕	ktj侪
+bqo	儘	ktj尽
 bqJ	𠆢
 brk	仙
 brl	仟
 br;	俎	i俎爼	yソ	hyショ
 br;	爼	i俎爼	yソ	b人	hb爻
 bre	倩
-bro	僉
+bro	僉	ktj佥
 brw	僊
 bri	僭	yセン
 brj	全	b𠆢	hb入
@@ -182,10 +182,10 @@ bsd	佗
 bsm	侘
 bsl	促	b亻	hb足	yソク	hyショク
 bs;	俗
-bsk	倉
+bsk	倉	ktj仓
 bs,	偬
-bs,	傯
-bsu	側
+bs,	傯	ktj偬
+bsu	側	ktj侧
 bso	像
 bsi	僧	i僧僧
 bsi	僧	i僧僧
@@ -194,32 +194,32 @@ btj	代
 btk	仲
 btu	但
 btl	体	yタイ	i体躰軆體	hyテイ
-btl	體	b亻	hb骨	yタイ	i体躰軆體	hyテイ
+btl	體	b亻	hb骨	yタイ	i体躰軆體	hyテイ	ktj体
 bt.	躰	b亻	hb身	yタイ	i体躰軆體	hyテイ
 bt.	軆	b亻	hb身	yタイ	i体躰軆體	hyテイ
 btI	俦
 bt;	値
 bt;	值
 bto	倬
-bti	儔
-bv;	佇
+bti	儔	ktj俦
+bv;	佇	ktj伫
 bvp	仃
 bvl	低
 bvu	佻
 bvk	停
-bvj	偵
+bvj	偵	ktj侦
 bvo	僣	yテツ	hyセン
-bvm	儲
-bvi	倀	yチョウ
+bvm	儲	ktj储
+bvi	倀	yチョウ	ktj伥
 bwl	伝
-bwl	傳
+bwl	傳	ktj传
 bwu	佃
 bwk	倒
 bwm	偸	yトウ	hyチュウ	i偸偷
 bwm	偷	yトウ	hyチュウ	i偸偷
 bw;	働
 bwi	僮
-bwp	儻
+bwp	儻	ktj傥
 bxl	任
 bxj	伐
 bxk	伯
@@ -228,19 +228,19 @@ bxf	侫	妄の部首は女《ｆ》	i佞侫
 bxo	佩
 bx;	俳
 bxi	倍
-bxy	儂	yノウ	hyドウ	農の部首は辰《ｙ》
-bxp	儺	yナ	hyダ
+bxy	儂	yノウ	hyドウ	農の部首は辰《ｙ》	ktj侬
+bxp	儺	yナ	hyダ	ktj傩
 bya	伴
 byi	佰	yヒャク	hyハク
 byp	俵
 byc	俾	yヒ	卑の部首は十《ｃ》
-byz	備
+byz	備	ktj备
 bzu	仆
 bzl	仏
 bzl	佛
 bzj	付
 bzg	伏
-bzk	併
+bzk	併	ktj并
 bzv	便
 bzm	俘
 bzo	俛
@@ -388,7 +388,7 @@ _05092	傒
 _05093	傓
 _05094	傔
 _05095	傕
-_05096	傖
+_05096	傖	ktj伧
 _0509B	傛
 _0509C	傜
 _0509D	傝
@@ -421,7 +421,7 @@ _050DD	僝
 _050E1	僡
 _050E4	僤
 _050E6	僦
-_050E8	僨
+_050E8	僨	ktj偾
 _050E9	僩
 _050EA	僪
 _050EC	僬
@@ -439,7 +439,7 @@ _05106	儆
 _05107	儇
 _0510B	儋
 _0510C	儌
-_05110	儐
+_05110	儐	ktj傧
 _05111	儑
 _05113	儓
 _05117	儗
@@ -454,7 +454,7 @@ _05131	儱
 _05133	儳
 _05134	儴
 _05135	儵
-_05138	儸
+_05138	儸	ktj㑩
 _05139	儹
 _0513D	儽
 _20213	𠈓

@@ -5,7 +5,7 @@ t,a	耀
 t,.	耗
 t,;	耶	右部が阝《；》
 t,f	肬	右部に尢がある
-t,m	脈
+t,m	脈	ktj脉
 t,m	脉
 t,t	腰
 t,s	腴
@@ -19,23 +19,23 @@ t.b	翏	yリュウ	hyル	羽の真下に𠆢《ｂ》がある
 t.m	耒
 t.t	聊
 t.a	膂
-t.,	臨
+t.,	臨	ktj临
 t/.	老
 t/>	耂
 t/a	聆
 t/J	聨
-t/j	聯
-t//	聾	上部は龍《／》
+t/j	聯	ktj联
+t//	聾	上部は龍《／》	ktj聋
 t/e	肋
 t/,	腕
 t/m	臈
-t/r	臘
-t/n	臚	yロ	hyリョ
-t/k	臠
+t/r	臘	ktj腊
+t/n	臚	yロ	hyリョ	ktj胪
+t/k	臠	ktj脔
 t/Q	舮
 t/W	艣
 t/w	艪
-t/q	艫
+t/q	艫	ktj舻
 t/s	𪚲	b肉	hb龜	yわき
 t;t	翻	yホン	hyハン	i飜翻
 t;t	飜	yホン	hyハン	i飜翻	b羽	hb飛
@@ -58,7 +58,7 @@ tbu	胤
 tcL	卧	b臣	hb卜	卜はUCSコードポイント割り当てに採用された部首
 tcj	翁
 tcu	腋
-tci	膃
+tci	膃	ktj腽
 tck	臆
 tco	臙
 tcl	臥
@@ -66,27 +66,28 @@ tc;	舸
 tdj	聒
 td:	脍	yカイ
 tdk	膈
-tdl	膕
-td;	膾	yカイ
+tdl	膕	ktj腘
+td;	膾	yカイ	ktj脍
 tfl	翫
 tf;	翰
 tfj	肝
-tfk	艦
+tfk	艦	ktj舰
 tgd	翕	合の部首は口《ｄ》
 tgi	耆
 tgk	肌
 tgl	脚
-tgl	腳
+tgl	腳	ktj脚
 tg;	臼
 tgo	舅	男の部首は田《ｏ》
-tgs	艤	義の部首は羊《ｓ》
-the	翹	土《ｅ》が三つある
+tgs	艤	義の部首は羊《ｓ》	ktj舣
+the	翹	土《ｅ》が三つある	ktj翘
 th;	胸
-thq	脅
-tht	脇
-tha	舉	挙擧舉
+thq	脅	ktj胁
+tht	脇	i脇𦚰䏮
+tht	䏮	i脇𦚰䏮
+thg	𦚰	i脇𦚰䏮
 tjt	肩
-tjw	脛
+tjw	脛	ktj胫
 tja	腱
 tjq	舷
 tka	考
@@ -106,8 +107,8 @@ tkt	胯
 tks	胱
 tkw	腔
 tk.	膏
-tkp	膠
-tkl	興	yコウ	hyキョウ
+tkp	膠	ktj胶
+tkl	興	yコウ	hyキョウ	ktj兴
 tk;	航
 tlj	腮
 tlt	耍	yサ	hyシャ
@@ -120,19 +121,19 @@ tm;	肆	左部に镸《；》がある
 tma	肢
 tmq	脂
 tm,	膝
-tmd	膩
+tmd	膩	ktj腻
 tmw	自
 tmt	至
 tml	舐	i舐䑛	右部に氏《ｌ》がある
 tml	䑛	i舐䑛
 tmo	舳	yジク	hyチク	由の部首は田《ｏ》
 tnd	粛
-tnd	肅
-tns	習
+tnd	肅	ktj肃
+tns	習	ktj习
 tnw	者
 tn/	聚
 tnq	脩
-tnt	腫	yシュ
+tnt	腫	yシュ	ktj肿
 tn;	臑	yジュ	hyドウ	hyノウ	需の部首は雨《；》
 tna	臭
 tnn	舜	部首の舛の他にも上部に爪(n)がある
@@ -141,9 +142,9 @@ tnW	者
 tnA	臭
 tpe	翔
 tpi	耡
-tpw	聳
-tpt	聶
-tpu	職
+tpw	聳	ktj耸
+tpt	聶	ktj聂
+tpu	職	ktj职
 tpa	肖
 tpq	胥
 tpj	舂
@@ -151,13 +152,13 @@ tpo	舒
 tpd	艢	嗇の部首は口《ｄ》	yショウ	hyゾウ
 tqe	翆
 tq;	翠
-tqk	聖
+tqk	聖	ktj圣
 tqm	脆
 tqg	脣
-tqj	腎
+tqj	腎	ktj肾
 tqu	腥
 tqt	膵
-tqi	臍
+tqi	臍	ktj脐
 tql	臣
 tq/	臻
 tro	翦
@@ -165,19 +166,19 @@ tre	胙
 trk	脊
 tr;	腺
 tra	膳
-tru	臉	yセン	hyレン	hyケン	hyラン
+tru	臉	yセン	hyレン	hyケン	hyラン	ktj脸
 trj	舌
 trs	舛
 tri	舩
 trl	船
 tsl	聡
-tsl	聰
+tsl	聰	ktj聪
 tsj	臓
-tsj	臟
+tsj	臟	ktj脏
 tsi	臧	戕の部首は戈《i》
 tso	舵
 tsd	艘	yソウ	叟の部首は又《ｄ》
-tsk	艙
+tsk	艙	ktj舱
 tsu	艚
 ts;	艝	雪の部首は雨《；》
 ttk	耐
@@ -187,22 +188,22 @@ ttm	耽
 ttj	肘
 ttp	胄
 tt;	胆
-tt;	膽
+tt;	膽	ktj胆
 ttl	胎
 tto	胝
 tti	脱	i脱脫
-tti	脫	i脱脫
+tti	脫	i脱脫	ktj脱
 ttS	腟
 ttq	腿
 tts	膣
 ttu	致
-tta	臺
+tta	臺	ktj台
 tvi	耋
 tvl	聴
-tvl	聽
+tvl	聽	ktj听
 tvo	肇
-tv;	脹
-tvj	腸	i腸膓
+tv;	脹	ktj胀
+tvj	腸	i腸膓	ktj肠
 tvj	膓	i腸膓
 tvk	艇
 tvp	翟	yテキ	hyジャク	hyタク
@@ -213,7 +214,7 @@ tw;	腆
 twl	臀
 twk	艟
 txm	耙
-tx/	聹	yネイ
+tx/	聹	yネイ	ktj聍
 txj	肉
 txu	肭
 txl	肺
@@ -221,9 +222,9 @@ txk	背
 txp	胚
 tx;	能
 txi	脳
-txi	腦
+txi	腦	ktj脑
 tx,	膊
-tx.	膿	yノウ	hyドウ
+tx.	膿	yノウ	hyドウ	ktj脓
 txo	舶
 tys	翡
 tyt	肥
@@ -232,19 +233,18 @@ tyq	脾
 tye	腓
 tyo	膰
 typ	臂
-tyx	臏	賓の部首は貝《ｘ》
+tyx	臏	賓の部首は貝《ｘ》	ktj膑
 tya	般
 tz.	翩
 tzm	聘
-tzk	聞
+tzk	聞	ktj闻
 tzo	胼
 tzl	腐
 tzp	腑
 tzj	腹
-tz;	膚
+tz;	膚	ktj肤
 tzx	舞	bzx->儛
 tz,	艀
-_043EE	䏮
 _043F0	䏰
 _04408	䐈
 _04417	䐗
@@ -270,7 +270,7 @@ _07FE3	翣
 _07FE5	翥
 _07FE8	翨
 _07FEA	翪
-_07FEC	翬
+_07FEC	翬	ktj翚
 _07FED	翭
 _07FEE	翮
 _07FEF	翯
@@ -278,7 +278,7 @@ _07FF1	翱
 _07FF2	翲
 _07FF4	翴
 _07FFA	翺
-_07FFD	翽
+_07FFD	翽	ktj翙
 _07FFE	翾
 _07FFF	翿
 _08007	耇
@@ -294,7 +294,7 @@ _0801F	耟
 _08024	耤
 _08026	耦
 _0802A	耪
-_0802C	耬
+_0802C	耬	ktj耧
 _08030	耰
 _08034	耴
 _08035	耵
@@ -308,7 +308,7 @@ _08051	聑
 _0805D	聝
 _08066	聦
 _08071	聱
-_08075	聵
+_08075	聵	ktj聩
 _0807B	聻
 _08082	肂
 _0808A	肊
@@ -361,7 +361,7 @@ _0811E	脞
 _0811F	脟
 _08121	脡
 _08124	脤
-_08125	脥
+_08125	脥	ktj𣍰
 _08127	脧
 _0812C	脬
 _0812D	脭
@@ -403,7 +403,7 @@ _08198	膘
 _0819B	膛
 _0819E	膞
 _0819F	膟
-_081A2	膢
+_081A2	膢	ktj𦝼
 _081A6	膦
 _081AB	膫
 _081AC	膬
@@ -425,12 +425,12 @@ _081D0	臐
 _081D2	臒
 _081D5	臕
 _081D6	臖
-_081D7	臗
+_081D7	臗	ktj𣎑
 _081DB	臛
 _081DD	臝
 _081DE	臞
 _081E1	臡
-_081E2	臢
+_081E2	臢	ktj臜
 _081E4	臤
 _081E6	臦
 _081E9	臩
@@ -478,7 +478,6 @@ _0825C	艜
 _08260	艠
 _26402	𦐂
 _2667E	𦙾
-_266B0	𦚰
 _2671D	𦜝
 _268DD	𦣝
 _268EA	𦣪

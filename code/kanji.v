@@ -7,29 +7,29 @@ v,.	蝿
 v,m	融
 v,s	螟
 v,g	蟐	yもみ	常の部首は巾《ｇ》
-v,.	蠅
+v,.	蠅	ktj蝇
 v,x	裄
 v,v	裕
-v.v	虜
+v.v	虜	ktj虏
 v.v	虜
 v.c	蜊
 v./	螺
 v.m	裏
-v.m	裡
+v.m	裡	ktj里
 v.z	裲
 v.,	裸
-v.k	襤
-v.j	襴
+v.k	襤	ktj褴
+v.j	襴	ktj襕
 v/c	蛉
 v/z	蛎
 v/j	蝋
 v/m	螂
-v/x	螻
-v/j	蠟
+v/x	螻	ktj蝼
+v/j	蠟	ktj蜡
 v/,	蠡
-v/k	蠣
+v/k	蠣	ktj蛎
 v/.	裂
-v/l	褸
+v/l	褸	ktj褛
 v;u	虻
 v;v	蚌
 v;x	蚫
@@ -39,15 +39,15 @@ v;I	蠎
 v;c	袍
 v;z	袤
 v;a	袰
-v;j	補
+v;j	補	ktj补
 v;k	褒
 v;s	褓
 v;m	襃
 vbh	蚓	yイン	引の部首は弓《ｈ》
 vbl	蛙
-vbu	蝟
-vbo	蠑
-vbk	衛
+vbu	蝟	ktj猬
+vbo	蠑	ktj蝾
+vbk	衛	ktj卫
 vbK	衞
 vbj	衣	yイ
 vbJ	衤	yイ	hyころもへん
@@ -59,16 +59,16 @@ vcl	蜒
 vcx	蜴
 vcz	蜿
 vcq	蝌	科の部首は禾《ｑ》
-vcv	蝦
+vcv	蝦	ktj虾
 vcj	蝪	易の部首は日《ｊ》	yエキ	hyヤク
-vch	蝸
+vch	蝸	ktj蜗
 vcm	衍	行の中に氵《ｍ》がある
 vc;	衙	yガ
 vck	袁
 vco	裹	yカ	i裹褁	上部に田《ｏ》がある
 vcO	褁	yカ	i裹褁	上部に田《ｏ》がある
 vcp	褞	yオン	hyウン	𥁕の部首は皿《ｐ》
-vcu	襖
+vcu	襖	ktj袄
 vd;	蛔
 vdy	蛞
 vdi	蝎
@@ -81,16 +81,16 @@ vdl	裃
 vdk	褐
 vfj	蚶
 vgj	虐
-vgi	虧
+vgi	虧	ktj亏
 vgk	蚯
-vgo	蟻
+vgo	蟻	ktj蚁
 vg;	裘
 vhv	虚
-vhv	虛
+vhv	虛	ktj虚
 vhc	虞
 vhi	蛩
 vhp	蛬
-vha	蟯
+vha	蟯	ktj蛲
 vh;	衢
 vh/	衾
 vhs	衿
@@ -98,11 +98,11 @@ vho	裙
 vhx	裾
 vhl	襁
 vhz	襟
-vhg	褲	yク	hyコ
+vhg	褲	yク	hyコ	ktj裤
 vjx	虔
 vjc	蛍
-vjc	螢
-vja	蜆
+vjc	螢	ktj萤
+vja	蜆	ktj蚬
 vji	蜷
 vjv	血
 vjk	衒
@@ -121,19 +121,19 @@ vk/	蜈
 vkn	蝗
 vkp	蝴
 vkm	螯
-vk.	蠱
+vk.	蠱	ktj蛊
 vkv	行
 vkx	衡
 vka	袴
 vk;	袷	yコウ
 vkd	蠔
 vlv	蚕	i蚕蠶
-vlv	蠶	i蚕蠶
+vlv	蠶	i蚕蠶	ktj蚕
 vlj	衫
-vlc	袞
+vlc	袞	ktj衮
 vlk	裁
 vlx	裟
-vlz	褌
+vlz	褌	ktj裈
 vl;	襍
 vmv	虱
 vmz	蚩
@@ -147,52 +147,53 @@ vnc	蛇	yジャ	hyダ
 vn.	螽
 vnk	蟀
 vn;	蠢
-vnz	衆
-vnx	術
+vnz	衆	i衆眾
+vnz	眾	i衆眾	ktj众
+vnx	術	ktj术
 vnv	袖
 vns	褶	yシュウ	hyショウ	hyチョウ
 vnl	襦
-vn/	襲
+vn/	襲	ktj袭
 vpa	蛆	yショ	hyソ	且の部首は一《ａ》
 vpd	蜀
 vpz	蜍
-vpc	蝕
-vpv	衝
+vpc	蝕	ktj蚀
+vpv	衝	ktj冲
 vpi	裳
 vps	褥
 vpx	襄	yジョウ	hyソウ	b衣	i㐮襄
 vpx	㐮	yジョウ	hyソウ	b衣	i㐮襄
-vpu	裊	yジョウ	hyニョウ
+vpu	裊	yジョウ	hyニョウ	ktj袅
 vqu	蚋
-vqm	蛻
+vqm	蛻	ktj蜕
 vqy	蜃	上部に辰《ｙ》がある
 vq;	蜻	右部に青《；》がある
 vqj	衰	yスイ
 vql	衽
 vqi	袗
 vqo	袵
-vqk	製
-vqw	襯	親の部首は見《ｗ》
+vqk	製	ktj制
+vqw	襯	親の部首は見《ｗ》	ktj衬
 vrk	蜥	yセキ	hyシャク	析の部首は木《ｋ》
 vrl	蝉	i蝉蟬
-vrl	蟬	i蝉蟬
+vrl	蟬	i蝉蟬	ktj蝉
 vre	螫
 vrw	蟾
 vr;	蠕	yゼン	hyネン	需の部首は雨《；》
 vrj	裼	易の部首は日《ｊ》
-vra	褻
+vra	褻	ktj亵
 vsk	蚤
 vsl	蛸
 vsj	装
-vsj	裝
+vsj	裝	ktj装
 vtJ	䖝
 vtj	虫
 vto	蛋	上部に疋《ｏ》がある
 vtu	蛛	yチュウ
 vti	蜑
 vtp	蜘	知の部首は矢《ｐ》
-vtq	蟄
-vtm	蟲	yチュウ
+vtq	蟄	ktj蛰
+vtm	蟲	yチュウ	ktj虫
 vtk	衷
 vtl	袋
 vt.	袒
@@ -203,7 +204,7 @@ vt;	襌
 vt/	襷
 vvl	蜩
 vv;	蝶
-vvi	蟶
+vvi	蟶	ktj蛏
 vvk	褄
 vvj	褚	yチョ	hyシャ
 vwk	蚪
@@ -212,7 +213,7 @@ vwi	蟷
 vwL	蠧
 vwl	蠹
 vwj	衲
-vwu	襠
+vwu	襠	ktj裆
 vx;	蟆
 vxl	蟇
 vxj	袙
@@ -221,7 +222,7 @@ vxk	裴
 vxK	裵
 vxo	﨡	yに
 vyx	蛮
-vyx	蠻
+vyx	蠻	ktj蛮
 vyo	蜚
 vyp	蟠
 vyv	表
@@ -235,10 +236,10 @@ vzo	蝠
 vzu	蝮
 vz;	袂
 vzx	袱
-vzl	複
+vzl	複	ktj复
 vzv	褊
 vzm	襞
-vzf	襪
+vzf	襪	ktj袜
 _045E5	䗥
 _045EA	䗪
 _0460F	䘏
@@ -257,7 +258,7 @@ _0866A	虪
 _0866C	虬
 _0866D	虭
 _0866E	虮
-_0866F	虯
+_0866F	虯	ktj虬
 _08670	虰
 _08674	虴
 _08675	虵
@@ -318,7 +319,7 @@ _086EB	蛫
 _086F5	蛵
 _086F6	蛶
 _086F7	蛷
-_086FA	蛺
+_086FA	蛺	ktj蛱
 _086FC	蛼
 _086FD	蛽
 _08701	蜁
@@ -335,7 +336,7 @@ _0871B	蜛
 _0871E	蜞
 _0871F	蜟
 _08720	蜠
-_08721	蜡
+_08721	蜡	ktj蜡
 _08722	蜢
 _08723	蜣
 _08724	蜤
@@ -388,7 +389,7 @@ _0877A	蝺
 _0877C	蝼
 _08781	螁
 _08783	螃
-_08784	螄
+_08784	螄	ktj蛳
 _08785	螅
 _08787	螇
 _08788	螈
@@ -407,14 +408,14 @@ _0879A	螚
 _0879B	螛
 _0879C	螜
 _0879D	螝
-_0879E	螞
+_0879E	螞	ktj蚂
 _087A0	螠
 _087A3	螣
 _087A7	螧
 _087AA	螪
 _087AC	螬
 _087AD	螭
-_087AE	螮
+_087AE	螮	ktj䗖
 _087B0	螰
 _087B4	螴
 _087B5	螵
@@ -424,16 +425,16 @@ _087B8	螸
 _087B9	螹
 _087BC	螼
 _087BE	螾
-_087BF	螿
+_087BF	螿	ktj螀
 _087C1	蟁
 _087C2	蟂
 _087C3	蟃
 _087C5	蟅
-_087C8	蟈
+_087C8	蟈	ktj蝈
 _087C9	蟉
 _087CA	蟊
 _087CC	蟌
-_087CE	蟎
+_087CE	蟎	ktj螨
 _087D1	蟑
 _087D3	蟓
 _087D4	蟔
@@ -447,7 +448,7 @@ _087DE	蟞
 _087DF	蟟
 _087E1	蟡
 _087E2	蟢
-_087E3	蟣
+_087E3	蟣	ktj虮
 _087E4	蟤
 _087E5	蟥
 _087E6	蟦
@@ -463,15 +464,15 @@ _087FA	蟺
 _087FC	蟼
 _087FF	蟿
 _08800	蠀
-_08801	蠁
+_08801	蠁	ktj蚃
 _08803	蠃
-_08806	蠆
+_08806	蠆	ktj虿
 _08808	蠈
 _08809	蠉
 _0880A	蠊
 _0880B	蠋
 _0880C	蠌
-_08810	蠐
+_08810	蠐	ktj蛴
 _08813	蠓
 _08817	蠗
 _08819	蠙
@@ -482,7 +483,7 @@ _08820	蠠
 _08824	蠤
 _08825	蠥
 _08826	蠦
-_08828	蠨
+_08828	蠨	ktj蟏
 _08829	蠩
 _0882A	蠪
 _0882B	蠫
@@ -505,10 +506,10 @@ _08848	衈
 _0884A	衊
 _0884B	衋
 _0884E	衎
-_08855	衕
+_08855	衕	ktj同
 _08856	衖
 _08858	衘
-_0885A	衚
+_0885A	衚	ktj胡
 _0885F	衟
 _08867	衧
 _08869	衩
@@ -572,7 +573,7 @@ _08914	褔
 _08915	褕
 _08916	褖
 _08917	褗
-_08918	褘
+_08918	褘	ktj袆
 _08919	褙
 _0891C	褜
 _08921	褡
@@ -584,20 +585,20 @@ _0892D	褭
 _0892E	褮
 _08930	褰
 _08931	褱
-_08933	褳
+_08933	褳	ktj裢
 _08935	褵
 _08937	褷
 _08939	褹
 _0893C	褼
 _0893D	褽
 _0893E	褾
-_08940	襀
+_08940	襀	ktj𫌀
 _08942	襂
 _08945	襅
 _08946	襆
-_08949	襉
+_08949	襉	ktj裥
 _0894B	襋
-_0894F	襏
+_0894F	襏	ktj袯
 _08950	襐
 _08952	襒
 _08953	襓
@@ -606,12 +607,12 @@ _08958	襘
 _0895A	襚
 _0895B	襛
 _0895C	襜
-_0895D	襝
+_0895D	襝	ktj裣
 _08961	襡
 _08962	襢
 _08963	襣
 _08969	襩
-_0896C	襬
+_0896C	襬	ktj䙓
 _0896E	襮
 _08973	襳
 _08976	襶

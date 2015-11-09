@@ -1,34 +1,34 @@
 i,/	扼	yヤク	hyアク
 i,f	抑
 i,d	抹
-i,r	捫
+i,r	捫	ktj扪
 i,w	揄
 i,q	揖	yユウ	hyシュウ
-i,s	揚
+i,s	揚	ktj扬
 i,e	揶
 i,a	揺
-i,a	搖
+i,a	搖	ktj摇
 i,m	摩
 i,v	摸
-i,.	擁
+i,.	擁	ktj拥
 i,g	摹	yモ	hyボ	Pmo2
 i.e	戮
 i.f	拉
 i.d	掠
 i.w	撩
 i.r	擂
-i.a	擽
-i.s	攬
+i.a	擽	ktj㧰
+i.s	攬	ktj揽
 i/d	或	yワク
 i/f	戻
 i/f	戾
-i/a	挊	弄挊挵
-i/A	挵	弄挊挵
+i/a	挊	i弄挊挵
+i/a	挵	i弄挊挵
 i/e	捩
-i/s	撈
-i/v	攣
-i/r	攆	Pnian3	yレン	輦はjis x 0213に入っていて、その読み方がレン、ピンインも同じくnian3なので攆の音読みもレンとして見なそう
-i/w	擄	yロ	hyリョ
+i/s	撈	ktj捞
+i/v	攣	ktj挛
+i/r	攆	Pnian3	yレン	輦はjis x 0213に入っていて、その読み方がレン、ピンインも同じくnian3なので攆の音読みもレンとして見なそう	ktj撵
+i/w	擄	yロ	hyリョ	ktj掳
 i;q	戊
 i;d	房
 i;v	抔
@@ -37,7 +37,7 @@ i;f	抱
 i;l	拇	母の部首は毋《ｌ》
 i;a	捕
 i;e	捧
-i;s	撲
+i;s	撲	ktj扑
 ibo	按
 ibp	挧	yウ	hyク
 ibi	挨
@@ -58,47 +58,48 @@ ida	戛
 ida	戞
 ido	拐
 idi	拡
-idi	擴
+idi	擴	ktj扩
 idf	括
 idr	挌
-idp	掛	yカイ	hyカ	hyケ
+idp	掛	yカイ	hyカ	hyケ	ktj挂
 idh	掴
-idh	摑
+idh	摑	ktj掴
 ids	揩
-idj	攪
+idj	攪	ktj搅
 idj	撹
-idw	擱
+idw	擱	ktj搁
 idq	攫	i爴攫
 idq	爴	i爴攫	b扌	hb爪
 ifs	戡
 ifo	扞
 ifi	拑
 ifp	捍
-ifd	揀
-ifu	換
+ifd	揀	ktj拣
+ifu	換	ktj换
 ifa	撼
 igo	戯
-igo	戲
+igo	戲	ktj戏
 igu	技
 igd	拮	yキツ	hyケツ	hyカツ	吉の部首は口《ｄ》
 iga	掎
 igq	掬
 igw	揆
-igi	揮
-igp	擬
+igi	揮	ktj挥
+igp	擬	ktj拟
 ihw	抂
 ihf	拒
 ihd	拠
 ihi	拱
-iha	挙	挙擧舉
-ihs	挟
-iho	挾
+iha	挙	i挙擧舉
+iha	舉	i挙擧舉	b手	hb臼	ktj举
+ihz	擧	i挙擧舉
+ihs	挟	i挟挾
+ihs	挾	i挟挾	ktj挟
 ihe	据
 ihq	掀
 ihr	掘
 ih;	擒
-ihd	據
-ihA	擧	挙擧舉
+ihd	據	ktj据
 ije	戟
 ijj	擎
 iji	抉
@@ -110,13 +111,13 @@ ijd	掲	i揭掲
 ijd	揭	i揭掲
 ijr	搴
 ijs	携	i携攜擕
-ijs	攜	i携攜擕
+ijs	攜	i携攜擕	ktj携
 ijx	擕	i携攜擕
 ija	撃
-ija	擊
-ijb	撿
+ija	擊	ktj击
+ijb	撿	ktj捡
 ikf	戸
-ikf	戶
+ikf	戶	ktj户
 ike	扈
 ik;	扛
 ikl	扣
@@ -132,7 +133,7 @@ ilw	扠
 ilv	扨
 ild	拶
 ils	挫
-ila	採
+ila	採	ktj采
 ilx	搓
 ili	搾
 ilt	摧
@@ -141,19 +142,19 @@ ilj	撮
 ilz	撰
 ile	擦
 ilq	攅
-ilq	攢
+ilq	攢	ktj攒
 il/	𢦏
 imd	持
 imf	指
 ima	揣
-ims	摯
+ims	摯	ktj挚
 ino	戌
 ini	戍
 ine	戎
 inf	手
 inF	扌
 ind	拾
-ins	捨
+ins	捨	ktj舍
 ina	授
 inp	揉
 in;	搦
@@ -170,7 +171,7 @@ ipe	拯
 ipo	捷
 ipu	掌
 ipw	摺
-ipq	擾
+ipq	擾	ktj扰
 ipj	攘
 iqw	成
 iqu	抻
@@ -179,12 +180,12 @@ iqo	捶
 iqp	掣
 iqr	推
 iqf	撕
-iqj	擠
-iq;	擻	yス	hyソウ
-irh	戔	yセン	hyサン
+iqj	擠	ktj挤
+iq;	擻	yス	hyソウ	ktj擞
+irh	戔	yセン	hyサン	ktj戋
 irj	戚
 iru	戦
-iru	戰
+iru	戰	ktj战
 irt	截
 ire	扇
 iro	折
@@ -193,7 +194,7 @@ iri	接
 irw	措
 ira	揃
 irp	摂
-irp	攝
+irp	攝	ktj摄
 ir;	擅
 irs	擶
 isi	打
@@ -206,13 +207,13 @@ isp	挿
 isa	捉
 iso	捜
 iso	搜
-isd	掃
+isd	掃	ktj扫
 is;	掫
 isl	搔	i搔掻
 isl	掻	i搔掻
 ise	插
-isf	損
-ish	搶	yソウ	hyショウ
+isf	損	ktj损
+ish	搶	yソウ	hyショウ	ktj抢
 isy	操
 isg	拕	yタ	Ptuo1	i拖拕
 isg	拖	yタ	Ptuo1	i拖拕
@@ -223,15 +224,15 @@ iti	択
 itl	抬
 itj	抽
 ito	担	i担擔
-ito	擔	i担擔
+ito	擔	i担擔	ktj担
 ith	拆
 itp	拓
 itu	探
-ite	摶
-its	撻
-iti	擇
+ite	摶	ktj抟
+its	撻	ktj挞
+iti	擇	ktj择
 ity	擡
-itd	攤
+itd	攤	ktj摊
 itw	拄	yチュウ
 ivu	抵
 ivi	挑
@@ -241,19 +242,20 @@ ivp	提
 ivc	摘
 ivx	撤
 ivj	擢
-iv;	擲
+iv;	擲	ktj掷
 iwi	投
 iwj	抖	右部の部首は斗(j)
 iwe	掉
 iwr	掏
 iwf	掟	右部の部首は宀(f)
-iwg	搗	右部の部首は山(g)
+iwg	搗	右部の部首は山(g)	ktj捣
 iwt	搨	右部に羽(t)があるから
 iwu	搭	右部の部首は艸(u)
-iwy	撓
+iwy	撓	ktj挠
 iwq	撞	yドウ	hyシュ	童の部首は立(q)
-iwo	擣	i擣𢭏
+iwo	擣	i擣𢭏	ktj𢭏
 iwo	𢭏	i擣𢭏
+iwh	擋	ktj挡	yトウ	Pdang3	Pdang4
 ixo	把
 ixi	抜	i抜拔
 ixi	拔	i抜拔
@@ -269,10 +271,10 @@ ixv	排
 ixt	掵
 ixm	搏
 ixz	撚
-ix/	撥
+ix/	撥	ktj拨
 ixn	播
 ixa	擘
-ixx	擺
+ixx	擺	ktj摆
 iya	扉
 iyf	批
 iyd	披
@@ -280,7 +282,7 @@ iyr	拌
 iyw	挽
 iys	描
 iye	搬
-iyq	擯
+iyq	擯	ktj摈
 iyv	攀
 iyg	拼	yヒョウ	hyホウ
 izl	扁
@@ -291,14 +293,14 @@ izi	扶
 izc	抃
 izv	拊
 izb	撇	yヘツ
-iz;	撫
+iz;	撫	ktj抚
 _03A6E	㩮
-_03A73	㩳
+_03A73	㩳	ktj㧐
 _06220	戠
 _06223	戣
 _06225	戥
-_06227	戧
-_06229	戩
+_06227	戧	ktj戗
+_06229	戩	ktj戬
 _0622D	戭
 _0623A	戺
 _0623D	戽
@@ -336,7 +338,7 @@ _062B4	抴
 _062B6	抶
 _062BE	抾
 _062BF	抿
-_062CB	拋
+_062CB	拋	ktj抛
 _062CE	拎
 _062DA	拚
 _062EB	拫
@@ -354,7 +356,7 @@ _0630F	挏
 _06310	挐
 _06316	挖
 _06318	挘
-_06329	挩
+_06329	挩	ktj捝
 _0632A	挪
 _0632C	挬
 _06332	挲
@@ -385,13 +387,13 @@ _06375	捵
 _0637C	捼
 _0637D	捽
 _06382	掂
-_06384	掄
+_06384	掄	ktj抡
 _06387	掇
 _0638A	掊
 _06390	掐
 _06394	掔
-_06397	掗
-_06399	掙
+_06397	掗	ktj挜
+_06399	掙	ktj挣
 _0639C	掜
 _0639D	掝
 _0639E	掞
@@ -449,14 +451,14 @@ _0642B	搫
 _0642F	搯
 _06430	搰
 _06433	搳
-_06435	搵
+_06435	搵	ktj揾
 _06437	搷
 _06439	搹
 _0643D	搽
 _06440	摀
 _06441	摁
 _06443	摃
-_0644B	摋
+_0644B	摋	ktj𢫬
 _0644D	摍
 _06450	摐
 _06452	摒
@@ -464,10 +466,10 @@ _06453	摓
 _06454	摔
 _0645A	摚
 _0645B	摛
-_0645C	摜
+_0645C	摜	ktj掼
 _0645D	摝
 _0645E	摞
-_0645F	摟
+_0645F	摟	ktj搂
 _06460	摠
 _06461	摡
 _06466	摦
@@ -475,10 +477,10 @@ _0646D	摭
 _0646E	摮
 _06470	摰
 _06472	摲
-_06473	摳
+_06473	摳	ktj抠
 _06474	摴
 _06475	摵
-_0647B	摻
+_0647B	摻	ktj掺
 _0647D	摽
 _0647F	摿
 _06482	撂
@@ -486,25 +488,24 @@ _06485	撅
 _0648A	撊
 _0648B	撋
 _0648C	撌
-_0648F	撏
-_06490	撐
+_0648F	撏	ktj挦
+_06490	撐	ktj撑
 _06491	撑
 _06496	撖
 _06497	撗
 _06499	撙
 _0649C	撜
-_0649D	撝
-_0649F	撟
+_0649D	撝	ktj㧑
+_0649F	撟	ktj挢
 _064A0	撠
 _064A2	撢
-_064A3	撣
+_064A3	撣	ktj掸
 _064A6	撦
 _064AC	撬
-_064B3	撳
+_064B3	撳	ktj揿
 _064BD	撽
-_064BE	撾
+_064BE	撾	ktj挝
 _064C9	擉
-_064CB	擋
 _064CC	擌
 _064CF	擏
 _064D0	擐
@@ -516,24 +517,24 @@ _064E8	擨
 _064E9	擩
 _064EB	擫
 _064ED	擭
-_064F0	擰
-_064F7	擷
+_064F0	擰	ktj拧
+_064F7	擷	ktj撷
 _064F8	擸
 _064FF	擿
-_06504	攄
+_06504	攄	ktj摅
 _06507	攇
 _06509	攉
 _0650C	攌
 _0650D	攍
-_0650F	攏
+_0650F	攏	ktj拢
 _06510	攐
 _06513	攓
-_06514	攔
+_06514	攔	ktj拦
 _06515	攕
-_06516	攖
+_06516	攖	ktj撄
 _06517	攗
-_06519	攙
-_0651B	攛
+_06519	攙	ktj搀
+_0651B	攛	ktj撺
 _0651E	攞
 _06520	攠
 _06521	攡

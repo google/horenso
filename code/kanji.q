@@ -2,37 +2,37 @@ q,e	祐
 q,m	秣
 q,/	穃
 q,.	窈
-q,w	窯
+q,w	窯	ktj窑
 q,q	窰
 q,r	竓
 q.,	禀
 q.e	稜
-q.r	稟
+q.r	稟	ktj禀
 q.m	窿
 q.q	立	字全体が部首なので一鍵三鍵同一
 q/.	礼
-q/,	祿
+q/,	祿	ktj禄
 q/,	禄
-q/.	禮
-q/m	窪
-q/w	窶	yロウ	hyク
+q/.	禮	ktj礼
+q/m	窪	ktj洼
+q/w	窶	yロウ	hyク	ktj窭
 q;j	穆
 qbk	禹
 qbj	移
-qbl	穎	穎頴
-qb;	穢
-qbL	頴	穎頴	漢字源による部首：頁《，》	大漢和辞典による部首：禾《ｑ》
-qck	禍
+qbl	穎	i穎頴	ktj颖
+qbo	頴	i穎頴	漢字源による部首	hb頁	大漢和辞典による部首	b禾	ktj颕
+qb;	穢	ktj秽
+qck	禍	ktj祸
 qci	禾
 qcj	科
 qco	秧
 qcl	稼
 qc;	穏
-qc;	穩
-qcu	窩
+qc;	穩	ktj稳
+qcu	窩	ktj窝
 qcp	窠	yカ
-qdj	穫
-qfj	稈
+qdj	穫	ktj获
+qfj	稈	ktj秆
 qgo	祁
 qgu	祇
 qgk	祈
@@ -42,22 +42,22 @@ qgp	稀
 qge	稘
 qg;	究
 qgi	穹
-qgl	窮
-qgn	窺
+qgl	窮	ktj穷
+qgn	窺	ktj窥
 qgj	竒	i奇竒	漢字源による部首	b立
 qgK	祈
 qhw	禁
-qhk	禦
+qhk	禦	ktj御
 qho	禺
 qhf	禽
 qhp	秬
 qhq	空	yクウ	hyコウ	b穴	hb工	工を部首とするのは単なる間違い
 qh;	窘
 qhe	窟
-qht	竅
+qht	竅	ktj窍
 qhi	竏
 qhl	竟	yキョウ	hyケイ
-qhr	競	yキョウ	hyケイ	i競竸
+qhr	競	yキョウ	hyケイ	i競竸	ktj竞
 qhr	竸	yキョウ	hyケイ	i競竸
 qjr	禊
 qje	稽
@@ -68,9 +68,9 @@ qkr	稾
 qkw	稿
 qke	窖
 qlw	祭
-qle	穀
+qle	穀	ktj谷
 qlr	窄
-qlq	竄
+qlq	竄	ktj窜
 qlE	穀
 qmw	示
 qmW	礻
@@ -87,7 +87,7 @@ qnt	禸	yジュウ	hyニュウ
 qne	秀
 qnr	秋
 qnR	秌
-qn;	種
+qn;	種	ktj种
 qnf	穐
 qn/	竣	yシュン
 qnl	竪
@@ -99,10 +99,10 @@ qpo	禝
 qpr	禳
 qpf	秤
 qpe	称
-qpe	稱
+qpe	稱	ktj称
 qpt	稷
-qpy	穠	yジョウ	hyニュウ	農の部首は辰《ｙ》
-qpd	穡	yショク	hyソク	嗇の部首は口《ｄ》
+qpy	穠	yジョウ	hyニュウ	農の部首は辰《ｙ》	ktj秾
+qpd	穡	yショク	hyソク	嗇の部首は口《ｄ》	ktj穑
 qpu	穣
 qpu	穰
 qpq	章
@@ -112,7 +112,7 @@ qqj	神
 qq;	祟
 qqi	秦
 qqk	税
-qqk	稅
+qqk	稅	ktj税
 qql	穂
 qql	穗
 qqr	穽
@@ -120,21 +120,24 @@ qqJ	神
 qrj	祖
 qre	祚
 qr;	禅
-qr;	禪
+qr;	禪	ktj禅
 qrl	租
-qrk	積
+qrk	積	ktj积
 qri	穿
 qrq	窃	i窃竊
-qrq	竊	i窃竊
+qrq	竊	i窃竊	ktj窃
 qrw	竰
 qrJ	祖
 qsk	稍
-qsj	窓	i窓牕窗窻
+qsj	窓	i窓牕窗窻	b空	hb宀	hb心
 qsj	窗	i窓牕窗窻
 qsm	窻	i窓牕窗窻
 qsm	牕	i窓牕窗窻
-qs;	竃
-qs:	竈
+qs;	竃	i竃灶竈𥧄䆴
+qs;	灶	i竃灶竈𥧄䆴	b空	hb火
+qs/	𥧄	i竃灶竈𥧄䆴
+qs/	䆴	i竃灶竈𥧄䆴
+qsp	竈	i竃灶竈𥧄䆴
 qtl	秩
 qt;	稚
 qti	稠
@@ -142,8 +145,8 @@ qto	穉
 qtk	窒
 qtq	站
 qtj	端
-qvo	禎
-qvq	禰	yデイ	hyネ	i禰祢
+qvo	禎	ktj祯
+qvq	禰	yデイ	hyネ	i禰祢	ktj祢
 qvq	祢	yデイ	hyネ	i禰祢
 qvj	程
 qvp	稙	yチョク	hyチキ	hyショク	直の部首は目《ｐ》
@@ -152,12 +155,12 @@ qvk	竍
 qvl	竕
 qv;	竚
 qwl	祷	i祷禱
-qwl	禱	i祷禱
+qwl	禱	i祷禱	ktj祷
 qwj	稲
 qwj	稻
-qwr	竇
+qwr	竇	ktj窦
 qwk	童
-qxk	禿
+qxk	禿	ktj秃
 qx;	秡
 qxi	稔	yネン	hyジン
 qxo	稗
@@ -167,7 +170,7 @@ qye	票
 qyw	秒
 qyr	秕
 qyq	秘	i秘祕
-qyq	祕	i秘祕
+qyq	祕	i秘祕	ktj秘
 qyo	𥧔	屁𥧔
 qzl	祓
 qzj	福
@@ -178,7 +181,6 @@ _04105	䄅
 _04148	䅈
 _0414F	䅏
 _04163	䅣
-_041B4	䆴
 _041BF	䆿
 _0793D	礽
 _0793F	礿
@@ -210,7 +212,7 @@ _07982	禂
 _0798B	禋
 _07993	禓
 _07994	禔
-_07995	禕
+_07995	禕	ktj祎
 _07996	禖
 _07997	禗
 _07998	禘
@@ -218,7 +220,7 @@ _0799A	禚
 _0799B	禛
 _0799C	禜
 _079A0	禠
-_079A1	禡
+_079A1	禡	ktj祃
 _079A8	禨
 _079A9	禩
 _079AB	禫
@@ -230,7 +232,7 @@ _079BB	离
 _079C2	秂
 _079C5	秅
 _079C7	秇
-_079C8	秈
+_079C8	秈	ktj籼
 _079CA	秊
 _079CD	种
 _079CE	秎
@@ -266,7 +268,7 @@ _07A47	穇
 _07A48	穈
 _07A4A	穊
 _07A4B	穋
-_07A4C	穌
+_07A4C	穌	ktj稣
 _07A56	穖
 _07A59	穙
 _07A5B	穛
@@ -277,7 +279,7 @@ _07A67	穧
 _07A68	穨
 _07A6A	穪
 _07A6C	穬
-_07A6D	穭
+_07A6D	穭	ktj稆
 _07A6E	穮
 _07A71	穱
 _07A75	穵
@@ -305,7 +307,7 @@ _07AB1	窱
 _07AB2	窲
 _07AB3	窳
 _07AB4	窴
-_07AB5	窵
+_07AB5	窵	ktj窎
 _07AB8	窸
 _07AB9	窹
 _07ABC	窼
@@ -327,4 +329,3 @@ _0FA53	禎
 _25771	𥝱
 _257A9	𥞩
 _257B4	𥞴
-_259C4	𥧄

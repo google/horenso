@@ -1,7 +1,7 @@
 o,x	瑜
 o,q	瑶
-o,q	瑤
-o,z	瑪	yメ	hyバ
+o,q	瑤	ktj瑶
+o,z	瑪	yメ	hyバ	ktj玛
 o,r	瓱
 o,d	用
 o,m	甬
@@ -11,10 +11,10 @@ o,e	疣
 o,w	痒
 o,t	痲
 o,g	瘉
-o,s	瘍
+o,s	瘍	ktj疡
 o,a	癒
-o,b	癢
-o,,	癰
+o,b	癢	ktj痒
+o,,	癰	ktj痈
 o,c	琊
 o.k	珞
 o.d	理
@@ -28,41 +28,41 @@ o.e	畧
 o.a	痢
 o.x	痳
 o.c	瘤
-o.m	療
-o.v	癩
+o.m	療	ktj疗
+o.v	癩	ktj癞
 o/d	玲
 o/f	琅
 o/s	瑠	yル	hyリュウ	i瑠璢
 o/s	璢	yル	hyリュウ	i瑠璢
 o/w	瑯
-o/q	瓏
+o/q	瓏	ktj珑
 o/r	瘰
 o/v	瘻
-o/x	癆
-o/a	癘
-o/c	癧
+o/x	癆	ktj痨
+o/a	癘	ktj疠
+o/c	癧	ktj疬
 o;r	㽗	yホ	hyボウ	hyム	hyモ	hyせ	hyうね	i畝畆𤰖㽗畒
-o;d	琺
+o;d	琺	ktj珐
 o;w	瑁	yボウ	hyマイ	hyバイ
 o;e	甍
 o;a	甫
 o;F	畆	yホ	hyボウ	hyム	hyモ	hyせ	hyうね	i畝畆𤰖㽗畒
 o;R	畒	yホ	hyボウ	hyム	hyモ	hyせ	hyうね	i畝畆𤰖㽗畒
 o;s	畚
-o;f	畝	yホ	hyボウ	hyム	hyモ	hyせ	hyうね	i畝畆𤰖㽗畒
+o;f	畝	yホ	hyボウ	hyム	hyモ	hyせ	hyうね	i畝畆𤰖㽗畒	ktj亩
 o;c	疱	包の部首は勹《ｃ》
 o;v	𤰖	yホ	hyボウ	hyム	hyモ	hyせ	hyうね	i畝畆𤰖㽗畒
 obH	珱
 obp	瑛
-obj	瑩
-obh	瓔
+obj	瑩	ktj莹
+obh	瓔	ktj璎
 obi	畏
-obu	異
+obu	異	ktj异
 obo	痍
-oba	痾
+oba	痾	ktj疴
 obz	痿
-oby	璦
-ob;	癮	yイン	hyオン
+oby	璦	ktj瑷
+ob;	癮	yイン	hyオン	ktj瘾
 oci	王
 ocx	珂
 ocz	珈
@@ -70,10 +70,10 @@ oca	瑕
 ocp	瓜
 ocu	瓦
 ocj	瓮
-och	甌
+och	甌	ktj瓯
 ocy	甕
 oco	画	yガ	i画畫
-oco	畫	yガ	i画畫
+oco	畫	yガ	i画畫	ktj画
 ocv	疫
 oc;	痂
 ock	瘟
@@ -84,10 +84,10 @@ odf	畍
 odu	疥
 odi	癨
 ofi	玩
-ofu	環
+ofu	環	ktj环
 ofo	甘
 ofp	疳
-ofs	癇
+ofs	癇	ktj痫
 ofd	癌
 ogj	玖
 ogo	球
@@ -95,7 +95,7 @@ ogp	畸
 ogi	畿	畿の中に戈《ｉ》がある
 ogu	疑
 oga	疚	久の部首は丿《ａ》
-ogk	瘧
+ogk	瘧	ktj疟
 ogq	琪
 ohf	玉
 ohd	琴
@@ -103,13 +103,13 @@ oho	瑾
 ohs	瓩
 ohe	疆
 ojd	珪
-ojf	現
-ojr	瓊
+ojf	現	ktj现
+ojr	瓊	ktj琼
 oje	甄
 oja	畦
 ojo	畩
 ojs	痃
-ojw	痙
+ojw	痙	ktj痉
 okd	珸
 oks	琥
 okj	瑚
@@ -117,15 +117,15 @@ oka	瓠
 okf	甲
 oke	痼
 ols	珊
-ola	琿
-olj	瑣
+ola	琿	ktj珲
+olj	瑣	ktj琐
 olk	瑳
 old	産
-old	產
+old	產	ktj产
 olf	痕
 oms	珥
 ome	瑟
-omd	璽
+omd	璽	ktj玺
 oma	瓷
 omg	甾	上部に巛《ｇ》がある	yシ	hyサイ
 omw	畤
@@ -141,7 +141,7 @@ opf	璋
 opd	畳
 opD	疂
 opE	疉
-ope	疊
+ope	疊	ktj叠
 opa	症
 ops	瘴
 oqp	瑞
@@ -164,12 +164,12 @@ ori	疝	yセン
 oru	疽	yソ
 orp	痊
 orh	瘠
-ora	癬
+ora	癬	ktj癣
 orE	𤴔
 osu	甑
 oso	痩
 oso	瘦
-osi	瘡
+osi	瘡	ktj疮
 otO	♂
 ota	玳
 ots	琢
@@ -177,7 +177,7 @@ otk	瑃	yチュン
 oto	男
 oti	畜
 otj	畴
-otj	疇
+otj	疇	ktj畴
 otp	疒	yダク	hyニャク
 oth	疸
 otq	痰
@@ -200,7 +200,7 @@ owq	畋
 owi	疼
 owu	痘
 owr	癜
-owe	癲
+owe	癲	ktj癫
 oxu	玻
 oxp	珀
 oxj	珮
@@ -218,7 +218,7 @@ oyx	瓢
 oyr	瓶	yビン	hyヘイ	i瓶甁
 oyr	甁	yビン	hyヘイ	i瓶甁
 oye	畔
-oyv	畢
+oyv	畢	ktj毕
 oyd	番
 oys	疲
 oya	病
@@ -231,7 +231,7 @@ ozv	瓸
 ozj	甓
 ozp	畉
 ozd	畐
-ozc	瘋
+ozc	瘋	ktj疯
 ozi	癖
 _03F72	㽲
 _03F77	㽷
@@ -305,10 +305,10 @@ _07444	瑄
 _07446	瑆
 _07447	瑇
 _0744A	瑊
-_0744B	瑋
+_0744B	瑋	ktj玮
 _0744D	瑍
 _07451	瑑
-_07452	瑒
+_07452	瑒	ktj玚
 _07453	瑓
 _07457	瑗
 _0745D	瑝
@@ -316,9 +316,9 @@ _07462	瑢
 _0746B	瑫
 _0746D	瑭
 _07471	瑱
-_07472	瑲
+_07472	瑲	ktj玱
 _07475	瑵
-_0747D	瑽
+_0747D	瑽	ktj𪻐
 _0747F	瑿
 _07480	璀
 _07481	璁
@@ -326,7 +326,7 @@ _07485	璅
 _07486	璆
 _07487	璇
 _07488	璈
-_07489	璉
+_07489	璉	ktj琏
 _0748A	璊
 _07490	璐
 _07492	璒
@@ -338,12 +338,12 @@ _0749C	璜
 _0749F	璟
 _074A0	璠
 _074A1	璡
-_074A3	璣
+_074A3	璣	ktj玑
 _074A5	璥
 _074A8	璨
 _074A9	璩
 _074AA	璪
-_074AB	璫
+_074AB	璫	ktj珰
 _074B2	璲
 _074B5	璵
 _074B8	璸
@@ -359,7 +359,7 @@ _074C9	瓉
 _074CB	瓋
 _074D6	瓖
 _074D8	瓘
-_074DA	瓚
+_074DA	瓚	ktj瓒
 _074DB	瓛
 _074DD	瓝
 _074DE	瓞
@@ -451,7 +451,7 @@ _075F7	痷
 _075F8	痸
 _075F9	痹
 _075FB	痻
-_07602	瘂
+_07602	瘂	ktj痖
 _07603	瘃
 _07607	瘇
 _07608	瘈
@@ -460,7 +460,7 @@ _0760C	瘌
 _0760F	瘏
 _07610	瘐
 _07611	瘑
-_07613	瘓
+_07613	瘓	ktj痪
 _07615	瘕
 _07616	瘖
 _07618	瘘
@@ -468,7 +468,7 @@ _07619	瘙
 _0761B	瘛
 _0761C	瘜
 _0761D	瘝
-_0761E	瘞
+_0761E	瘞	ktj瘗
 _07623	瘣
 _07625	瘥
 _07628	瘨
@@ -476,28 +476,28 @@ _07629	瘩
 _0762D	瘭
 _0762F	瘯
 _07631	瘱
-_07632	瘲
+_07632	瘲	ktj疭
 _07633	瘳
 _07635	瘵
 _07638	瘸
-_0763A	瘺
+_0763A	瘺	ktj瘘
 _0763C	瘼
 _0763D	瘽
 _07641	癁
 _07643	癃
-_07649	癉
+_07649	癉	ktj瘅
 _0764B	癋
 _07650	癐
 _07653	癓
 _07655	癕
 _07659	癙
-_0765F	癟
+_0765F	癟	ktj瘪
 _07660	癠
-_07664	癤
-_07665	癥
-_0766D	癭
+_07664	癤	ktj疖
+_07665	癥	ktj症
+_0766D	癭	ktj瘿
 _0766F	癯
-_07671	癱
+_07671	癱	ktj瘫
 _07675	癵
 _24A4D	𤩍
 _24B56	𤭖

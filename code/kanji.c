@@ -7,15 +7,15 @@ c,m	冥
 c,v	冶
 c,z	勇	i勇勈
 c,z	勈	i勇勈
-c,c	務
+c,c	務	ktj务
 c,.	勿	yモチ	hyブツ
 c,/	匁
 c.x	凌
 c.Z	凛
-c.z	凜
+c.z	凜	ktj凛
 c.m	利
 c.j	剌
-c.v	劉	yリュウ
+c.v	劉	yリュウ	ktj刘
 c.,	力
 c./	勠
 c/v	六
@@ -24,9 +24,9 @@ c/k	冽
 c/c	列
 c/x	劣
 c/m	励	i励勵
-c/m	勵	i励勵
+c/m	勵	i励勵	ktj励
 c/,	労	i労勞
-c/,	勞	i労勞
+c/,	勞	i労勞	ktj劳
 c/l	勒
 c/j	匳
 c;l	凡
@@ -46,29 +46,29 @@ cE	𠔉	b八	八を取り除くと大《ｅ》に見える
 cJ	𠦝	早の部首は日《ｊ》	b十
 cbk	允
 cbi	医	i医毉醫
-cbi	醫	i医毉醫	b匸	hb酉
+cbi	醫	i医毉醫	b匸	hb酉	ktj医
 cbo	毉	i医毉醫	b匸	hb殳
-cbl	勻	yイン	hyキン
+cbl	勻	yイン	hyキン	ktj匀
 cbl	匀	yイン	hyキン
 ccz	円	i圓円
-ccz	圓	i圓円	b冂	hb囗
+ccz	圓	i圓円	b冂	hb囗	ktj圆
 cck	冤
 ccv	凹
 ccj	加
 cc;	化
 ccx	卦
 ccl	卡	yカ	hyソウ
-ccu	兗	yエン
+ccu	兗	yエン	ktj兖
 cci	划	yカ	hyゲ
-cdi	凱
+cdi	凱	ktj凯
 cdj	刈
 cd;	刮
 cdl	割
-cdo	剴
-cdm	劃
+cdo	剴	ktj剀
+cdm	劃	ktj划
 cdu	劼
 cdk	劾
-cdp	匯	yカイ	i匯滙	hyワイ
+cdp	匯	yカイ	i匯滙	hyワイ	ktj汇
 cdp	滙	yカイ	i匯滙	hyワイ	b匚	hb氵
 cfk	冠
 cfu	凵
@@ -77,22 +77,21 @@ cfI	凾
 cfj	刊
 cfl	勘
 cf;	勧
-cf;	勸
+cf;	勸	ktj劝
 cgp	其
 cga	冀
 cgc	几
 cgo	剞
-cgk	匱
+cgk	匱	ktj匮
 cgi	卉
 cgj	帰	i帰歸皈
-cgj	歸	i帰歸皈	b刂	hb止
+cgj	歸	i帰歸皈	b刂	hb止	ktj归
 cgm	皈	i帰歸皈	b刂	hb白
 cgC	𠘨
 chg	兇
 chc	兢	部首の［十］を除けば、［兄］が残り、その部首は［儿］->ｃ
 chv	共
 chk	具
-chf	况
 ch;	凝
 chb	凶
 cho	劬
@@ -100,13 +99,13 @@ chs	勖	yキョク
 chs	勗	yキョク
 chl	勤
 chz	勲	i勲勳勛
-chz	勛	i勲勳勛
+chz	勛	i勲勳勛	ktj勋
 chq	勳	i勲勳勛
 ch/	匈
 chi	匡
 cha	区
-cha	區
-chp	協
+cha	區	ktj区
+chp	協	ktj协
 chL	勤
 cjc	元
 cjk	兄
@@ -118,16 +117,16 @@ cjs	冏
 cjz	刑
 cji	刔
 cjl	券
-cjo	剄
+cjo	剄	ktj刭
 cj;	剣
-cj;	劍
+cj;	劍	ktj剑
 cj>	剱
-cjx	劇
+cjx	劇	ktj剧
 cjp	劒
 cjP	劔
 cjJ	劤	yケイ
 cj/	劵
-cjj	勁	yケイ
+cjj	勁	yケイ	ktj劲
 cj,	勍
 cja	匸
 cj.	𠝏
@@ -141,7 +140,7 @@ ck.	凅
 ckn	凩
 ckf	凰
 ckg	刳
-ck;	剛
+ck;	剛	ktj刚
 ckx	功
 ckp	劫	i劫刧
 ckp	刧	i劫刧
@@ -151,24 +150,24 @@ ckj	勾
 ckh	匣
 ckv	午
 clc	克
-clv	冊
+clv	冊	ktj册
 clV	册
 cl;	再
-clb	刪
+clb	刪	ktj删
 clj	刷
 clk	刻
 clx	削
-clm	剋
+clm	剋	ktj克
 clz	剤
-clz	劑
+clz	劑	ktj剂
 cmv	児
-cmv	兒
+cmv	兒	ktj儿
 cmc	刺
 cm/	匙
 cm.	兕
 cnz	充
 cnk	写	i寫写冩
-cnk	寫	i寫写冩	b冖	hb宀
+cnk	寫	i寫写冩	b冖	hb宀	ktj写
 cn,	冩	i寫写冩
 cn;	准
 cnx	出
@@ -177,13 +176,13 @@ cna	十
 cnv	廿
 cpc	冗
 cpj	処	i處処
-cpj	處	i處処	b几	hb虍
+cpj	處	i處処	b几	hb虍	ktj处
 cpo	初
 cpi	剰
 cpi	剩
 cpz	助
 cph	劭
-cpu	勝
+cpu	勝	ktj胜
 cpv	匠
 cpx	升
 cqi	儿
@@ -191,24 +190,24 @@ cql	凄
 cqj	刃
 cqJ	刄
 cqk	制
-cq;	勢
+cq;	勢	ktj势
 cr;	先
 crp	冉	yゼン	hyネン
 crk	切
 cri	刋	yセン
 cru	刹	yセツ	hyセチ	hyサツ	i刹剎
-cru	剎	yセツ	hyセチ	hyサツ	i刹剎
+cru	剎	yセツ	hyセチ	hyサツ	i刹剎	ktj刹
 crl	前
 crm	剪
 cr,	勣
 crj	千
 cro	占
-csi	兌	i兌兊
+csi	兌	i兌兊	ktj兑
 csi	兊	i兌兊
-csk	則
+csk	則	ktj则
 cso	剏
 cso	刱
-csl	創
+csl	創	ktj创
 cs/	剿	yソウ
 cs;	勦
 csp	匆	i匆匇
@@ -234,24 +233,24 @@ cv;	刁
 cwn	兎
 cwn	兔
 cw;	党	i党黨
-cw;	黨	i党黨	b儿	hb黑
+cw;	黨	i党黨	b儿	hb黑	ktj党
 cwm	兜
 cwi	典
 cwj	冬
-cwp	凍
+cwp	凍	ktj冻
 cwu	刀
 cwU	刂	yトウ
 cwk	到
 cwh	剳
 cwl	努
-cwo	動
+cwo	動	ktj动
 cxc	入
 cxz	八
 cxk	内	yナイ	hyダイ
-cxk	內
+cxk	內	ktj内
 cxo	凪
 cxl	凸
-cxu	剝	i剝剥
+cxu	剝	i剝剥	ktj剥
 cxu	剥	i剝剥
 cxv	匂
 cx;	匿
@@ -274,10 +273,10 @@ cyV	卑
 czi	兵
 czu	冕
 czv	冖	yベキ
-czo	冪
+czo	冪	ktj幂
 czc	分
 czg	刎
-czk	別
+czk	別	ktj别
 czf	副
 czp	劈
 cz;	勉
@@ -301,7 +300,6 @@ _0519D	冝
 _0519E	冞
 _051AD	冭
 _051BC	冼
-_051C3	凃
 _051CA	凊
 _051D4	凔
 _051D8	凘
@@ -325,7 +323,7 @@ _05246	剆
 _05249	剉
 _05252	剒
 _05255	剕
-_05257	剗
+_05257	剗	ktj刬
 _0525A	剚
 _0525C	剜
 _0525F	剟
@@ -341,9 +339,9 @@ _0527C	剼
 _05280	劀
 _05281	劁
 _05282	劂
-_0528A	劊
+_0528A	劊	ktj刽
 _0528B	劋
-_0528C	劌
+_0528C	劌	ktj刿
 _05293	劓
 _05296	劖
 _05297	劗
@@ -357,9 +355,9 @@ _052CA	勊
 _052CC	勌
 _052D0	勐
 _052D1	勑
-_052E9	勩
+_052E9	勩	ktj勚
 _052F0	勰
-_052F1	勱
+_052F1	勱	ktj劢
 _052F4	勴
 _052F7	勷
 _0530A	匊
@@ -367,7 +365,7 @@ _0530B	匋
 _0531C	匜
 _05322	匢
 _05324	匤
-_0532D	匭
+_0532D	匭	ktj匦
 _05330	匰
 _05334	匴
 _05335	匵

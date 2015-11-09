@@ -1,13 +1,13 @@
 a,a	万	yマン	hyバン
-a,a	萬	b一	hb艹
+a,a	萬	b一	hb艹	ktj万
 a,d	与
-a,d	與	b一	hb臼
+a,d	與	b一	hb臼	ktj与
 a,m	也
 a,s	予	予豫
 a.f	両	i両兩
-a.f	兩	i両兩	b一	hb入
+a.f	兩	i両兩	b一	hb入	ktj两
 a.d	乱
-a.d	亂
+a.d	亂	ktj乱
 a.a	了
 a.s	亮
 a;o	乓	yホウ	Ppang1	b丶
@@ -21,7 +21,7 @@ aba	弌	i一弌
 abk	于
 abl	云
 abj	亜
-abj	亞
+abj	亞	ktj亚
 acK	㊦
 ack	下
 acl	个
@@ -34,7 +34,7 @@ ad;	亥
 afl	丱
 afj	串	yカン	hyセン
 afa	丸
-afs	乾
+afs	乾	ktj干
 agk	㐂	b一	yキ
 agl	丘
 agj	久
@@ -65,6 +65,7 @@ amd	之
 amS	亊
 ams	事
 ana	主
+anz	乑	yシュウ	hyハン	hyヘン	hyギン	hyゴン
 apA	㊤
 apf	丈
 apa	上
@@ -79,11 +80,11 @@ aq;	丼	yセイ
 aql	井	yセイ
 arj	亘	yセン
 asf	争	b亅	i爭争	yソウ
-asf	爭	b亅	hb爪	i爭争	yソウ
+asf	爭	b亅	hb爪	i爭争	yソウ	ktj争
 at;	丑
 atl	中
 atl	㊥
-ato	丟	yチュウ
+ato	丟	yチュウ	ktj丢
 ata	丶
 atj	丹
 ati	乃	yダイ	hyナイ
@@ -99,7 +100,7 @@ ayd	丕
 azj	不
 azi	乒	yヘイ	Pping1	b丿
 azl	丙
-azk	並	i並竝
+azk	並	i並竝	ktj并
 azk	竝	i並竝	b一	hb立
 az;	丿
 _0342C	㐬
@@ -113,7 +114,6 @@ _04E2F	丯
 _04E30	丰
 _04E40	乀
 _04E47	乇
-_04E51	乑
 _04E5A	乚
 _04E5C	乜
 _04E8D	亍
