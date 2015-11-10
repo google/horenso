@@ -141,8 +141,8 @@ hjt	慊
 hjz	慧
 hjx	慳	yケン	hyカン	ktj悭
 hja	慶	ktj庆
-hjv	憇
-hjl	憩
+hjl	憩	i憩憇
+hjl	憇	i憩憇
 hjk	憬
 hj;	憲	ktj宪
 hje	懸	ktj悬
