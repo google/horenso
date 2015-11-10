@@ -4,24 +4,25 @@ k,w	杙
 k,c	杢
 k,v	杳
 k,f	枚
-k,g	枡
+k,g	枡	i枡桝
+k,g	桝	i枡桝
 k,j	柚
 k,b	柾	yまさ	hyキュウ
-k,l	桝
 k,n	棉
 k,u	椛	yもみじ	hyかば	花の部首は艹《ｕ》
 k,r	椰
 k,q	楊	ktj杨
-k,h	楡
+k,h	楡	i楡榆
+k,h	榆	i楡榆
 k,t	榁
 k,x	榕
 k,d	様
 k,d	樣	ktj样
-k,z	樒
+k,z	樒	i樒櫁
+k,z	櫁	i樒櫁
 k,s	模
 k,;	橸	yまさ
 k,,	檬	yモウ	hyボウ
-k,.	櫁
 k.k	朸
 k.j	李
 k./	来	i来來
@@ -133,8 +134,8 @@ kgm	枳
 kgo	柩
 kgd	桔	吉の部首は口《ｄ》
 kg;	棄	ktj弃
-kgq	棊
-kgl	棋
+kgl	棊	i棋棊
+kgl	棋	i棋棊
 kga	椈
 kgw	榿	yキ	豈の部首は豆《ｗ》	ktj桤
 kg.	槻
@@ -156,7 +157,9 @@ khd	極	yキョク	hyゴク	ktj极
 kht	槿
 khs	橋	ktj桥
 kho	橿	右部に田《ｏ》が２つある
-khk	欅
+khk	欅	i欅櫸﨔
+khk	櫸	ktj榉	i欅櫸﨔
+khi	﨔	i欅櫸﨔
 kja	杰
 kjd	枅
 kj;	桀
@@ -187,7 +190,8 @@ kk/	槁
 kkj	構	ktj构
 kkj	构
 kkq	槓
-kkz	槹
+kkz	槹	i槹槔	Pgao1
+kkz	槔	i槹槔	Pgao1
 kko	檎	yゴ	hyゴン	hyキン
 kla	札
 klx	杉	klx->杉 mqx->涁 hyx->彬
@@ -232,8 +236,8 @@ knr	柊
 knd	柔	yジュウ	hyニュウ
 knl	柘
 kns	株	yシュ	hyチュ
-kne	棕
-knc	椶
+kne	棕	i棕椶
+kne	椶	i棕椶
 knv	楢
 kng	楫
 knw	楯
@@ -558,7 +562,6 @@ _06976	楶
 _0697A	楺
 _0697F	楿
 _06980	榀
-_06986	榆
 _0698D	榍
 _06992	榒
 _06996	榖
@@ -584,7 +587,6 @@ _069C4	槄
 _069C9	槉
 _069CF	槏
 _069D1	槑
-_069D4	槔
 _069D6	槖
 _069E2	槢
 _069E3	槣
@@ -678,7 +680,6 @@ _06AEC	櫬	ktj榇
 _06AF0	櫰
 _06AF1	櫱	ktj蘖
 _06AF2	櫲
-_06AF8	櫸	ktj榉
 _06AF9	櫹
 _06AFC	櫼
 _06AFD	櫽
