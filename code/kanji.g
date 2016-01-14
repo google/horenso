@@ -141,6 +141,7 @@ glm	巉
 gld	左
 glg	差	yサ	hyシャ	hyシ
 glj	座
+glx	巑
 gmg	妛	漢字源による部首：山《ｇ》
 gms	尸
 gm;	屍	ktj尸
@@ -414,7 +415,6 @@ _05DC6	巆
 _05DC7	巇
 _05DCB	巋	ktj岿
 _05DCF	巏
-_05DD1	巑
 _05DD4	巔	ktj巅
 _05DD5	巕
 _05DD8	巘
