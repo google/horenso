@@ -243,7 +243,7 @@ tzl	腐
 tzp	腑
 tzj	腹
 tz;	膚	ktj肤
-tzx	舞	bzx->儛
+tzi	舞
 tz,	艀
 _043F0	䏰
 _04408	䐈

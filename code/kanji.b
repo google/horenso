@@ -249,7 +249,7 @@ bzK	倂
 bzc	偏
 bzf	傅
 bzh	僻
-bzx	儛	tzx->舞
+bzx	儛
 bz;	侮	i侮侮
 bz;	侮	i侮侮
 bzi	份	yフン	hyヒン
