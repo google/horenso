@@ -187,6 +187,7 @@ pyq	眇	yビョウ	hyミョウ
 pyp	眉	部首：目
 pyr	砒
 pyf	碑
+pyf	碑
 pyw	磐
 pye	礬	ktj矾
 pzp	皿	yベイ	hyメイ
