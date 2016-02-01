@@ -327,6 +327,17 @@ if (!@codes_files) {
     while (my $code_file = readdir($code_dir)) {
         push @codes_files, "$code_dir_path/$code_file";
     }
+
+    my @keys = ('a'..'z', 'semi', 'comma', 'period', 'slash');
+    my $kanji_tree_path = "$code_dir_path/kanji";
+    for my $first_key (@keys) {
+        for my $second_key (@keys, 'unassigned') {
+            my $full_path = "$kanji_tree_path/$first_key/$second_key";
+            if (-f $full_path) {
+                push @codes_files, $full_path;
+            }
+        }
+    }
 }
 
 sub simplify_yomi {
@@ -363,9 +374,9 @@ sub read_codes {
             }
 
             my $priority = $kanji_to_priority{$value};
-            next if !defined($priority) and $codes_file =~ m#/kanji\.#;
+            next if !defined($priority) and $codes_file =~ m#/kanji[./]#;
 
-            if ($stats_mode && $codes_file =~ m#/kanji.[^/]+$#) {
+            if ($stats_mode && $codes_file =~ m#/kanji[./]#) {
                 $total_by_priority{$priority}++;
                 if (length($key) > 3) {
                     # コードが３文字以上だと入力できないので、
