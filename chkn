@@ -206,6 +206,14 @@ sub invert_shift_key {
     return $key;
 }
 
+sub last_char {
+    # stringの最後の一文字だけをfuncで変換する。
+    my ($func, $string) = @_;
+    my $penult_char = length($string) - 1;
+    return substr($string, 0, $penult_char) .
+        $func->(substr($string, $penult_char));
+}
+
 sub term_copy {
     my $copy_tool = $ENV{COPY_TOOL};
     if (!$copy_tool) {
@@ -388,8 +396,7 @@ sub read_codes {
             # 優先度の低い方をシフトコードに移す
             if (defined $codes{$key}) {
                 die if length($key) != 3;
-                my $shift_key =
-                    substr($key, 0, 2) . shift_key(substr($key, 2));
+                my $shift_key = last_char(\&shift_key, $key);
                 die "$codes_file $key $shift_key"
                     if defined($codes{$shift_key});
 
@@ -405,19 +412,28 @@ sub read_codes {
             die "Duplicate code: $key" if defined $codes{$key};
             $codes{$key} = $value;
 
-            if ($lang eq 'cht' && length($key) <= 3) {
-                my $kantaiji_key = $key;
-                $kantaiji_key =~ tr/a-zA-Z/A-Za-z/;
-                for my $note (@notes) {
-                    next if $note !~ m/^ktj(.*)$/;
-                    my $kantaiji = $1;
-                    if (!$stats_mode) {
-                        write_priority($kantaiji, $priority - 1);
+            if (length($key) <= 3) {
+                if ($lang eq 'cht') {
+                    my $kantaiji_key = $key;
+                    $kantaiji_key =~ tr/a-zA-Z/A-Za-z/;
+                    for my $note (@notes) {
+                        next if $note !~ m/^ktj(.*)$/;
+                        my $kantaiji = $1;
+                        if (!$stats_mode) {
+                            write_priority($kantaiji, $priority - 1);
+                        }
+                        die "$codes_file" if $kantaiji_key eq $key;
+                        $codes{$kantaiji_key} = $kantaiji;
+                        $kantaiji_key = last_char(\&invert_shift_key, $kantaiji_key);
                     }
-                    die "$codes_file" if $kantaiji_key eq $key;
-                    $codes{$kantaiji_key} = $kantaiji;
-                    $kantaiji_key = substr($kantaiji_key, 0, 2) .
-                        invert_shift_key(substr($kantaiji_key, 2, 1));
+                } elsif ($lang eq 'jpn') {
+                    for my $note (@notes) {
+                        next if $note !~ m/^sjt(.*)$/;
+                        my $shinjitai = $1;
+                        my $shift_key = last_char(\&invert_shift_key, $key);
+                        $codes{$shift_key} = $value;
+                        $codes{$key} = $shinjitai;
+                    }
                 }
             }
 
