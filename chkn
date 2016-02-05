@@ -322,21 +322,17 @@ sub guide_ji  {
 }
 
 if (!@codes_files) {
-    my $code_dir_path = "$FindBin::Bin/code";
-    opendir my $code_dir, $code_dir_path or die;
-    while (my $code_file = readdir($code_dir)) {
-        push @codes_files, "$code_dir_path/$code_file";
-    }
+    my @dirs = ("$FindBin::Bin/code");
 
-    my @keys = ('a'..'z', 'semi', 'comma', 'period', 'slash');
-    my $kanji_tree_path = "$code_dir_path/kanji";
-    for my $first_key (@keys) {
-        for my $second_key (@keys, 'unassigned') {
-            my $full_path = "$kanji_tree_path/$first_key/$second_key";
-            if (-f $full_path) {
-                push @codes_files, $full_path;
-            }
+    while (@dirs) {
+        my $path = pop @dirs;
+        next if $path =~ m{/\.+$};
+        if (-f $path) {
+            push @codes_files, $path;
+            next;
         }
+        opendir my $dir_handle, $path or die "$!";
+        push @dirs, map { "$path/$_" } readdir($dir_handle);
     }
 }
 
