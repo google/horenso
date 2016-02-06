@@ -236,6 +236,12 @@ sub write_priority {
         $kanji_to_priority{$ji} = $pri;
     }
 }
+
+sub read_priority {
+    my ($ji) = @_;
+    return $kanji_to_priority{$ji} // -1;
+}
+
 {
     open my $priority, '<', "$FindBin::Bin/priority/$lang";
     binmode $priority, ':utf8';
@@ -311,8 +317,7 @@ sub guide_ji  {
     my ($key) = @_;
     my $raw_ji = $codes{$key};
     my $padding = q{ } x (2 - char_width $raw_ji);
-    my $priority = $kanji_to_priority{$raw_ji} // 0;
-    my $pri_color = $pri_colors[$max_pri - $priority] // q{};
+    my $pri_color = $pri_colors[$max_pri - read_priority($raw_ji)] // q{};
     return "$pri_color$raw_ji\e[39m$padding";
 }
 
@@ -358,10 +363,7 @@ sub read_codes {
         my $register = sub {
             my ($key, $value) = @_;
 
-            my $priority = $kanji_to_priority{$value};
-            if (!defined($priority) && $codes_file =~ m#/kanji[./]#) {
-                return;
-            }
+            my $priority = read_priority($value);
 
             if ($stats_mode && $codes_file =~ m#/kanji[./]#) {
                 $ji_set_by_priority{$priority}->{$value} = 1;
@@ -383,8 +385,7 @@ sub read_codes {
                 die "$codes_file $key $shift_key"
                     if defined($codes{$shift_key});
 
-                if ($kanji_to_priority{$value} >
-                        $kanji_to_priority{$codes{$key}}) {
+                if (read_priority($value) > read_priority($codes{$key})) {
                     $codes{$shift_key} = $codes{$key};
                     delete $codes{$key};
                 } else {
@@ -405,8 +406,6 @@ sub read_codes {
                 die;
             }
 
-            my $priority = $kanji_to_priority{$value};
-
             my $notes_by_prefix = sub {
                 my ($prefix) = @_;
                 my @result_notes;
@@ -422,7 +421,7 @@ sub read_codes {
                 $kantaiji_key =~ tr/a-zA-Z/A-Za-z/;
                 for my $kantaiji ($notes_by_prefix->('ktj')) {
                     if (!$stats_mode) {
-                        write_priority($kantaiji, $priority - 1);
+                        write_priority($kantaiji, read_priority($value) - 1);
                     }
                     die "$codes_file" if $kantaiji_key eq $key;
                     $register->($kantaiji_key, $kantaiji);
@@ -581,7 +580,7 @@ sub read_codes {
                     my $ucase_code = shift_last_char($lcase_code);
                     my $ucase_kanji = $codes{$ucase_code};
                     my $ucase_pri = defined $ucase_kanji
-                        ? ($kanji_to_priority{$ucase_kanji} // -1)
+                        ? read_priority($ucase_kanji)
                         : -1;
                     if ($ucase_pri >= $max_pri - 1) {
                         print "$ucase_code\t$ucase_kanji # 優先度=$ucase_pri\n";
