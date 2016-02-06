@@ -190,28 +190,15 @@ my @uncommitted;
 
 my @kanji_keys = ('a'..'z', q{;}, q{,}, q{.}, q{/});
 
-sub shift_key {
-    my ($key) = @_;
-    $key =~ tr{1-90[a-z];,./}{!@#$%^&*()[A-Z]:<>?};
-    return $key;
-}
-
-sub invert_shift_key {
-    my ($key) = @_;
-    my $orig = $key;
-    $key =~ tr{!@#$%^&*()[A-Z]:<>?}{1-90[a-z];,./};
-    if ($orig eq $key) {
-        $key = shift_key $key;
+sub shift_last_char {
+    my ($full_key) = @_;
+    my @key = split q{}, $full_key;
+    my $orig = $key[-1];
+    $key[-1] =~ tr{!@#$%^&*()A-Z:<>?}{1-90a-z;,./};
+    if ($orig eq $key[-1]) {
+        $key[-1] =~ tr{1-90a-z;,./}{!@#$%^&*()A-Z:<>?};
     }
-    return $key;
-}
-
-sub last_char {
-    # stringの最後の一文字だけをfuncで変換する。
-    my ($func, $string) = @_;
-    my $penult_char = length($string) - 1;
-    return substr($string, 0, $penult_char) .
-        $func->(substr($string, $penult_char));
+    return join q{}, @key;
 }
 
 sub term_copy {
@@ -368,17 +355,13 @@ sub read_codes {
             or die "Cannot open $codes_file: $!";
         binmode $codes, ':utf8';
 
-        while (my $line = <$codes>) {
-            chomp $line;
-
-            my ($key, $value, @notes) = split m/\t/, $line;
-            if (!defined $value) {
-                print STDERR "Could not process code: $line\n";
-                die;
-            }
+        my $register = sub {
+            my ($key, $value) = @_;
 
             my $priority = $kanji_to_priority{$value};
-            next if !defined($priority) and $codes_file =~ m#/kanji[./]#;
+            if (!defined($priority) && $codes_file =~ m#/kanji[./]#) {
+                return;
+            }
 
             if ($stats_mode && $codes_file =~ m#/kanji[./]#) {
                 $ji_set_by_priority{$priority}->{$value} = 1;
@@ -396,7 +379,7 @@ sub read_codes {
             # 優先度の低い方をシフトコードに移す
             if (defined $codes{$key}) {
                 die if length($key) != 3;
-                my $shift_key = last_char(\&shift_key, $key);
+                my $shift_key = shift_last_char($key);
                 die "$codes_file $key $shift_key"
                     if defined($codes{$shift_key});
 
@@ -411,31 +394,46 @@ sub read_codes {
 
             die "Duplicate code: $key" if defined $codes{$key};
             $codes{$key} = $value;
+        };
 
-            if (length($key) <= 3) {
-                if ($lang eq 'cht') {
-                    my $kantaiji_key = $key;
-                    $kantaiji_key =~ tr/a-zA-Z/A-Za-z/;
-                    for my $note (@notes) {
-                        next if $note !~ m/^ktj(.*)$/;
-                        my $kantaiji = $1;
-                        if (!$stats_mode) {
-                            write_priority($kantaiji, $priority - 1);
-                        }
-                        die "$codes_file" if $kantaiji_key eq $key;
-                        $codes{$kantaiji_key} = $kantaiji;
-                        $kantaiji_key = last_char(\&invert_shift_key, $kantaiji_key);
+        while (my $line = <$codes>) {
+            chomp $line;
+
+            my ($key, $value, @notes) = split m/\t/, $line;
+            if (!defined $value) {
+                print STDERR "Could not process code: $line\n";
+                die;
+            }
+
+            my $priority = $kanji_to_priority{$value};
+
+            my $notes_by_prefix = sub {
+                my ($prefix) = @_;
+                my @result_notes;
+                for my $note (@notes) {
+                    next if $note !~ m/^\Q$prefix\E/;
+                    push @result_notes, substr($note, length($prefix));
+                }
+                return @result_notes;
+            };
+
+            if (length($key) <= 3 && $lang eq 'cht') {
+                my $kantaiji_key = $key;
+                $kantaiji_key =~ tr/a-zA-Z/A-Za-z/;
+                for my $kantaiji ($notes_by_prefix->('ktj')) {
+                    if (!$stats_mode) {
+                        write_priority($kantaiji, $priority - 1);
                     }
-                } elsif ($lang eq 'jpn') {
-                    for my $note (@notes) {
-                        next if $note !~ m/^sjt(.*)$/;
-                        my $shinjitai = $1;
-                        my $shift_key = last_char(\&invert_shift_key, $key);
-                        $codes{$shift_key} = $value;
-                        $codes{$key} = $shinjitai;
-                    }
+                    die "$codes_file" if $kantaiji_key eq $key;
+                    $register->($kantaiji_key, $kantaiji);
                 }
             }
+            if ($lang eq 'jpn') {
+                for my $sjt ($notes_by_prefix->('sjt')) {
+                    $register->($key, $sjt);
+                }
+            }
+            $register->($key, $value);
 
             # hbかhyの注がある場合は%suggestionsのマップを拡張する
 
@@ -451,7 +449,7 @@ sub read_codes {
                     }
                 }
                 $yomiken[$match_id];
-            } map {substr $_, 2} grep {$_ =~ /^hy/} @notes;
+            } $notes_by_prefix->('hy');
 
             # hbに相当する部首鍵を計算する
             my @hb_keys = map {
@@ -460,24 +458,18 @@ sub read_codes {
                     die;
                 }
                 $rad_to_key{$_};
-            } map {substr $_, 2} grep {$_ =~ /^hb/} @notes;
+            } $notes_by_prefix->('hb');
 
             # 実際の読み・部首は明記されている場合、サジェストに入れる
-            my @code_source_notes = map {
-                my $x = $_;
-                $x =~ s/^y/読み＝/;
-                $x =~ s/^b/部首＝/;
-                $x;
-            } grep {
-                $_ =~ /^[yb]/;
-            } @notes;
+            my @code_source_notes;
+            push @code_source_notes, map { "部首＝$_" } $notes_by_prefix->('b');
+            push @code_source_notes, map { "読み＝$_" } $notes_by_prefix->('y');
 
             next if !@hb_keys && !@hy_keys;
             my $code_help = "$key => $value";
             if (@code_source_notes) {
-                local $";
-                $" = q{、};
-                $code_help .= " (@code_source_notes)";
+                my $joined_notes = join q{、}, @code_source_notes;
+                $code_help .= " ($joined_notes)";
             }
 
             my $b_key = substr $key, 0, 1;
@@ -586,7 +578,7 @@ sub read_codes {
                 my $ucase_occupied_count = 0;
                 for my $third_key (@kanji_keys) {
                     my $lcase_code = $prefix . $third_key;
-                    my $ucase_code = $prefix . shift_key($third_key);
+                    my $ucase_code = shift_last_char($lcase_code);
                     my $ucase_kanji = $codes{$ucase_code};
                     my $ucase_pri = defined $ucase_kanji
                         ? ($kanji_to_priority{$ucase_kanji} // -1)
@@ -706,7 +698,7 @@ sub print_keyboard_row {
             next;
         }
         my $key_value = $keyboard_ref->{$key_name} || q{  };
-        my $shift_value = $keyboard_ref->{shift_key $key_name} || q{│ };
+        my $shift_value = $keyboard_ref->{shift_last_char $key_name} || q{│ };
         if ($shift_value eq $key_value) {
             $shift_value = '々';
         }
@@ -905,7 +897,7 @@ BUSHU_CHART
     }
 
     my %keyboard = ();
-    for my $key (@kanji_keys, map {shift_key $_} @kanji_keys) {
+    for my $key (@kanji_keys, map {shift_last_char $_} @kanji_keys) {
         my $suggested_code = join q{}, @uncommitted, $key;
         if ($codes{$suggested_code}) {
             $keyboard{$key} = guide_ji $suggested_code;
