@@ -365,7 +365,7 @@ sub read_codes {
 
             my $priority = read_priority($value);
 
-            if ($stats_mode && $codes_file =~ m#/kanji[./]#) {
+            if ($stats_mode && $priority >= 0) {
                 $ji_set_by_priority{$priority}->{$value} = 1;
                 if (length($key) > 3) {
                     # コードが３文字以上だと入力できないので、
