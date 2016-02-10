@@ -1,19 +1,17 @@
 #!/usr/bin/perl
-# ターミナルで使える漢字直接入力のための単純なツール
-# 起動方法
-# a. 既定のコードマッピングを使う (code/*)
-#    ./chkn
-# b. 言語を指定する
-#    CHKN_LANG=jpn ./chkn # 日本語モード（既定）
-#    CHKN_LANG=cht ./chkn # 中国語繁体字モード
-# c. 任意のマッピングファイルを使う
-#    ./chkn TABLE1 TABLE2
+# Copyright 2016 Google Inc. All rights reserved.
 #
-# リターンを押す度にテキストをコピーしたりどこかに送信するには$COPY_TOOLの環境
-# 変数を指定します。リターンを押すと、このCOPY_TOOLが起動されSTDINにテキストが
-# 書き込まれます。例：Mac OS Xの場合、これをpbcopyに設定すると便利です。
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
 #
-# COPY_TOOL=pbcopy ./chkn
+#      http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
 
 use strict;
 use utf8;
