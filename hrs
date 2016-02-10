@@ -24,8 +24,8 @@ binmode STDERR, ':utf8';
 binmode STDOUT, ':utf8';
 
 my $max_pri = 5;
-my $lang = $ENV{CHKN_LANG} // 'jpn';
-my $stats_mode = !!$ENV{CHKN_STATS};
+my $lang = $ENV{HORENSO_LANG} // 'jpn';
+my $stats_mode = !!$ENV{HORENSO_STATS};
 
 my %rad_to_key = (
     一 => 'a',
@@ -303,12 +303,12 @@ my @pri_colors;
     # 色のコードとエスケープコードは
     # https://en.wikipedia.org/wiki/ANSI_escape_code
     # を参考に
-    my $theme = $ENV{CHKN_COLOR_THEME} // q{};
+    my $theme = $ENV{HORENSO_COLOR_THEME} // q{};
     @pri_colors =
         $theme eq q{bright_bg} ? ("\e[34m", "\e[31m", "\e[32m", "\e[33m") :
         $theme eq q{off}       ? (                                      ) :
         $theme eq q{}          ? ("\e[93m", "\e[96m", "\e[95m", "\e[91m") :
-        die "Unknown value for CHKN_COLOR_THEME: $theme";
+        die "Unknown value for HORENSO_COLOR_THEME: $theme";
 }
 
 sub guide_ji  {
