@@ -762,9 +762,16 @@ sub maybe_refresh_screen {
 
 # 標準入力からキーを一つ読むか、Alt+キーを読む
 sub read_key_chord {
-    my $first_key = ReadKey 0;
-    return $first_key if ord($first_key) != 27;
-    return $first_key . ReadKey(0);
+    my @keys;
+    push @keys, ReadKey(0);
+    if (ord($keys[0]) == 27) {
+        push @keys, ReadKey(0);
+        if ($keys[1] eq 'O') {
+            # 矢印キーを押している。
+            push @keys, ReadKey(0);
+        }
+    }
+    return join(q{}, @keys);
 }
 
 while (1) {
