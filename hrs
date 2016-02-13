@@ -442,6 +442,9 @@ sub read_codes {
                 }
             }
             $register->($key, $value);
+            for my $itaiji ($notes_by_prefix->('itj')) {
+                $register->($key, $itaiji);
+            }
 
             # hbかhyの注がある場合は%suggestionsのマップを拡張する
 
