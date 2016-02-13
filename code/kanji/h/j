@@ -1,12 +1,9 @@
 hjd	弦
 hjw	彑
 hjf	形
-hjg	彥	b彡	hb立	yゲン	hyひこ	ktj彦
-hjg	彦	b彡	hb立	yゲン	hyひこ
-hjr	径
-hjr	徑	ktj径
-hjs	恵
-hjs	惠
+hjg	彥	b彡	hb立	yゲン	hyひこ	ktj彦	sjt彦
+hjr	徑	ktj径	sjt径
+hjs	惠	sjt恵
 hjc	惓
 hjo	愃
 hjp	愆
@@ -16,7 +13,7 @@ hjz	慧
 hjx	慳	yケン	hyカン	ktj悭
 hja	慶	ktj庆
 hjl	憩	i憩憇
-hjl	憇	i憩憇
+hjL	憇	i憩憇
 hjk	憬
 hj;	憲	ktj宪
 hje	懸	ktj悬
