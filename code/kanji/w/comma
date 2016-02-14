@@ -1,14 +1,11 @@
 w,e	要
 w,t	覦	ktj觎
-w,r	訳
-w,r	譯	ktj译
-w,m	誉	i誉譽
-w,m	譽	i誉譽	ktj誉
+w,r	譯	ktj译	sjt訳
+w,m	譽	ktj誉	sjt誉
 w,w	誘	ktj诱
 w,f	諛	ktj谀
 w,.	諭	ktj谕
 w,q	謎	ktj谜
-w,/	謡
-w,/	謠	ktj谣
+w,/	謠	ktj谣	sjt謡
 w,j	謾	yマン	hyバン	曼の部首は日《ｊ》	ktj谩
-w,s	豫	i予豫	sjt予
+w,s	豫	sjt予
