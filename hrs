@@ -370,40 +370,28 @@ sub read_codes {
             or die "Cannot open $codes_file: $!";
         binmode $codes, ':utf8';
 
+        my @register_later;
         my $register = sub {
-            my ($key, $value) = @_;
+            my ($key, @values) = @_;
 
-            my $priority = read_priority($value);
+            for my $value (@values) {
+                if (!write_code($key, $value)) {
+                    push(@register_later, substr($key, 0, 2) . "\t$value");
+                }
 
-            if ($stats_mode && $priority >= 0) {
-                $ji_set_by_priority{$priority}->{$value} = 1;
-                if (length($key) > 3) {
-                    # コードが３文字以上だと入力できないので、
-                    # 未割り当てとして見なす
-                    my $pri_array = $unassigned_by_priority{$priority} //= [];
-                    push @$pri_array, $value;
-                } else {
-                    $total_assigned++;
+                my $priority = read_priority($value);
+                if ($stats_mode && $priority >= 0) {
+                    $ji_set_by_priority{$priority}->{$value} = 1;
+                    if (length($key) > 3) {
+                        # コードが３文字以上だと入力できないので、
+                        # 未割り当てとして見なす
+                        my $pri_array = $unassigned_by_priority{$priority} //= [];
+                        push @$pri_array, $value;
+                    } else {
+                        $total_assigned++;
+                    }
                 }
             }
-
-            # コードが衝突する場合、自動的にコードを整理
-            # 優先度の低い方をシフトコードに移す
-            if (defined $codes{$key}) {
-                die if length($key) != 3;
-                my $shift_key = shift_last_char($key);
-                die "$codes_file $key $shift_key"
-                    if defined($codes{$shift_key});
-
-                if (read_priority($value) > read_priority($codes{$key})) {
-                    write_code($shift_key, $codes{$key});
-                    delete $codes{$key};
-                } else {
-                    $key = $shift_key;
-                }
-            }
-
-            write_code($key, $value) or die "Duplicate code: $key";
         };
 
         while (my $line = <$codes>) {
@@ -428,22 +416,22 @@ sub read_codes {
             if (length($key) <= 3 && $lang eq 'cht') {
                 my $kantaiji_key = $key;
                 $kantaiji_key =~ tr/a-zA-Z/A-Za-z/;
-                for my $kantaiji ($notes_by_prefix->('ktj')) {
+                my (@ktj) = $notes_by_prefix->('ktj');
+                die if @ktj > 1;
+                for my $kantaiji (@ktj) {
                     if (!$stats_mode) {
                         write_priority($kantaiji, read_priority($value) - 1);
                     }
                     die "$codes_file" if $kantaiji_key eq $key;
-                    $register->($kantaiji_key, $kantaiji);
+                    write_code($kantaiji_key, $kantaiji) or die "$kantaiji_key";
                 }
             }
             if ($lang eq 'jpn') {
-                for my $sjt ($notes_by_prefix->('sjt')) {
-                    $register->($key, $sjt);
-                }
+                $register->($key, $notes_by_prefix->('sjt'));
             }
-            $register->($key, $value);
-            for my $itaiji ($notes_by_prefix->('itj')) {
-                $register->($key, $itaiji);
+            $register->($key, $value, $notes_by_prefix->('itj'));
+            if ($lang eq 'cht') {
+                $register->($key, $notes_by_prefix->('sjt'));
             }
 
             # hbかhyの注がある場合は%suggestionsのマップを拡張する
@@ -493,6 +481,21 @@ sub read_codes {
                     push @$array, $code_help;
                 }
             }
+        }
+
+        LATER: for my $later (sort(@register_later)) {
+            my ($first_two_keys, $value) = split "\t", $later;
+            for my $shift (0, 1) {
+                my $last_key =
+                    number_to_key(((ord($value) % 30) << 1) | $shift);
+                for (1..30) {
+                    if (write_code($first_two_keys . $last_key, $value)) {
+                        next LATER;
+                    }
+                    increment_key(\$last_key, 2);
+                }
+            }
+            die "No free codes starting with $first_two_keys";
         }
     }
 
@@ -800,17 +803,21 @@ sub increment_key {
         $$char =~ tr#;:,<.>/?#abcdefgh#;
         $value = (ord($$char) - ord('a')) + 52;
     }
-    $value += $change;
+    $$char = number_to_key($value + $change);
+}
+
+sub number_to_key {
+    my ($value) = @_;
     $value %= 60;
     if ($value >= 52) {
-        $$char = chr(ord('a') + $value - 52);
-        $$char =~ tr#abcdefgh#;:,<.>/?#;
+        my $char = chr(ord('a') + $value - 52);
+        $char =~ tr#abcdefgh#;:,<.>/?#;
+        return $char;
     } elsif ($value & 1) {
-        $$char = chr(ord('A') + ($value - 1) / 2);
+        return chr(ord('A') + ($value - 1) / 2);
     } else {
-        $$char = chr(ord('a') + $value / 2);
+        return chr(ord('a') + $value / 2);
     }
-    return $$char;
 }
 
 while (1) {
