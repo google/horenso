@@ -696,6 +696,14 @@ sub read_codes {
         $uvalue =~ tr/ぁ-ゖ/ァ-ヶ/;
         write_code($ukey, $uvalue);
     }
+
+    # 全角文字を【＇】（英語キーボード）か【：】で入力できるようにする。
+    my $full_width_key = $keyboard_layout eq 'jpn' ? q{:} : q{'};
+    for my $half_width_ord (ord('!')..ord('~')) {
+        my $half_width = chr($half_width_ord);
+        my $full_width = chr($half_width_ord + 0xfee0);
+        write_code("$full_width_key$half_width", $full_width);
+    }
 }
 read_codes;
 
