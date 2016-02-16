@@ -375,9 +375,8 @@ sub read_codes {
             my ($key, @values) = @_;
 
             for my $value (@values) {
-                if (!write_code($key, $value)
-                        && !write_code(shift_last_char($key), $value)) {
-                    push(@register_later, substr($key, 0, 2) . "\t$value");
+                if (!write_code($key, $value)) {
+                    push(@register_later, "$key\t$value");
                 }
 
                 my $priority = read_priority($value);
@@ -485,16 +484,14 @@ sub read_codes {
         }
 
         LATER: for my $later (sort(@register_later)) {
-            my ($first_two_keys, $value) = split "\t", $later;
-            for my $shift (0, 1) {
-                my $last_key =
-                    number_to_key(((ord($value) % 30) << 1) | $shift);
-                for (1..30) {
-                    if (write_code($first_two_keys . $last_key, $value)) {
-                        next LATER;
-                    }
-                    increment_key(\$last_key, 2);
+            my ($key, $value) = split "\t", $later;
+            my $first_two_keys = substr($key, 0, 2);
+            my $last_key = substr($key, 2);
+            for (1..60) {
+                if (write_code($first_two_keys . $last_key, $value)) {
+                    next LATER;
                 }
+                increment_key(\$last_key, 1);
             }
             die "No free codes starting with $first_two_keys";
         }
