@@ -375,7 +375,8 @@ sub read_codes {
             my ($key, @values) = @_;
 
             for my $value (@values) {
-                if (!write_code($key, $value)) {
+                if (!write_code($key, $value)
+                        && !write_code(shift_last_char($key), $value)) {
                     push(@register_later, substr($key, 0, 2) . "\t$value");
                 }
 
