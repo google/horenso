@@ -26,6 +26,18 @@ binmode STDOUT, ':utf8';
 my $max_pri = 5;
 my $lang = $ENV{HORENSO_LANG} // 'jpn';
 my $stats_mode = !!$ENV{HORENSO_STATS};
+my $keyboard_layout = $ENV{HORENSO_KB_LAYOUT} // 'jpn';
+
+my %supported_layouts = (jpn => 1, enu => 1);
+
+if (!defined($supported_layouts{$keyboard_layout})) {
+    my $supported_list = join(", ", keys(%supported_layouts));
+    print {*STDERR} <<"LAYOUT_ERR";
+キーボード配列（\$HORENSO_KB_LAYOUT）“$keyboard_layout”はサポートされていません。
+使える配列：$supported_list
+LAYOUT_ERR
+    exit 1;
+}
 
 my %rad_to_key = (
     一 => 'a',
@@ -199,14 +211,26 @@ my @uncommitted;
 
 my @kanji_keys = ('a'..'z', q{;}, q{,}, q{.}, q{/});
 
+my %shift_map = (',' => '<',
+                 '.' => '>',
+                 '/' => '?',
+                 ';' => ($keyboard_layout eq 'jpn' ? '+' : ':'));
+{
+    for my $letter ('a'..'z') {
+        $shift_map{$letter} = chr(ord($letter) & ~0x20);
+    }
+    my $numbers_shift = $keyboard_layout eq 'jpn' ? q{~!"#$%&'()}
+                                                  : q{)!@#$%^&*(};
+    for my $number (0..9) {
+        $shift_map{$number} = substr($numbers_shift, $number, 1);
+    }
+    %shift_map = (%shift_map, reverse(%shift_map));
+}
+
 sub shift_last_char {
     my ($full_key) = @_;
     my @key = split q{}, $full_key;
-    my $orig = $key[-1];
-    $key[-1] =~ tr{!@#$%^&*()A-Z:<>?}{1-90a-z;,./};
-    if ($orig eq $key[-1]) {
-        $key[-1] =~ tr{1-90a-z;,./}{!@#$%^&*()A-Z:<>?};
-    }
+    $key[-1] = $shift_map{$key[-1]} // $key[-1];
     return join q{}, @key;
 }
 
@@ -373,6 +397,8 @@ sub read_codes {
         my @register_later;
         my $register = sub {
             my ($key, @values) = @_;
+
+            $key =~ s#'#:#g if $keyboard_layout eq 'jpn';
 
             for my $value (@values) {
                 if (!write_code($key, $value)) {
@@ -629,18 +655,16 @@ sub read_codes {
         next if $key !~ m/^(.)i$/;
         my $first_key = $1;
         my $first_kana = $codes{$key};
-        # TODO: 日本キーボード配列に対応させる
         my %number_substs = qw{
             7 ゃ
-            & ゃう
             8 ゅ
-            * ゅう
             9 ょ
-            ( ょう
         };
         while (my ($number, $kana) = each %number_substs) {
-            my $new_key = $first_key . $number;
-            write_code($new_key, $codes{$key} . $kana);
+            write_code($first_key . $number,
+                       "${first_kana}${kana}");
+            write_code($first_key . $shift_map{$number},
+                       "${first_kana}${kana}う");
         }
     }
 
@@ -798,7 +822,7 @@ sub increment_key {
     } elsif ($$char =~ m/[A-Z]/) {
         $value = (ord($$char) - ord('A')) * 2 + 1;
     } else {
-        $$char =~ tr#;:,<.>/?#abcdefgh#;
+        $$char =~ tr#;:+,<.>/?#abbcdefgh#;
         $value = (ord($$char) - ord('a')) + 52;
     }
     $$char = number_to_key($value + $change);
@@ -810,6 +834,7 @@ sub number_to_key {
     if ($value >= 52) {
         my $char = chr(ord('a') + $value - 52);
         $char =~ tr#abcdefgh#;:,<.>/?#;
+        $char =~ s#:#+#g if $keyboard_layout eq 'jpn';
         return $char;
     } elsif ($value & 1) {
         return chr(ord('A') + ($value - 1) / 2);
