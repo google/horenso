@@ -23,8 +23,8 @@ package ReadCodes;
 
 our $VERSION = 1.00;
 our @EXPORT = qw(lang
+                 load_priorities
                  process_lines
-                 read_priorities
                  sorted_variants);
 
 sub lang {
@@ -73,7 +73,7 @@ sub process_lines(&) {
     }
 }
 
-sub read_priorities {
+sub load_priorities {
     my ($kanji_to_priority) = @_;
     open(my $priority, '<', "$FindBin::Bin/priority/" . lang());
     binmode $priority, ':utf8';
