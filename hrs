@@ -18,13 +18,14 @@ use utf8;
 use warnings;
 
 use FindBin;
+use lib $FindBin::Bin;
+use ReadCodes;
 use Term::ReadKey;
 
 binmode STDERR, ':utf8';
 binmode STDOUT, ':utf8';
 
 my $max_pri = 5;
-my $lang = $ENV{HORENSO_LANG} // 'jpn';
 my $stats_mode = !!$ENV{HORENSO_STATS};
 my $keyboard_layout = $ENV{HORENSO_KB_LAYOUT} // 'jpn';
 
@@ -205,7 +206,6 @@ sub write_code {
 # 入力コードプレフィックス => 入力したいと思われる漢字などの配列
 my %suggestions;
 
-my @codes_files = @ARGV;
 my @entered_text;
 my @uncommitted;
 
@@ -275,19 +275,7 @@ sub read_priority {
     return $kanji_to_priority{$ji} // -1;
 }
 
-{
-    open my $priority, '<', "$FindBin::Bin/priority/$lang";
-    binmode $priority, ':utf8';
-    my $priority_level = $max_pri;
-    while (my $line = <$priority>) {
-        next if $line =~ m/^#/;
-        chomp $line;
-        for my $kanji (split q{}, $line) {
-            write_priority $kanji, $priority_level;
-        }
-        $priority_level--;
-    }
-}
+ReadCodes::read_priorities(\%kanji_to_priority);
 
 # ターミナル上の字の幅を返す
 # 半角の場合：1
@@ -354,21 +342,6 @@ sub guide_ji  {
     return "$pri_color$raw_ji\e[39m$padding";
 }
 
-if (!@codes_files) {
-    my @dirs = ("$FindBin::Bin/code");
-
-    while (@dirs) {
-        my $path = pop @dirs;
-        next if $path =~ m{/\.+$};
-        if (-f $path) {
-            push @codes_files, $path;
-            next;
-        }
-        opendir my $dir_handle, $path or die "$!";
-        push @dirs, map { "$path/$_" } readdir($dir_handle);
-    }
-}
-
 sub simplify_yomi {
     my ($a) = @_;
     # 読み鍵を決定する際、ひら・カタを区別しないので、ひらがなをカタカナに変換
@@ -389,138 +362,110 @@ sub read_codes {
     my %ji_set_by_priority;
     my $total_assigned;
 
-    for my $codes_file (@codes_files) {
-        open my $codes, $codes_file
-            or die "Cannot open $codes_file: $!";
-        binmode $codes, ':utf8';
+    my @register_later;
+    my $register = sub {
+        my ($key, @values) = @_;
 
-        my @register_later;
-        my $register = sub {
-            my ($key, @values) = @_;
+        $key =~ s#'#:#g if $keyboard_layout eq 'jpn';
 
-            $key =~ s#'#:#g if $keyboard_layout eq 'jpn';
+        for my $value (@values) {
+            if (!write_code($key, $value)) {
+                push(@register_later, "$key\t$value");
+            }
 
-            for my $value (@values) {
-                if (!write_code($key, $value)) {
-                    push(@register_later, "$key\t$value");
-                }
-
-                my $priority = read_priority($value);
-                if ($stats_mode && $priority >= 0) {
-                    $ji_set_by_priority{$priority}->{$value} = 1;
-                    if (length($key) > 3) {
-                        # コードが３文字以上だと入力できないので、
-                        # 未割り当てとして見なす
-                        my $pri_array = $unassigned_by_priority{$priority} //= [];
-                        push @$pri_array, $value;
-                    } else {
-                        $total_assigned++;
-                    }
+            my $priority = read_priority($value);
+            if ($stats_mode && $priority >= 0) {
+                $ji_set_by_priority{$priority}->{$value} = 1;
+                if (length($key) > 3) {
+                    # コードが３文字以上だと入力できないので、
+                    # 未割り当てとして見なす
+                    my $pri_array = $unassigned_by_priority{$priority} //= [];
+                    push @$pri_array, $value;
+                } else {
+                    $total_assigned++;
                 }
             }
-        };
+        }
+    };
+    ReadCodes::process_lines {
+        my ($key, $value, %notes_by_prefix) = @_;
 
-        while (my $line = <$codes>) {
-            chomp $line;
+        if (length($key) <= 3 && ReadCodes::lang('cht')) {
+            my $kantaiji_key = $key;
+            $kantaiji_key =~ tr/a-zA-Z/A-Za-z/;
+            my (@ktj) = @{$notes_by_prefix{ktj} // []};
+            die if @ktj > 1;
+            for my $kantaiji (@ktj) {
+                if (!$stats_mode) {
+                    write_priority($kantaiji, read_priority($value) - 1);
+                }
+                die $kantaiji_key if $kantaiji_key eq $key;
+                write_code($kantaiji_key, $kantaiji) or die "$kantaiji_key";
+            }
+        }
+        $register->($key, ReadCodes::sorted_variants($value, %notes_by_prefix));
 
-            my ($key, $value, @notes) = split m/\t/, $line;
-            if (!defined $value) {
-                print STDERR "Could not process code: $line\n";
+        # hbかhyの注がある場合は%suggestionsのマップを拡張する
+
+        # hyに相当する読み鍵を計算する
+        my @hy_keys = map {
+            # yomikenとyomi_rangesを使って読みから読み鍵の変換を行う
+            my $yomi = simplify_yomi $_;
+            my $match_id = $#yomi_ranges;
+            for my $id (0..($#yomi_ranges-1)) {
+                if (($yomi_ranges[$id + 1] cmp $yomi) > 0) {
+                    $match_id = $id;
+                    last;
+                }
+            }
+            $yomiken[$match_id];
+        } @{$notes_by_prefix{hy}};
+
+        # hbに相当する部首鍵を計算する
+        my @hb_keys = map {
+            if (!$rad_to_key{$_}) {
+                print STDERR "radical not in \%rad_to_key: $_\n";
                 die;
             }
+            $rad_to_key{$_};
+        } @{$notes_by_prefix{hb}};
 
-            my $notes_by_prefix = sub {
-                my ($prefix) = @_;
-                my @result_notes;
-                for my $note (@notes) {
-                    next if $note !~ m/^\Q$prefix\E/;
-                    push @result_notes, substr($note, length($prefix));
-                }
-                return @result_notes;
-            };
+        # 実際の読み・部首は明記されている場合、サジェストに入れる
+        my @code_source_notes;
+        push @code_source_notes, map { "部首＝$_" } @{$notes_by_prefix{b}};
+        push @code_source_notes, map { "読み＝$_" } @{$notes_by_prefix{y}};
 
-            if (length($key) <= 3 && $lang eq 'cht') {
-                my $kantaiji_key = $key;
-                $kantaiji_key =~ tr/a-zA-Z/A-Za-z/;
-                my (@ktj) = $notes_by_prefix->('ktj');
-                die if @ktj > 1;
-                for my $kantaiji (@ktj) {
-                    if (!$stats_mode) {
-                        write_priority($kantaiji, read_priority($value) - 1);
-                    }
-                    die "$codes_file" if $kantaiji_key eq $key;
-                    write_code($kantaiji_key, $kantaiji) or die "$kantaiji_key";
-                }
-            }
-            if ($lang eq 'jpn') {
-                $register->($key, $notes_by_prefix->('sjt'));
-            }
-            $register->($key, $value, $notes_by_prefix->('itj'));
-            if ($lang eq 'cht') {
-                $register->($key, $notes_by_prefix->('sjt'));
-            }
-
-            # hbかhyの注がある場合は%suggestionsのマップを拡張する
-
-            # hyに相当する読み鍵を計算する
-            my @hy_keys = map {
-                # yomikenとyomi_rangesを使って読みから読み鍵の変換を行う
-                my $yomi = simplify_yomi $_;
-                my $match_id = $#yomi_ranges;
-                for my $id (0..($#yomi_ranges-1)) {
-                    if (($yomi_ranges[$id + 1] cmp $yomi) > 0) {
-                        $match_id = $id;
-                        last;
-                    }
-                }
-                $yomiken[$match_id];
-            } $notes_by_prefix->('hy');
-
-            # hbに相当する部首鍵を計算する
-            my @hb_keys = map {
-                if (!$rad_to_key{$_}) {
-                    print STDERR "radical not in \%rad_to_key: $_\n";
-                    die;
-                }
-                $rad_to_key{$_};
-            } $notes_by_prefix->('hb');
-
-            # 実際の読み・部首は明記されている場合、サジェストに入れる
-            my @code_source_notes;
-            push @code_source_notes, map { "部首＝$_" } $notes_by_prefix->('b');
-            push @code_source_notes, map { "読み＝$_" } $notes_by_prefix->('y');
-
-            next if !@hb_keys && !@hy_keys;
-            my $code_help = "$key => $value";
-            if (@code_source_notes) {
-                my $joined_notes = join q{、}, @code_source_notes;
-                $code_help .= " ($joined_notes)";
-            }
-
-            my $b_key = substr $key, 0, 1;
-            my $y_key = substr $key, 1, 1;
-            for my $b ($b_key, @hb_keys) {
-                for my $y ($y_key, @hy_keys) {
-                    next if $b eq $b_key && $y eq $y_key;
-
-                    my $array = $suggestions{"$b$y"} //= [];
-                    push @$array, $code_help;
-                }
-            }
+        return if !@hb_keys && !@hy_keys;
+        my $code_help = "$key => $value";
+        if (@code_source_notes) {
+            my $joined_notes = join q{、}, @code_source_notes;
+            $code_help .= " ($joined_notes)";
         }
 
-        LATER: for my $later (sort(@register_later)) {
-            my ($key, $value) = split "\t", $later;
-            my $first_two_keys = substr($key, 0, 2);
-            my $last_key = substr($key, 2);
-            for (1..60) {
-                if (write_code($first_two_keys . $last_key, $value)) {
-                    next LATER;
-                }
-                increment_key(\$last_key, 1);
+        my $b_key = substr $key, 0, 1;
+        my $y_key = substr $key, 1, 1;
+        for my $b ($b_key, @hb_keys) {
+            for my $y ($y_key, @hy_keys) {
+                next if $b eq $b_key && $y eq $y_key;
+
+                my $array = $suggestions{"$b$y"} //= [];
+                push @$array, $code_help;
             }
-            die "No free codes starting with $first_two_keys";
         }
+    };
+
+  LATER:
+    for my $later (sort(@register_later)) {
+        my ($key, $value) = split "\t", $later;
+        my $first_two_keys = substr($key, 0, 2);
+        my $last_key = substr($key, 2);
+        for (1..60) {
+            if (write_code($first_two_keys . $last_key, $value)) {
+                next LATER;
+            }
+            increment_key(\$last_key, 1);
+        }
+        die "No free codes starting with $first_two_keys";
     }
 
     # コードファイルに入っていないのに、常用されている漢字があれば、コード
