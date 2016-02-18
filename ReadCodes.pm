@@ -82,7 +82,10 @@ sub load_priorities {
         next if $line =~ m/^#/;
         chomp $line;
         for my $kanji (split q{}, $line) {
-            $kanji_to_priority->{$kanji} //= $priority_level;
+            if (defined $kanji_to_priority->{$kanji}) {
+                die "優先度データで字が重複している：$kanji";
+            }
+            $kanji_to_priority->{$kanji} = $priority_level;
         }
         $priority_level--;
     }
