@@ -22,10 +22,33 @@ use FindBin;
 package ReadCodes;
 
 our $VERSION = 1.00;
-our @EXPORT = qw(lang
+our @EXPORT = qw(keyboard_layout
+                 lang
                  load_priorities
                  process_lines
+                 shift_last_char
                  sorted_variants);
+
+my $keyboard_layout = $ENV{HORENSO_KB_LAYOUT} // 'jpn';
+my %supported_layouts = (jpn => 1, enu => 1);
+
+if (!defined($supported_layouts{$keyboard_layout})) {
+    my $supported_list = join(", ", keys(%supported_layouts));
+    print {*STDERR} <<"LAYOUT_ERR";
+キーボード配列（\$HORENSO_KB_LAYOUT）“$keyboard_layout”はサポートされていません。
+使える配列：$supported_list
+LAYOUT_ERR
+    exit 1;
+}
+
+sub keyboard_layout {
+    my ($query_layout) = @_;
+    if (defined($query_layout)) {
+        return $query_layout eq $keyboard_layout;
+    } else {
+        return $keyboard_layout;
+    }
+}
 
 sub lang {
     my ($query_lang) = @_;
@@ -89,6 +112,29 @@ sub load_priorities {
         }
         $priority_level--;
     }
+}
+
+my %shift_map = (',' => '<',
+                 '.' => '>',
+                 '/' => '?',
+                 ';' => (keyboard_layout('jpn') ? '+' : ':'));
+{
+    for my $letter ('a'..'z') {
+        $shift_map{$letter} = chr(ord($letter) & ~0x20);
+    }
+    my $numbers_shift = keyboard_layout('jpn') ? q{~!"#$%&'()}
+                                               : q{)!@#$%^&*(};
+    for my $number (0..9) {
+        $shift_map{$number} = substr($numbers_shift, $number, 1);
+    }
+    %shift_map = (%shift_map, reverse(%shift_map));
+}
+
+sub shift_last_char {
+    my ($full_key) = @_;
+    my @key = split q{}, $full_key;
+    $key[-1] = $shift_map{$key[-1]} // $key[-1];
+    return join q{}, @key;
 }
 
 sub sorted_variants {

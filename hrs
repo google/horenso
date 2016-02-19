@@ -19,6 +19,8 @@ use warnings;
 
 use FindBin;
 use lib $FindBin::Bin;
+
+use CodeMap;
 use ReadCodes;
 use Term::ReadKey;
 
@@ -26,18 +28,6 @@ binmode STDERR, ':utf8';
 binmode STDOUT, ':utf8';
 
 my $max_pri = 5;
-my $keyboard_layout = $ENV{HORENSO_KB_LAYOUT} // 'jpn';
-
-my %supported_layouts = (jpn => 1, enu => 1);
-
-if (!defined($supported_layouts{$keyboard_layout})) {
-    my $supported_list = join(", ", keys(%supported_layouts));
-    print {*STDERR} <<"LAYOUT_ERR";
-キーボード配列（\$HORENSO_KB_LAYOUT）“$keyboard_layout”はサポートされていません。
-使える配列：$supported_list
-LAYOUT_ERR
-    exit 1;
-}
 
 my %rad_to_key = (
     一 => 'a',
@@ -184,21 +174,9 @@ my @yomi_ranges = qw{ア エキ カイ カン キ キヨ ケ コ コク シ シ�
 
 @yomiken == @yomi_ranges or die;
 
-# 2~3打鍵コードの文字列 => 実際に入力される文字・文字列
-my %codes;
-my %code_prefixes;
-sub write_code {
-    my ($key, $value) = @_;
-    return 0 if defined($codes{$key});
-    $codes{$key} = $value;
-    $key =~ s/.$//;
-    $code_prefixes{$key} = 1;
-    return 1;
-}
-
 # 間違いやすい字の実際ではないけど調べ得るコードプレフィックス
 # 例えば、合の部首は口《ｄ》けれど、人《ｂ》と思い込む可能性がある
-# なので、上記の%codesマップにdkg->合と云うエントリーがあるのに対して
+# なので、コードマップにdkg->合と云うエントリーがあるのに対して
 # %suggestionsに"bg"と云うキーがあって、配列リファレンスの値に
 # "dkg -> 合 (部首＝口)"のような文字列が含まれている。
 #
@@ -209,29 +187,6 @@ my @entered_text;
 my @uncommitted;
 
 my @kanji_keys = ('a'..'z', q{;}, q{,}, q{.}, q{/});
-
-my %shift_map = (',' => '<',
-                 '.' => '>',
-                 '/' => '?',
-                 ';' => ($keyboard_layout eq 'jpn' ? '+' : ':'));
-{
-    for my $letter ('a'..'z') {
-        $shift_map{$letter} = chr(ord($letter) & ~0x20);
-    }
-    my $numbers_shift = $keyboard_layout eq 'jpn' ? q{~!"#$%&'()}
-                                                  : q{)!@#$%^&*(};
-    for my $number (0..9) {
-        $shift_map{$number} = substr($numbers_shift, $number, 1);
-    }
-    %shift_map = (%shift_map, reverse(%shift_map));
-}
-
-sub shift_last_char {
-    my ($full_key) = @_;
-    my @key = split q{}, $full_key;
-    $key[-1] = $shift_map{$key[-1]} // $key[-1];
-    return join q{}, @key;
-}
 
 sub term_copy {
     my $copy_tool = $ENV{COPY_TOOL};
@@ -333,9 +288,10 @@ my @pri_colors;
         die "Unknown value for HORENSO_COLOR_THEME: $theme";
 }
 
+my $code_map;
 sub guide_ji  {
     my ($key) = @_;
-    my $raw_ji = $codes{$key};
+    my $raw_ji = $code_map->lookup($key);
     my $padding = q{ } x (2 - char_width $raw_ji);
     my $pri_color = $pri_colors[$max_pri - read_priority($raw_ji)] // q{};
     return "$pri_color$raw_ji\e[39m$padding";
@@ -353,23 +309,16 @@ sub simplify_yomi {
     return $a;
 }
 
+my $ordered_key_values =
+    'aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTuUvVwWxXyYzZ;:,<.>/?';
+if (ReadCodes::keyboard_layout('jpn')) {
+    $ordered_key_values =~ s/:/+/;
+}
+
 sub read_codes {
-    %codes = ();
-    %code_prefixes = ();
+    $code_map = CodeMap->new($ordered_key_values);
     %suggestions = ();
 
-    my @register_later;
-    my $register = sub {
-        my ($key, @values) = @_;
-
-        $key =~ s#'#:#g if $keyboard_layout eq 'jpn';
-
-        for my $value (@values) {
-            if (!write_code($key, $value)) {
-                push(@register_later, "$key\t$value");
-            }
-        }
-    };
     ReadCodes::process_lines {
         my ($key, $value, %notes_by_prefix) = @_;
 
@@ -381,10 +330,12 @@ sub read_codes {
             for my $kantaiji (@ktj) {
                 write_priority($kantaiji, read_priority($value) - 1);
                 die $kantaiji_key if $kantaiji_key eq $key;
-                write_code($kantaiji_key, $kantaiji) or die "$kantaiji_key";
+                $code_map->write_code($kantaiji_key, $kantaiji)
+                    or die "$kantaiji_key";
             }
         }
-        $register->($key, ReadCodes::sorted_variants($value, %notes_by_prefix));
+        $code_map->register(
+            $key, ReadCodes::sorted_variants($value, %notes_by_prefix));
 
         # hbかhyの注がある場合は%suggestionsのマップを拡張する
 
@@ -435,23 +386,9 @@ sub read_codes {
         }
     };
 
-  LATER:
-    for my $later (sort(@register_later)) {
-        my ($key, $value) = split "\t", $later;
-        my $first_two_keys = substr($key, 0, 2);
-        my $last_key = substr($key, 2);
-        for (1..60) {
-            if (write_code($first_two_keys . $last_key, $value)) {
-                next LATER;
-            }
-            increment_key(\$last_key, 1);
-        }
-        die "No free codes starting with $first_two_keys";
-    }
-
     # コードファイルに入っていないのに、常用されている漢字があれば、コード
     # ファイルを直す必要がある。コードを割り当てよう。
-    my %code_by_kanji = reverse %codes;
+    my %code_by_kanji = $code_map->code_by_kanji();
     my @missing;
     for my $ji (keys %kanji_to_priority) {
         if (not defined $code_by_kanji{$ji}) {
@@ -462,60 +399,7 @@ sub read_codes {
         print join(q{}, @missing) . "\n";
         die 'Characters missing from code file.';
     }
-
-    for my $key (keys %codes) {
-        next if $key !~ m/^(.)i$/;
-        my $first_key = $1;
-        my $first_kana = $codes{$key};
-        my %number_substs = qw{
-            7 ゃ
-            8 ゅ
-            9 ょ
-        };
-        while (my ($number, $kana) = each %number_substs) {
-            write_code($first_key . $number,
-                       "${first_kana}${kana}");
-            write_code($first_key . $shift_map{$number},
-                       "${first_kana}${kana}う");
-        }
-    }
-
-    # ２文字コードの前に数字を入れてかなを効率良く入力できるようにする
-    for my $key (keys %codes) {
-        next if length($key) != 2;
-        my %number_substs = qw(
-            1 っ
-            2 い
-            3 あ
-            4 う
-            5 え
-            6 お
-            0 ん
-        );
-        while (my ($number, $kana) = each %number_substs) {
-            my $new_key = $number . $key;
-            $new_key =~ s/;//;
-            write_code($new_key, $kana . $codes{$key});
-        }
-    }
-
-    # カタカナのコードをひらがなのコードから自動生成する
-    # 尚、CAPSLOCKがオンでも一般の漢字を入力できるようにする
-    for my $key (keys %codes) {
-        my $ukey = $key;
-        $ukey =~ tr/a-zA-Z/A-Za-z/;
-        my $uvalue = $codes{$key};
-        $uvalue =~ tr/ぁ-ゖ/ァ-ヶ/;
-        write_code($ukey, $uvalue);
-    }
-
-    # 全角文字を【＇】（英語キーボード）か【：】で入力できるようにする。
-    my $full_width_key = $keyboard_layout eq 'jpn' ? q{:} : q{'};
-    for my $half_width_ord (ord('!')..ord('~')) {
-        my $half_width = chr($half_width_ord);
-        my $full_width = chr($half_width_ord + 0xfee0);
-        write_code("$full_width_key$half_width", $full_width);
-    }
+    $code_map->register_autogenerated_codes();
 }
 read_codes;
 
@@ -551,7 +435,8 @@ sub print_keyboard_row {
             next;
         }
         my $key_value = $keyboard_ref->{$key_name} || q{  };
-        my $shift_value = $keyboard_ref->{shift_last_char $key_name} || q{│ };
+        my $shift_value =
+            $keyboard_ref->{ReadCodes::shift_last_char $key_name} || q{│ };
         if ($shift_value eq $key_value) {
             $shift_value = '々';
         }
@@ -626,41 +511,6 @@ sub read_key_chord {
         }
     }
     return join(q{}, @keys);
-}
-
-# 一文字の漢字入力キーとしての値をずらす。
-# 英字以外の値はキーボード上の並べ方で決まっている。
-# aAbBcCdD...が０～５１
-# 【;:,<.>/?】が５２～５９
-# $changeが加減する数
-# $charがずらされる文字への参照
-sub increment_key {
-    my ($char, $change) = @_;
-    my $value;
-    if ($$char =~ m/[a-z]/) {
-        $value = (ord($$char) - ord('a')) * 2;
-    } elsif ($$char =~ m/[A-Z]/) {
-        $value = (ord($$char) - ord('A')) * 2 + 1;
-    } else {
-        $$char =~ tr#;:+,<.>/?#abbcdefgh#;
-        $value = (ord($$char) - ord('a')) + 52;
-    }
-    $$char = number_to_key($value + $change);
-}
-
-sub number_to_key {
-    my ($value) = @_;
-    $value %= 60;
-    if ($value >= 52) {
-        my $char = chr(ord('a') + $value - 52);
-        $char =~ tr#abcdefgh#;:,<.>/?#;
-        $char =~ s#:#+#g if $keyboard_layout eq 'jpn';
-        return $char;
-    } elsif ($value & 1) {
-        return chr(ord('A') + ($value - 1) / 2);
-    } else {
-        return chr(ord('a') + $value / 2);
-    }
 }
 
 while (1) {
@@ -740,10 +590,11 @@ BUSHU_CHART
         my $joined;
         my $tries_left = 60;
         do {
-            increment_key(\$uncommitted[$index], $change);
+            $code_map->increment_key(\$uncommitted[$index], $change);
             $joined = join(q{}, @uncommitted);
             last if !--$tries_left;
-        } while (defined($codes{$joined}) || !defined($code_prefixes{$joined}));
+        } while (defined($code_map->lookup($joined)) ||
+                 !$code_map->is_code_prefix($joined));
     } elsif (length($key) > 1) {
         next;
     } elsif (ord($key) < 0x20 && $key ne "\n") {
@@ -783,8 +634,8 @@ BUSHU_CHART
 
     for (my $i = 0; $i < 2; $i++) {
         my $maybe_code = join q{}, @uncommitted;
-        if ($codes{$maybe_code}) {
-            push @entered_text, $codes{$maybe_code};
+        if ($code_map->lookup($maybe_code)) {
+            push @entered_text, $code_map->lookup($maybe_code);
 
             if (length($maybe_code) == 3) {
                 my @chars = split q{}, $maybe_code;
@@ -804,9 +655,9 @@ BUSHU_CHART
     }
 
     my %keyboard = ();
-    for my $key (@kanji_keys, map {shift_last_char $_} @kanji_keys) {
+    for my $key (@kanji_keys, map {ReadCodes::shift_last_char $_} @kanji_keys) {
         my $suggested_code = join q{}, @uncommitted, $key;
-        if ($codes{$suggested_code}) {
+        if ($code_map->lookup($suggested_code)) {
             $keyboard{$key} = guide_ji $suggested_code;
         }
     }
