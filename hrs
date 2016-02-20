@@ -309,14 +309,8 @@ sub simplify_yomi {
     return $a;
 }
 
-my $ordered_key_values =
-    'aAbBcCdDeEfFgGhHiIjJkKlLmMnNoOpPqQrRsStTuUvVwWxXyYzZ;:,<.>/?';
-if (ReadCodes::keyboard_layout('jpn')) {
-    $ordered_key_values =~ s/:/+/;
-}
-
 sub read_codes {
-    $code_map = CodeMap->new($ordered_key_values);
+    $code_map = CodeMap->new();
     %suggestions = ();
 
     ReadCodes::process_lines {
