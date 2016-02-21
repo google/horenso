@@ -499,7 +499,7 @@ sub read_key_chord {
     push @keys, ReadKey(0);
     if (ord($keys[0]) == 033) {
         push @keys, ReadKey(0);
-        if ($keys[1] eq 'O') {
+        if ($keys[1] =~ m#[\[O]#) {
             # 矢印キーを押している。
             push @keys, ReadKey(0);
         }
@@ -574,7 +574,7 @@ BUSHU_CHART
         next;
     } elsif ($key eq "\eq") {
         last;
-    } elsif ($key =~ m#\033O([ABCD])#) {
+    } elsif ($key =~ m#\033[\[O]([ABCD])#) {
         # 矢印キーを押した。未確定文字をずらす。
         # 左右で一文字目、上下で二文字目を変える。
         my $dir = $1;
