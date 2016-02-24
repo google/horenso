@@ -201,11 +201,11 @@ sub term_copy {
 }
 
 sub clear_screen {
-    print "\033[2J";
+    print "\e[2J";
 }
 
 sub erase_to_eol {
-    print "\033[K";
+    print "\e[K";
 }
 
 # 漢字の優先度マッピング
@@ -468,7 +468,7 @@ sub print_keyboard {
     my ($keyboard_ref) = @_;
 
     my ($width, $height) = GetTerminalSize;
-    printf "\033[%d;0H", ($height - 8);
+    printf "\e[%d;0H", ($height - 8);
 
     print_keyboard_row q{}, 'qwert yuiop', $keyboard_ref;
     print "\n";
@@ -485,7 +485,7 @@ sub maybe_refresh_screen {
 
     clear_screen;
 
-    printf "\033[0;0H";
+    printf "\e[0;0H";
     for my $past_input (@input_history) {
         print "$past_input\n";
     }
@@ -514,7 +514,7 @@ while (1) {
     maybe_refresh_screen;
 
     # Jump to underneath the last input history item
-    printf "\033[%d;0H", scalar(@input_history) + 1;
+    printf "\e[%d;0H", scalar(@input_history) + 1;
 
     print "@entered_text";
     if (@uncommitted) {
@@ -574,7 +574,7 @@ BUSHU_CHART
         next;
     } elsif ($key eq "\eq") {
         last;
-    } elsif ($key =~ m#\033[\[O]([ABCD])#) {
+    } elsif ($key =~ m#\e[\[O]([ABCD])#) {
         # 矢印キーを押した。未確定文字をずらす。
         # 左右で一文字目、上下で二文字目を変える。
         my $dir = $1;
