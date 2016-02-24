@@ -572,7 +572,8 @@ z 【八画】金
 BUSHU_CHART
         read_key_chord;
         next;
-    } elsif ($key eq "\eq") {
+    } elsif ($key eq "\eq" || ord($key) == 3) {
+        # Alt-QとCtrl-Cで終了できます。
         last;
     } elsif ($key =~ m#\e[\[O]([ABCD])#) {
         # 矢印キーを押した。未確定文字をずらす。
