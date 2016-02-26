@@ -17,7 +17,10 @@ English is [here](https://github.com/google/horenso/wiki/Horenso-quick-intro)
 4. 台湾の常用國字に対応しているので、中国語を入力することもできます。中国語モードで起動すると、同じコードでも日本の新字体の代わりに台湾の字体が出て来ます。CAPSLOCKをオンにすると簡体字を入力することも出来ます。
 5. かな入力コードが一般のローマ字かな入力と殆んど変わりません。
 
-入力デモンストレーション動画は[こちら](https://www.youtube.com/watch?v=lubfuBun_zE)
+入力デモンストレーションがご覧になれます！
+
+* [日本語モード](https://www.youtube.com/watch?v=HyS-QgPbiEw)
+* [中国語モード](https://www.youtube.com/watch?v=lubfuBun_zE)
 
 ![入力スクリーンショット](https://raw.githubusercontent.com/google/horenso/master/sample.png)
 
