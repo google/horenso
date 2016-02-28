@@ -24,8 +24,40 @@ use lib $FindBin::Bin;
 
 use CodeMap;
 use ReadCodes;
+use Getopt::Std;
 
 binmode STDOUT, ':utf8';
+binmode STDERR, ':utf8';
+
+my %formats = (
+    kanchoku_win => {
+        encoding => ':encoding(cp932)',
+    },
+    horenso => {
+        encoding => ':utf8',
+    },
+);
+
+my %opts;
+getopts('h', \%opts);
+my $usage_error = 0;
+my $format_name = shift(@ARGV) // 'horenso';
+my $format = $formats{$format_name};
+
+$usage_error = 1 if !defined($format);
+$usage_error = 1 if @ARGV;
+
+if ($usage_error || $opts{h}) {
+    my $format_list = join(q{ }, keys %formats);
+    my $usage_text = <<"USAGE";
+使用法： $FindBin::Script [形式]
+  使用可能な形式: $format_list
+USAGE
+    print {$usage_error ? *STDERR : *STDOUT} $usage_text;
+    exit($usage_error ? 64 : 0);
+}
+
+binmode STDOUT, $format->{encoding};
 
 my $shiftable_keys = '1234567890qwertyuiopasdfghjkl;zxcvbnm,./';;
 my $unshiftable_keys;
