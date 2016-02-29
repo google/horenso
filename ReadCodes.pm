@@ -83,6 +83,8 @@ sub process_lines(&) {
                 print {*STDERR} "コードファイルの行の処理に失敗した：$line\n";
                 die;
             }
+            $key =~ s{'}{:}g if keyboard_layout('jpn');
+
             my %notes_by_prefix;
             for my $note (@notes) {
                 for my $note_type (qw(b y hb hy itj ktj sjt)) {
