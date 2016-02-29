@@ -32,9 +32,31 @@ binmode STDERR, ':utf8';
 my %formats = (
     kanchoku_win => {
         encoding => ':encoding(cp932)',
+        value_format => qq{"%s"\r\n},
+        heading => <<"HEADING",
+;; Copyright 2016 Google Inc. All rights reserved.\r
+;;\r
+;; Licensed under the Apache License, Version 2.0 (the "License");\r
+;; you may not use this file except in compliance with the License.\r
+;; You may obtain a copy of the License at\r
+;;\r
+;;      http://www.apache.org/licenses/LICENSE-2.0\r
+;;\r
+;; Unless required by applicable law or agreed to in writing, software\r
+;; distributed under the License is distributed on an "AS IS" BASIS,\r
+;; WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\r
+;; See the License for the specific language governing permissions and\r
+;; limitations under the License.\r
+\r
+#define table-name "HRS"\r
+#define key-layout QWERTY-JIS\r
+\r
+HEADING
     },
     horenso => {
         encoding => ':utf8',
+        value_format => qq{\t%s\n},
+        heading => q{},
     },
 );
 
@@ -58,13 +80,32 @@ USAGE
 }
 
 binmode STDOUT, $format->{encoding};
+print $format->{heading};
 
-my $shiftable_keys = '1234567890qwertyuiopasdfghjkl;zxcvbnm,./';;
+my $shiftable_keys = '1234567890qwertyuiopasdfghjkl;zxcvbnm,./';
 my $unshiftable_keys;
 if (ReadCodes::keyboard_layout('jpn')) {
     $unshiftable_keys = q{ -^\@[:]_};
 } else {
     $unshiftable_keys = q{ -=\[]'`};
+}
+
+# 漢直Win1.28で導入された矢印定義を使えば、一行ごとに一つのコードを定義するこ
+# とが出来ます。文字１つは"-%d>"で表記されていて、%dは漢直Ｗｉｎにおけるキーイ
+# ンデックス。
+my %key_replacements;
+if ($format_name eq 'kanchoku_win') {
+    my $index = 0;
+    for my $shiftable (split q{}, $shiftable_keys) {
+        $key_replacements{$shiftable} = "-${index}>";
+        $shiftable = ReadCodes::shift_last_char($shiftable);
+        $key_replacements{$shiftable} = "-S${index}>";
+        $index++;
+    }
+    for my $unshiftable (split q{}, $unshiftable_keys) {
+        $key_replacements{$unshiftable} = "-${index}>";
+        $index++;
+    }
 }
 
 my $code_map = CodeMap->new();
@@ -80,7 +121,10 @@ sub output_codes {
     my ($prefix) = @_;
     my $value = $code_map->lookup($prefix);
     if ($value) {
-        print "$prefix\t$value\n";
+        for my $key_char (split q{}, $prefix) {
+            print $key_replacements{$key_char} // $key_char;
+        }
+        printf $format->{value_format}, $value;
         return;
     }
 
