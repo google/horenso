@@ -19,6 +19,7 @@ use strict;
 use utf8;
 use warnings;
 
+use Encode qw(encode);
 use FindBin;
 use lib $FindBin::Bin;
 
@@ -29,11 +30,9 @@ use Getopt::Std;
 binmode STDOUT, ':utf8';
 binmode STDERR, ':utf8';
 
-my $SHIFT_JIS_ENCODING = ':encoding(cp932)';
-
 my %formats = (
     kanchoku_win => {
-        encoding => $SHIFT_JIS_ENCODING,
+        encoding => 'cp932',
         value_format => qq{"%s"\r\n},
         type_kanji_in_caps => 1,
         heading => <<"HEADING",
@@ -57,10 +56,11 @@ my %formats = (
 ;; 漢直WinはCAPSLOCKを無視するらしいので、"a"を２回打つことでカタカナモードへ
 ;; の切り替えを可能にします。
 -20>-20>\@K\r
+\r
 HEADING
     },
     horenso => {
-        encoding => ':utf8',
+        encoding => 'UTF-8',
         value_format => qq{\t%s\n},
         type_kanji_in_caps => 1,
         heading => q{},
@@ -86,8 +86,8 @@ USAGE
     exit($usage_error ? 64 : 0);
 }
 
-binmode STDOUT, $format->{encoding};
-print $format->{heading};
+binmode STDOUT, ':raw';
+print encode($format->{encoding}, $format->{heading}, Encode::FB_CROAK);
 
 my $shiftable_keys = '1234567890qwertyuiopasdfghjkl;zxcvbnm,./';
 my $unshiftable_keys;
@@ -135,9 +135,20 @@ sub output_codes {
         }
         # Shift-JISでは《¥》が《\》になってしまうので、エスケープしなければな
         # らない。
-        if ($format->{encoding} eq $SHIFT_JIS_ENCODING) {
+        if ($format->{encoding} eq 'cp932') {
             $value =~ s{¥}{\\\\}g;
         }
+
+        my $buffer = $value;
+        $value = q{};
+        while (1) {
+            $value .= encode($format->{encoding}, $buffer, Encode::FB_QUIET);
+            last if !$buffer;
+            my $bad_char;
+            ($bad_char, $buffer) = split(q{}, $buffer, 2);
+            $value .= sprintf "U+%X", ord($bad_char);
+        }
+
         printf $format->{value_format}, $value;
         return;
     }
