@@ -24,7 +24,18 @@ English is [here](https://github.com/google/horenso/wiki/Horenso-quick-intro)
 
 ![入力スクリーンショット](https://raw.githubusercontent.com/google/horenso/master/sample.png)
 
-## 起動方法
+## 起動方法 (Windows)
+
+`hrs`スクリプトはWindowsが未対応ですが、漢直Win用の変換テーブルが用意してあります。**漢直Win+ほー連想**環境を用意するには：
+
+1. [漢直Win](https://github.com/kanchoku/kw/releases)をダウンロードして、zipを展開します。
+2. [ほー連想のテーブルファイル](https://github.com/google/horenso/releases)をダウンロードして、漢直Winのダイレクトリーにコピーします。
+3. [kanchoku.ini](https://github.com/kanchoku/kw/blob/master/kanchoku.ini)の、`tableFile=t.tbl`という行を`tableFile=hrs.tbl`に書き替えます。
+4. `;outputUnicode=1`の`;`を削除する必要があるかもしれません。
+
+これで、漢直Winの使い方と`hrs`の使い方が大体同じですが、漢直Winの場合はCaps Lockの代わりに、`a`を２回打って、カタカナモード・ひらがなモードのトグルができます。
+
+## 起動方法 (Linux, Mac)
 
 `hrs`はターミナルで使える漢字直接入力のための単純なツール
 
