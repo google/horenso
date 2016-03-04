@@ -34,7 +34,7 @@ my %formats = (
     kanchoku_win => {
         encoding => 'cp932',
         value_format => qq{"%s"\r\n},
-        type_kanji_in_caps => 1,
+        type_kanji_in_caps => 0,
         heading => <<"HEADING",
 ;; Copyright 2016 Google Inc. All rights reserved.\r
 ;;\r
@@ -65,6 +65,15 @@ HEADING
         type_kanji_in_caps => 1,
         heading => q{},
     },
+    # グーグル日本語入力形式
+    # ほー連想形式と変わらないけれど、登録できるコード数は10,000だけなので、
+    # type_kanji_in_capsをオフにします。
+    google_ime => {
+        encoding => 'UTF-8',
+        value_format => qq{\t%s\n},
+        type_kanji_in_caps => 0,
+        heading => q{},
+    }
 );
 
 my %opts;
