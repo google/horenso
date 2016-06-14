@@ -102,7 +102,15 @@ sub register {
     my ($self, $key, @values) = @_;
     for my $value (@values) {
         if (!$self->write_code($key, $value)) {
-            push(@{$self->{register_later}}, "$key\t$value");
+            if (length($key) <= 3) {
+                push(@{$self->{register_later}}, "$key\t$value");
+            } else {
+                # 入力コードが既に使われているけど、実際に打てるコードではない
+                # ので、文字コードで当適な入力コードを決める。
+                # 未割当の字に異体字が指定されている場合はこういうことが起こ
+                # る。
+                $self->write_code('_' . ord($value), $value);
+            }
         }
     }
 }
