@@ -84,8 +84,10 @@ English is [here](https://github.com/google/horenso/wiki/Horenso-quick-intro)
 
     fu -> ふ　（ｈｕを打つには人差指が苦労するので例外としてｆｕにします）
     ;a -> あ　（あ行は一鍵目が；になります）
-    t: -> っ　（小さいつ）　US配列の時は t'
-    n: -> ん                US配列の時は n'
+    q  -> っ　（小さいつ）
+    Q  -> ッ
+    l  -> ん
+    L  -> ン
     II -> ヵ　（小さいカ）
     IE -> ヶ
     ia -> ゃ　（小さいや）

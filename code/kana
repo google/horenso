@@ -1,13 +1,13 @@
 xa	ぁ
-;a	あ
+a	あ
 xi	ぃ
-;i	い
+i	い
 xu	ぅ
-;u	う
+u	う
 xe	ぇ
-;e	え
+e	え
 xo	ぉ
-;o	お
+o	お
 ka	か
 ga	が
 ki	き
@@ -32,7 +32,7 @@ ta	た
 da	だ
 ti	ち
 di	ぢ
-t'	っ
+q	っ
 tu	つ
 du	づ
 te	て
@@ -80,7 +80,7 @@ wa	わ
 wi	ゐ
 we	ゑ
 wo	を
-n'	ん
+l	ん
 vu	ゔ
 ii	ゕ
 ie	ゖ
