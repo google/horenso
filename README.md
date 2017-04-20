@@ -69,6 +69,7 @@ English is [here](https://github.com/google/horenso/wiki/Horenso-quick-intro)
 
 例えば、
 
+    a  -> あ
     ta -> た
     da -> だ
     du -> づ
@@ -83,21 +84,15 @@ English is [here](https://github.com/google/horenso/wiki/Horenso-quick-intro)
 一般のローマ字入力と違うコード
 
     fu -> ふ　（ｈｕを打つには人差指が苦労するので例外としてｆｕにします）
-    ;a -> あ　（あ行は一鍵目が；になります）
     q  -> っ　（小さいつ）
     Q  -> ッ
     l  -> ん
     L  -> ン
-    II -> ヵ　（小さいカ）
-    IE -> ヶ
-    ia -> ゃ　（小さいや）
-    iu -> ゅ
-    io -> ょ
+    ,A -> ヵ　（小さいカ）
+    ,E -> ヶ
     k7 -> きゃ
     k8 -> きゅ
-    k( -> きゅう　US配列の時は k*
     k9 -> きょ
-    k) -> きょう　US配列の時は k(
 
 ## コードの覚え方：漢字
 
@@ -121,27 +116,27 @@ English is [here](https://github.com/google/horenso/wiki/Horenso-quick-intro)
 
     鍵  部首
     ---------------------------------------------------
-    a   一 丨 丶 丿 乙 亅  【二画】二 亠
+    6   一 丨 丶 丿 乙 亅  【二画】二 亠
     b   人
     c   儿 入 八 冂 冖 冫 几 凵 刀 力 勹 匕 匚 匸 十 卜
     d   卩 厂 厶 又  【三画】口 ツ
-    e   囗 土 士 夂 夊 夕 大
+    3   囗 土 士 夂 夊 夕 大
     f   女 子 宀 寸 小 尢
     g   尸 屮 山 巛 工 己 巾 干 幺 广 廴 廾
     h   弋 弓 彐 彡 彳  【四画】心
-    i   戈 戶 手
+    8   戈 戶 手
     j   支 攴 文 斗 斤 方 无 日 曰 月
     k   木
     l   欠 止 歹 殳 毋 比 毛 氏 气
     m   水
     n   火 爪 父 爻 爿 片 牙 牛 犬【五画】玄
-    o   玉 瓜 瓦 甘 生 用 田 疋 疒
+    9   玉 瓜 瓦 甘 生 用 田 疋 疒
     p   癶 白 皮 皿 目 矛 矢 石
     q   示 禸 禾 穴 立
     r   竹  【六画】米
     s   糸 缶 网 羊
     t   羽 老 而 耒 耳 聿 肉 臣 自 至 臼 舌 舛 舟
-    u   艮 色 艸
+    7   艮 色 艸
     v   虍 虫 血 行 衣
     w   襾  【七画】見 角 言 谷 豆 豕
     x   豸 貝 赤 走 足 身 車
@@ -208,8 +203,8 @@ English is [here](https://github.com/google/horenso/wiki/Horenso-quick-intro)
     ナ　NA
     漢　mf,     部首：氵《ｍ》読み：カン《ｆ》
     字　fme     部首：子《ｆ》読み：ジ《ｍ》
-    変　ez;     部首：夂《ｅ》読み：ヘン《ｙ》
-    換　ifu     部首：扌《ｉ》読み：カン《ｆ》
+    変　3z;     部首：夂《ｅ》読み：ヘン《ｙ》
+    換　8fu     部首：扌《ｉ》読み：カン《ｆ》
     を　wo
     行　vkv     部首：行《ｖ》読み：コウ《ｋ》
     わ　wa
