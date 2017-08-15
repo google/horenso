@@ -205,13 +205,8 @@ sub term_copy {
     print $tool_proc @_;
 }
 
-sub clear_screen {
-    print "\e[2J";
-}
-
-sub erase_to_eol {
-    print "\e[K";
-}
+my $clear_screen = "\e[2J";
+my $erase_to_eol = "\e[K";
 
 # 漢字の優先度マッピング
 # 使用頻度と似た概念
@@ -406,31 +401,32 @@ ReadMode 4; # Turn off controls keys
 
 my @input_history;
 
-sub print_keyboard_row {
+sub keyboard_row {
     my ($left_padding, $key_names, $keyboard_ref) = @_;
     my @key_name_array = split q{}, $key_names;
 
     my $draw_frame = !$keyboard_ref;
     $keyboard_ref //= {};
+    my @pieces;
 
     if ($draw_frame) {
-        print $left_padding;
+        push @pieces, $left_padding;
         my $separator = q{};
         for my $key_name (@key_name_array) {
             if ($key_name eq q{ }) {
-                print q{  };
+                push @pieces, q{  };
                 next;
             }
-            printf '%s┌%s ┐', $separator, $key_name;
+            push @pieces, sprintf('%s┌%s ┐', $separator, $key_name);
             $separator = q{ };
         }
-        erase_to_eol;
+        push @pieces, $erase_to_eol;
     }
-    print "\n";
-    print $left_padding;
+    push @pieces, "\n";
+    push @pieces, $left_padding;
     for my $key_name (@key_name_array) {
         if ($key_name eq q{ }) {
-            print q{  };
+            push @pieces, q{  };
             next;
         }
         my $key_value = $keyboard_ref->{$key_name} || q{  };
@@ -445,24 +441,27 @@ sub print_keyboard_row {
         if (char_width($shift_value) > 2) {
             $shift_value = q{..};
         }
-        printf '│%s%s', $key_value, $shift_value;
+        push @pieces, sprintf('│%s%s', $key_value, $shift_value);
     }
-    erase_to_eol;
-    print "\n";
+    push @pieces, $erase_to_eol;
+    push @pieces, "\n";
     if ($draw_frame) {
-        print $left_padding;
+        push @pieces, $left_padding;
         my $separator = q{};
         for my $key_name (@key_name_array) {
             if ($key_name eq q{ }) {
-                print q{  };
+                push @pieces, q{  };
                 next;
             }
             my $index_finger_key = $key_name eq 'f' || $key_name eq 'j';
-            printf '%s└%s┘', $separator, ($index_finger_key ? '==' : '──');
+            push @pieces,
+                    sprintf('%s└%s┘', $separator,
+                            ($index_finger_key ? '==' : '──'));
             $separator = q{ };
         }
-        erase_to_eol;
+        push @pieces, $erase_to_eol;
     }
+    return join '', @pieces;
 }
 
 # The argument is a hash from keys (e.g. 'f') to something to draw inside the
@@ -475,11 +474,11 @@ sub print_keyboard {
     my ($width, $height) = GetTerminalSize;
     printf "\e[%d;0H", ($height - 8);
 
-    print_keyboard_row q{}, 'qwert yuiop', $keyboard_ref;
+    print keyboard_row(q{}, 'qwert yuiop', $keyboard_ref);
     print "\n";
-    print_keyboard_row q{  }, 'asdfg hjkl;', $keyboard_ref;
+    print keyboard_row(q{  }, 'asdfg hjkl;', $keyboard_ref);
     print "\n";
-    print_keyboard_row q{    }, 'zxcvb nm,./', $keyboard_ref;
+    print keyboard_row(q{    }, 'zxcvb nm,./', $keyboard_ref);
 }
 
 my $last_term_size = q{};
@@ -488,7 +487,7 @@ sub maybe_refresh_screen {
     return if $term_size eq $last_term_size;
     $last_term_size = $term_size;
 
-    clear_screen;
+    print $clear_screen;
 
     printf "\e[0;0H";
     for my $past_input (@input_history) {
@@ -526,7 +525,7 @@ while (1) {
         print "<@uncommitted>";
     }
 
-    erase_to_eol;
+    print $erase_to_eol;
 
     my $key = read_key_chord;
     if ($key eq "\eh") {
@@ -609,7 +608,7 @@ BUSHU_CHART
             read_codes;
 
             # 乱れている場合があるので、キーボードを最描画する
-            clear_screen;
+            print $clear_screen;
             print_keyboard;
         } else {
             my $completed_text = join q{}, @entered_text;
