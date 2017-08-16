@@ -653,15 +653,18 @@ BUSHU_CHART
         }
     }
 
-    my %keyboard = ();
-    for my $key (@kanji_keys, map {ReadCodes::shift_last_char $_} @kanji_keys) {
-        my $suggested_code = join q{}, @uncommitted, $key;
-        if ($code_map->lookup($suggested_code)) {
-            $keyboard{$key} = guide_ji $suggested_code;
+    if (@uncommitted) {
+        my %keyboard = ();
+        for my $key (@kanji_keys,
+                     map {ReadCodes::shift_last_char $_} @kanji_keys) {
+            my $suggested_code = join q{}, @uncommitted, $key;
+            if ($code_map->lookup($suggested_code)) {
+                $keyboard{$key} = guide_ji $suggested_code;
+            }
         }
-    }
-    if (%keyboard) {
-        print_keyboard \%keyboard;
+        if (%keyboard) {
+            print_keyboard \%keyboard;
+        }
     }
 }
 
