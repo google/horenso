@@ -126,8 +126,7 @@ English is [here](https://github.com/google/horenso/wiki/Horenso-quick-intro)
     h   弋 弓 彐 彡 彳  【四画】心
     8   戈 戶 手
     j   支 攴 文 斗 斤 方 无 日 曰 月
-    k   木
-    l   欠 止 歹 殳 毋 比 毛 氏 气
+    k   木 欠 止 歹 殳 毋 比 毛 氏 气
     m   水
     n   火 爪 父 爻 爿 片 牙 牛 犬【五画】玄
     9   玉 瓜 瓦 甘 生 用 田 疋 疒
