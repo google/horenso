@@ -120,8 +120,7 @@ English is [here](https://github.com/google/horenso/wiki/Horenso-quick-intro)
     b   人
     c   儿 入 八 冂 冖 冫 几 凵 刀 力 勹 匕 匚 匸 十 卜
     d   卩 厂 厶 又  【三画】口 ツ
-    3   囗 土 士 夂 夊 夕 大
-    f   女 子 宀 寸 小 尢
+    f   囗 土 士 夂 夊 夕 大 女 子 宀 寸 小 尢
     g   尸 屮 山 巛 工 己 巾 干 幺 广 廴 廾
     h   弋 弓 彐 彡 彳  【四画】心
     8   戈 戶 手
