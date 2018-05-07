@@ -116,8 +116,7 @@ English is [here](https://github.com/google/horenso/wiki/Horenso-quick-intro)
 
     鍵  部首
     ---------------------------------------------------
-    6   一 丨 丶 丿 乙 亅  【二画】二 亠
-    b   人
+    b   一 丨 丶 丿 乙 亅  【二画】二 亠 人
     c   儿 入 八 冂 冖 冫 几 凵 刀 力 勹 匕 匚 匸 十 卜
     d   卩 厂 厶 又  【三画】口 ツ
     f   囗 土 士 夂 夊 夕 大 女 子 宀 寸 小 尢
@@ -201,7 +200,7 @@ English is [here](https://github.com/google/horenso/wiki/Horenso-quick-intro)
     ナ　NA
     漢　mf,     部首：氵《ｍ》読み：カン《ｆ》
     字　fme     部首：子《ｆ》読み：ジ《ｍ》
-    変　3z;     部首：夂《ｅ》読み：ヘン《ｙ》
+    変　fzf     部首：夂《f》読み：ヘン《ｙ》
     換　8fu     部首：扌《ｉ》読み：カン《ｆ》
     を　wo
     行　vkv     部首：行《ｖ》読み：コウ《ｋ》
