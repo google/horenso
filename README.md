@@ -122,8 +122,7 @@ English is [here](https://github.com/google/horenso/wiki/Horenso-quick-intro)
     f   囗 土 士 夂 夊 夕 大 女 子 宀 寸 小 尢
     g   尸 屮 山 巛 工 己 巾 干 幺 广 廴 廾
     h   弋 弓 彐 彡 彳  【四画】心
-    8   戈 戶 手
-    j   支 攴 文 斗 斤 方 无 日 曰 月
+    j   戈 戶 手 支 攴 文 斗 斤 方 无 日 曰 月
     k   木 欠 止 歹 殳 毋 比 毛 氏 气
     m   水
     n   火 爪 父 爻 爿 片 牙 牛 犬【五画】玄
@@ -200,7 +199,7 @@ English is [here](https://github.com/google/horenso/wiki/Horenso-quick-intro)
     漢　mf,     部首：氵《ｍ》読み：カン《ｆ》
     字　fme     部首：子《ｆ》読み：ジ《ｍ》
     変　fzf     部首：夂《f》読み：ヘン《ｙ》
-    換　8fu     部首：扌《ｉ》読み：カン《ｆ》
+    換　jfo     部首：扌《ｊ》読み：カン《ｆ》
     を　wo
     行　vkv     部首：行《ｖ》読み：コウ《ｋ》
     わ　wa
