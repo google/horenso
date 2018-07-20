@@ -63,7 +63,7 @@ for my $level (reverse sort keys %unassigned_by_priority) {
     my $dim = 2;
     my $array = $unassigned_by_priority{$level};
     my $u = @$array;
-    my $a = keys($ji_set_by_priority{$level}) - $u;
+    my $a = keys($ji_set_by_priority{$level}->%*) - $u;
     printf "pri %d - %d assigned (%.2f%%), %d unassigned, %d total:\n",
     $level, $a, $a / ($a + $u) * 100, $u, $a + $u;
 
