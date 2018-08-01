@@ -323,7 +323,7 @@ sub read_codes {
             my (@ktj) = @{$notes_by_prefix{ktj} // []};
             die if @ktj > 1;
             for my $kantaiji (@ktj) {
-                write_priority($kantaiji, read_priority($value) - 1);
+                write_priority($kantaiji, read_priority($value));
                 die $kantaiji_key if $kantaiji_key eq $key;
                 $code_map->write_code($kantaiji_key, $kantaiji)
                     or die "$kantaiji_key";
