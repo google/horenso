@@ -126,8 +126,8 @@ English is [here](https://github.com/google/horenso/wiki/Horenso-quick-intro)
     k   木 欠 止 歹 殳 毋 比 毛 氏 气
     m   水
     n   火 爪 父 爻 爿 片 牙 牛 犬【五画】玄
-    9   玉 瓜 瓦 甘 生 用 田 疋 疒
-    p   癶 白 皮 皿 目 矛 矢 石
+    p   玉 瓜 瓦 甘 生 用 田 疋 疒
+        癶 白 皮 皿 目 矛 矢 石
     r   示 禸 禾 穴 立 竹  【六画】米
     s   糸 缶 网 羊 羽 老 而 耒 耳 聿
     t   肉 臣 自 至 臼 舌 舛 舟 艮 色 艸
