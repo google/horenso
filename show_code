@@ -1,0 +1,34 @@
+#!/usr/bin/perl
+
+# 漢字を引数として渡すと、その入力コードが出力されます。
+# 漢字を複数指定してもｏｋです。
+
+use File::Spec::Functions;
+
+use strict;
+use utf8;
+use warnings;
+
+my @common = qw[semi comma period slash];
+push @common, split q[], 'bcdfghjkmnprstvwxyz';
+
+my $hrs_root = catfile $ENV{HOME}, qw[chkn code kanji];
+my $char_or_expr = join '|', @ARGV;
+my $char_regex = qr[^(...).*\t(?:ktj|sjt)?($char_or_expr)(?:\n|\t)];
+
+for my $bushu (@common) {
+    for my $yomi (@common, qw[q l]) {
+        my $file = catfile $hrs_root, $bushu, $yomi;
+        next if ! -e $file;
+        open my $fh, '<', $file
+            or die "Cannot open $file";
+        while (my $line = <$fh>) {
+            next if $line !~ $char_regex;
+            if (@ARGV > 1) {
+                print "$1\t$2\n";
+            } else {
+                print "$1\n";
+            }
+        }
+    }
+}
