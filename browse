@@ -1,0 +1,36 @@
+#!/usr/bin/perl
+
+use strict;
+use utf8;
+use warnings;
+
+use FindBin;
+use lib $FindBin::Bin;
+
+use CodeMap;
+use ReadCodes;
+
+my @lines;
+
+ReadCodes::process_lines {
+    my ($key, $value, %notes_by_prefix) = @_;
+    my $ord = ord $value;
+    if ($key =~ m/^_/) {
+        $key = q[];
+    } else {
+        $key = " $key";
+    }
+    push @lines, sprintf qq[%05x %s%s\n], $ord, $value, , $key;
+};
+
+my $out;
+
+if ($ENV{PAGER}) {
+    open $out, '|-', $ENV{PAGER}
+        or die "Cannot start pager $ENV{PAGER}: $!";
+} else {
+    $out = *STDOUT;
+}
+
+binmode $out, ':utf8';
+print $out join('', sort @lines);
