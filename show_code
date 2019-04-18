@@ -4,6 +4,7 @@
 # 漢字を複数指定してもｏｋです。
 
 use File::Spec::Functions;
+use FindBin;
 
 use strict;
 use utf8;
@@ -12,7 +13,7 @@ use warnings;
 my @common = qw[semi comma period slash];
 push @common, split q[], 'bcdfghjkmnprstvwxyz';
 
-my $hrs_root = catfile $ENV{HOME}, qw[chkn code kanji];
+my $hrs_root = catfile $FindBin::Bin, qw[code kanji];
 my $char_or_expr = join '|', @ARGV;
 my $char_regex = qr[^(...).*\t(?:ktj|sjt)?($char_or_expr)(?:\n|\t)];
 
